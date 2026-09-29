@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://uk.jdvision.org/sitemap.xml
+Sitemap: https://uk.jdvision.org/image-sitemap.xml
