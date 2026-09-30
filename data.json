@@ -1988,5 +1988,387 @@
       "motion": null,
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license"
-    }]
+    },
+    {
+      "entry_id": "UK-01-111",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Marble Hill House",
+      "place": "Twickenham",
+      "caption": "Marble Hill House, London",
+      "scenario_label": "30 September 2026 · 21:21 Europe/London",
+      "composition": "Partly cloudy night · the lawn looking north at the portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Marble Hill House in Twickenham at night, a white Palladian villa under a cloudy sky",
+      "description": "From the lawn the view looks north at Marble Hill House, the compact white Palladian villa, its rusticated base and four-column Ionic portico under a pediment. It is a dry partly cloudy night, about 18.3°C, and the sun has set. The villa is the only subject.",
+      "viewpoint": "Public viewpoint on the south lawn of Marble Hill Park, looking north at the river front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/marble-hill/",
+        "https://en.wikipedia.org/wiki/Marble_Hill_House"
+      ],
+      "anchors": [
+        "A compact rectangular white villa, not a crescent of wings",
+        "A central Ionic portico of four columns sits under a pediment",
+        "The roof is hipped and there is no dome"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 21:21 Europe/London. Calculated solar azimuth is west-northwest, about 299°, and elevation is about -24.9°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-111-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-111-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-111-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-112",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Orleans House Gallery",
+      "place": "Twickenham",
+      "caption": "Orleans House Gallery, London",
+      "scenario_label": "30 September 2026 · 21:21 Europe/London",
+      "composition": "Partly cloudy night · the lawn looking north at the octagon · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Octagon at Orleans House Gallery in Twickenham at night",
+      "description": "From the lawn the view looks north at the Octagon of Orleans House Gallery, James Gibbs's brick pavilion, with tall round-arched windows, stone rustication, and a plain parapet. It is a dry partly cloudy night, about 18.4°C, and the sun has set. The octagon is the only subject.",
+      "viewpoint": "Public viewpoint on the lawn south of the Octagon at Orleans House Gallery, looking north at the pavilion. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.orleanshousegallery.org/",
+        "https://en.wikipedia.org/wiki/Orleans_House"
+      ],
+      "anchors": [
+        "An octagonal brick pavilion with tall round-arched windows",
+        "Stone rustication blocks and keystones break the arches",
+        "The lost main house is not rebuilt in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 21:21 Europe/London. Calculated solar azimuth is west-northwest, about 299°, and elevation is about -24.9°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-112-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-112-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-112-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-113",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Strawberry Hill House",
+      "place": "Twickenham",
+      "caption": "Strawberry Hill House, London",
+      "scenario_label": "30 September 2026 · 21:21 Europe/London",
+      "composition": "Partly cloudy night · the garden looking east at the Gothic facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the white Gothic Revival facade of Strawberry Hill House in Twickenham at night",
+      "description": "From the garden the view looks east at Strawberry Hill House, the white Gothic Revival villa, battlemented, with pointed windows and a round tower. It is a dry partly cloudy night, about 18.5°C, and the sun has set. The house is the only subject, and it is not a church.",
+      "viewpoint": "Public viewpoint in the garden west of Strawberry Hill House, looking east at the Gothic Revival facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.strawberryhillhouse.org.uk/",
+        "https://en.wikipedia.org/wiki/Strawberry_Hill_House"
+      ],
+      "anchors": [
+        "A white Gothic Revival villa with battlements and pointed windows",
+        "A round tower belongs to the same house",
+        "The subject is a house, not a church and not a cathedral"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 21:21 Europe/London. Calculated solar azimuth is west-northwest, about 299°, and elevation is about -24.9°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-113-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-113-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-113-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-114",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Richmond Palace Gatehouse",
+      "place": "Richmond",
+      "caption": "Richmond Palace Gatehouse, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Partly cloudy night · Richmond Green looking west at the gatehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tudor gatehouse of Richmond Palace on Richmond Green at night",
+      "description": "From Richmond Green the view looks west at the surviving Tudor gatehouse of Richmond Palace, red brick, with a central arch and two octagonal turrets. It is a dry partly cloudy night, about 18.6°C, and the sun has set. The gatehouse is the only subject.",
+      "viewpoint": "Public viewpoint on Richmond Green, looking west at the surviving Tudor gatehouse of Richmond Palace. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.visitrichmond.co.uk/outdoor-activities/richmond-green-p1387661",
+        "https://en.wikipedia.org/wiki/Richmond_Palace"
+      ],
+      "anchors": [
+        "A red-brick Tudor gatehouse with a central carriage arch",
+        "Two octagonal turrets flank the arch",
+        "The gatehouse stands on Richmond Green and is not Morton's Tower at Lambeth Palace"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 299°, and elevation is about -25.0°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-114-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-114-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-114-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-115",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "National Maritime Museum",
+      "place": "Greenwich",
+      "caption": "National Maritime Museum, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Mainly clear night · Romney Road looking south at the colonnade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the National Maritime Museum colonnade in Greenwich at night",
+      "description": "From Romney Road the view looks south at the National Maritime Museum, the long pale stone front and its columned portico under a pediment. It is a dry, mainly clear night, about 19.6°C, and the sun has set. The Queen's House and the Cutty Sark are not in this frame.",
+      "viewpoint": "Public viewpoint on Romney Road, looking south at the National Maritime Museum colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.rmg.co.uk/national-maritime-museum",
+        "https://en.wikipedia.org/wiki/National_Maritime_Museum"
+      ],
+      "anchors": [
+        "A long pale stone museum front with a central columned portico and pediment",
+        "The white cubic Queen's House is not in the frame",
+        "The Cutty Sark is not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-115-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-115-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-115-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-116",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Horniman Museum",
+      "place": "Forest Hill",
+      "caption": "Horniman Museum, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Partly cloudy night · London Road looking north at the clock tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Horniman Museum clock tower in Forest Hill at night",
+      "description": "From London Road the view looks north at the Horniman Museum, the pale stone clock tower with its rounded carved crown and the curved gable beside it. It is a dry partly cloudy night, about 18.4°C, and the sun has set. The tower is the only subject.",
+      "viewpoint": "Public viewpoint on London Road, looking north at the Horniman Museum clock tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.horniman.ac.uk/",
+        "https://en.wikipedia.org/wiki/Horniman_Museum"
+      ],
+      "anchors": [
+        "A pale stone clock tower, square at the base and rounded with carved foliage at the crown",
+        "A curved segmental gable sits beside the tower",
+        "There is no classical pediment and no columned temple portico"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-116-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-116-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-116-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-117",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Dulwich Picture Gallery",
+      "place": "Dulwich",
+      "caption": "Dulwich Picture Gallery, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Partly cloudy night · the lawn looking south at the lantern · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Dulwich Picture Gallery at night, Soane's stone lantern above the brick wings",
+      "description": "From the lawn the view looks south at Dulwich Picture Gallery, the low brick wings and Soane's stone lantern on the central mausoleum. It is a dry partly cloudy night, about 18.5°C, and the sun has set. This is not the townhouse museum in Lincoln's Inn Fields.",
+      "viewpoint": "Public viewpoint on the gallery lawn, looking south at Soane's lantern and the brick wings. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.dulwichpicturegallery.org.uk/",
+        "https://en.wikipedia.org/wiki/Dulwich_Picture_Gallery"
+      ],
+      "anchors": [
+        "Low brick gallery wings flank a central stone block",
+        "A square stone lantern sits on the mausoleum",
+        "This is not Sir John Soane's Museum in Lincoln's Inn Fields"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-117-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-117-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-117-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-118",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Crystal Palace Dinosaurs",
+      "place": "Bromley",
+      "caption": "Crystal Palace Dinosaurs, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Partly cloudy night · the lake edge looking southeast at the sculptures · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Victorian dinosaur sculptures in Crystal Palace Park at night",
+      "description": "From the lake edge the view looks southeast at the Crystal Palace dinosaurs, the Victorian concrete Iguanodon sculptures grouped on the island. It is a dry partly cloudy night, about 18.3°C, and the sun has set. The sculptures are the only subject.",
+      "viewpoint": "Public viewpoint at the lake edge in Crystal Palace Park, looking southeast at the dinosaur island. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.crystalpalaceparktrust.org/heritage/the-dinosaurs",
+        "https://en.wikipedia.org/wiki/Crystal_Palace_Dinosaurs"
+      ],
+      "anchors": [
+        "Victorian concrete dinosaur sculptures, the Iguanodon group, read as one subject",
+        "The sculptures stand by the lake on the island bank",
+        "The lost glass Crystal Palace is not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-118-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-118-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-118-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-119",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Thames Barrier",
+      "place": "Woolwich",
+      "caption": "Thames Barrier, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Clear night · the riverside looking south at the pier hoods · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Thames Barrier at night, a row of curved steel pier hoods under a clear sky",
+      "description": "From the riverside the view looks south at the Thames Barrier, a line of curved stainless-steel pier hoods standing in the river. It is a dry clear night, about 19.7°C, and the sun has set. The hoods are the only subject.",
+      "viewpoint": "Public viewpoint on the riverside, looking south at the Thames Barrier pier hoods. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.gov.uk/guidance/the-thames-barrier",
+        "https://en.wikipedia.org/wiki/Thames_Barrier"
+      ],
+      "anchors": [
+        "A row of curved stainless-steel pier hoods",
+        "The hoods stand in the river",
+        "This is not a tower bridge"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:39 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-119-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-119-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-119-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-120",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Arsenal Gatehouse",
+      "place": "Woolwich",
+      "caption": "Royal Arsenal Gatehouse, London",
+      "scenario_label": "30 September 2026 · 21:22 Europe/London",
+      "composition": "Clear night · Beresford Square looking south at the gatehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Arsenal brick gatehouse in Woolwich at night",
+      "description": "From Beresford Square the view looks south at the Royal Arsenal gatehouse, the yellow-brick triumphal arch with a large central opening and a pediment. It is a dry clear night, about 19.6°C, and the sun has set. The gatehouse is the only subject.",
+      "viewpoint": "Public viewpoint on Beresford Square, looking south at the Royal Arsenal brick gatehouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalgreenwich.gov.uk/info/200064/local_history_and_heritage/31/royal_arsenal",
+        "https://en.wikipedia.org/wiki/Royal_Arsenal"
+      ],
+      "anchors": [
+        "A yellow-brick triumphal gatehouse",
+        "A large central arch, smaller side arches, and a pediment",
+        "This is the Royal Arsenal entrance, not a station roof"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:39 Europe/London. The scenario is 21:22 Europe/London. Calculated solar azimuth is west-northwest, about 300°, and elevation is about -25.2°. The sun has set. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-120-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-120-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-120-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    }
+  ]
 }

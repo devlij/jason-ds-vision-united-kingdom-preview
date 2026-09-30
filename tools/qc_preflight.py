@@ -22,10 +22,18 @@ ART50_DESCRIPTION = (
     "AI-generated artistic interpretation from the Jason D's Vision United Kingdom gallery. "
     "Created with generative AI; not a photograph."
 )
-# UK-01-001..010 were Approved by Cosmo QC. UK-01-051..060 stay Candidate.
-# UK-01-011..050 are not on this branch.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 61)]
-COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
+# Cosmo signed UK-01-001–010, then later main merges signed UK-01-011–048 and
+# UK-01-050–060. UK-01-049 stays Candidate. UK-01-061–110 are other branches.
+# This batch adds UK-01-111–120 as Candidate and must not sign them.
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 61)] + [
+    f"UK-01-{n:03d}" for n in range(111, 121)
+]
+COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 49)} | {
+    f"UK-01-{n:03d}" for n in range(50, 61)
+}
+# The image sitemap on main lists the first ten only. Do not require later
+# signed scenes to appear, and do not list Candidates.
+SITEMAP_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -254,7 +262,7 @@ def main() -> None:
     if "9x16" in image_sitemap:
         errors.append("image sitemap lists a 9:16 master")
     for entry_id in EXPECTED_IDS:
-        if entry_id in COSMO_APPROVED_IDS:
+        if entry_id in SITEMAP_IDS:
             stem = entry_id.lower()
             for fmt in ("16x9", "4x5"):
                 loc = (
