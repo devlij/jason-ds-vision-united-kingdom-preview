@@ -442,6 +442,390 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-061",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Queen's House",
+      "place": "Greenwich",
+      "caption": "Queen's House, London",
+      "scenario_label": "30 September 2026 · 17:46 Europe/London",
+      "composition": "Overcast afternoon · the south lawn looking north at the white villa · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Queen's House south front in Greenwich under a grey overcast afternoon sky",
+      "description": "From the south lawn in Greenwich Park the view looks north at the Queen's House, Inigo Jones's white villa. The ground floor is rusticated stone without columns, and the Ionic loggia sits only on the upper floor, under a balustrade and a low hipped roof. It is a dry overcast afternoon, about 22.2°C, and the sun is not in the sky. The Naval College domes are not in this frame.",
+      "viewpoint": "Public viewpoint on the south lawn of Greenwich Park, looking north at the south front of the Queen's House. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.rmg.co.uk/queens-house",
+        "https://en.wikipedia.org/wiki/Queen%27s_House"
+      ],
+      "anchors": [
+        "The south front is a symmetrical white villa, wider than it is tall, facing Greenwich Park",
+        "The ground floor is rusticated and has no columns; the Ionic loggia is only on the upper floor",
+        "A balustrade and a low hipped roof finish the silhouette; the Old Royal Naval College domes are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 17:46 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-061-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-061-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-061-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-062",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Westminster Cathedral",
+      "place": "Westminster",
+      "caption": "Westminster Cathedral, London",
+      "scenario_label": "30 September 2026 · 17:51 Europe/London",
+      "composition": "Overcast afternoon · the piazza looking at the striped campanile and west front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Westminster Cathedral and its striped campanile under a grey overcast afternoon sky",
+      "description": "From the piazza the view looks toward Westminster Cathedral, the neo-Byzantine church of banded red brick and pale stone, with its square striped campanile beside the west front. This is not the Gothic abbey. The afternoon is overcast and dry, about 22.2°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the cathedral piazza, looking toward the west front and the campanile of Westminster Cathedral. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.westminstercathedral.org.uk/",
+        "https://en.wikipedia.org/wiki/Westminster_Cathedral"
+      ],
+      "anchors": [
+        "Westminster Cathedral is a neo-Byzantine building of red brick banded with pale stone",
+        "A tall square campanile, striped in the same bands, stands beside the west front and ends in a pyramidal cap",
+        "The Gothic Westminster Abbey is a different church and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:51 Europe/London. Calculated solar azimuth is west-southwest, about 257°, and elevation is about 7.0°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-062-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-062-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-062-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-063",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Martin-in-the-Fields",
+      "place": "Westminster",
+      "caption": "St Martin-in-the-Fields, London",
+      "scenario_label": "30 September 2026 · 17:46 Europe/London",
+      "composition": "Overcast afternoon · the west pavement looking at the portico and Gibbs steeple · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Martin-in-the-Fields, the portico and Gibbs steeple, under a grey overcast afternoon sky",
+      "description": "From the pavement immediately west of the church the frame is filled by St Martin-in-the-Fields: the Corinthian portico and the Gibbs steeple, with its clock stage, round colonnade, and tapering spire. Nelson's Column and the open square are not in the frame. It is a dry overcast afternoon, about 22.2°C, with no sun disk.",
+      "viewpoint": "Public viewpoint on the pavement immediately west of St Martin-in-the-Fields, looking at the portico and steeple. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.stmartin-in-the-fields.org/",
+        "https://en.wikipedia.org/wiki/St_Martin-in-the-Fields"
+      ],
+      "anchors": [
+        "St Martin-in-the-Fields has a Corinthian portico and a triangular pediment",
+        "The Gibbs steeple rises as a square clock tower, a round colonnaded stage, and a tapering spire",
+        "Nelson's Column and the Trafalgar Square fountains are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:46 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.8°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-063-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-063-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-063-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-064",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "National Gallery",
+      "place": "Westminster",
+      "caption": "National Gallery, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · the terrace looking at the Wilkins portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the National Gallery portico in London under a grey overcast afternoon sky",
+      "description": "From the terrace directly in front of the building the view is the National Gallery portico, a Corinthian front with a sculpted pediment and the dome and lantern rising behind it. The plaza, Nelson's Column, and the fountains are behind the camera. The afternoon is overcast and dry, about 22.2°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the terrace immediately in front of the National Gallery portico, looking at the facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationalgallery.org.uk/",
+        "https://en.wikipedia.org/wiki/National_Gallery"
+      ],
+      "anchors": [
+        "The Wilkins portico is a Corinthian front with a sculpted pediment",
+        "A dome and lantern rise immediately behind that portico",
+        "The open plaza, Nelson's Column, and the fountains are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-064-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-064-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-064-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-065",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Academy",
+      "place": "Westminster",
+      "caption": "Royal Academy, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · the Burlington House courtyard looking at the facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Academy courtyard facade at Burlington House under a grey overcast afternoon sky",
+      "description": "From inside the Burlington House courtyard the view looks at the Royal Academy's pale stone facade, a pedimented classical front with a standing bronze figure in the court. The facade is the subject. It is a dry overcast afternoon, about 22.1°C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint inside the Burlington House courtyard, looking at the Royal Academy facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalacademy.org.uk/",
+        "https://en.wikipedia.org/wiki/Burlington_House"
+      ],
+      "anchors": [
+        "The courtyard facade of Burlington House is a pale stone classical front with a pediment",
+        "A standing bronze figure occupies the courtyard and does not hide the facade",
+        "The Piccadilly screen and the circus are not the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-065-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-065-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-065-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-066",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Fortnum & Mason",
+      "place": "Westminster",
+      "caption": "Fortnum & Mason, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · Piccadilly looking at the clock turret · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Fortnum and Mason clock turret on Piccadilly under a grey overcast afternoon sky",
+      "description": "From across Piccadilly the view is the Fortnum & Mason corner: the pale blue-green facade and the projecting clock with two small figures above the dial. The circus lights are not in the frame. It is a dry overcast afternoon, about 22.2°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the south side of Piccadilly, looking at the Fortnum & Mason clock turret. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.fortnumandmason.com/",
+        "https://en.wikipedia.org/wiki/Fortnum_%26_Mason"
+      ],
+      "anchors": [
+        "The Piccadilly front is a pale blue-green facade with a corner turret",
+        "A projecting clock carries two small figures above the dial",
+        "Piccadilly Circus and the Eros statue are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-066-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-066-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-066-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-067",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Savoy",
+      "place": "Westminster",
+      "caption": "The Savoy, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · the Strand looking into the entrance court · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Savoy hotel entrance court on the Strand under a grey overcast afternoon sky",
+      "description": "From the Strand the view looks into the Savoy's entrance court: the steel-and-glass canopy, the revolving doors, and the clipped bay trees. The river front is not the subject, so the Thames and Cleopatra's Needle stay out of frame. The afternoon is overcast and dry, about 22.1°C, with no sun disk.",
+      "viewpoint": "Public viewpoint on the Strand, looking into The Savoy entrance court. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.thesavoylondon.com/",
+        "https://en.wikipedia.org/wiki/Savoy_Hotel"
+      ],
+      "anchors": [
+        "The Strand entrance court has a steel-and-glass canopy over the driveway",
+        "Revolving doors sit in a pale stone front, with clipped bay trees in planters",
+        "The Thames river facade and Cleopatra's Needle are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-067-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-067-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-067-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-068",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Oxo Tower",
+      "place": "Southwark",
+      "caption": "Oxo Tower, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · the riverside walk looking at the brick tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Oxo Tower on the South Bank under a grey overcast afternoon sky",
+      "description": "From the riverside walk the Oxo Tower is the only subject, a red-brick art-deco warehouse tower with the stacked window letters O, X, and O near the top. The Shard and Tate Modern are not in the frame. It is a dry overcast afternoon, about 22.4°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the riverside walk north of the Oxo Tower, looking at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.oxotower.co.uk/",
+        "https://en.wikipedia.org/wiki/Oxo_Tower"
+      ],
+      "anchors": [
+        "The Oxo Tower is a red-brick art-deco warehouse tower on the South Bank",
+        "Near the top, the glazing forms the stacked letters O, X, and O",
+        "Tate Modern and the Shard are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-068-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-068-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-068-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-069",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Alexandra Palace",
+      "place": "Haringey",
+      "caption": "Alexandra Palace, London",
+      "scenario_label": "30 September 2026 · 17:47 Europe/London",
+      "composition": "Overcast afternoon · the park slope looking up at the south front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Alexandra Palace and its transmitting mast under a grey overcast afternoon sky",
+      "description": "From the slope in Alexandra Park the view looks up at Alexandra Palace, the long Victorian south front with its rose window, corner towers, and the lattice mast on the roof. The palace fills the frame. The afternoon is overcast and dry, about 21.5°C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint on the south slope of Alexandra Park, looking north at the south front of Alexandra Palace. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.alexandrapalace.com/",
+        "https://en.wikipedia.org/wiki/Alexandra_Palace"
+      ],
+      "anchors": [
+        "Alexandra Palace's south front is a long Victorian brick-and-stone range",
+        "A large rose window marks the centre, with towers at the ends",
+        "A lattice transmitting mast rises from the roof and is part of this silhouette"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:47 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-069-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-069-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-069-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-070",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Freemasons' Hall",
+      "place": "Camden",
+      "caption": "Freemasons' Hall, London",
+      "scenario_label": "30 September 2026 · 17:48 Europe/London",
+      "composition": "Overcast afternoon · Great Queen Street looking at the art-deco tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Freemasons' Hall on Great Queen Street under a grey overcast afternoon sky",
+      "description": "From Great Queen Street the view looks at Freemasons' Hall, a Portland-stone art-deco tower with a square lantern crown and no clock face. The tower is the subject. It is a dry overcast afternoon, about 22.1°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on Great Queen Street, looking at the tower of Freemasons' Hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.ugle.org.uk/",
+        "https://en.wikipedia.org/wiki/Freemasons%27_Hall,_London"
+      ],
+      "anchors": [
+        "Freemasons' Hall is a Portland-stone art-deco corner tower on Great Queen Street",
+        "The crown is a square lantern, not a clock",
+        "Elizabeth Tower's Gothic clock silhouette is a different building and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:48 Europe/London. Calculated solar azimuth is west-southwest, about 256°, and elevation is about 7.6°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-070-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-070-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-070-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
