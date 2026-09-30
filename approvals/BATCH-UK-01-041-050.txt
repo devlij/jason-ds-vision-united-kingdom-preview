@@ -1,0 +1,138 @@
+United Kingdom London batch UK-01-041 through UK-01-050
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge until Cosmo signs off.
+UK-01-001 through UK-01-010 stay Approved. Their masters, weather, hashes, and statuses were not regenerated.
+UK-01-011 through UK-01-040 are not on this branch.
+
+Every new scene is genuine late-afternoon daylight on 30 September 2026, Europe/London.
+Sunrise at these pins is 06:59. The retrievals were not backdated.
+Scenario minutes are the retrieval minutes and sit inside each scene's own model-valid hour (16:00–16:59).
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+WMO code 2, cloud cover 53%, dry, model is_day 1.
+
+Subject notes:
+UK-01-041 Primary subject is the Strand range of the courtyard, one facade. The river terrace was not used.
+UK-01-042 Primary subject is the arch itself. The view through to Trafalgar Square was not used, so the frame stays distinct from UK-01-006.
+UK-01-043 Primary subject is the Strand facade. It is distinct from St Paul's Cathedral, UK-01-004.
+UK-01-044 Primary subject is the portico. The Bank of England screen is a separate scene, UK-01-045.
+UK-01-045 Primary subject is the Threadneedle Street screen, distinct from the Mansion House portico in UK-01-044.
+UK-01-046 Primary subject is the galleon. The frame is distinct from Shakespeare's Globe, UK-01-023, and from the Cutty Sark and HMS Belfast.
+UK-01-047 Primary subject is the house. It is distinct from Wellington Arch, UK-01-030.
+UK-01-048 Primary subject is the Great Marlborough Street timber facade.
+UK-01-049 Primary subject is the Oxford Street colonnade and the Queen of Time. The store name is not the subject of the frame.
+UK-01-050 Primary subject is the lakeside tower group, read as one skyline, not a split between the conservatory and the arts centre.
+
+No site was swapped. Each suggested London subject stayed, framed as one primary subject.
+
+Aerial: cloud cover is 53%, at or above the 30% gate, and the hour is daylight.
+BACKFILL for UK-01-041, UK-01-042, UK-01-043, UK-01-044, UK-01-045, UK-01-046, UK-01-047, UK-01-048, UK-01-049, and UK-01-050.
+No 15s 360° file is on disk. Still masters ship. Motion control stays off because no motion file is on disk.
+
+UK-01-041 Somerset House (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:37:49+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:37 Europe/London
+  cloud: 53% code 2 23.2C
+  SHA-256 16x9: 007bdc92adfc2875f31ffbeaf987d6d6f879dee63375d14fb5d8e11ad5441cbc
+  SHA-256 4x5: 2eb25d0557d32dc424352376694afcb0544a44aef08d94192bc30eeae7eec4b9
+  SHA-256 9x16: b103038da46bdde153d29182b00232e79d4bcf8d61460909112bfb2d93090184
+
+UK-01-042 Admiralty Arch (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:37:52+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:37 Europe/London
+  cloud: 53% code 2 23.2C
+  SHA-256 16x9: 49c9b4682290ec30654f99d768a5a7095582972ecd84cb12ff4e9cf12d5e4539
+  SHA-256 4x5: a86547e5f4cc110583d1aeae4ecb07d7ea08d6d9eb597eb8184157ce0ac0490e
+  SHA-256 9x16: 2d709960643bc6a8db396e295b58c5eaf6da021d01abb4ddb1e1eb3f68ea6cb3
+
+UK-01-043 Royal Courts of Justice (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:37:54+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:37 Europe/London
+  cloud: 53% code 2 23.2C
+  SHA-256 16x9: 3e7bda53bf785bf22928d3c1d8a7917a3db34b7759dc7e96fdd937f58e117159
+  SHA-256 4x5: 54088ceee4f5f83ebad4b43e551956932614d24703362cfffe3cfd0658579569
+  SHA-256 9x16: 43abd6ccbf1b73fc22c98281030dfdf88af76f8f42204c6dfec7ea05fd305487
+
+UK-01-044 Mansion House (City of London)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:37:57+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:37 Europe/London
+  cloud: 53% code 2 23.3C
+  SHA-256 16x9: 30752ae5cde70216a81124eae119647cc49f2cd10895a641402d174254817267
+  SHA-256 4x5: 4e3793e9a581c8a1f6ae41c8fe22fedab17a61beb262b5cbe7e4bf0712b8e381
+  SHA-256 9x16: a8d7ed9b4d1670c70b4ef023738e27d9902a46197cb1de153bbf786f6200373f
+
+UK-01-045 Bank of England (City of London)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:37:59+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:37 Europe/London
+  cloud: 53% code 2 23.2C
+  SHA-256 16x9: 3a0b6cf6ee2a640151cb8426ee86b0db05f14be1f654c0254061626a65cb44f6
+  SHA-256 4x5: f5e70e069f2638941163bdf2b15bf8394a5d4940b44092e02889ac22385b2f41
+  SHA-256 9x16: 499e9bc44346f8e989b799be464a761b45f60c1fff3da4b7a3753839bf5a79f4
+
+UK-01-046 Golden Hinde II (Southwark)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:38:02+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:38 Europe/London
+  cloud: 53% code 2 23.3C
+  SHA-256 16x9: a5071c99484917755d553a1f2b07fd02da9ce314f97fe6d16a679e4dc19d8468
+  SHA-256 4x5: cbb6155ac2c4279ed8eebd7749a1f5ce7ac08c67d6126ea1b3962fb5af70196c
+  SHA-256 9x16: b66154957b846b27305b9deaab4398b30f42bb05d4736ef3503e38b394ae256d
+
+UK-01-047 Apsley House (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:38:04+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:38 Europe/London
+  cloud: 53% code 2 23.0C
+  SHA-256 16x9: d2a7ca248a48cdb097521d9f2743229aa2e1150ad9fbe98714d228f9c210c940
+  SHA-256 4x5: c19d0f711241060f33f9ce2d7a8a8a542131bf8bfbadfc61eff75ebf1f127783
+  SHA-256 9x16: 7d82fbdec773dbfe969b94ce0b60c56b5b5a15e1016fcbcd413b3f5f08206e20
+
+UK-01-048 Liberty London (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:38:07+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:38 Europe/London
+  cloud: 53% code 2 23.1C
+  SHA-256 16x9: 17abbe4ff943166bce458418d33f6f67237ebe54cbf83420c86b3b779da08d7d
+  SHA-256 4x5: aedf1c88c50072696eb9a7483be5317321fdb6027aefdf69e8749e8644c551f7
+  SHA-256 9x16: 31dd3063438d8d4464889ed486c3b61c0d9d372460d82c54f70d4fd6bea0a270
+
+UK-01-049 Selfridges (Westminster)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:38:09+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:38 Europe/London
+  cloud: 53% code 2 22.9C
+  SHA-256 16x9: 1ef7400e16ef6333330f5d430af22836a2e3a552c98d9e5117470afd11026247
+  SHA-256 4x5: 834eca9b5dba363693de772f31cb10dcbda21ebcd3fe9c6930416c41c7c36ea5
+  SHA-256 9x16: 2660e8009dcb3f5c6a79635a96f22c796dc3f84053ce8f12b7481e7e7b711e62
+
+UK-01-050 Barbican Centre (City of London)
+  day/night: day
+  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
+  retrieval: 2026-09-30T16:38:12+01:00
+  model time: 2026-09-30T16:30
+  scenario: 30 September 2026 · 16:38 Europe/London
+  cloud: 53% code 2 23.2C
+  SHA-256 16x9: 4dec80227b3c2e0e8f7d98049b9a23aeab085d4a276ab2b75347e95f225eb51e
+  SHA-256 4x5: 526d71baaebd17df3c747e1fe7dae5f54f04142f0c9610c7b60b90449bfc25ac
+  SHA-256 9x16: 4793d9db38526becaded78e1c75ddd104288550427172a9c2be10df87e62f807

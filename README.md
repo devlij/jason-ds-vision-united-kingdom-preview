@@ -16,7 +16,9 @@ Phase-1 gallery shell, matching the Spain / Sweden / Ireland A7 page: GA4 `G-PDJ
 
 The word-of-the-day band is structure only. Its data is an empty array. This seed does not create `word-of-day/en.json` and does not invent English entries. Cosmo supplies the real `en.json` separately.
 
-The first batch is London only: Candidate scenes UK-01-001 through UK-01-010, under `assets/united-kingdom/London/`. Later stills for Scotland, Wales, and Northern Ireland use the same `assets/united-kingdom/<City>/uk-01-NNN-…` layout. Nothing in this batch is Approved. Cloud cover on this retrieval was 100%, so the daylight aerial clips are a backfill and no motion files are published.
+Cosmo QC approved London scenes UK-01-001 through UK-01-010 on 30 September 2026. Those masters, weather records, hashes, and Approved statuses stay as signed. The published files are the label-bar masters at `assets/pretext/united-kingdom/London/`, the canonical path Cosmo locked.
+
+This branch adds Candidate scenes UK-01-041 through UK-01-050 only. UK-01-011 through UK-01-040 are not in this branch. Nothing new is Approved, and Scotland, Wales, and Northern Ireland are not in this batch. The 30 September late-afternoon retrievals were partly cloudy, WMO code 2 and cloud cover 53%. A daylight aerial is a backfill and no motion file is published.
 
 9:16 masters can sit on disk later. The 9:16 tab and download stay hidden until `format_9x16_approval_status` is set to `Approved` by Jason. Narration controls appear only for Aria or Warm, model `avocado_v2:MAI_01`, status Approved, and an mp3 file. There is no day/night toggle on the card. A motion control is rendered only when a motion file exists. This seed ships no audio.
 

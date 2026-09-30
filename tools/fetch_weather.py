@@ -50,6 +50,18 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
+    # London later-afternoon batch, 30 September 2026. England only.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    ("UK-01-041", "Somerset House", "London", 51.51080, -0.11715, "Europe/London"),
+    ("UK-01-042", "Admiralty Arch", "London", 51.50635, -0.12940, "Europe/London"),
+    ("UK-01-043", "Royal Courts of Justice", "London", 51.51305, -0.11320, "Europe/London"),
+    ("UK-01-044", "Mansion House", "London", 51.51275, -0.08950, "Europe/London"),
+    ("UK-01-045", "Bank of England", "London", 51.51395, -0.08800, "Europe/London"),
+    ("UK-01-046", "Golden Hinde II", "London", 51.50675, -0.09035, "Europe/London"),
+    ("UK-01-047", "Apsley House", "London", 51.50310, -0.15110, "Europe/London"),
+    ("UK-01-048", "Liberty London", "London", 51.51340, -0.14010, "Europe/London"),
+    ("UK-01-049", "Selfridges", "London", 51.51420, -0.15260, "Europe/London"),
+    ("UK-01-050", "Barbican Centre", "London", 51.51960, -0.09350, "Europe/London"),
 ]
 
 
