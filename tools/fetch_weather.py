@@ -50,6 +50,20 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
+    # London evening batch, 30 September 2026. England only.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    # UK-01-085 is the chapel alone. UK-01-088 is the glasshouse range alone.
+    # UK-01-090 is the Figure Court south front alone.
+    ("UK-01-081", "Tate Britain", "London", 51.49080, -0.12670, "Europe/London"),
+    ("UK-01-082", "Imperial War Museum", "London", 51.49520, -0.10860, "Europe/London"),
+    ("UK-01-083", "Design Museum", "London", 51.49875, -0.20010, "Europe/London"),
+    ("UK-01-084", "Sir John Soane's Museum", "London", 51.51650, -0.11735, "Europe/London"),
+    ("UK-01-085", "Lincoln's Inn Chapel", "London", 51.51670, -0.11340, "Europe/London"),
+    ("UK-01-086", "Staple Inn", "London", 51.51780, -0.11125, "Europe/London"),
+    ("UK-01-087", "St Bartholomew-the-Great", "London", 51.51895, -0.09995, "Europe/London"),
+    ("UK-01-088", "Chelsea Physic Garden", "London", 51.48440, -0.16240, "Europe/London"),
+    ("UK-01-089", "Brompton Oratory", "London", 51.49650, -0.16960, "Europe/London"),
+    ("UK-01-090", "Royal Hospital Chelsea", "London", 51.48640, -0.15650, "Europe/London"),
 ]
 
 
