@@ -442,6 +442,389 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-071",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St James's Palace",
+      "place": "Westminster",
+      "caption": "St James's Palace, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · St James's Street looking east at the Tudor gatehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tudor gatehouse of St James's Palace on St James's Street under a grey overcast sky",
+      "description": "From the pavement on St James's Street the view looks east at the Tudor gatehouse of St James's Palace: red brick, two octagonal turrets, a central arch, and a clock. That gatehouse is the only subject, and Buckingham Palace is not in the frame. It is a dry overcast late afternoon, about 21.7°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the pavement of St James's Street, looking east at the Tudor gatehouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royal.uk/royal-residences-st-jamess-palace",
+        "https://en.wikipedia.org/wiki/St_James%27s_Palace"
+      ],
+      "anchors": [
+        "The subject is the Henrician gatehouse on St James's Street, red brick with stone dressings",
+        "Two octagonal turrets flank one central carriage arch, with a clock centered above the arch",
+        "Buckingham Palace and the Friary Court range are different fronts and are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-071-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-071-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-071-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-072",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Ritz London",
+      "place": "Westminster",
+      "caption": "The Ritz, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · Piccadilly looking north at the limestone facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Ritz facade on Piccadilly under a grey overcast sky",
+      "description": "From the south side of Piccadilly the view looks north at The Ritz, a pale limestone facade with a ground-floor arcade, iron balconies, and a dark mansard of dormers. The corner pavilion is in the frame so the hotel reads as one building, and there is no readable name on the stone. It is a dry overcast late afternoon, about 21.6°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the south side of Piccadilly, looking north at the facade of The Ritz. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.theritzlondon.com/",
+        "https://en.wikipedia.org/wiki/The_Ritz_London"
+      ],
+      "anchors": [
+        "The Piccadilly facade is pale limestone in a French Renaissance arrangement",
+        "A ground-floor arcade of round arches sits under iron balconies and a steep mansard with dormers",
+        "The corner pavilion is part of the same hotel. Piccadilly Circus and Fortnum & Mason are not the subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-072-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-072-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-072-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-073",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "British Library",
+      "place": "Camden",
+      "caption": "British Library, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · the piazza looking at the red-brick library · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the British Library red-brick piazza front under a grey overcast sky",
+      "description": "From the piazza the view looks at the British Library, a long red-brick building with a tall glass entrance. The bronze seated Newton is on the paving and stays smaller than the building. St Pancras is not in the frame. It is a dry overcast late afternoon, about 21.6°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the British Library piazza, looking at the red-brick front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.bl.uk/",
+        "https://en.wikipedia.org/wiki/British_Library"
+      ],
+      "anchors": [
+        "The British Library's King's Cross front is a broad red-brick wall with a tall glass entrance",
+        "The piazza is open pale paving, with the seated bronze Newton smaller than the building",
+        "The Gothic clock tower of St Pancras is a different building and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-073-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-073-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-073-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-074",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "King's Cross Station",
+      "place": "Camden",
+      "caption": "King's Cross Station, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · the western concourse diagrid and hanging clock · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the King's Cross western concourse diagrid roof and hanging clock under grey light",
+      "description": "Inside the western concourse the white steel diagrid roof curves overhead, and a four-face clock hangs under it. The lattice and the clock are the subject. St Pancras and its Gothic hotel tower are not in the frame. It is a dry overcast late afternoon, about 21.6°C, and the light through the glass is flat.",
+      "viewpoint": "Public viewpoint in the western concourse of King's Cross Station, looking at the diagrid roof and the hanging clock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.kingscross.co.uk/",
+        "https://en.wikipedia.org/wiki/London_King%27s_Cross_railway_station"
+      ],
+      "anchors": [
+        "The western concourse roof is a semi-circular white steel diagrid, not the Gothic hotel next door",
+        "A four-face clock hangs under that roof",
+        "St Pancras station and its red-brick clock tower are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-074-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-074-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-074-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-075",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "BT Tower",
+      "place": "Camden",
+      "caption": "BT Tower, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · a Fitzrovia street looking up at the tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the BT Tower rising over Fitzrovia under a grey overcast sky",
+      "description": "From a Fitzrovia street the view looks up at the BT Tower, a concrete cylinder with a wider circular pod and a thin mast. Brick mansion blocks sit at the base, and no other tower competes. It is a dry overcast late afternoon, about 21.5°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on a Fitzrovia street south-west of the BT Tower, looking up at the shaft. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/BT_Tower",
+        "https://www.bt.com/about"
+      ],
+      "anchors": [
+        "The BT Tower is a slender concrete cylinder with a wider circular pod near the top",
+        "A thin antenna mast continues above the pod",
+        "The street base is Fitzrovia mansion blocks. The Shard and other City towers are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-075-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-075-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-075-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-076",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "20 Fenchurch Street",
+      "place": "City of London",
+      "caption": "20 Fenchurch Street, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · from the south, the top-heavy curved facade alone · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of 20 Fenchurch Street, the top-heavy Walkie-Talkie tower, under a grey overcast sky",
+      "description": "From the south the view looks at 20 Fenchurch Street alone, a glass tower that is wider at the top than at the base, with a bulging south face and a curved crown. The Shard and the rest of the skyline are not in the frame. It is a dry overcast late afternoon, about 21.9°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint south of 20 Fenchurch Street, looking north at the curved facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.skygarden.london/",
+        "https://en.wikipedia.org/wiki/20_Fenchurch_Street"
+      ],
+      "anchors": [
+        "20 Fenchurch Street is wider at the top than at the street",
+        "The south face bulges in a concave curve and ends in a sky-garden crown",
+        "The Shard is a different tower and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-076-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-076-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-076-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-077",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Leadenhall Building",
+      "place": "City of London",
+      "caption": "The Leadenhall Building, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Overcast late afternoon · from the south, the wedge of the Cheesegrater · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Leadenhall Building wedge under a grey overcast sky",
+      "description": "From the south the view looks up at the Leadenhall Building, a glass wedge with a sloping face and a steel diagonal grid. Leadenhall Market's arcade is not in the frame. It is a dry overcast late afternoon, about 21.8°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint south of the Leadenhall Building, looking up at the sloping face. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.theleadenhallbuilding.com/",
+        "https://en.wikipedia.org/wiki/122_Leadenhall_Street"
+      ],
+      "anchors": [
+        "The Leadenhall Building is a wedge: a tall back edge and a face that slopes down toward the south",
+        "A steel diagonal grid is visible across the glass",
+        "Leadenhall Market's Victorian arcade is a different place and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-077-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-077-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-077-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-078",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Smithfield Market",
+      "place": "City of London",
+      "caption": "Smithfield Market, London",
+      "scenario_label": "30 September 2026 · 18:17 Europe/London",
+      "composition": "Clear late afternoon · West Smithfield looking north into the Grand Avenue · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Smithfield Market's iron-and-glass Grand Avenue under a mostly clear late-afternoon sky",
+      "description": "From West Smithfield the view looks north through the stone gateway into the Grand Avenue of Smithfield Market, a long run of cast-iron arches and a glass roof. The hall is the subject, not a railway-arch food market. It is a dry late afternoon under a mostly clear sky, about 21.6°C, with warm low light and the sun out of frame.",
+      "viewpoint": "Public viewpoint on West Smithfield, looking north into the Grand Avenue. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.cityoflondon.gov.uk/supporting-businesses/wholesale-markets/smithfield-market",
+        "https://en.wikipedia.org/wiki/Smithfield_Market"
+      ],
+      "anchors": [
+        "Smithfield's Grand Avenue is a Victorian iron-and-glass market hall",
+        "An ornate stone gateway with a pediment stands at the West Smithfield end",
+        "Borough Market's railway arches are a different market and are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:17 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.7°. The disk is low in the west and is not in this north-facing frame. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-078-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-078-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-078-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-079",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Spitalfields Market",
+      "place": "Tower Hamlets",
+      "caption": "Spitalfields Market, London",
+      "scenario_label": "30 September 2026 · 18:18 Europe/London",
+      "composition": "Mainly clear late afternoon · the iron-and-glass market hall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Spitalfields Market iron-and-glass hall under a mainly clear sky",
+      "description": "The frame is the iron-and-glass hall of Old Spitalfields Market, green-painted trusses over brick piers. Christ Church and its spire are not in the frame. It is a dry late afternoon under a mainly clear sky, about 21.8°C, with warm light and only a little cloud.",
+      "viewpoint": "Public viewpoint at Old Spitalfields Market, looking at the iron-and-glass hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.oldspitalfieldsmarket.com/",
+        "https://en.wikipedia.org/wiki/Old_Spitalfields_Market"
+      ],
+      "anchors": [
+        "Old Spitalfields Market's hall has a cast-iron and glass roof",
+        "The iron trusses are painted green, on brick piers",
+        "Christ Church Spitalfields, the white baroque tower, is a different building and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:18 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.6°. The disk is low in the west and is not the subject of this frame. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-079-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-079-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-079-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-080",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Emirates Stadium",
+      "place": "Islington",
+      "caption": "Emirates Stadium, London",
+      "scenario_label": "30 September 2026 · 18:18 Europe/London",
+      "composition": "Clear late afternoon · Holloway looking northeast at the white roof · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Emirates Stadium and its white steel roof under a mostly clear late-afternoon sky",
+      "description": "From outside the bowl the view looks at the Emirates Stadium, a white tubular steel roof over red seats, with brick terraces beside it. There is no arch. It is a dry late afternoon under a mostly clear sky, about 21.5°C, and the low sun is behind the camera.",
+      "viewpoint": "Public viewpoint south-west of the Emirates Stadium, looking northeast at the bowl. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.arsenal.com/the-club/emirates-stadium",
+        "https://en.wikipedia.org/wiki/Emirates_Stadium"
+      ],
+      "anchors": [
+        "The Emirates Stadium is an elliptical bowl with a white tubular steel lattice roof",
+        "Red seats are visible in the stands, and brick terraces stand nearby",
+        "The Wembley arch and the London Stadium roof are different structures and are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:18 Europe/London. Calculated solar azimuth is west, about 262°, and elevation is about 2.6°. The disk is low in the west, behind the camera, and is not in this frame. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-080-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-080-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-080-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

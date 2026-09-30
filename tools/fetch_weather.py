@@ -50,6 +50,19 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
+    # London evening batch, 30 September 2026. England only.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    # UK-01-071 is the St James's Street Tudor gatehouse, one subject, not the Friary Court range.
+    ("UK-01-071", "St James's Palace", "London", 51.50470, -0.13940, "Europe/London"),
+    ("UK-01-072", "The Ritz London", "London", 51.50705, -0.14155, "Europe/London"),
+    ("UK-01-073", "British Library", "London", 51.52905, -0.12770, "Europe/London"),
+    ("UK-01-074", "King's Cross Station", "London", 51.53115, -0.12590, "Europe/London"),
+    ("UK-01-075", "BT Tower", "London", 51.52070, -0.13950, "Europe/London"),
+    ("UK-01-076", "20 Fenchurch Street", "London", 51.50915, -0.08355, "Europe/London"),
+    ("UK-01-077", "The Leadenhall Building", "London", 51.51270, -0.08255, "Europe/London"),
+    ("UK-01-078", "Smithfield Market", "London", 51.51825, -0.10155, "Europe/London"),
+    ("UK-01-079", "Spitalfields Market", "London", 51.51935, -0.07515, "Europe/London"),
+    ("UK-01-080", "Emirates Stadium", "London", 51.55410, -0.10940, "Europe/London"),
 ]
 
 
