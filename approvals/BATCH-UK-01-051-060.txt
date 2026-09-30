@@ -1,0 +1,126 @@
+United Kingdom London batch UK-01-051 through UK-01-060
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge.
+
+UK-01-001 through UK-01-010 stay Approved. Their masters, notes, weather, hashes, and statuses were not regenerated.
+UK-01-011 through UK-01-050 are not on this branch.
+
+Every new scene is genuine late-afternoon daylight on 30 September 2026, Europe/London.
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+WMO code 3, cloud cover 100%, dry, model is_day 1.
+
+Aerial: a 15s 360° clip is not produced when cloud cover is 30% or more.
+BACKFILL for UK-01-051, UK-01-052, UK-01-053, UK-01-054, UK-01-055, UK-01-056, UK-01-057, UK-01-058, UK-01-059, and UK-01-060.
+Still masters ship. Motion control stays off because no motion file is on disk.
+
+Swap: UK-01-053 is the Old Bailey (Central Criminal Court dome and Lady Justice), not the Churchill War Rooms entrance.
+The Horse Guards Road doorway is not recognizable without a readable sign, and Horse Guards is already UK-01-039.
+
+UK-01-051 Hampton Court Palace (Richmond upon Thames)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:39+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 21.6C
+  SHA-256 16x9: 375b37d6f5b261abb400d0337b35a2214e760da2350272814d7441080df16412
+  SHA-256 4x5: 4aa40be1583d2fd1c137353fa895d55658d591b5c82b2931b7bbc14e1947bf6f
+  SHA-256 9x16: 48756f61d40ae62c220c24dc9b678b0b58ab7ccadefa372b6cc20bb74a167527
+
+UK-01-052 Kew Gardens Palm House (Richmond upon Thames)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:41+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.0C
+  SHA-256 16x9: efcd3b886fd16705c8c1656220f2030bfa05089cb359ceee5c1a18c6db76d9cb
+  SHA-256 4x5: 775d1a343fa6bb5a665e3d08272c5426adab99a3bf5505a848ffebfac1b2d7c3
+  SHA-256 9x16: 2e038436a2c6a62bae947b5efb41ae1f315391d08831eb92458ad60bf27fc5d5
+
+UK-01-053 Old Bailey (City of London)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:44+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.7C
+  SHA-256 16x9: e14b51ec85b254fc676e0603a35d821b77480cee74ed6d09660fb017efcd9a0f
+  SHA-256 4x5: 5be52089429dc468e87a38d07091d3136aac5aac800026186022f493cec29db8
+  SHA-256 9x16: 1b0bac5b11e78751c4c4ac7607f8edda21606e7a510eb456027dd79fefb5fa45
+
+UK-01-054 Temple Church (City of London)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:46+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.8C
+  SHA-256 16x9: 80484c7b6ec53c80b1167347705e869ffc279101f7ab250d424af98aa8e30de9
+  SHA-256 4x5: e79fa64def49b76832536fe39149eeff896c62fc223eb3d972c40d59778480d4
+  SHA-256 9x16: f8b5efb2c1f56effdfc9b536fe4cc210a80b95f6b8c8cbfdf73e14355ac40cc0
+
+UK-01-055 Royal Exchange (City of London)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:48+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.8C
+  SHA-256 16x9: b4ad5ceabbe61d4ef8dc5a38f72f06c4b5740a8dba46aadca241650ad95fd937
+  SHA-256 4x5: d3c9e2f3f5475526207cb4b64d762322545e5cf5fe42acbde2daff9fefcea352
+  SHA-256 9x16: 2af60422cde0f39471de9aba99dedb4022eaa8ed88537da6306e9776766a7048
+
+UK-01-056 Lloyd's Building (City of London)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:50+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.8C
+  SHA-256 16x9: 86aabac38daa96df2098c7d3bafc215ce454a7b5dda954f42d7a9adb07528742
+  SHA-256 4x5: 338ff61dc1072f9557be0b31d8f00246bfca08d394afe88c6603060bda245616
+  SHA-256 9x16: 39deaf449cf35a62b8a0d5ca1b1af5b4b38ab1698174f05b2a84aade988bae51
+
+UK-01-057 One Canada Square (Tower Hamlets)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:52+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.8C
+  SHA-256 16x9: 3004aa014ee020f4c339fe4e4d741adb81053106ef388394c2b396c6ba8ece31
+  SHA-256 4x5: 45e056d767f66167d37a6beeee987b9dddf1e8e1473a663d4b1257d02e242f5c
+  SHA-256 9x16: 590e5f0c880b64fdc547a324d094b0c9ce04604c2fe67a4addfc190fe68682f9
+
+UK-01-058 City Hall (Southwark)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:54+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 23.0C
+  SHA-256 16x9: 8ccee1f0292cf464f713eabb29089b363b5f764c42e3e57fb781a6c8fb3c0ba9
+  SHA-256 4x5: 22aa68906abba2a20eda1be034fe37114dea9876a9b48c54ce34a7b850c6f041
+  SHA-256 9x16: 3e5d698dd5ec95b379385387a132ab7732e5dcad372610271216b2a61ce9dabe
+
+UK-01-059 London Stadium (Newham)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:56+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.9C
+  SHA-256 16x9: d9a3b86c7d16d464ef41e88ca1ece9c1441fe7d39724b63dae1ee128f48caa76
+  SHA-256 4x5: ef3fe67d3b0315259ea0903e06ce1cab54ca76ff22b157a24ba0c013bcfde91f
+  SHA-256 9x16: fcd5c8c3fc68b937b8a692d1b08bd8f248fa01626783e55251760744d78f31bd
+
+UK-01-060 Wembley Stadium (Brent)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T17:01:58+01:00
+  model time: 2026-09-30T17:00
+  scenario: 30 September 2026 · 17:01 Europe/London
+  cloud: 100% code 3 22.2C
+  SHA-256 16x9: 7263dd66ce35b8a8253b40f88322f0441933d09542cebba46794470d8e603fa0
+  SHA-256 4x5: eb71eda5cb356d6bad99e2eeefaf95a57cca1df0d7828767f5a63ce5772c95d6
+  SHA-256 9x16: 671b0204bcadec99b4230b17a3ad15e8c16c16b1b77b08bff1c473ddd63e31bb

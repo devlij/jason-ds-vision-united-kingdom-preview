@@ -90,7 +90,17 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-047", "Apsley House", "London", 51.50310, -0.15110, "Europe/London"),
     ("UK-01-048", "Liberty London", "London", 51.51340, -0.14010, "Europe/London"),
     ("UK-01-049", "Selfridges", "London", 51.51420, -0.15260, "Europe/London"),
-    ("UK-01-050", "Barbican Centre", "London", 51.51960, -0.09350, "Europe/London"),
+    ("UK-01-050", "Barbican Centre", "London", 51.51960, -0.09350, "Europe/London"),,
+    ("UK-01-051", "Hampton Court Palace", "London", 51.40330, -0.33780, "Europe/London"),
+    ("UK-01-052", "Kew Gardens Palm House", "London", 51.47890, -0.29550, "Europe/London"),
+    ("UK-01-053", "Old Bailey", "London", 51.51555, -0.10195, "Europe/London"),
+    ("UK-01-054", "Temple Church", "London", 51.51305, -0.11050, "Europe/London"),
+    ("UK-01-055", "Royal Exchange", "London", 51.51340, -0.08760, "Europe/London"),
+    ("UK-01-056", "Lloyd's Building", "London", 51.51300, -0.08240, "Europe/London"),
+    ("UK-01-057", "One Canada Square", "London", 51.50520, -0.02120, "Europe/London"),
+    ("UK-01-058", "City Hall", "London", 51.50475, -0.07845, "Europe/London"),
+    ("UK-01-059", "London Stadium", "London", 51.53870, -0.01660, "Europe/London"),
+    ("UK-01-060", "Wembley Stadium", "London", 51.55820, -0.27950, "Europe/London"),
 ]
 
 
