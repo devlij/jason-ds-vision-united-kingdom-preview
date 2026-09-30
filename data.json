@@ -2188,21 +2188,26 @@
       "site": "Royal Opera House",
       "place": "Westminster",
       "caption": "Royal Opera House, London",
-      "scenario_label": "30 September 2026 · 20:42 Europe/London",
-      "composition": "Clear night · Bow Street looking west at the Corinthian portico · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Royal Opera House Corinthian portico on Bow Street in London on a clear night",
-      "description": "From the east pavement of Bow Street the view looks west at the Royal Opera House portico, a row of fluted Corinthian columns and a sculpted pediment. The Covent Garden piazza is not in the frame. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.",
-      "viewpoint": "Public viewpoint on the east pavement of Bow Street, looking west at the Corinthian portico. A surveyed tripod mark was not pinned.",
+      "scenario_label": "30 September 2026 · 21:47 Europe/London",
+      "composition": "Partly cloudy night · Bow Street looking west at the Floral Hall and the stone portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Opera House on Bow Street in London, the glazed Floral Hall beside the stone portico, on a partly cloudy night",
+      "description": "From the east pavement of Bow Street the view looks west at the Royal Opera House. The glazed iron-and-glass Floral Hall, with its tall arched windows and barrel-vaulted roof, stands beside the smaller stone block and its six-column Corinthian portico. The Covent Garden piazza is not in the frame. It is a partly cloudy night, about 19.3°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the east pavement of Bow Street, looking west at the Floral Hall with the stone portico block beside it. A surveyed tripod mark was not pinned.",
       "references": [
+        "https://www.architape.co.uk/blog/architape-projects-245/royal-opera-house-london-259",
+        "https://commons.wikimedia.org/wiki/File:Royal_Opera_House_-_Bow_Street,_London_-_Floral_Hall_(6446851355).jpg",
+        "https://commons.wikimedia.org/wiki/File:Royal_Opera_House_-_Bow_Street,_London_(6446849309).jpg",
+        "https://commons.wikimedia.org/wiki/File:Royal_Opera_House_-_Floral_Hall_-_Bow_Street_-_London_-_240404.jpg",
+        "https://commons.wikimedia.org/wiki/File:London_-_Bow_Street_-_View_NW_%26_Up_on_Royal_Opera_House_Covent_Garden.jpg",
         "https://www.rbo.org.uk/visit",
         "https://en.wikipedia.org/wiki/Royal_Opera_House"
       ],
       "anchors": [
-        "The Bow Street front is a stone Corinthian portico of fluted columns and a sculpted pediment",
-        "The portico is the only subject; the Covent Garden piazza is not in the frame",
-        "The Theatre Royal Drury Lane's square-pier porch is a different front and is not in this frame"
+        "The Floral Hall (Paul Hamlyn Hall) is the cast-iron and glass Bow Street front: tall round-arched windows, a radial sunburst fanlight, and a barrel-vaulted glazed roof",
+        "Beside it, the stone block has a Corinthian hexastyle portico of six columns on a rusticated podium, under a pediment",
+        "The two fronts are one Bow Street building; the Covent Garden piazza and the Theatre Royal Drury Lane porch are not in this frame"
       ],
-      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:47 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.3°. The disk is below the horizon. model is_day is 0.",
       "moods": [
         "urban",
         "historic"
