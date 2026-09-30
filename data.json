@@ -1988,5 +1988,388 @@
       "motion": null,
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license"
-    }]
+    },
+    {
+      "entry_id": "UK-01-101",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kenwood House",
+      "place": "Camden",
+      "caption": "Kenwood House, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · the south lawn looking north at the Adam front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the cream south front of Kenwood House in London on a clear night",
+      "description": "From the south lawn the view looks north at Kenwood House, Robert Adam's long cream-stucco front, with an Ionic portico and pediment and a curved window bay at one end. Dark heath trees stand behind the roof. It is a clear night, about 18.2°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south lawn of Kenwood House, looking north at the Adam south front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/kenwood/",
+        "https://en.wikipedia.org/wiki/Kenwood_House"
+      ],
+      "anchors": [
+        "The south front is Robert Adam's long cream-stucco facade with a central Ionic portico and pediment",
+        "A curved window bay closes one end of the house, and there is no dome",
+        "Osterley Park's red-brick portico and Chiswick House's octagonal dome are different buildings and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-101-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-101-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-101-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-102",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Syon House",
+      "place": "Hounslow",
+      "caption": "Syon House, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Mainly clear night · the west lawn looking east at the portico and the lion · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Syon House and the lion on its roof in London on a mainly clear night",
+      "description": "From the west lawn the view looks east at Syon House, a square battlemented stone house with a classical portico and a standing lion on the roof. The lion and the portico are the subject. It is a mainly clear night, about 18.9°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the west lawn of Syon House, looking east at the portico and the lion. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.syonpark.co.uk/",
+        "https://en.wikipedia.org/wiki/Syon_House"
+      ],
+      "anchors": [
+        "The house is a square battlemented stone block with a classical portico",
+        "A standing stone lion is centered on the roof parapet",
+        "The Great Conservatory, Kew Palm House, and Kenwood's long cream front are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-102-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-102-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-102-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-103",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Ham House",
+      "place": "Richmond upon Thames",
+      "caption": "Ham House, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Mainly clear night · the south garden looking north at the brick front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red-brick south front of Ham House in London on a mainly clear night",
+      "description": "From the south garden the view looks north at Ham House, a symmetrical red-brick Jacobean front with tall chimneys and no giant portico. A lawn and a gravel path lead to the door. It is a mainly clear night, about 18.6°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the south garden of Ham House, looking north at the brick front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/ham-house-and-garden",
+        "https://en.wikipedia.org/wiki/Ham_House"
+      ],
+      "anchors": [
+        "The south front is a symmetrical red-brick Jacobean house of three storeys",
+        "Tall chimneys and a hipped roof sit above stone-dressed windows, with no giant portico",
+        "Osterley Park's white Ionic portico is a different house and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-103-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-103-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-103-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-104",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Chiswick House",
+      "place": "Hounslow",
+      "caption": "Chiswick House, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Mainly clear night · the garden looking at the dome and the staircases · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Chiswick House, its octagonal dome and curved staircases, in London on a mainly clear night",
+      "description": "From the garden the view looks at Chiswick House, a small stone villa with an octagonal dome, a Corinthian portico, and two curved staircases. The dome stays fully in the frame. It is a mainly clear night, about 19.0°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the garden of Chiswick House, looking northwest at the entrance front and the dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/chiswick-house/",
+        "https://en.wikipedia.org/wiki/Chiswick_House"
+      ],
+      "anchors": [
+        "The villa is a small stone cube with an octagonal dome and a lantern",
+        "Two curved staircases rise to a Corinthian portico",
+        "Kenwood House and Syon House are different buildings and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:41 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-104-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-104-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-104-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-105",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Eltham Palace",
+      "place": "Greenwich",
+      "caption": "Eltham Palace, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Partly cloudy night · across the moat at the Art Deco wing and the great hall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Eltham Palace, the Art Deco wing and the medieval great hall, in London on a partly cloudy night",
+      "description": "From across the moat the view looks at Eltham Palace, the curved cream Art Deco entrance in front of the steep roof and Gothic windows of the medieval great hall. The water is dark. It is a partly cloudy night, about 19.1°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint across the moat at Eltham Palace, looking south at the Art Deco entrance and the great hall roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/eltham-palace-and-gardens/",
+        "https://en.wikipedia.org/wiki/Eltham_Palace"
+      ],
+      "anchors": [
+        "A curved cream Art Deco wing with horizontal windows stands in front of the medieval great hall",
+        "The great hall shows a steep tiled roof and tall Gothic windows",
+        "The moat is in the foreground; the Queen's House and the Old Royal Naval College are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:39 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-105-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-105-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-105-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-106",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Opera House",
+      "place": "Westminster",
+      "caption": "Royal Opera House, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · Bow Street looking west at the Corinthian portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Opera House Corinthian portico on Bow Street in London on a clear night",
+      "description": "From the east pavement of Bow Street the view looks west at the Royal Opera House portico, a row of fluted Corinthian columns and a sculpted pediment. The Covent Garden piazza is not in the frame. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the east pavement of Bow Street, looking west at the Corinthian portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.rbo.org.uk/visit",
+        "https://en.wikipedia.org/wiki/Royal_Opera_House"
+      ],
+      "anchors": [
+        "The Bow Street front is a stone Corinthian portico of fluted columns and a sculpted pediment",
+        "The portico is the only subject; the Covent Garden piazza is not in the frame",
+        "The Theatre Royal Drury Lane's square-pier porch is a different front and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-106-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-106-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-106-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-107",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Theatre Royal Drury Lane",
+      "place": "Westminster",
+      "caption": "Theatre Royal Drury Lane, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · Catherine Street looking at the square-pier porch · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Theatre Royal Drury Lane square-pier porch in London on a clear night",
+      "description": "From Catherine Street the view looks at the Theatre Royal, Drury Lane, a pale stucco front with a porch of coupled square piers and three arched doorways. It is not the Corinthian portico on Bow Street. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Catherine Street, looking west at the entrance porch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://lwtheatres.co.uk/theatres/theatre-royal-drury-lane/",
+        "https://en.wikipedia.org/wiki/Theatre_Royal,_Drury_Lane"
+      ],
+      "anchors": [
+        "The Catherine Street front is pale stucco with a porch of coupled square piers",
+        "Three arched doorways sit behind the piers, under a plain parapet",
+        "The Royal Opera House Corinthian portico on Bow Street is a different front and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-107-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-107-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-107-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-108",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Roundhouse",
+      "place": "Camden",
+      "caption": "The Roundhouse, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · the forecourt looking at the circular drum and conical roof · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Roundhouse, the circular brick drum and conical roof, in London on a clear night",
+      "description": "From the Chalk Farm forecourt the view looks at the Roundhouse, a circular yellow-brick drum under a conical slate roof with a lantern. Arched openings ring the drum. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Chalk Farm Road forecourt, looking northwest at the circular drum and conical roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.roundhouse.org.uk/",
+        "https://en.wikipedia.org/wiki/Roundhouse_(venue)"
+      ],
+      "anchors": [
+        "The building is a circular yellow-brick drum",
+        "A conical slate roof rises to a small central lantern",
+        "A ring of arched openings runs around the drum; it is not a stadium and not a church"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-108-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-108-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-108-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-109",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Camden Lock Market",
+      "place": "Camden",
+      "caption": "Camden Lock Market, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · the towpath looking along the lock gates · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the lock gates at Camden Lock in London on a clear night",
+      "description": "From the towpath the view looks along Camden Lock, black gates and long white-tipped balance beams over dark canal water. The lock is the only subject. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Regent's Canal towpath at Camden Lock, looking west along the lock gates. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.camdenmarket.com/",
+        "https://en.wikipedia.org/wiki/Camden_Lock"
+      ],
+      "anchors": [
+        "The subject is the canal lock: black gates and long white-tipped balance beams",
+        "Brick lock walls and dark water fill the chamber",
+        "Market sheds are not the subject; Borough Market and Greenwich Market are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-109-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-109-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-109-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-110",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Abbey Road Studios",
+      "place": "Westminster",
+      "caption": "Abbey Road Studios, London",
+      "scenario_label": "30 September 2026 · 20:42 Europe/London",
+      "composition": "Clear night · the zebra crossing looking toward the studio front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Abbey Road Studios street front and the empty zebra crossing in London on a clear night",
+      "description": "From the public zebra crossing on Abbey Road the view looks toward the studios, a white three-storey townhouse behind the empty crossing and a low white wall. The camera stays on the street. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public street viewpoint at the zebra crossing on Abbey Road, looking northwest toward the studio front. The camera stays on the public highway. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.abbeyroad.com/",
+        "https://en.wikipedia.org/wiki/Abbey_Road_Studios"
+      ],
+      "anchors": [
+        "The subject is the white three-storey townhouse seen from the street, with the zebra crossing in front of it",
+        "A low white wall sits beside the crossing",
+        "The crossing is empty, and the view does not enter the property"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:42 Europe/London. Calculated solar azimuth is west-northwest, about 291°, and elevation is about -19.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-110-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-110-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-110-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    }
+  ]
 }
