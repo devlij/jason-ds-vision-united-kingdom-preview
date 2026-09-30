@@ -35,7 +35,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -44,7 +44,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-001-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: two stone towers with pointed turrets, enclosed high walkways, blue chains, closed bascules; Queen's Walk viewpoint. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "de51cdc940662e15109fb484557454b4a843e02e",
+      "git_blob_sha1_4x5": "f54bc7e9b6f8b4f3a5c85ea07d213453f1621f83",
+      "git_blob_sha1_9x16": "7827cdb3bd741a78b890783ea50d1bbce83bf1eb"
     },
     {
       "entry_id": "UK-01-002",
@@ -74,7 +79,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -83,7 +88,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-002-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: Elizabeth Tower + Palace of Westminster + Westminster Bridge lamps; clock face ~08:53 matches scenario (Cosmo spot-verified). Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "eb1b0e2de438371b5f21dd2c672883be5d99c60d",
+      "git_blob_sha1_4x5": "7a868f06e4660eff42b1f7820d476baae9c24293",
+      "git_blob_sha1_9x16": "808b066733998bada632c3425ff697a8b89e6897"
     },
     {
       "entry_id": "UK-01-003",
@@ -113,7 +123,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -122,7 +132,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-003-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: Buckingham Palace east front + Victoria Memorial with gilt Nike; flagpole bare (minor, not a 9.5 deviation). Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "6110c96f2a445539898e9b441d216f02ddfc3ecd",
+      "git_blob_sha1_4x5": "1200b6fa59254a608f4962490f2a56dd5ad63656",
+      "git_blob_sha1_9x16": "e01d16f416b9a70e4ac646ad11bc84d00cbecfe4"
     },
     {
       "entry_id": "UK-01-004",
@@ -152,7 +167,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -161,7 +176,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-004-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: St Paul's west front, twin towers, dome, pediment sculpture; head-on long-lens compression plausible. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "5f223db4692f09301cd0d5fa4bad56f26aed399f",
+      "git_blob_sha1_4x5": "b912a4ecaf2248dec08093c66e7e8322ec67fc78",
+      "git_blob_sha1_9x16": "4249f2ba11fe3cdf8202085a9f491a7d644b6c00"
     },
     {
       "entry_id": "UK-01-005",
@@ -190,7 +210,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -199,7 +219,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-005-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: Tower of London White Tower with four cupolas + curtain wall, viewed across the Thames. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "bb10a62f6566973ff51429cc62200557040438c0",
+      "git_blob_sha1_4x5": "611c8bf8e06870ccb661f484c4f51df0a403d038",
+      "git_blob_sha1_9x16": "87ca97ee993df1895b6c01afcf4339d374f44c6c"
     },
     {
       "entry_id": "UK-01-006",
@@ -229,7 +254,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -238,7 +263,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-006-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: Trafalgar Square: Nelson's Column, lions, fountains, National Gallery. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "179f72e5c3cd245e6e8b29c437bc036123f61260",
+      "git_blob_sha1_4x5": "8399eb8396a6f3564a93f42471e86d73b02fc2c8",
+      "git_blob_sha1_9x16": "732e94b20383a99372d997c720bf2a31d6b8f7ba"
     },
     {
       "entry_id": "UK-01-007",
@@ -267,7 +297,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -276,7 +306,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-007-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: The Shard tapering glass silhouette from London Bridge. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "cd83efd55f1eb75898b53554cd31074340c9c3b9",
+      "git_blob_sha1_4x5": "776e2774656fce8086b50b6156fb82bdc0d5c0ef",
+      "git_blob_sha1_9x16": "978d6937ffeecc12fbb63914e3469f3faf833fd9"
     },
     {
       "entry_id": "UK-01-008",
@@ -305,7 +340,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -314,7 +349,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-008-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: Royal Observatory: Flamsteed House + red time ball on mast, Greenwich Park hill. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "99b8b8095bac334a404fb63ab9b54a17d3ee8404",
+      "git_blob_sha1_4x5": "b9f06db698ee3c6d6295ec3b0a940be933dec5e2",
+      "git_blob_sha1_9x16": "4904d193dc09171308ab6992a8c409ac1e0f5fb9"
     },
     {
       "entry_id": "UK-01-009",
@@ -344,7 +384,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -353,7 +393,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-009-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: British Museum south front Ionic colonnade + pediment. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "4cabf55bcb6cf592199e09a972024f4fcce1dce8",
+      "git_blob_sha1_4x5": "ac9df2c65d9ad4dc05f8c2e11304a75f0dd2069c",
+      "git_blob_sha1_9x16": "de8c1c9e0f7e5ef32a063868151488c0268e1684"
     },
     {
       "entry_id": "UK-01-010",
@@ -382,7 +427,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -391,7 +436,12 @@
       "file_9x16": "assets/united-kingdom/London/uk-01-010-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Cosmo five-gate approval 2026-09-30 (independent; PR #2 tip 3bd7d8a merged ca121d7; master-path repair: canonical path now serves the exact audited masters, SHA-256 30/30 match batch notes). Gate 1 visual/location: London Eye: wheel, capsules, A-frame, County Hall. Gate 2 weather: Open-Meteo retrieval 2026-09-30T08:55:43+01:00..08:56:05+01:00 (10 scenes, 2-3s apart), unique to the second across the 20-scene audit set; rendered overcast sky matches code 3. Gate 3 formats: 16:9/4:5/9:16 finished label-bar masters at exact dims (1920x1270/864x1270/1080x2110), zero overlay on artwork; Art.50 PNG chunks present, comment date = true finish date 2026-09-30. Gate 4 originality/IP: AI-generated artistic interpretation, disclosure on label bar. Gate 5 captions/signature: scenario genuine real-time 30 Sep 2026 08:55 Europe/London; 'Jason D's Vision' + 'Jason A. Devlin' script signature present.",
+      "approved_at": "2026-09-30",
+      "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
+      "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
+      "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
     }
   ]
 }
