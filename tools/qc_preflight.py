@@ -22,10 +22,13 @@ ART50_DESCRIPTION = (
     "AI-generated artistic interpretation from the Jason D's Vision United Kingdom gallery. "
     "Created with generative AI; not a photograph."
 )
-# UK-01-001..010 were Approved by Cosmo QC. UK-01-051..060 stay Candidate.
-# UK-01-011..050 are not on this branch.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 61)]
+# UK-01-001..010 were Approved by Cosmo QC and stay in the image sitemap.
+# UK-01-011..048 and UK-01-050..060 were Approved on main before this batch.
+# UK-01-049 stays Candidate. UK-01-061..100 are not on this branch.
+# UK-01-101..110 stay Candidate.
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111))]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
+MAIN_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(1, 49)) + list(range(50, 61))}
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -130,7 +133,7 @@ def main() -> None:
     for scene in scenes:
         entry_id = scene.get("entry_id")
         status = scene.get("approval_status")
-        if entry_id in COSMO_APPROVED_IDS:
+        if entry_id in MAIN_APPROVED_IDS:
             if status != "Approved":
                 errors.append(f"{entry_id} must stay Approved")
         elif status == "Approved":
@@ -142,7 +145,7 @@ def main() -> None:
         ):
             # Format approvals on 001–010 live in index.html, which Cosmo set to Approved.
             # data.json still records those format fields as Candidate. Do not require a flip here.
-            if entry_id not in COSMO_APPROVED_IDS and scene.get(key) == "Approved":
+            if entry_id not in MAIN_APPROVED_IDS and scene.get(key) == "Approved":
                 errors.append(f"{entry_id} {key} is self-approved")
 
     for invented in (
@@ -225,7 +228,7 @@ def main() -> None:
                 errors.append(f"index.html scene order is {page_ids}")
             for scene in page_scenes:
                 entry_id = scene.get("entry_id")
-                if entry_id in COSMO_APPROVED_IDS:
+                if entry_id in MAIN_APPROVED_IDS:
                     if scene.get("approval_status") != "Approved":
                         errors.append(f"index.html downgraded {entry_id}")
                     for key in (
