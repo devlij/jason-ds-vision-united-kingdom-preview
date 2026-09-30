@@ -1540,21 +1540,24 @@
       "site": "Selfridges",
       "place": "Westminster",
       "caption": "Selfridges, London",
-      "scenario_label": "30 September 2026 · 16:38 Europe/London",
-      "composition": "Partly cloudy afternoon · Oxford Street looking north at the colonnade and the Queen of Time · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Selfridges Oxford Street colonnade and the Queen of Time under a partly cloudy afternoon sky",
-      "description": "From the Oxford Street pavement the view looks north at the stone colonnade and the gilded Queen of Time standing over the clock at the centre of the facade. The afternoon is partly cloudy and dry, about 22.9°C, with the sun low in the west-southwest. The figure and the columns are the subject.",
+      "scenario_label": "30 September 2026 · 20:40 Europe/London",
+      "composition": "Clear night · Oxford Street looking north at the colonnade and the Queen of Time · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Selfridges Oxford Street colonnade and the Queen of Time under a clear night sky",
+      "description": "From the Oxford Street pavement the view looks north at the Portland stone colonnade and the gilded Queen of Time standing in the prow of a ship over the clock at the centre of the facade. The night is clear and dry, about 19.4°C, and the sun is below the horizon in the west-northwest. The figure and the columns are the subject.",
       "viewpoint": "Public viewpoint on the south pavement of Oxford Street, looking north at the colonnade and the Queen of Time. A surveyed tripod mark was not pinned.",
       "references": [
+        "https://commons.wikimedia.org/wiki/File:London_-_Oxford_Street_-_Selfridges_1909_by_Daniel_Burnham_-_Queen_of_Time_Riding_the_Ship_of_Commerce_1928_by_Gilbert_William_Bayes_1872-1953_-_Art_D%C3%A9co_-_View_NW_02.jpg",
+        "https://commons.wikimedia.org/wiki/File:London_-_Oxford_Street_-_Selfridges_1909_by_Daniel_Burnham_-_Queen_of_Time_Riding_the_Ship_of_Commerce_1928_by_Gilbert_William_Bayes_1872-1953_-_Art_D%C3%A9co_-_View_NW_01.jpg",
+        "https://commons.wikimedia.org/wiki/File:The_Queen_of_Time_Riding_in_Her_Ship_of_Commerce,_Selfridge%27s,_London_W1.jpg",
         "https://www.selfridges.com/GB/en/features/info/our-heritage/",
         "https://en.wikipedia.org/wiki/Selfridges,_Oxford_Street"
       ],
       "anchors": [
-        "The Oxford Street front is the 1909 Beaux-Arts stone facade, a giant Ionic colonnade",
-        "The Queen of Time, a gilded figure above a clock, marks the central entrance",
-        "The colonnade and the clock figure are the subject of this frame"
+        "Giant fluted Ionic columns of pale Portland stone, with volute capitals, run unbroken across the Oxford Street front",
+        "The Queen of Time is a gilded winged figure standing in the prow of the Ship of Commerce, directly above a large round clock in the central entrance bay",
+        "Two attendant figures flank the ship, and an ornate metal canopy sits over the doors beneath the clock"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 20:40 Europe/London. Calculated solar azimuth is west-northwest and elevation is about -19.2°. The sky is clear. model is_day is 0.",
       "moods": [
         "urban"
       ],
