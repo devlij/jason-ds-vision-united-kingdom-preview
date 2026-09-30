@@ -238,6 +238,15 @@ def main() -> None:
             page_ids = [scene.get("entry_id") for scene in page_scenes]
             if page_ids != EXPECTED_IDS:
                 errors.append(f"index.html scene order is {page_ids}")
+            meta_marker = "const UK_META="
+            meta_start = html.find(meta_marker)
+            meta_end = html.find(";\n", meta_start) if meta_start >= 0 else -1
+            if meta_start < 0 or meta_end < 0:
+                errors.append("index.html has no UK_META object")
+            else:
+                page_meta = json.loads(html[meta_start + len(meta_marker) : meta_end])
+                if list(page_meta) != EXPECTED_IDS:
+                    errors.append("index.html UK_META keys do not match the scene list")
             for scene in page_scenes:
                 entry_id = scene.get("entry_id")
                 if entry_id in PAGE_APPROVED_IDS:
