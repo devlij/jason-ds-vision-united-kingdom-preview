@@ -25,10 +25,12 @@ ART50_DESCRIPTION = (
 # UK-01-001..010 were Approved by Cosmo QC and stay in the image sitemap.
 # UK-01-011..048 and UK-01-050..060 were Approved on main before this batch.
 # UK-01-049 stays Candidate. UK-01-061..100 are not on this branch.
-# UK-01-101..110 stay Candidate.
+# data.json keeps UK-01-101..110 as Candidate. Cosmo set scene-level Approved
+# badges in index.html for 101–105 and 107–110. UK-01-106 stays Candidate.
 EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111))]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 MAIN_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(1, 49)) + list(range(50, 61))}
+INDEX_BADGE_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(101, 106)) + list(range(107, 111))}
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -176,7 +178,10 @@ def main() -> None:
         stamps: set[str] = set()
         for entry_id in EXPECTED_IDS:
             scene = by_id.get(entry_id) or {}
-            note = check_note(errors, entry_id, candidate=scene.get("approval_status") != "Approved")
+            # Cosmo's approval notes for 101–105 and 107–110 say Approved.
+            # data.json for that range stays Candidate, and UK-01-106 stays Candidate.
+            note_is_candidate = entry_id not in INDEX_BADGE_IDS and scene.get("approval_status") != "Approved"
+            note = check_note(errors, entry_id, candidate=note_is_candidate)
             check_weather(errors, entry_id, stamps)
             check_masters(errors, scene, note)
 
@@ -242,6 +247,11 @@ def main() -> None:
                         rel = scene.get(key) or ""
                         if not rel.startswith("assets/pretext/united-kingdom/London/"):
                             errors.append(f"index.html path changed for {entry_id} {key}")
+                elif entry_id in INDEX_BADGE_IDS:
+                    if scene.get("approval_status") != "Approved":
+                        errors.append(f"index.html downgraded {entry_id}")
+                    if scene.get("format_9x16_approval_status") == "Approved":
+                        errors.append(f"index.html shows a 9:16 control for {entry_id}")
                 else:
                     if scene.get("approval_status") != "Candidate":
                         errors.append(f"index.html self-approved {entry_id}")
