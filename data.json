@@ -2747,6 +2747,391 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-151",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Temple Bar",
+      "place": "City of London",
+      "caption": "Temple Bar, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 Paternoster Square looking north at the gate \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Wren's Temple Bar gate at Paternoster Square in London on an overcast night",
+      "description": "From the pavement at the south side of Paternoster Square the view looks north at Wren's Temple Bar, a Portland-stone gate with one central arch, a statue in a niche on each side, and figures along the roof. St Paul's is behind the camera. It is an overcast night, about 18.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement just south of Temple Bar, at the entrance to Paternoster Square, looking north at the gate. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Temple_Bar,_London",
+        "https://en.wikipedia.org/wiki/Paternoster_Square"
+      ],
+      "anchors": [
+        "A Portland-stone gatehouse with one central arch",
+        "A statue stands in a niche on each side of the arch, and figures line the roof",
+        "St Paul's Cathedral is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-151-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-151-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-151-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-152",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The George Inn",
+      "place": "Southwark",
+      "caption": "The George Inn, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 the courtyard looking at the timber galleries \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the galleried courtyard of The George Inn in Southwark on an overcast night",
+      "description": "From the cobbled courtyard the George Inn shows two storeys of open timber galleries on a white-plastered range, with a tiled roof above. There is no readable hanging sign, and Borough Market is not in the frame. It is an overcast night, about 18.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public courtyard of The George Inn, off Borough High Street, looking at the galleried range. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/the-george-inn",
+        "https://en.wikipedia.org/wiki/The_George_Inn,_Southwark"
+      ],
+      "anchors": [
+        "Two storeys of open timber galleries with dark balusters",
+        "White plaster and a tiled roof around a cobbled courtyard",
+        "Borough Market is not the subject, and no readable sign is the focus"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-152-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-152-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-152-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-153",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lancaster House",
+      "place": "Westminster",
+      "caption": "Lancaster House, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 Stable Yard looking west at the east front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lancaster House east front from Stable Yard in London on an overcast night",
+      "description": "From Stable Yard the east front of Lancaster House is a Bath-stone facade, a Corinthian portico under a pediment, and a roof balustrade. It is not the Buckingham Palace balcony front. It is an overcast night, about 18.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public approach on Stable Yard, looking west at the east front of Lancaster House. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lancaster_House",
+        "https://en.wikipedia.org/wiki/St_James%27s"
+      ],
+      "anchors": [
+        "A Bath-stone neoclassical facade with a central Corinthian portico and pediment",
+        "Tall sash windows and a stone balustrade along the roof",
+        "This is not the Buckingham Palace east front and there is no central balcony"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-153-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-153-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-153-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-154",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Chelsea Bridge",
+      "place": "Kensington and Chelsea",
+      "caption": "Chelsea Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 Chelsea Embankment looking along the suspension span \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Chelsea Bridge from the Chelsea Embankment in London on an overcast night",
+      "description": "From the Chelsea Embankment the suspension towers of Chelsea Bridge stand over the Thames, cream steel with gilded lanterns and cables. The stone towers of Tower Bridge are not in the frame, and this is not Albert Bridge. It is an overcast night, about 17.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Chelsea Embankment at the north end of Chelsea Bridge, looking south along the span. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Chelsea_Bridge",
+        "https://en.wikipedia.org/wiki/Chelsea_Embankment"
+      ],
+      "anchors": [
+        "Steel suspension towers, cream with gilded lanterns, carry the cables",
+        "The deck crosses the Thames between the towers",
+        "This is not Tower Bridge and not Albert Bridge"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-154-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-154-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-154-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-155",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Diana Memorial Fountain",
+      "place": "Westminster",
+      "caption": "Diana Memorial Fountain, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 the path looking across the oval granite ring \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Diana Memorial Fountain in Hyde Park, London, on an overcast night",
+      "description": "In Hyde Park the Diana Memorial Fountain is a low oval of pale granite with water in a shallow channel, set in dark grass. It is not the bronze fountain in Bushy Park and not the Albert Memorial. It is an overcast night, about 17.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public path beside the Diana Memorial Fountain in Hyde Park, looking across the oval ring. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalparks.org.uk/visit/parks/hyde-park/diana-memorial-fountain",
+        "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales_Memorial_Fountain"
+      ],
+      "anchors": [
+        "A low oval ring of pale textured granite",
+        "Water moves in a shallow channel inside the ring, with grass around it",
+        "This is not the bronze Diana Fountain in Bushy Park and not the Albert Memorial"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-155-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-155-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-155-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-156",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Festival Hall",
+      "place": "Lambeth",
+      "caption": "Royal Festival Hall, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 the river terrace looking at the glass front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Festival Hall river front in London on an overcast night",
+      "description": "From the river terrace the Royal Festival Hall reads as one long block, pale stone and a glass front with warm light inside. The London Eye and the National Theatre are not in the frame. It is an overcast night, about 18.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public terrace on the river front of the Royal Festival Hall, looking at the facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.southbankcentre.co.uk/venues/royal-festival-hall",
+        "https://en.wikipedia.org/wiki/Royal_Festival_Hall"
+      ],
+      "anchors": [
+        "A long horizontal block with pale stone flanks and a glass river front",
+        "A wide terrace sits in front of the facade",
+        "The London Eye and the National Theatre are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-156-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-156-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-156-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-157",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Mary-le-Bow",
+      "place": "City of London",
+      "caption": "St Mary-le-Bow, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 Cheapside looking up at the steeple \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the steeple of St Mary-le-Bow in London on an overcast night",
+      "description": "From Cheapside the steeple of St Mary-le-Bow rises as a square stone tower, a round colonnade, a tall spire, and a dragon weathervane. It is not the dome of St Paul's and not the tiered spire of St Bride's. It is an overcast night, about 18.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Cheapside, looking up at the steeple of St Mary-le-Bow. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.stmarylebow.org.uk/",
+        "https://en.wikipedia.org/wiki/St_Mary-le-Bow"
+      ],
+      "anchors": [
+        "A square stone tower carries a circular colonnade",
+        "A tall stone spire ends in a dragon weathervane",
+        "This is not the dome of St Paul's and not the tiered spire of St Bride's"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-157-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-157-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-157-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-158",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Neasden Temple",
+      "place": "Brent",
+      "caption": "Neasden Temple, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 the forecourt looking at the white marble mandir \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the BAPS Shri Swaminarayan Mandir in Neasden, London, on an overcast night",
+      "description": "The Neasden Temple, the BAPS Shri Swaminarayan Mandir, stands floodlit in white marble, a cluster of carved shikharas around a central dome. It is not the London Central Mosque. It is an overcast night, about 17.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public forecourt of the BAPS Shri Swaminarayan Mandir on Brentfield Road, looking at the marble mandir. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://londonmandir.baps.org/",
+        "https://en.wikipedia.org/wiki/BAPS_Shri_Swaminarayan_Mandir_London"
+      ],
+      "anchors": [
+        "A white marble mandir with several carved shikharas",
+        "A larger central dome rises among the towers",
+        "This is not the London Central Mosque and there is no minaret"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 345\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-158-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-158-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-158-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-159",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Two Temple Place",
+      "place": "Westminster",
+      "caption": "Two Temple Place, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 Victoria Embankment looking at the mansion and the ship vane \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Two Temple Place on Victoria Embankment in London on an overcast night",
+      "description": "From the Victoria Embankment pavement Two Temple Place is a compact neo-Gothic stone mansion, mullioned windows under a steep roof, with a gilded ship as the weathervane. Temple Church is not in the frame. It is an overcast night, about 18.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Victoria Embankment, looking north at Two Temple Place. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://twotempleplace.org/",
+        "https://en.wikipedia.org/wiki/Two_Temple_Place"
+      ],
+      "anchors": [
+        "A compact neo-Gothic stone mansion with tall mullioned windows",
+        "A steep roof carries a gilded weathervane in the shape of a sailing ship",
+        "Temple Church is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-159-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-159-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-159-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-160",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Golden Jubilee Bridges",
+      "place": "Westminster",
+      "caption": "Golden Jubilee Bridges, London",
+      "scenario_label": "1 October 2026 \u00b7 00:06 Europe/London",
+      "composition": "Overcast night \u00b7 the north bank looking at the white pylons \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Golden Jubilee Bridges beside Hungerford Bridge in London on an overcast night",
+      "description": "From the north bank the Golden Jubilee Bridges are a pair of white cable-stayed spans beside the Hungerford railway bridge, pylons and fans of cables over the Thames. The London Eye and Elizabeth Tower are not in the frame. It is an overcast night, about 18.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on the north bank at the Golden Jubilee Bridges, looking south at the white pylons. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hungerford_Bridge_and_Golden_Jubilee_Bridges",
+        "https://en.wikipedia.org/wiki/Victoria_Embankment"
+      ],
+      "anchors": [
+        "White cable-stayed pylons carry fans of cables over the Thames",
+        "Two pedestrian bridges flank the Hungerford railway bridge",
+        "The London Eye and Elizabeth Tower are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:06 Europe/London. Calculated solar azimuth is north-northwest, about 346\u00b0, and elevation is about -40.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-160-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-160-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-160-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
