@@ -38,7 +38,18 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     # All four nations: England, Scotland, Wales, and Northern Ireland.
     # Append one public viewpoint per scene when a still is published.
     # (entry_id, site, city, latitude, longitude, "Europe/London")
-    # This seed ships no pins. Do not invent coordinates.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    # London morning batch, 30 September 2026. England only; the other nations follow.
+    ("UK-01-001", "Tower Bridge", "London", 51.50545, -0.07855, "Europe/London"),
+    ("UK-01-002", "Elizabeth Tower", "London", 51.50072, -0.12205, "Europe/London"),
+    ("UK-01-003", "Buckingham Palace", "London", 51.50155, -0.14085, "Europe/London"),
+    ("UK-01-004", "St Paul's Cathedral", "London", 51.51385, -0.10155, "Europe/London"),
+    ("UK-01-005", "Tower of London", "London", 51.50705, -0.07675, "Europe/London"),
+    ("UK-01-006", "Trafalgar Square", "London", 51.50745, -0.12805, "Europe/London"),
+    ("UK-01-007", "The Shard", "London", 51.50785, -0.08775, "Europe/London"),
+    ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
+    ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
+    ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
 ]
 
 

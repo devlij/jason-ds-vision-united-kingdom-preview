@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""QC pre-flight for the United Kingdom gallery shell. Exits non-zero on any failure.
+"""QC pre-flight for the United Kingdom gallery. Exits non-zero on any failure.
 
-The seed ships no scenes, no masters, and no word-of-the-day entries.
-Scene-batch checks run only when EXPECTED_IDS is filled in a later stills commit.
-Cosmo supplies word-of-day/en.json separately. This shell must not invent it.
+Scene checks run for EXPECTED_IDS. An empty list still means a shell with no media.
+Cosmo supplies word-of-day/en.json separately. This gallery must not invent it.
 """
 
 from __future__ import annotations
@@ -23,8 +22,8 @@ ART50_DESCRIPTION = (
     "AI-generated artistic interpretation from the Jason D's Vision United Kingdom gallery. "
     "Created with generative AI; not a photograph."
 )
-# Empty until a stills commit names the scenes it actually published.
-EXPECTED_IDS: list[str] = []
+# London morning batch published 2026-09-30. All Candidate. Cosmo has not approved any.
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 11)]
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -192,8 +191,11 @@ def main() -> None:
             errors.append("lightbox interval is not 4000ms")
         if "https://uk.jdvision.org/" not in html:
             errors.append("United Kingdom canonical missing")
-        if "const SCENES = [];" not in html:
-            errors.append("index.html is not an empty scene list")
+        if not EXPECTED_IDS:
+            if "const SCENES = [];" not in html:
+                errors.append("index.html is not an empty scene list")
+        elif "const SCENES = [];" in html:
+            errors.append("index.html is still an empty scene list")
         if "avocado_v2:MAI_01" not in html:
             errors.append("narration hook is missing")
         if '"src":' in html.split('id="narr-manifest"', 1)[-1][:800]:
