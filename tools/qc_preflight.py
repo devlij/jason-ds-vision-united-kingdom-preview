@@ -24,7 +24,7 @@ ART50_DESCRIPTION = (
 )
 # UK-01-001..010 were Approved by Cosmo QC. UK-01-051..060 stay Candidate.
 # UK-01-011..050 are not on this branch.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 11)) + list(range(51, 61))]
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 61)]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 FORBIDDEN = (
     "real-time conditions",
