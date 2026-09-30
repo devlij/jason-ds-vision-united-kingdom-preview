@@ -22,8 +22,10 @@ ART50_DESCRIPTION = (
     "AI-generated artistic interpretation from the Jason D's Vision United Kingdom gallery. "
     "Created with generative AI; not a photograph."
 )
-# London morning batch published 2026-09-30. All Candidate. Cosmo has not approved any.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 11)]
+# UK-01-001..010 were Approved by Cosmo QC. UK-01-051..060 stay Candidate.
+# UK-01-011..050 are not on this branch.
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 11)) + list(range(51, 61))]
+COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -85,7 +87,8 @@ def check_masters(errors: list[str], scene: dict, note: str) -> None:
     entry_id = scene.get("entry_id") or ""
     city = scene.get("folder") or scene.get("city") or ""
     for fmt, size in CANVAS.items():
-        path = ROOT / "assets" / "united-kingdom" / city / f"{entry_id.lower()}-{fmt}.png"
+        # Cosmo locked the published masters at assets/pretext/united-kingdom/<City>/.
+        path = ROOT / "assets" / "pretext" / "united-kingdom" / city / f"{entry_id.lower()}-{fmt}.png"
         if not path.is_file():
             errors.append(f"missing master {path}")
             continue
@@ -125,15 +128,22 @@ def main() -> None:
         errors.append(f"data.json scene order is {ids}")
     by_id = {scene.get("entry_id"): scene for scene in scenes}
     for scene in scenes:
-        if scene.get("approval_status") == "Approved":
-            errors.append(f"{scene.get('entry_id')} is self-approved")
+        entry_id = scene.get("entry_id")
+        status = scene.get("approval_status")
+        if entry_id in COSMO_APPROVED_IDS:
+            if status != "Approved":
+                errors.append(f"{entry_id} must stay Approved")
+        elif status == "Approved":
+            errors.append(f"{entry_id} is self-approved")
         for key in (
             "format_16x9_approval_status",
             "format_4x5_approval_status",
             "format_9x16_approval_status",
         ):
-            if scene.get(key) == "Approved":
-                errors.append(f"{scene.get('entry_id')} {key} is self-approved")
+            # Format approvals on 001–010 live in index.html, which Cosmo set to Approved.
+            # data.json still records those format fields as Candidate. Do not require a flip here.
+            if entry_id not in COSMO_APPROVED_IDS and scene.get(key) == "Approved":
+                errors.append(f"{entry_id} {key} is self-approved")
 
     for invented in (
         ROOT / "word-of-day" / "en.json",
@@ -203,6 +213,37 @@ def main() -> None:
         for entry_id in EXPECTED_IDS:
             if entry_id not in html:
                 errors.append(f"{entry_id} missing from index.html")
+        marker = "const SCENES = "
+        start = html.find(marker)
+        end = html.find(";\n", start) if start >= 0 else -1
+        if start < 0 or end < 0:
+            errors.append("index.html has no SCENES array")
+        else:
+            page_scenes = json.loads(html[start + len(marker) : end])
+            page_ids = [scene.get("entry_id") for scene in page_scenes]
+            if page_ids != EXPECTED_IDS:
+                errors.append(f"index.html scene order is {page_ids}")
+            for scene in page_scenes:
+                entry_id = scene.get("entry_id")
+                if entry_id in COSMO_APPROVED_IDS:
+                    if scene.get("approval_status") != "Approved":
+                        errors.append(f"index.html downgraded {entry_id}")
+                    for key in (
+                        "format_16x9_approval_status",
+                        "format_4x5_approval_status",
+                        "format_9x16_approval_status",
+                    ):
+                        if scene.get(key) != "Approved":
+                            errors.append(f"index.html format status changed for {entry_id} {key}")
+                    for key in ("file_16x9", "file_4x5", "file_9x16"):
+                        rel = scene.get(key) or ""
+                        if not rel.startswith("assets/pretext/united-kingdom/London/"):
+                            errors.append(f"index.html path changed for {entry_id} {key}")
+                else:
+                    if scene.get("approval_status") != "Candidate":
+                        errors.append(f"index.html self-approved {entry_id}")
+                    if scene.get("format_9x16_approval_status") == "Approved":
+                        errors.append(f"index.html shows a 9:16 control for Candidate {entry_id}")
 
     robots = (ROOT / "robots.txt").read_text() if (ROOT / "robots.txt").is_file() else ""
     if "Sitemap: https://uk.jdvision.org/sitemap.xml" not in robots:
@@ -210,8 +251,20 @@ def main() -> None:
     if "Sitemap: https://uk.jdvision.org/image-sitemap.xml" not in robots:
         errors.append("robots.txt image sitemap is not the United Kingdom canon")
     image_sitemap = (ROOT / "image-sitemap.xml").read_text() if (ROOT / "image-sitemap.xml").is_file() else ""
-    if "<image:image>" in image_sitemap:
-        errors.append("image sitemap lists an image before any scene is approved")
+    if "9x16" in image_sitemap:
+        errors.append("image sitemap lists a 9:16 master")
+    for entry_id in EXPECTED_IDS:
+        if entry_id in COSMO_APPROVED_IDS:
+            stem = entry_id.lower()
+            for fmt in ("16x9", "4x5"):
+                loc = (
+                    "https://uk.jdvision.org/assets/pretext/united-kingdom/London/"
+                    f"{stem}-{fmt}.png"
+                )
+                if loc not in image_sitemap:
+                    errors.append(f"image sitemap missing approved {entry_id} {fmt}")
+        elif entry_id in image_sitemap:
+            errors.append(f"image sitemap lists Candidate {entry_id}")
     if errors:
         print("\n".join(errors))
         raise SystemExit(f"{len(errors)} qc failures")

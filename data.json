@@ -442,6 +442,388 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-051",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hampton Court Palace",
+      "place": "Richmond upon Thames",
+      "caption": "Hampton Court Palace, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the moat bridge looking east at the Great Gatehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tudor Great Gatehouse at Hampton Court Palace under a grey overcast afternoon sky",
+      "description": "From the moat bridge the view looks east at the Great Gatehouse of Hampton Court Palace, a red-brick Tudor front with dark diaper patterns, two octagonal turrets and lead cupolas, and heraldic stone beasts along the parapet. The later baroque ranges are not in the frame. It is a dry overcast afternoon, about 21.6°C, and the sun is not in the sky.",
+      "viewpoint": "Public viewpoint on the moat bridge west of Hampton Court Palace, looking east at the Great Gatehouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.hrp.org.uk/hampton-court-palace/",
+        "https://en.wikipedia.org/wiki/Hampton_Court_Palace"
+      ],
+      "anchors": [
+        "The Great Gatehouse is the Tudor west front, red brick with dark diaper patterns and two octagonal turrets",
+        "Heraldic stone beasts line the moat bridge in front of the single central arch",
+        "The astronomical clock and Wren's baroque east front are not part of this view"
+      ],
+      "solar": "After sunrise. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.3°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-051-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-051-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-051-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-052",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kew Gardens Palm House",
+      "place": "Richmond upon Thames",
+      "caption": "Kew Gardens Palm House, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the pond looking east at the Palm House · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Palm House at Kew Gardens reflected in the pond under a grey overcast afternoon sky",
+      "description": "From the west side of the pond the view looks east at the Palm House at Kew, Decimus Burton's curved iron-and-glass conservatory, the tall central vault and the two lower wings reflected in still water. No other glasshouse is in the frame. The afternoon is overcast and dry, about 22.0°C, with no sun disk.",
+      "viewpoint": "Public viewpoint on the west side of the Palm House pond at Kew Gardens, looking east at the curved glasshouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.kew.org/",
+        "https://en.wikipedia.org/wiki/Kew_Gardens"
+      ],
+      "anchors": [
+        "The Palm House is a curved iron-and-glass conservatory with a taller central vault and two lower wings",
+        "White-painted iron ribs and a stone base sit above the pond",
+        "The Kew Pagoda and the Princess of Wales Conservatory are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.3°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-052-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-052-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-052-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-053",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Old Bailey",
+      "place": "City of London",
+      "caption": "Old Bailey, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the street looking up at the dome and Lady Justice · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Bailey dome and the gilt figure of Lady Justice under a grey overcast afternoon sky",
+      "description": "From the street the view looks up at the dome of the Old Bailey, the Central Criminal Court, a green copper dome and a gilt figure of Lady Justice with open eyes, a sword, and scales. The statue is the crown of the stone drum. It is a dry overcast afternoon, about 22.7°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on Old Bailey, looking up at the dome of the Central Criminal Court. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.cityoflondon.gov.uk/",
+        "https://en.wikipedia.org/wiki/Old_Bailey"
+      ],
+      "anchors": [
+        "The Old Bailey is the Central Criminal Court, an Edwardian baroque stone building with a copper dome",
+        "A gilt figure of Lady Justice stands on the lantern, eyes open, with a sword and scales",
+        "The Royal Courts of Justice on the Strand are a different building and are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-053-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-053-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-053-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-054",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Temple Church",
+      "place": "City of London",
+      "caption": "Temple Church, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the church court looking at the round nave · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the round Norman nave of Temple Church in London under a grey overcast afternoon sky",
+      "description": "From the church court the view takes in Temple Church's round Norman nave, a circular limestone drum with a conical roof, round-arched windows, and stout buttresses, with the chancel lower to one side. There is no tower competing with the round church. The afternoon is overcast and dry, about 22.8°C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint in the Inner Temple church court, looking north at the round nave of Temple Church. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.templechurch.com/",
+        "https://en.wikipedia.org/wiki/Temple_Church"
+      ],
+      "anchors": [
+        "Temple Church's nave is round, a Norman circular drum rather than a rectangular parish nave",
+        "The roof over the round nave is conical, with round-arched windows and thick buttresses",
+        "A lower chancel is attached; the Royal Courts of Justice are not in this court"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-054-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-054-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-054-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-055",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Exchange",
+      "place": "City of London",
+      "caption": "Royal Exchange, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · Bank junction looking east at the west portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Exchange west portico in the City of London under a grey overcast afternoon sky",
+      "description": "From Bank junction the view looks east at the west portico of the Royal Exchange, eight Corinthian columns under a sculpted pediment, with the stone tower and its weathervane rising behind. The Bank of England and Mansion House are not the subject. It is a dry overcast afternoon, about 22.8°C, with no sun in the sky.",
+      "viewpoint": "Public viewpoint at Bank junction, looking east at the west portico of the Royal Exchange. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.theroyalexchange.co.uk/",
+        "https://en.wikipedia.org/wiki/Royal_Exchange,_London"
+      ],
+      "anchors": [
+        "The west front is a Corinthian portico of eight columns under a sculpted pediment",
+        "A stone tower with a weathervane rises behind that portico",
+        "The windowless Bank of England screen and the Mansion House portico are different buildings and are not the subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-055-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-055-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-055-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-056",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lloyd's Building",
+      "place": "City of London",
+      "caption": "Lloyd's Building, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · Lime Street looking up at the external service towers · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lloyd's Building service towers on Lime Street under a grey overcast afternoon sky",
+      "description": "From Lime Street the view looks up at the Lloyd's Building, stainless-steel service towers, exposed ducts, blue roof cranes, and yellow service pods wrapped around a glass core. No other City tower is in the frame. The afternoon is overcast and dry, about 22.8°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on Lime Street, looking up at the external service towers of the Lloyd's Building. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.lloyds.com/",
+        "https://en.wikipedia.org/wiki/Lloyd%27s_building"
+      ],
+      "anchors": [
+        "The Lloyd's Building turns its services outward: stainless towers, ducts, and yellow pods",
+        "Blue maintenance cranes sit on the roof",
+        "30 St Mary Axe and the Leadenhall Building are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-056-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-056-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-056-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-057",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "One Canada Square",
+      "place": "Tower Hamlets",
+      "caption": "One Canada Square, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the plaza looking up at the pyramid crown · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of One Canada Square and its pyramid roof at Canary Wharf under a grey overcast afternoon sky",
+      "description": "From the plaza the view looks up at One Canada Square, the stainless-steel Canary Wharf tower and its square pyramid crown against a flat grey sky. The pyramid is the subject, and no second tower matches its height. It is a dry overcast afternoon, about 22.8°C, with no sun disk.",
+      "viewpoint": "Public viewpoint on the plaza west of One Canada Square, looking up at the pyramid crown. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://canarywharf.com/",
+        "https://en.wikipedia.org/wiki/One_Canada_Square"
+      ],
+      "anchors": [
+        "One Canada Square is the stainless-steel tower at the centre of Canary Wharf",
+        "The roof is a square pyramid with a small beacon, not a glass splinter",
+        "The Shard is a different building and is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-057-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-057-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-057-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-058",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "City Hall",
+      "place": "Southwark",
+      "caption": "City Hall, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the Queen's Walk looking at the glass bulb · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the leaning glass City Hall on the Queen's Walk in Southwark under a grey overcast afternoon sky",
+      "description": "From the Queen's Walk the view is filled by the former City Hall, Norman Foster's leaning glass bulb, the spiral inside faintly visible through the glass and the river only a thin foreground. Tower Bridge is not in the frame. The afternoon is overcast and dry, about 23.0°C, and the sun is hidden.",
+      "viewpoint": "Public viewpoint on the Queen's Walk west of the former City Hall, looking east at the glass bulb, with Tower Bridge behind the camera. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.fosterandpartners.com/",
+        "https://en.wikipedia.org/wiki/City_Hall,_London_(Southwark)"
+      ],
+      "anchors": [
+        "The former City Hall is a leaning glass ovoid on the Queen's Walk, not a rectangular block",
+        "A spiral ramp reads faintly through the glass above a stone plinth",
+        "Tower Bridge stands east of the building and is kept out of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.1°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-058-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-058-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-058-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-059",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Stadium",
+      "place": "Newham",
+      "caption": "London Stadium, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · the park looking at the bowl and floodlight towers · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Stadium and its triangular floodlight towers in Stratford under a grey overcast afternoon sky",
+      "description": "From the park the view looks across the grass at the London Stadium, the white elliptical roof and the tall triangular floodlight towers reading as one bowl. The red Orbit sculpture is not in the frame. It is a dry overcast afternoon, about 22.9°C, with no sun in the sky.",
+      "viewpoint": "Public viewpoint in Queen Elizabeth Olympic Park, looking south at the London Stadium. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.london-stadium.com/",
+        "https://en.wikipedia.org/wiki/London_Stadium"
+      ],
+      "anchors": [
+        "The London Stadium is the former Olympic stadium in Stratford, a white elliptical bowl",
+        "Tall triangular floodlight towers rise above the cable-stayed roof",
+        "The ArcelorMittal Orbit and the Wembley arch are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.0°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-059-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-059-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-059-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-060",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Wembley Stadium",
+      "place": "Brent",
+      "caption": "Wembley Stadium, London",
+      "scenario_label": "30 September 2026 · 17:01 Europe/London",
+      "composition": "Overcast afternoon · Olympic Way looking south at the arch · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the white lattice arch at Wembley Stadium under a grey overcast afternoon sky",
+      "description": "From Olympic Way the view looks south at the Wembley Stadium arch, the white lattice parabola spanning the bowl, both feet of the arch in frame and the stadium subordinate beneath it. It is a dry overcast afternoon, about 22.2°C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint on Olympic Way, looking south at the Wembley Stadium arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.wembleystadium.com/",
+        "https://en.wikipedia.org/wiki/Wembley_Stadium"
+      ],
+      "anchors": [
+        "The Wembley arch is a white lattice-steel parabola spanning the north side of the stadium",
+        "Both feet of the arch are in the frame, and the bowl sits beneath it",
+        "The London Stadium's triangular floodlights are a different structure and are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 17:01 Europe/London. Calculated solar azimuth is west-southwest, about 246°, and elevation is about 14.2°. The disk is hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-060-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-060-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-060-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

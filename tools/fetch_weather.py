@@ -50,6 +50,19 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
+    # London late-afternoon batch, 30 September 2026. England only.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    # UK-01-053 is the Old Bailey, substituted for the Churchill War Rooms entrance.
+    ("UK-01-051", "Hampton Court Palace", "London", 51.40330, -0.33780, "Europe/London"),
+    ("UK-01-052", "Kew Gardens Palm House", "London", 51.47890, -0.29550, "Europe/London"),
+    ("UK-01-053", "Old Bailey", "London", 51.51555, -0.10195, "Europe/London"),
+    ("UK-01-054", "Temple Church", "London", 51.51305, -0.11050, "Europe/London"),
+    ("UK-01-055", "Royal Exchange", "London", 51.51340, -0.08760, "Europe/London"),
+    ("UK-01-056", "Lloyd's Building", "London", 51.51300, -0.08240, "Europe/London"),
+    ("UK-01-057", "One Canada Square", "London", 51.50520, -0.02120, "Europe/London"),
+    ("UK-01-058", "City Hall", "London", 51.50475, -0.07845, "Europe/London"),
+    ("UK-01-059", "London Stadium", "London", 51.53870, -0.01660, "Europe/London"),
+    ("UK-01-060", "Wembley Stadium", "London", 51.55820, -0.27950, "Europe/London"),
 ]
 
 
