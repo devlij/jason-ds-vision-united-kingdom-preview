@@ -50,9 +50,17 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
-    # London late-afternoon batch, 30 September 2026. England only.
-    # 021, 022, and 026 are substitutes. British Museum, Nelson's Column, and
-    # the London Eye are already Approved as UK-01-009, UK-01-006, and UK-01-010.
+    # London afternoon batch, 30 September 2026. England only.
+    ("UK-01-011", "Natural History Museum", "London", 51.49605, -0.17640, "Europe/London"),
+    ("UK-01-012", "Covent Garden Market", "London", 51.51140, -0.12290, "Europe/London"),
+    ("UK-01-013", "Westminster Abbey", "London", 51.49950, -0.12880, "Europe/London"),
+    ("UK-01-014", "Tate Modern", "London", 51.50815, -0.09940, "Europe/London"),
+    ("UK-01-015", "Kensington Palace", "London", 51.50500, -0.18550, "Europe/London"),
+    ("UK-01-016", "Piccadilly Circus", "London", 51.50970, -0.13440, "Europe/London"),
+    ("UK-01-017", "Cutty Sark", "London", 51.48335, -0.00950, "Europe/London"),
+    ("UK-01-018", "HMS Belfast", "London", 51.50615, -0.08150, "Europe/London"),
+    ("UK-01-019", "Southwark Cathedral", "London", 51.50575, -0.08960, "Europe/London"),
+    ("UK-01-020", "St Pancras", "London", 51.52870, -0.12550, "Europe/London"),,
     ("UK-01-021", "Royal Albert Hall", "London", 51.50042, -0.17728, "Europe/London"),
     ("UK-01-022", "30 St Mary Axe", "London", 51.51412, -0.08105, "Europe/London"),
     ("UK-01-023", "Shakespeare's Globe", "London", 51.50772, -0.09722, "Europe/London"),
