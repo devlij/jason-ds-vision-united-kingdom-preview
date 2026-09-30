@@ -442,6 +442,389 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-091",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Spencer House",
+      "place": "Westminster",
+      "caption": "Spencer House, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Clear night · Green Park looking east at the west facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Spencer House west facade from Green Park in London on a clear night",
+      "description": "From the Green Park lawn the view looks east at the west facade of Spencer House, a compact Portland-stone townhouse front with a rusticated arcade, a piano nobile of pedimented windows, and a pediment set on the wall. There is no deep temple porch and no red-brick wing. It is a clear night, about 20.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Green Park lawn west of Spencer House, looking east at the west facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.spencerhouse.co.uk/",
+        "https://en.wikipedia.org/wiki/Spencer_House,_Westminster"
+      ],
+      "anchors": [
+        "The Green Park front is John Vardy's mid-18th-century Portland-stone facade, a townhouse elevation rather than a country-house portico",
+        "A rusticated ground floor of arches carries a piano nobile of pedimented windows and a pediment applied to the wall",
+        "The giant Ionic porch of Osterley Park House and the east front of Buckingham Palace are different buildings and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-091-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-091-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-091-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-092",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Middle Temple Hall",
+      "place": "City of London",
+      "caption": "Middle Temple Hall, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Partly cloudy night · Fountain Court looking south at the hall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Middle Temple Hall from Fountain Court in London on a partly cloudy night",
+      "description": "From Fountain Court the view looks south at Middle Temple Hall, a long Elizabethan brick range with stone-mullioned windows, a crenellated parapet, and a lantern on the ridge. The round fountain sits in the near court and does not replace the hall. It is a partly cloudy night, about 20.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Fountain Court, north of Middle Temple Hall, looking south at the hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.middletemple.org.uk/about-us/middle-temple-hall",
+        "https://en.wikipedia.org/wiki/Middle_Temple"
+      ],
+      "anchors": [
+        "Middle Temple Hall is the Elizabethan brick hall of the Inn, with stone-mullioned windows and a roof lantern",
+        "Fountain Court and its round stone fountain lie north of the hall in this view",
+        "Temple Church's round nave is a different building and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-092-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-092-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-092-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-093",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Charterhouse",
+      "place": "Islington",
+      "caption": "Charterhouse, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Partly cloudy night · Charterhouse Square looking west at the gatehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Charterhouse gatehouse from Charterhouse Square in London on a partly cloudy night",
+      "description": "From Charterhouse Square the view looks west at the Charterhouse gatehouse, flint and pale stone, with a four-centred arch, an oriel over the entrance, and the chapel tower and cupola behind. It is a partly cloudy night, about 20.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Charterhouse Square, looking west at the Charterhouse gatehouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://thecharterhouse.org/",
+        "https://en.wikipedia.org/wiki/London_Charterhouse"
+      ],
+      "anchors": [
+        "The public front on Charterhouse Square is the Tudor gatehouse of flint and stone",
+        "A four-centred arch and an oriel mark the entrance, with the chapel tower and cupola behind",
+        "St Bartholomew-the-Great is a different church and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-093-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-093-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-093-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-094",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Museum of London Docklands",
+      "place": "Tower Hamlets",
+      "caption": "Museum of London Docklands, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Overcast night · West India Quay looking north at the warehouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Museum of London Docklands warehouse at West India Quay on an overcast night",
+      "description": "From the quay the view looks north across still dock water at No. 1 Warehouse, the Museum of London Docklands, a long stock-brick range with a regular grid of sash windows and a dark hipped roof. The brick is reflected in the water. It is an overcast night, about 20.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south side of West India Quay, looking north at No. 1 Warehouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.londonmuseum.org.uk/visit/museum-london-docklands/",
+        "https://en.wikipedia.org/wiki/Museum_of_London_Docklands"
+      ],
+      "anchors": [
+        "No. 1 Warehouse is the early-19th-century stock-brick warehouse on West India Quay that houses the museum",
+        "The river front is a long regular grid of sash windows under a hipped roof, reflected in the dock",
+        "The sail-shaped footbridge and the later glass towers are not the subject of this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 274°, and elevation is about -6.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-094-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-094-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-094-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-095",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Greenwich Market",
+      "place": "Greenwich",
+      "caption": "Greenwich Market, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Overcast night · inside the covered market hall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the covered hall at Greenwich Market in London on an overcast night",
+      "description": "Inside Greenwich Market the covered hall is the subject: a pitched glazed roof on iron trusses over a brick courtyard of arches, with plain canvas stalls below. The ship, the Queen's House, and the Naval College domes are not in the frame. It is an overcast night, about 20.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint inside the covered hall of Greenwich Market, looking along the roof and the brick arcades. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.greenwichmarket.london/",
+        "https://en.wikipedia.org/wiki/Greenwich_Market"
+      ],
+      "anchors": [
+        "Greenwich Market's subject here is the covered hall, a glazed roof on iron trusses over a brick arcade",
+        "The stalls sit under that roof; the frame is not an open street",
+        "The Cutty Sark, the Queen's House, and the Old Royal Naval College are different sites and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 274°, and elevation is about -6.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-095-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-095-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-095-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-096",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Cabot Square",
+      "place": "Tower Hamlets",
+      "caption": "Cabot Square, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Overcast night · the south side of the square looking north at the fountain · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Cabot Square fountain in Canary Wharf on an overcast night",
+      "description": "From the south side of Cabot Square the circular fountain and its ring of jets fill the frame, with mid-rise curved glass offices at the sides. One Canada Square's pyramid roof is not in the picture. It is an overcast night, about 20.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south side of Cabot Square, looking north at the fountain. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://canarywharf.com/",
+        "https://en.wikipedia.org/wiki/Cabot_Square"
+      ],
+      "anchors": [
+        "The primary subject is the circular fountain in Cabot Square, a ring of jets in the paved square",
+        "The buildings at the sides are the mid-rise curved offices of the square, not a supertall tower",
+        "One Canada Square, the pyramid-roofed tower, is a different subject and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 274°, and elevation is about -6.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-096-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-096-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-096-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-097",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Tottenham Hotspur Stadium",
+      "place": "Haringey",
+      "caption": "Tottenham Hotspur Stadium, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Overcast night · the south plaza looking north at the south stand · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the south stand of Tottenham Hotspur Stadium in London on an overcast night",
+      "description": "From the south plaza the view looks north at the south stand of Tottenham Hotspur Stadium, a faceted glass wall with a pale diagonal steel lattice and a sharp roof. There is no arch and no red bowl. It is an overcast night, about 20.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south plaza of Tottenham Hotspur Stadium, looking north at the south stand. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.tottenhamhotspurstadium.com/",
+        "https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium"
+      ],
+      "anchors": [
+        "The south stand is the 2019 stadium's glass-and-steel wall, a diagonal lattice under a sharp roof",
+        "The cladding reads pale silver, not a red bowl",
+        "Wembley's arch, the London Stadium masts, and the Emirates bowl are different grounds and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 274°, and elevation is about -6.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-097-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-097-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-097-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-098",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Twickenham Stadium",
+      "place": "Richmond upon Thames",
+      "caption": "Twickenham Stadium, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Clear night · the east forecourt looking west at the east stand · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the east stand of Twickenham Stadium in London on a clear night",
+      "description": "From the east forecourt the view looks west at Twickenham Stadium's east stand, a broad mass of vertical silver ribs under a flat cantilevered roof, with trees at the sides. It is not the diagonal glass lattice of another ground and it has no arch. It is a clear night, about 20.0°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the east forecourt of Twickenham Stadium, looking west at the east stand. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.twickenhamstadium.com/",
+        "https://en.wikipedia.org/wiki/Twickenham_Stadium"
+      ],
+      "anchors": [
+        "The east stand is a broad stadium wall of vertical metal ribs under a deep flat roof",
+        "Trees and an open forecourt sit in front of the stand",
+        "Tottenham Hotspur Stadium's diagonal glass lattice and Wembley's arch are different structures and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-098-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-098-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-098-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-099",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kew Gardens Temperate House",
+      "place": "Richmond upon Thames",
+      "caption": "Kew Gardens Temperate House, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Clear night · the south lawn looking north at the glasshouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Temperate House at Kew Gardens in London on a clear night",
+      "description": "From the south lawn the view looks north at the Temperate House, a long white iron-and-glass range with a tall central pavilion, lower wings, and octagonal end blocks, lit from within. It is rectilinear, not the curved Palm House. It is a clear night, about 19.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south lawn of the Temperate House at Kew Gardens, looking north at the glasshouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.kew.org/kew-gardens/whats-in-the-gardens/temperate-house",
+        "https://en.wikipedia.org/wiki/Kew_Gardens"
+      ],
+      "anchors": [
+        "The Temperate House is Decimus Burton's rectilinear iron-and-glass house, with a taller central block and octagonal end pavilions",
+        "Lower wings link those blocks; the south elevation is the long front seen from the lawn",
+        "The Palm House is the curved glasshouse elsewhere in the gardens and is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-099-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-099-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-099-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-100",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Osterley Park House",
+      "place": "Hounslow",
+      "caption": "Osterley Park House, London",
+      "scenario_label": "30 September 2026 · 19:17 Europe/London",
+      "composition": "Clear night · the south lawn looking north at the portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the south front of Osterley Park House in London on a clear night",
+      "description": "From the south lawn the view looks north at Osterley Park House, red brick with a giant white Ionic portico of six columns, a pediment, and a broad stair. The park is open and there is no street. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south lawn of Osterley Park House, looking north at the portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/osterley-park-and-house",
+        "https://en.wikipedia.org/wiki/Osterley_Park"
+      ],
+      "anchors": [
+        "The south front is Robert Adam's red-brick house with a giant white Ionic portico of six columns",
+        "The portico is two storeys high, with a pediment and a broad stair up from the lawn",
+        "Hampton Court Palace and Spencer House are different buildings and are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 19:17 Europe/London. Calculated solar azimuth is west, about 273°, and elevation is about -6.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-100-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-100-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-100-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
