@@ -1,0 +1,131 @@
+United Kingdom London batch UK-01-011 through UK-01-020
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge until Cosmo signs off.
+UK-01-001 through UK-01-010 stay Approved. Their masters, weather, hashes, and statuses were not regenerated.
+
+Every new scene is genuine afternoon daylight on 30 September 2026, Europe/London.
+Sunrise at these pins is 06:58 or 06:59. The retrievals were not backdated.
+Scenario minutes are the retrieval minutes and sit inside each scene's own model-valid hour (15:00–15:59).
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+WMO code 0, cloud cover 0%, dry, model is_day 1.
+
+Subject notes:
+UK-01-014 primary subject is Tate Modern's Bankside chimney. The Millennium Bridge view was not used, because that view's vanishing point is St Paul's Cathedral, already Approved as UK-01-004.
+UK-01-019 primary subject is Southwark Cathedral. Borough Market stalls were left out so the frame has one subject.
+UK-01-020 primary subject is the St Pancras Midland Hotel clock tower, not the King's Cross facade.
+UK-01-013 is the Abbey west front only, distinct from Elizabeth Tower UK-01-002.
+UK-01-017 is the Cutty Sark, distinct from the Royal Observatory UK-01-008.
+UK-01-018 keeps Tower Bridge out of frame so it does not collide with UK-01-001.
+
+Aerial: cloud cover is 0%, under the 30% gate, and the hour is daylight.
+BACKFILL for UK-01-011, UK-01-012, UK-01-013, UK-01-014, UK-01-015, UK-01-016, UK-01-017, UK-01-018, UK-01-019, and UK-01-020.
+No 15s 360° file is on disk. Still masters ship. Motion control stays off because no motion file is on disk.
+
+UK-01-011 Natural History Museum (Kensington and Chelsea)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:09:44+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:09 Europe/London
+  cloud: 0% code 0 23.8C
+  SHA-256 16x9: 61609bb8f11f7201c3a6411879212f2b836155aaf5b82b84ac312e302358c38d
+  SHA-256 4x5: eb3ce87e8eee1fd68e24c35eca7dfeec046b7de7e334f7d66aa25be996247adb
+  SHA-256 9x16: b5e9afd7efc65b200d4d1db155326f90957a2cffc3fa9781f7c12877be947baa
+
+UK-01-012 Covent Garden Market (Camden)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:09:47+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:09 Europe/London
+  cloud: 0% code 0 23.8C
+  SHA-256 16x9: dd86653f10776f0cc22e73f73743688a3b2e8820f2d56d099d9eb3d6e53e73ac
+  SHA-256 4x5: cc0a04b144d86a946e3cda2872b4e778398906763634fc33d743f512114f7982
+  SHA-256 9x16: 313d957bc6269b5632ae7702d622a3ca4ec3be8d0cccf7d3efac8e34b0d59fc6
+
+UK-01-013 Westminster Abbey (Westminster)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:09:49+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:09 Europe/London
+  cloud: 0% code 0 23.9C
+  SHA-256 16x9: a4b2966e1e796a9edeaa78fd543a32b47d9dd4d3fcb99e4746f3f01b91531cbd
+  SHA-256 4x5: c0413699d05298a9a905f2e67d863cc59a77e8e498653337472e12f177fb0838
+  SHA-256 9x16: 3efde12f2b99aeb6a852468d9a782e0b75dd3996a0055841f73357ca206031f7
+
+UK-01-014 Tate Modern (Southwark)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:09:52+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:09 Europe/London
+  cloud: 0% code 0 23.8C
+  SHA-256 16x9: e7b86dd9686aa120ddac048a3507bc4f806d5b68b913355664577fc62770db49
+  SHA-256 4x5: 8eb8c065e96d0280fa98f7b60d4b960a43b4bdb1efe0f57a62ab6c48505f3de8
+  SHA-256 9x16: 16f9244ace62bdfbeb107b83dc7c41de16f926b165c1e35ab26ddcfda9af9827
+
+UK-01-015 Kensington Palace (Kensington and Chelsea)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:10:48+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:10 Europe/London
+  cloud: 0% code 0 23.7C
+  SHA-256 16x9: 9243ef650acf7b91f9d9b7ce43ef1bbf09fc8ff1cc799301daec136d40b74552
+  SHA-256 4x5: f3dc383fb017a332721b320ec96989caeeaee9b3865c06492eb52692116d0a8e
+  SHA-256 9x16: 45f37ea00cf7410c95d2184ab9c51e2331fdeed3531ea9f91906e7267b7e74fb
+
+UK-01-016 Piccadilly Circus (Westminster)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:10:51+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:10 Europe/London
+  cloud: 0% code 0 23.7C
+  SHA-256 16x9: 427f1842d970c1c255a0267c71375b761dcb5456dd3ffe39beebeae029e768d2
+  SHA-256 4x5: a778047afbd55024b13a98381da110871a00e093d2ef4f951c8dcee125e350b9
+  SHA-256 9x16: 0883f9c7e9204d85f162a15d5dd27f26cf5e57d2913a811be8ead4ef8822196f
+
+UK-01-017 Cutty Sark (Greenwich)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:10:53+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:10 Europe/London
+  cloud: 0% code 0 23.7C
+  SHA-256 16x9: b23dedcf5a093fc97b68df94fc97192c3440df742dde934abfa86600aca7107d
+  SHA-256 4x5: cbce6280653a2c5f4a796a7703e549ea43ab3e7c22708b24c5484a79a728b34a
+  SHA-256 9x16: 9b818f379da1d8019af3655b3998009cf86f091cadc586ffaa123d3e0fe0cf26
+
+UK-01-018 HMS Belfast (Southwark)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:10:55+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:10 Europe/London
+  cloud: 0% code 0 24.0C
+  SHA-256 16x9: e56489c6f1e1e0932ec4122bce7532e89f1e00a4a9d01159a1392f46329bb68c
+  SHA-256 4x5: 2c77cab5e13f755a4cbc53962ff97c2647ea48e7895ff1aa4f9b4afe5dcecb03
+  SHA-256 9x16: 2f7c062596a2bcb7a9a4f998fc9c0f84351410a4a513b5efb22422199350cfc8
+
+UK-01-019 Southwark Cathedral (Southwark)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:10:58+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:10 Europe/London
+  cloud: 0% code 0 23.8C
+  SHA-256 16x9: 883d6ff4349a19eea3fff73d874b31cc0b60ba4715c71e7a20a52ed6a4237da8
+  SHA-256 4x5: 8cf98b22d75d07e79ea17fe1dafee36ca7a70c854789ac90dd6bc41c365aeedd
+  SHA-256 9x16: 5f4ce5981198055ea22724632b43a18c326aa93b07eedc526bd4cddbe94792cf
+
+UK-01-020 St Pancras (Camden)
+  day/night: day
+  aerial: backfill (cloud gate open at 0%; no motion file)
+  retrieval: 2026-09-30T15:11:00+01:00
+  model time: 2026-09-30T15:00
+  scenario: 30 September 2026 · 15:11 Europe/London
+  cloud: 0% code 0 23.7C
+  SHA-256 16x9: b497a610b28d52294ea4cf7ed9d565461dd26b63c4b479ee0f769a052766bf32
+  SHA-256 4x5: 94c1086ea441734abe8abf3f2f2f6acadf32710ce4b41597261acfbaa4549659
+  SHA-256 9x16: 794a05f0f6e1062e79377f4f82b8f1e15580cef9ac1fe45605fb1e394f64ad3b

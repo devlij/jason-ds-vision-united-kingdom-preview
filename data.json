@@ -442,6 +442,390 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-011",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Natural History Museum",
+      "place": "Kensington and Chelsea",
+      "caption": "Natural History Museum, London",
+      "scenario_label": "30 September 2026 · 15:09 Europe/London",
+      "composition": "Clear afternoon · Cromwell Road looking north at the Romanesque front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Natural History Museum on Cromwell Road in London under a clear afternoon sky",
+      "description": "From the Cromwell Road pavement the view looks north at the Natural History Museum, Waterhouse's Romanesque front with two towers, banded stone, and the great arched entrance. The afternoon is clear and dry, about 23.8°C, and the sun is in the southwest. The facade is fully in the frame.",
+      "viewpoint": "Public viewpoint on the south side of Cromwell Road, looking north at the museum's main front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nhm.ac.uk/",
+        "https://en.wikipedia.org/wiki/Natural_History_Museum,_London"
+      ],
+      "anchors": [
+        "The Cromwell Road front is Alfred Waterhouse's Romanesque facade, with two symmetrical towers",
+        "The entrance is a deep arch under a rose window, in banded stone and terracotta",
+        "The museum's main public front faces south onto Cromwell Road"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:09 Europe/London. Calculated solar azimuth is southwest and elevation is about 28.1°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-011-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-011-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-011-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-012",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Covent Garden Market",
+      "place": "Camden",
+      "caption": "Covent Garden Market, London",
+      "scenario_label": "30 September 2026 · 15:09 Europe/London",
+      "composition": "Clear afternoon · the piazza looking at the central market hall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Covent Garden market hall in London under a clear afternoon sky",
+      "description": "From the piazza the view looks at Covent Garden's central market hall, the pale stone arcade and the glass-and-iron roof. The sky is clear, about 23.8°C, dry, with the afternoon sun in the southwest. Shop lettering was not sought in the frame.",
+      "viewpoint": "Public viewpoint in the Covent Garden piazza, looking at the central market building. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.coventgarden.london/",
+        "https://en.wikipedia.org/wiki/Covent_Garden"
+      ],
+      "anchors": [
+        "The central building is Charles Fowler's 1830 market hall",
+        "A stone arcade runs along the ground floor, with a pitched glass-and-iron roof above",
+        "The hall stands in the piazza and is the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:09 Europe/London. Calculated solar azimuth is southwest and elevation is about 28.0°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-012-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-012-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-012-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-013",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Westminster Abbey",
+      "place": "Westminster",
+      "caption": "Westminster Abbey, London",
+      "scenario_label": "30 September 2026 · 15:09 Europe/London",
+      "composition": "Clear afternoon · Broad Sanctuary looking east at the west front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the west front of Westminster Abbey in London under a clear afternoon sky",
+      "description": "From Broad Sanctuary the view looks east at the west front of Westminster Abbey, the twin Gothic towers, the rose window, and the three portals. Elizabeth Tower is outside this frame. It is a clear dry afternoon, about 23.9°C, with the sun in the southwest.",
+      "viewpoint": "Public viewpoint on Broad Sanctuary, looking east at the west front of Westminster Abbey. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.westminster-abbey.org/",
+        "https://en.wikipedia.org/wiki/Westminster_Abbey"
+      ],
+      "anchors": [
+        "The west front has two square Gothic towers, a rose window, and three deep portals",
+        "The stone is pale limestone, with statue niches across the facade",
+        "Elizabeth Tower and the Palace of Westminster are not the subject of this view"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:09 Europe/London. Calculated solar azimuth is southwest and elevation is about 28.0°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-013-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-013-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-013-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-014",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Tate Modern",
+      "place": "Southwark",
+      "caption": "Tate Modern, London",
+      "scenario_label": "30 September 2026 · 15:09 Europe/London",
+      "composition": "Clear afternoon · Bankside looking at the brick chimney · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Tate Modern and its brick chimney in London under a clear afternoon sky",
+      "description": "From the Bankside walk the view looks at Tate Modern, the brick hall of the former power station and its tall rectangular chimney. St Paul's and the Millennium Bridge are not the subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.",
+      "viewpoint": "Public viewpoint on the Bankside riverside walk, looking at the Tate Modern chimney and brick facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.tate.org.uk/visit/tate-modern",
+        "https://en.wikipedia.org/wiki/Tate_Modern"
+      ],
+      "anchors": [
+        "Tate Modern occupies the former Bankside Power Station, a long brown-brick hall",
+        "A single tall rectangular brick chimney is the primary subject",
+        "The Millennium Bridge and St Paul's Cathedral are not the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:09 Europe/London. Calculated solar azimuth is southwest and elevation is about 28.0°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-014-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-014-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-014-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-015",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kensington Palace",
+      "place": "Kensington and Chelsea",
+      "caption": "Kensington Palace, London",
+      "scenario_label": "30 September 2026 · 15:10 Europe/London",
+      "composition": "Clear afternoon · Kensington Gardens looking west at the east front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Kensington Palace east front in London under a clear afternoon sky",
+      "description": "From Kensington Gardens the view looks west at the red-brick east front of Kensington Palace, white sash windows, and the central pediment. The sky is clear, about 23.7°C, dry, and the sun is in the southwest. The palace front is the whole subject.",
+      "viewpoint": "Public viewpoint in Kensington Gardens east of the palace, looking west at the east front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.hrp.org.uk/kensington-palace/",
+        "https://en.wikipedia.org/wiki/Kensington_Palace"
+      ],
+      "anchors": [
+        "The east front is red brick with white sash windows, facing Kensington Gardens",
+        "A central pediment and cupola sit on the symmetrical front",
+        "This is not the Buckingham Palace east front"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:10 Europe/London. Calculated solar azimuth is southwest and elevation is about 28.0°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-015-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-015-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-015-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-016",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Piccadilly Circus",
+      "place": "Westminster",
+      "caption": "Piccadilly Circus, London",
+      "scenario_label": "30 September 2026 · 15:10 Europe/London",
+      "composition": "Clear afternoon · the circus centered on the Shaftesbury Memorial Fountain · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Shaftesbury Memorial Fountain at Piccadilly Circus in London under a clear afternoon sky",
+      "description": "From the circus the view is centered on the Shaftesbury Memorial Fountain, the bronze winged figure above the basin, with the curved stone quadrant behind it. Light panels carry no readable brands. It is a clear dry afternoon, about 23.7°C, with the sun in the southwest.",
+      "viewpoint": "Public viewpoint in Piccadilly Circus, looking at the Shaftesbury Memorial Fountain. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Piccadilly_Circus",
+        "https://en.wikipedia.org/wiki/Shaftesbury_Memorial_Fountain"
+      ],
+      "anchors": [
+        "The Shaftesbury Memorial Fountain carries a bronze winged figure, commonly called Eros",
+        "The circus is wrapped by a curved stone quadrant",
+        "Readable brand lettering was not sought on the light panels"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:10 Europe/London. Calculated solar azimuth is southwest and elevation is about 27.9°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-016-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-016-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-016-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-017",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Cutty Sark",
+      "place": "Greenwich",
+      "caption": "Cutty Sark, London",
+      "scenario_label": "30 September 2026 · 15:10 Europe/London",
+      "composition": "Clear afternoon · the riverside looking at the clipper in its dry dock · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Cutty Sark clipper in Greenwich, London, under a clear afternoon sky",
+      "description": "From the riverside the view looks at the Cutty Sark in its Greenwich dry dock, the copper hull, bowsprit, and three masts. The Royal Observatory is not in this frame. The afternoon is clear and dry, about 23.7°C, with the sun in the southwest.",
+      "viewpoint": "Public viewpoint on the Greenwich riverside, looking at the Cutty Sark in the dry dock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.rmg.co.uk/cutty-sark",
+        "https://en.wikipedia.org/wiki/Cutty_Sark"
+      ],
+      "anchors": [
+        "Cutty Sark is a composite clipper preserved in a dry dock at Greenwich",
+        "The hull reads copper below the waterline, with three masts and a bowsprit",
+        "Flamsteed House and the Royal Observatory time ball are not in this view"
+      ],
+      "solar": "After sunrise. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 15:10 Europe/London. Calculated solar azimuth is southwest and elevation is about 27.9°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-017-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-017-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-017-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-018",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "HMS Belfast",
+      "place": "Southwark",
+      "caption": "HMS Belfast, London",
+      "scenario_label": "30 September 2026 · 15:10 Europe/London",
+      "composition": "Clear afternoon · the south bank looking north at the cruiser · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of HMS Belfast on the Thames in London under a clear afternoon sky",
+      "description": "From the south bank the view looks north at HMS Belfast, the grey cruiser's turrets, bridge, and masts, close enough that Tower Bridge stays out of the frame. It is clear and dry, about 24.0°C, with the sun in the southwest. The ship is the only subject.",
+      "viewpoint": "Public viewpoint on the south bank beside HMS Belfast, looking north at the ship. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.iwm.org.uk/visits/hms-belfast",
+        "https://en.wikipedia.org/wiki/HMS_Belfast"
+      ],
+      "anchors": [
+        "HMS Belfast is a Town-class light cruiser moored in the Pool of London",
+        "Gun turrets, the bridge, funnels, and masts identify the ship",
+        "Tower Bridge is kept out of the frame so it is not a second subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:10 Europe/London. Calculated solar azimuth is southwest and elevation is about 27.9°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-018-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-018-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-018-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-019",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Southwark Cathedral",
+      "place": "Southwark",
+      "caption": "Southwark Cathedral, London",
+      "scenario_label": "30 September 2026 · 15:10 Europe/London",
+      "composition": "Clear afternoon · the churchyard looking at the Gothic tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Southwark Cathedral in London under a clear afternoon sky",
+      "description": "From the churchyard the view looks at Southwark Cathedral, the Gothic tower with its corner pinnacles and the stone nave. Borough Market stalls are not in the frame, so the cathedral is the only subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.",
+      "viewpoint": "Public viewpoint in the cathedral churchyard, looking at the tower and nave of Southwark Cathedral. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://cathedral.southwark.anglican.org/",
+        "https://en.wikipedia.org/wiki/Southwark_Cathedral"
+      ],
+      "anchors": [
+        "Southwark Cathedral has a square Gothic tower with corner pinnacles",
+        "The nave is pale limestone beside that tower",
+        "Borough Market stalls are not included, so the cathedral is the single subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:10 Europe/London. Calculated solar azimuth is southwest and elevation is about 27.9°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-019-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-019-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-019-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-020",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Pancras",
+      "place": "Camden",
+      "caption": "St Pancras, London",
+      "scenario_label": "30 September 2026 · 15:11 Europe/London",
+      "composition": "Clear afternoon · Euston Road looking at the Midland Hotel clock tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the St Pancras clock tower in London under a clear afternoon sky",
+      "description": "From Euston Road the view looks at the St Pancras clock tower and the red-brick Gothic facade of the former Midland Grand Hotel. King's Cross station is not the subject. It is a clear dry afternoon, about 23.7°C, and the sun is in the southwest.",
+      "viewpoint": "Public viewpoint on Euston Road, looking north at the St Pancras Midland Hotel clock tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.marriott.com/en-us/hotels/lonpr-st-pancras-renaissance-hotel-london/overview/",
+        "https://en.wikipedia.org/wiki/St_Pancras_railway_station"
+      ],
+      "anchors": [
+        "The former Midland Grand Hotel is George Gilbert Scott's red-brick Gothic Revival front",
+        "The clock tower and spire are the defining part of that facade",
+        "The King's Cross trainshed is not the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 15:11 Europe/London. Calculated solar azimuth is southwest and elevation is about 27.9°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-020-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-020-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-020-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
