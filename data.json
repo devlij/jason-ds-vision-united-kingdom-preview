@@ -2747,6 +2747,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-141",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Highgate Cemetery",
+      "place": "Camden",
+      "caption": "Highgate Cemetery, London",
+      "scenario_label": "30 September 2026 \u00b7 23:36 Europe/London",
+      "composition": "Overcast night \u00b7 the gate looking into the Egyptian Avenue \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Egyptian Avenue doorway at Highgate Cemetery in London on an overcast night",
+      "description": "From the path at Highgate Cemetery West the view looks into the Egyptian Avenue, a lotus-column doorway and a dark barrel-vaulted passage of tomb doors cut into the bank. Ivy hangs over the plain stone. It is an overcast night, about 17.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public path at the Egyptian Avenue entrance of Highgate Cemetery West, off Swain's Lane, looking into the vaulted passage. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://highgatecemetery.org/",
+        "https://en.wikipedia.org/wiki/Highgate_Cemetery"
+      ],
+      "anchors": [
+        "A stone doorway with two lotus-capital columns and a plain lintel is set into an ivy bank",
+        "A barrel-vaulted passage beyond the doorway is lined with plain rectangular tomb doors",
+        "There is no hieroglyph frieze and no winged sun; this is not an Egyptian temple and not the Circle of Lebanon"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:36 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-141-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-141-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-141-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-142",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Cumberland Terrace",
+      "place": "Camden",
+      "caption": "Cumberland Terrace, London",
+      "scenario_label": "30 September 2026 \u00b7 23:36 Europe/London",
+      "composition": "Overcast night \u00b7 the park looking east at the central pavilion \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the cream stucco central pavilion of Cumberland Terrace in London on an overcast night",
+      "description": "From Regent's Park the view looks at the central pavilion of Cumberland Terrace, a cream-stucco screen with a Corinthian colonnade, a sculpted pediment, and statues along the roof. The long wings sit to either side. It is an overcast night, about 18.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the park side of the Outer Circle, looking east at the central pavilion of Cumberland Terrace. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1378620",
+        "https://en.wikipedia.org/wiki/Cumberland_Terrace"
+      ],
+      "anchors": [
+        "The centre is a cream-stucco pavilion with a giant Corinthian colonnade and a sculpted pediment",
+        "Statues stand along the roof balustrade",
+        "Buckingham Palace's garden front and Admiralty Arch are not this building"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:36 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-142-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-142-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-142-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-143",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Coal Drops Yard",
+      "place": "Camden",
+      "caption": "Coal Drops Yard, London",
+      "scenario_label": "30 September 2026 \u00b7 23:36 Europe/London",
+      "composition": "Overcast night \u00b7 the yard looking up at the kissing roofs \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the two touching roofs at Coal Drops Yard in London on an overcast night",
+      "description": "From the yard the two coal-drop sheds lift their roofs until the tips meet overhead, yellow brick and dark slate over arched openings. King's Cross station is not the subject. It is an overcast night, about 18.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the yard between the two coal drops at King's Cross, looking up at the point where the roofs meet. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.coaldropsyard.com/",
+        "https://en.wikipedia.org/wiki/Coal_Drops_Yard"
+      ],
+      "anchors": [
+        "Two long yellow-brick ranges have arched openings",
+        "Their roofs rise and touch above the yard",
+        "The St Pancras clock tower and the King's Cross trainshed are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:36 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-143-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-143-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-143-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-144",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Wilkins Building",
+      "place": "Camden",
+      "caption": "Wilkins Building, London",
+      "scenario_label": "30 September 2026 \u00b7 23:36 Europe/London",
+      "composition": "Overcast night \u00b7 the quadrangle looking at the portico and dome \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Wilkins Building portico and dome at University College London on an overcast night",
+      "description": "From the quadrangle the Wilkins Building shows a Corinthian portico and pediment, with the dome and lantern rising behind them. The dome is what separates this front from the British Museum. It is an overcast night, about 18.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public quadrangle of University College London, looking north at the Wilkins Building portico and the dome behind it. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.ucl.ac.uk/about/history",
+        "https://en.wikipedia.org/wiki/Main_Building_of_University_College_London"
+      ],
+      "anchors": [
+        "A pale stone Corinthian portico carries a triangular pediment",
+        "A dome and lantern rise directly behind the pediment",
+        "The British Museum's columned front has no dome in the street view and is not this building"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:36 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-144-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-144-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-144-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-145",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Mary-le-Strand",
+      "place": "Westminster",
+      "caption": "St Mary-le-Strand, London",
+      "scenario_label": "30 September 2026 \u00b7 23:36 Europe/London",
+      "composition": "Overcast night \u00b7 the Strand looking at the west front and spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Mary-le-Strand, the baroque church on its island in London, on an overcast night",
+      "description": "From the Strand the church stands alone on its island, a curved columned porch under a staged tower and a slender spire. It is an overcast night, about 19.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on the Strand, looking east at the west front of the church on its island. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.stmarylestrand.org/",
+        "https://en.wikipedia.org/wiki/St_Mary_le_Strand"
+      ],
+      "anchors": [
+        "A baroque stone church stands alone on an island in the Strand",
+        "The west end has a semicircular columned porch and a slender spire",
+        "St Paul's dome and St Bride's tiered spire are not this church"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:36 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-145-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-145-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-145-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-146",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Eleanor Cross",
+      "place": "Westminster",
+      "caption": "Eleanor Cross, London",
+      "scenario_label": "30 September 2026 \u00b7 23:37 Europe/London",
+      "composition": "Overcast night \u00b7 the station forecourt looking at the Gothic cross \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Gothic Queen Eleanor Cross at Charing Cross in London on an overcast night",
+      "description": "In the Charing Cross forecourt the Queen Eleanor Cross rises in three Gothic stages, with statues in canopied niches and a stone cross at the top. It is an overcast night, about 19.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public forecourt of Charing Cross station, looking south at the Queen Eleanor Cross. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Queen_Eleanor_Memorial_Cross",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1236708"
+      ],
+      "anchors": [
+        "An octagonal Gothic stone monument rises in three carved stages",
+        "Statues stand in canopied niches, and a stone cross finishes the top",
+        "It is not an obelisk, not the Cenotaph, and not the Monument's Doric column"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:37 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-146-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-146-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-146-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-147",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "County Hall",
+      "place": "Lambeth",
+      "caption": "County Hall, London",
+      "scenario_label": "30 September 2026 \u00b7 23:37 Europe/London",
+      "composition": "Overcast night \u00b7 the north bank looking south at the curved stone front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the curved Portland-stone front of County Hall in London on an overcast night",
+      "description": "From across the Thames the curved stone front of County Hall follows the river, paired columns along a rusticated base and a flat balustrade on the roof. The London Eye is not in the frame. It is an overcast night, about 18.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the north bank of the Thames, looking south at the curved river front of County Hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/County_Hall,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358192"
+      ],
+      "anchors": [
+        "A gently curved Portland-stone river facade",
+        "A colonnade of paired stone columns on a rusticated base, under a flat balustrade",
+        "The London Eye and the glass City Hall are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 23:37 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-147-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-147-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-147-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-148",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kew Palace",
+      "place": "Richmond upon Thames",
+      "caption": "Kew Palace, London",
+      "scenario_label": "30 September 2026 \u00b7 23:38 Europe/London",
+      "composition": "Overcast night \u00b7 the lawn looking at the Dutch-house front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the small red-brick Kew Palace in London on an overcast night",
+      "description": "From the lawn Kew Palace is a small red-brick Dutch house, about five bays, with stone quoins, curved gables, and a pediment. The glasshouses are not in the frame. It is an overcast night, about 17.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public lawn south of Kew Palace, looking north at the red-brick Dutch-house front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.hrp.org.uk/kew-palace/",
+        "https://en.wikipedia.org/wiki/Kew_Palace"
+      ],
+      "anchors": [
+        "A small red-brick house of about five bays and three storeys, with stone quoins",
+        "Curved Dutch gables, a central pediment, and tall chimneys",
+        "Hampton Court's long Tudor ranges, the Palm House, and the Great Pagoda are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 23:38 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-148-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-148-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-148-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-149",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Richmond Bridge",
+      "place": "Richmond upon Thames",
+      "caption": "Richmond Bridge, London",
+      "scenario_label": "30 September 2026 \u00b7 23:38 Europe/London",
+      "composition": "Overcast night \u00b7 the riverside path looking at the five stone arches \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the five stone arches of Richmond Bridge in London on an overcast night",
+      "description": "From the riverside path Richmond Bridge crosses the Thames in five stone arches, the middle arch the widest, with a plain stone parapet. It is an overcast night, about 17.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public riverside path upstream of Richmond Bridge, looking north at the five stone arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1180951",
+        "https://en.wikipedia.org/wiki/Richmond_Bridge,_London"
+      ],
+      "anchors": [
+        "Five pale stone arches, the centre arch the widest",
+        "A solid stone parapet, with no iron towers and no suspension chains",
+        "Tower Bridge, Hammersmith Bridge, and Albert Bridge are not this bridge"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 23:38 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-149-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-149-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-149-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-150",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Bushy Park Diana Fountain",
+      "place": "Richmond upon Thames",
+      "caption": "Bushy Park Diana Fountain, London",
+      "scenario_label": "30 September 2026 \u00b7 23:38 Europe/London",
+      "composition": "Overcast night \u00b7 Chestnut Avenue looking at the fountain \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Diana Fountain in Bushy Park, London, on an overcast night",
+      "description": "From Chestnut Avenue the Diana Fountain stands in its round pond, bronze figures around the basin and a standing bronze figure above them. Hampton Court is not in the frame. It is an overcast night, about 17.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Chestnut Avenue in Bushy Park, looking south at the Diana Fountain. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalparks.org.uk/visit/parks/bushy-park/diana-fountain",
+        "https://en.wikipedia.org/wiki/Diana_Fountain,_Bushy_Park"
+      ],
+      "anchors": [
+        "A circular pond with a tall central fountain",
+        "Bronze figures around the basin and a standing bronze figure on top",
+        "Hampton Court Palace is not in this frame, and this is not the low oval memorial fountain in Hyde Park"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 23:38 Europe/London. Calculated solar azimuth is northwest, about 336\u00b0, and elevation is about -39.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-150-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-150-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-150-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
