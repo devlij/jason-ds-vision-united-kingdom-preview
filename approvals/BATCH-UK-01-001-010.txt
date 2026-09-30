@@ -1,0 +1,124 @@
+United Kingdom London batch UK-01-001 through UK-01-010
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge until Cosmo signs off.
+PR #1, the A7 gallery shell, stays open and is not the merge target of this note.
+
+Every scene is genuine morning daylight on 30 September 2026, Europe/London.
+Sunrise at these pins is 06:58 or 06:59. The missed 06:58 sunrise window was not backdated.
+Scenario minutes are the retrieval minutes and sit inside each scene's own model-valid hour (08:00–08:59).
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+WMO code 3, cloud cover 100%, dry, model is_day 1.
+
+Aerial: a 15s 360° clip is not produced when cloud cover is 30% or more.
+BACKFILL for UK-01-001, UK-01-002, UK-01-003, UK-01-004, UK-01-005, UK-01-006, UK-01-007, UK-01-008, UK-01-009, and UK-01-010.
+Still masters ship. Motion control stays off because no motion file is on disk.
+
+UK-01-001 Tower Bridge (Southwark)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:43+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.3C
+  SHA-256 16x9: 574fe533ca4a95dc698f969e982374e30fce60a479825c3d9089d13934a285da
+  SHA-256 4x5: a7ca9b41632d86c408f3fe371c8e179c993bbb98d004bb8af23fe0751d475aea
+  SHA-256 9x16: e3190a48b882c9b72132535b8334978787526dadbcd9dd4ea655cde5f18c01dc
+
+UK-01-002 Elizabeth Tower (Westminster)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:46+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.4C
+  SHA-256 16x9: 37ad3a9df4a9176028fecf11683a493b55c64eed651350b202954abe3c6f3466
+  SHA-256 4x5: b0349ec1934d06beed96e3fe5223e267e7a649aa7da96214360b56fd6a63ca8a
+  SHA-256 9x16: 78c3f7304a2a553c01c7af8aaf5efd587147b8fdbc8879aee916a467c53c29b7
+
+UK-01-003 Buckingham Palace (Westminster)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:48+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.3C
+  SHA-256 16x9: 3540aa166bf968fcdfab897206d34e5461a5983fd5e3605f2e5155d24b57e112
+  SHA-256 4x5: f81c90995f05805350a4816a95959aecfca1b45a817b41195fdf340f46d8f2fa
+  SHA-256 9x16: 679be3ef0f34ecdb6006da9882b92c18bed459146f2a8309e75143c385d6a222
+
+UK-01-004 St Paul's Cathedral (City of London)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:50+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.2C
+  SHA-256 16x9: ad6147f950bcf7f4182a075e922c69d26626fe942bd9a4aabacbadbb4b6e0e2d
+  SHA-256 4x5: 76c0c64ab2a19b826770f9732562c0302bfbeb459a9cb4f840425197f749598d
+  SHA-256 9x16: ff9bb0b1ee92d075408dc3679d5d44ce006b13506d59cdcfb03e15f58c6f0d73
+
+UK-01-005 Tower of London (Tower Hamlets)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:53+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.3C
+  SHA-256 16x9: 4361fbfc3d99fb33bc3e9ce824ee090af7db7e08126a595b2fef4a64809bfaa2
+  SHA-256 4x5: c7f8c9f99b1537f21e5b17f76f3bb07c4022fa63d57a50cf0b56ab889be047dc
+  SHA-256 9x16: 5939c69762676b32db1fa5ed830ce8c63352d501ac8279ec414eeeb1e40c1edb
+
+UK-01-006 Trafalgar Square (Westminster)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:55+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.2C
+  SHA-256 16x9: 3a2bfd3d0202f1fd43dd3892009412ab8fdab419702e130391805083208f85ec
+  SHA-256 4x5: 49869c43361d44cda7c33db11c3497a973a87b001d59d0ec6c08506d38df80c4
+  SHA-256 9x16: b1b3ff8d1c5dbc72a4f3b50e7857c1cd406ec761f564fbe5da0a30a608ae347e
+
+UK-01-007 The Shard (Southwark)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:55:58+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:55 Europe/London
+  cloud: 100% code 3 21.3C
+  SHA-256 16x9: eca242ae0c4179657aaa56811cb42bc5198494597efb7d44f19511cab2697fb8
+  SHA-256 4x5: 9ba2fdf146c6c384f3cd7ea5a495c479fa8f5bdd468bfd25f126968e2797f6ba
+  SHA-256 9x16: 044e76c8527dd48d5488fa7c6c5f26a2f536fe4886bb2ba6f0f54fb5d92e83b8
+
+UK-01-008 Royal Observatory (Greenwich)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:56:00+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:56 Europe/London
+  cloud: 100% code 3 20.7C
+  SHA-256 16x9: 52c3a11232db4a92f50e39819c5052b899a6b4671e7f2751672826e33bdee6e2
+  SHA-256 4x5: 2d5b0fb528428dc3a826b1cbea95ec4cbb2349e551686069171a54ad28f87c86
+  SHA-256 9x16: e4ae6c4116fe03b1ba9652bca7fe3bcb6d2aa2f12c3f2e0b4490af83d7868b7a
+
+UK-01-009 British Museum (Camden)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:56:03+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:56 Europe/London
+  cloud: 100% code 3 21.1C
+  SHA-256 16x9: 1160d7af05e5971149008bcb9385ff102f864d7249ed31485f81531696fd762b
+  SHA-256 4x5: 6851f98fe8daecbba7238519f37e9348e202d5a802a4346f6f019305224ded71
+  SHA-256 9x16: 9ae00c9a78c76c0d2a5746292ef48819e8befd0d9d46aac414cb154b43d66f81
+
+UK-01-010 London Eye (Lambeth)
+  day/night: day
+  aerial: backfill
+  retrieval: 2026-09-30T08:56:05+01:00
+  model time: 2026-09-30T08:45
+  scenario: 30 September 2026 · 08:56 Europe/London
+  cloud: 100% code 3 21.3C
+  SHA-256 16x9: 69339b4e84f2264e02c269ad00007bc260c10b02fe14156d75cb766116698005
+  SHA-256 4x5: 8af2fc65b74da3f8e523cec2d93119824f643277b7a04ef8a6fc62a4547b76fa
+  SHA-256 9x16: 191b6fbe1b84dbe7d4b065992c779c6ec6ecffbce25693a0215bb485b553ea11
+

@@ -262,6 +262,7 @@ def assert_phase1(html: str, meta: dict[str, list]) -> None:
         "Denmark",
         "Switzerland",
         "Netherlands",
+        "Finland",
         "Sweden",
         "Ireland",
         "United Kingdom",
