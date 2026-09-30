@@ -1,0 +1,129 @@
+United Kingdom London batch UK-01-111 through UK-01-120
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge.
+
+UK-01-001 through UK-01-010 stay Approved. Their masters, notes, weather, hashes, and statuses were not regenerated.
+UK-01-011 through UK-01-060 already on main were not regenerated. UK-01-049 stays Candidate.
+UK-01-061 through UK-01-110 stay on their own branches and were not copied into this PR.
+
+Every new scene is genuine night on 30 September 2026, Europe/London, after sunset.
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+model is_day 0. No daylight was painted over a night retrieval.
+
+Aerial: a 15s 360° clip is not produced at night, even when cloud cover is under 30%.
+BACKFILL for UK-01-111, UK-01-112, UK-01-113, UK-01-114, UK-01-115, UK-01-116, UK-01-117, UK-01-118, UK-01-119, and UK-01-120.
+Still masters ship. Motion control stays off because no motion file is on disk.
+
+Swap: UK-01-115 is the National Maritime Museum colonnade on Romney Road, not a second Cutty Sark dry-dock frame.
+UK-01-017 already shows the Cutty Sark in the Greenwich dry dock. The Queen's House is already Candidate UK-01-061 on another branch, so that white villa is kept out of this frame.
+The Fan Museum was the other offered substitute; the museum colonnade is the clearer subject.
+UK-01-114 keeps the Richmond Palace Tudor gatehouse on Richmond Green as one primary subject.
+
+UK-01-111 Marble Hill House (Twickenham)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:21:24+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:21 Europe/London
+  cloud: 74% code 2 18.3C
+  SHA-256 16x9: 160e5121b32b5ea98bc28b8976bef4203edb484ae2e6112ecc52335eef7a11ee
+  SHA-256 4x5: 9c6c0a90cf8d6dcec769a7910e57baf6ac79969aef324c08bee160c9dd17b4d3
+  SHA-256 9x16: 7805672f39a14ad2aafbc0a96f6cb5d36c03201f24a735fac3e4c693b1652bef
+
+UK-01-112 Orleans House Gallery (Twickenham)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:21:26+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:21 Europe/London
+  cloud: 74% code 2 18.4C
+  SHA-256 16x9: 5a868d615418ce1b63d89429e31a55a69608110c3d4aea49e3bf5a64fbc847f8
+  SHA-256 4x5: a969eda1c7261f7a8fe9d3c919b5c372a5417d1d5895388bab474ef34bb7e7c8
+  SHA-256 9x16: dee0396783e08ab1a0c60a39296ab5db10e8970932b997c48995a977033bebe1
+
+UK-01-113 Strawberry Hill House (Twickenham)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:21:29+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:21 Europe/London
+  cloud: 76% code 2 18.5C
+  SHA-256 16x9: 4ceb56facd452222c291296539123bc67c0c898f2de5284020a3f59cb0089c1c
+  SHA-256 4x5: 916edd2b6a86185b7497b8832fc4624e155c843e9d59d64809014e1c9db10b16
+  SHA-256 9x16: 42c3dd05316a80b17d12e01afec2e6795803c22132ee5203484e97815bed513a
+
+UK-01-114 Richmond Palace Gatehouse (Richmond)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:25+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 59% code 2 18.6C
+  SHA-256 16x9: 85c28eaaee077fcf14874bcbda63f1fe719a3d7b0849180e07b6a98579ddefb4
+  SHA-256 4x5: b9fe331743ca0f36cbb2e175269fc39574280eceb9762999c8c9d084360e8f97
+  SHA-256 9x16: e8b4024a24cc7deed726d2a608a8775aea34bd974e2e70af47ea0f9214544e9d
+
+UK-01-115 National Maritime Museum (Greenwich)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:28+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 32% code 1 19.6C
+  SHA-256 16x9: 6362f2827cddd8d9f670ce3a5c9ecb722f51bd69f91607789771da293c546d43
+  SHA-256 4x5: 22b11c2a4e09ad369e91c5327a5cd5ce04282d876b9908fbe9fb256a272025c2
+  SHA-256 9x16: 2b578a9cec2fb4a1623183d20e1b1bf67265613a2156f668ac62b574dda76824
+
+UK-01-116 Horniman Museum (Forest Hill)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:30+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 57% code 2 18.4C
+  SHA-256 16x9: 2400e28cdd8f8451156b787761214adc0d7f3276683efff4ccf43de55b86084f
+  SHA-256 4x5: 01726e5ac265ac99cdd067c152d923c5b4fd84a824fa6f66d7fd6ddb45489f0b
+  SHA-256 9x16: ede40601aed8a3c493b175963d6b806e44c334a2c0ad7f05af763ddfe79ad8b9
+
+UK-01-117 Dulwich Picture Gallery (Dulwich)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:33+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 65% code 2 18.5C
+  SHA-256 16x9: 2f0871f0d8588f0f7c054c117f2b565f73b3c1e03d3f24c700a0fbc42ecdb3af
+  SHA-256 4x5: a5e139a1c5acfa90fdf31f8b4772b221604c7e6e9401102d6482327d56cf4f3e
+  SHA-256 9x16: 0dc99c777e07ae9d2134adf83986d3b50805ad2372c93d30373ae326ac084979
+
+UK-01-118 Crystal Palace Dinosaurs (Bromley)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:35+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 75% code 2 18.3C
+  SHA-256 16x9: 1a288b10082140aa27c2e8728f95c3d656b84308ce459d4df22e6cf07d72967d
+  SHA-256 4x5: d86ad8cd2910bdf6479131b401bb12fdba379bc8193d37bc052357bd75a1b191
+  SHA-256 9x16: 6467555d59969a4921e7a5279671eb32aeaefe3984060c484196f2bc85367271
+
+UK-01-119 Thames Barrier (Woolwich)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:38+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 0% code 0 19.7C
+  SHA-256 16x9: 7bcd8d18f4ee2dbb8882fd58b5aa9250db841de0ffcae191c723b89ca9d01ab2
+  SHA-256 4x5: 9181c556d522b488c165277f2a3800daf881bf61fd70cacded98fd5f8cb5802c
+  SHA-256 9x16: c13cf22e573cc827d7fcfe69f981615076792378922e765e231b7b99a344937a
+
+UK-01-120 Royal Arsenal Gatehouse (Woolwich)
+  day/night: night
+  aerial: backfill
+  retrieval: 2026-09-30T21:22:40+01:00
+  model time: 2026-09-30T21:15
+  scenario: 30 September 2026 · 21:22 Europe/London
+  cloud: 0% code 0 19.6C
+  SHA-256 16x9: 865ef1c1bd348ea319c33ee2b7867642d7c938ceb68995bad74b0c01c880ec3f
+  SHA-256 4x5: 32a0262cd2c5d8c44ec779f7e95f70c5c82436d3d7dea26b74093dbb05875d3a
+  SHA-256 9x16: 8bc7c42c7ad2a83cedfc84060e158fcf89836712d06418eee0440a4eaa80df52
