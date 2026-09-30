@@ -19,12 +19,14 @@ UK-01-046 Primary subject is the galleon. The frame is distinct from Shakespeare
 UK-01-047 Primary subject is the house. It is distinct from Wellington Arch, UK-01-030.
 UK-01-048 Primary subject is the Great Marlborough Street timber facade.
 UK-01-049 Primary subject is the Oxford Street colonnade and the Queen of Time. The store name is not the subject of the frame.
+UK-01-049 rework wo-uk-049-rework-2026-09-30: masters fully regenerated from reference photographs; weather retrieved again at 20:40:59 Europe/London; scene stays Candidate. No other scene in this file was regenerated.
 UK-01-050 Primary subject is the lakeside tower group, read as one skyline, not a split between the conservatory and the arts centre.
 
 No site was swapped. Each suggested London subject stayed, framed as one primary subject.
 
 Aerial: cloud cover is 53%, at or above the 30% gate, and the hour is daylight.
-BACKFILL for UK-01-041, UK-01-042, UK-01-043, UK-01-044, UK-01-045, UK-01-046, UK-01-047, UK-01-048, UK-01-049, and UK-01-050.
+BACKFILL for UK-01-041, UK-01-042, UK-01-043, UK-01-044, UK-01-045, UK-01-046, UK-01-047, UK-01-048, and UK-01-050.
+UK-01-049 aerial is out of scope on the rework retrieval: the hour is night.
 No 15s 360° file is on disk. Still masters ship. Motion control stays off because no motion file is on disk.
 
 UK-01-041 Somerset House (Westminster)
@@ -116,15 +118,17 @@ UK-01-048 Liberty London (Westminster)
   SHA-256 9x16: 31dd3063438d8d4464889ed486c3b61c0d9d372460d82c54f70d4fd6bea0a270
 
 UK-01-049 Selfridges (Westminster)
-  day/night: day
-  aerial: backfill (cloud 53%, above the 30% gate; no motion file)
-  retrieval: 2026-09-30T16:38:09+01:00
-  model time: 2026-09-30T16:30
-  scenario: 30 September 2026 · 16:38 Europe/London
-  cloud: 53% code 2 22.9C
-  SHA-256 16x9: 1ef7400e16ef6333330f5d430af22836a2e3a552c98d9e5117470afd11026247
-  SHA-256 4x5: 834eca9b5dba363693de772f31cb10dcbda21ebcd3fe9c6930416c41c7c36ea5
-  SHA-256 9x16: 2660e8009dcb3f5c6a79635a96f22c796dc3f84053ce8f12b7481e7e7b711e62
+  day/night: night
+  aerial: out of scope (night retrieval; cloud 0%; no motion file)
+  retrieval: 2026-09-30T20:40:59+01:00
+  model time: 2026-09-30T20:30
+  scenario: 30 September 2026 · 20:40 Europe/London
+  cloud: 0% code 0 19.4C
+  rework: wo-uk-049-rework-2026-09-30 full regeneration; still Candidate
+  geometry: unbroken Portland-stone Ionic colonnade; Queen of Time winged figure in the Ship of Commerce above the round clock; two attendants and the canopy under the clock
+  SHA-256 16x9: 9cb80a588b9776f6103c2b959a28f631dfa037ec4f74d038c160950eff4c0292
+  SHA-256 4x5: 1ac8ea2164b5dbb3a4f56a364b9aa353db33abf555a337c2a9717191d921bdd9
+  SHA-256 9x16: 087c2a737c3892cf2e4f2f3230c76d13d0e455c8074e8ea81232a31b5ab6f9ac
 
 UK-01-050 Barbican Centre (City of London)
   day/night: day
