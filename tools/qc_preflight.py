@@ -25,10 +25,19 @@ ART50_DESCRIPTION = (
 # UK-01-001..010 were Approved by Cosmo QC and stay in the image sitemap.
 # UK-01-011..048 and UK-01-050..060 were Approved on main before this batch.
 # UK-01-049 stays Candidate. UK-01-061..100 are not on this branch.
-# UK-01-101..110 stay Candidate.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111))]
+# UK-01-106 stays Candidate. Cosmo signed UK-01-101..105 and UK-01-107..110 on the
+# page and in the notes; data.json for those ids stays Candidate, as Cosmo left it.
+# UK-01-121..130 are Candidate on this branch.
+EXPECTED_IDS: list[str] = [
+    f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111)) + list(range(121, 131))
+]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 MAIN_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(1, 49)) + list(range(50, 61))}
+# Page and note statuses Cosmo already signed. Do not treat those as self-approval.
+# Format fields for 101–110 stay Candidate; only 001–048 and 050–060 have Approved formats.
+PAGE_APPROVED_IDS: set[str] = MAIN_APPROVED_IDS | {
+    f"UK-01-{n:03d}" for n in (101, 102, 103, 104, 105, 107, 108, 109, 110)
+}
 FORBIDDEN = (
     "real-time conditions",
     "photograph of",
@@ -54,7 +63,10 @@ def check_note(errors: list[str], entry_id: str, candidate: bool) -> str:
             errors.append(f"{entry_id} approval note is not Candidate")
         if "approval_status: Approved" in text:
             errors.append(f"{entry_id} approval note self-approved")
-    low = text.lower()
+    # Cosmo's signed findings stay verbatim. The phrase filter applies to the
+    # checklist written with the scene, above any Cosmo QC heading.
+    checklist = text.split("## Cosmo QC", 1)[0]
+    low = checklist.lower()
     for phrase in FORBIDDEN:
         if phrase in low:
             errors.append(f"{entry_id} approval note contains {phrase!r}")
@@ -176,7 +188,7 @@ def main() -> None:
         stamps: set[str] = set()
         for entry_id in EXPECTED_IDS:
             scene = by_id.get(entry_id) or {}
-            note = check_note(errors, entry_id, candidate=scene.get("approval_status") != "Approved")
+            note = check_note(errors, entry_id, candidate=entry_id not in PAGE_APPROVED_IDS)
             check_weather(errors, entry_id, stamps)
             check_masters(errors, scene, note)
 
@@ -226,11 +238,24 @@ def main() -> None:
             page_ids = [scene.get("entry_id") for scene in page_scenes]
             if page_ids != EXPECTED_IDS:
                 errors.append(f"index.html scene order is {page_ids}")
+            meta_marker = "const UK_META="
+            meta_start = html.find(meta_marker)
+            meta_end = html.find(";\n", meta_start) if meta_start >= 0 else -1
+            if meta_start < 0 or meta_end < 0:
+                errors.append("index.html has no UK_META object")
+            else:
+                page_meta = json.loads(html[meta_start + len(meta_marker) : meta_end])
+                if list(page_meta) != EXPECTED_IDS:
+                    errors.append("index.html UK_META keys do not match the scene list")
             for scene in page_scenes:
                 entry_id = scene.get("entry_id")
-                if entry_id in MAIN_APPROVED_IDS:
+                if entry_id in PAGE_APPROVED_IDS:
                     if scene.get("approval_status") != "Approved":
                         errors.append(f"index.html downgraded {entry_id}")
+                else:
+                    if scene.get("approval_status") != "Candidate":
+                        errors.append(f"index.html self-approved {entry_id}")
+                if entry_id in MAIN_APPROVED_IDS:
                     for key in (
                         "format_16x9_approval_status",
                         "format_4x5_approval_status",
@@ -242,11 +267,8 @@ def main() -> None:
                         rel = scene.get(key) or ""
                         if not rel.startswith("assets/pretext/united-kingdom/London/"):
                             errors.append(f"index.html path changed for {entry_id} {key}")
-                else:
-                    if scene.get("approval_status") != "Candidate":
-                        errors.append(f"index.html self-approved {entry_id}")
-                    if scene.get("format_9x16_approval_status") == "Approved":
-                        errors.append(f"index.html shows a 9:16 control for Candidate {entry_id}")
+                elif scene.get("format_9x16_approval_status") == "Approved":
+                    errors.append(f"index.html shows a 9:16 control for Candidate {entry_id}")
 
     robots = (ROOT / "robots.txt").read_text() if (ROOT / "robots.txt").is_file() else ""
     if "Sitemap: https://uk.jdvision.org/sitemap.xml" not in robots:

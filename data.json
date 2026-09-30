@@ -2370,6 +2370,389 @@
       "motion": null,
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-121",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Cenotaph",
+      "place": "Westminster",
+      "caption": "The Cenotaph, London",
+      "scenario_label": "30 September 2026 · 21:48 Europe/London",
+      "composition": "Partly cloudy night · Whitehall looking north at the Cenotaph · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Cenotaph on Whitehall in London on a partly cloudy night",
+      "description": "From the south side of Whitehall the view looks north at the Cenotaph, a plain white Portland-stone pylon with stepped setbacks and sculpted wreaths, and a Union Jack on either side. The roadway is empty. It is a partly cloudy night, about 19.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south side of Whitehall, looking north at the Cenotaph. The camera stays on the public highway. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/the-cenotaph/",
+        "https://en.wikipedia.org/wiki/Cenotaph"
+      ],
+      "anchors": [
+        "The subject is Lutyens's plain white Portland-stone pylon, with stepped setbacks near the top",
+        "Sculpted wreaths sit on the sides, and a Union Jack hangs on either side",
+        "The roadway is empty, and Banqueting House and Horse Guards are not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:48 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-121-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-121-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-121-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-122",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The O2",
+      "place": "Greenwich",
+      "caption": "The O2, London",
+      "scenario_label": "30 September 2026 · 21:48 Europe/London",
+      "composition": "Overcast night · the peninsula plaza looking at the white dome and yellow masts · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the O2 dome on the Greenwich Peninsula in London on an overcast night",
+      "description": "From the peninsula plaza the view looks at the O2, the great white dome and its yellow masts. The dome face has no lettering. It is an overcast night, about 19.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the peninsula plaza south of the O2, looking north at the dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.theo2.co.uk/",
+        "https://en.wikipedia.org/wiki/The_O2"
+      ],
+      "anchors": [
+        "The subject is the white circular dome and its ring of yellow masts",
+        "The dome surface carries no lettering",
+        "The Cutty Sark and the Old Royal Naval College are not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 21:48 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-122-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-122-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-122-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-123",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "SIS Building",
+      "place": "Lambeth",
+      "caption": "SIS Building, London",
+      "scenario_label": "30 September 2026 · 21:48 Europe/London",
+      "composition": "Overcast night · Vauxhall Bridge looking toward the stepped ziggurat · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the SIS Building at Vauxhall Cross in London on an overcast night",
+      "description": "From Vauxhall Bridge the view looks toward the SIS Building at Vauxhall Cross, a pale green-grey ziggurat of stepped terraces above the Thames. The river is in the foreground and there are no chimneys. It is an overcast night, about 19.4°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Vauxhall Bridge, looking southeast toward the SIS Building at Vauxhall Cross. The camera stays on the bridge. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/SIS_Building",
+        "https://en.wikipedia.org/wiki/Vauxhall_Cross"
+      ],
+      "anchors": [
+        "The subject is the pale green-grey ziggurat of stepped terraces at Vauxhall Cross",
+        "The Thames is in the foreground and the building has no chimneys",
+        "Battersea Power Station is not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:48 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-123-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-123-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-123-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-124",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "National Theatre",
+      "place": "Lambeth",
+      "caption": "National Theatre, London",
+      "scenario_label": "30 September 2026 · 21:48 Europe/London",
+      "composition": "Overcast night · the riverside walk looking at the concrete fly towers · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the National Theatre on the South Bank in London on an overcast night",
+      "description": "From the riverside walk the view looks at the National Theatre, the board-marked concrete terraces and the fly towers. The river is only the near edge. It is an overcast night, about 19.7°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the South Bank riverside walk, looking south at the National Theatre. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltheatre.org.uk/",
+        "https://en.wikipedia.org/wiki/Royal_National_Theatre"
+      ],
+      "anchors": [
+        "The subject is Denys Lasdun's board-marked concrete river front and its fly towers",
+        "Horizontal terraces and warm foyer light read as one building",
+        "Tate Modern and the Royal Festival Hall are not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:48 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-124-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-124-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-124-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-125",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Science Museum",
+      "place": "Kensington and Chelsea",
+      "caption": "Science Museum, London",
+      "scenario_label": "30 September 2026 · 21:48 Europe/London",
+      "composition": "Overcast night · Exhibition Road looking at the stone front and the blue glass wing · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Science Museum on Exhibition Road in London on an overcast night",
+      "description": "From Exhibition Road the view looks at the Science Museum, the long pale stone front with its grid of windows and a deep-blue glass wing at one end. This is not the Romanesque front of the Natural History Museum. It is an overcast night, about 19.1°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Exhibition Road, looking west at the Science Museum east front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.sciencemuseum.org.uk/",
+        "https://en.wikipedia.org/wiki/Science_Museum,_London"
+      ],
+      "anchors": [
+        "The subject is the pale stone Exhibition Road front, a grid of rectangular windows with a central entrance",
+        "A deep-blue glass wing closes one end of the same building",
+        "The Romanesque towers of the Natural History Museum and the V&A statue screen are not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:48 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-125-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-125-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-125-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-126",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Albert Bridge",
+      "place": "Kensington and Chelsea",
+      "caption": "Albert Bridge, London",
+      "scenario_label": "30 September 2026 · 21:49 Europe/London",
+      "composition": "Overcast night · the Chelsea Embankment looking along the lit iron span · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Albert Bridge in Chelsea, London, on an overcast night",
+      "description": "From the Chelsea Embankment the view looks along Albert Bridge, the pink and cream iron towers, the cables with their strings of lights, and the tollbooths at the near end. It is not Tower Bridge. It is an overcast night, about 19.3°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Chelsea Embankment at the north end of Albert Bridge, looking south along the span. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Albert_Bridge,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358138"
+      ],
+      "anchors": [
+        "The subject is the pink and cream iron bridge, with towers, cables, and tollbooths",
+        "Strings of small lights run along the cables",
+        "The stone towers and bascules of Tower Bridge are not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:49 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-126-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-126-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-126-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-127",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Wimbledon Centre Court",
+      "place": "Merton",
+      "caption": "Wimbledon Centre Court, London",
+      "scenario_label": "30 September 2026 · 21:49 Europe/London",
+      "composition": "Partly cloudy night · Church Road looking at the circular roof of Centre Court · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Wimbledon Centre Court in London on a partly cloudy night",
+      "description": "From Church Road the view looks at Wimbledon Centre Court, the oval bowl and the broad circular roof. There is no arch and no sponsor board. It is a partly cloudy night, about 18.0°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Church Road outside the All England Club, looking west at Centre Court. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.wimbledon.com/",
+        "https://en.wikipedia.org/wiki/Centre_Court"
+      ],
+      "anchors": [
+        "The subject is the oval bowl of Centre Court and its broad circular roof",
+        "A little of the green seating shows under the roof rim",
+        "There is no arch, and Wembley Stadium is not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:49 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-127-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-127-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-127-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-128",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Great Pagoda",
+      "place": "Richmond upon Thames",
+      "caption": "Great Pagoda, London",
+      "scenario_label": "30 September 2026 · 21:49 Europe/London",
+      "composition": "Overcast night · the Kew lawn looking at the ten-tier pagoda · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Great Pagoda at Kew Gardens in London on an overcast night",
+      "description": "From the lawn the view looks at the Great Pagoda at Kew, ten diminishing tiers of red walls and dark upturned roofs. The Palm House is not in the frame. It is an overcast night, about 18.5°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the lawn north of the Great Pagoda at Kew Gardens, looking south at the pagoda. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.kew.org/kew-gardens/whats-in-the-gardens/the-great-pagoda",
+        "https://en.wikipedia.org/wiki/Great_Pagoda,_Kew_Gardens"
+      ],
+      "anchors": [
+        "The subject is the octagonal pagoda, ten diminishing tiers with upturned eaves",
+        "The walls are red and the roofs are dark, with ornaments at the corners",
+        "The Palm House and the Temperate House are not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:41 Europe/London. The scenario is 21:49 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-128-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-128-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-128-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-129",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Katharine Docks",
+      "place": "Tower Hamlets",
+      "caption": "St Katharine Docks, London",
+      "scenario_label": "30 September 2026 · 21:49 Europe/London",
+      "composition": "Overcast night · the marina looking at Ivory House and its cupola · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Ivory House at St Katharine Docks in London on an overcast night",
+      "description": "From the west quay the view looks across the marina at Ivory House, the long brick warehouse and its cupola at St Katharine Docks. Boats sit low in the foreground. It is an overcast night, about 19.8°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the west quay of St Katharine Docks, looking east at Ivory House. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.skdocks.co.uk/",
+        "https://en.wikipedia.org/wiki/St_Katharine_Docks"
+      ],
+      "anchors": [
+        "The subject is Ivory House, the long brick warehouse with a central pediment and a cupola",
+        "The marina and moored boats sit low in the foreground",
+        "The Tower of London and the Canary Wharf towers are not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:49 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-129-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-129-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-129-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-130",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Central Mosque",
+      "place": "Westminster",
+      "caption": "London Central Mosque, London",
+      "scenario_label": "30 September 2026 · 21:49 Europe/London",
+      "composition": "Partly cloudy night · the park edge looking at the golden dome and minaret · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Central Mosque by Regent's Park on a partly cloudy night",
+      "description": "From the park edge the view looks at the London Central Mosque, the golden dome and the tall minaret. It is a partly cloudy night, about 19.1°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint at the edge of Regent's Park, looking northeast at the London Central Mosque. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://iccuk.org/",
+        "https://en.wikipedia.org/wiki/London_Central_Mosque"
+      ],
+      "anchors": [
+        "The subject is the golden dome and the tall minaret of the London Central Mosque",
+        "The prayer hall below is pale stone with arched openings",
+        "Park trees frame the building and do not cover the dome"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:49 Europe/London. Calculated solar azimuth is northwest, about 306°, and elevation is about -28.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-130-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-130-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-130-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
