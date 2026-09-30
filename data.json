@@ -442,6 +442,390 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-031",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Battersea Power Station",
+      "place": "Wandsworth",
+      "caption": "Battersea Power Station, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · the riverside looking south at the north facade and four chimneys · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Battersea Power Station's riverside facade in London under a clear afternoon sky",
+      "description": "From the riverside the view looks south at Battersea Power Station, the long brown-brick Art Deco block with a cream chimney at each corner. The Thames sits in the foreground under a clear sky. It is a dry afternoon, about 23.6°C, and the sun is in the southwest. The station is the only subject.",
+      "viewpoint": "Public viewpoint on the Thames Path on the river side of Battersea Power Station, looking south at the north facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://batterseapowerstation.co.uk/",
+        "https://en.wikipedia.org/wiki/Battersea_Power_Station"
+      ],
+      "anchors": [
+        "The riverside front is the long brown-brick Art Deco mass by Giles Gilbert Scott, with vertical window strips",
+        "Four cream-white fluted chimneys stand at the four corners",
+        "The Thames is in the foreground; the frame is the station alone"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-031-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-031-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-031-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-032",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Borough Market",
+      "place": "Southwark",
+      "caption": "Borough Market, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · inside the hall looking along the iron-and-glass roof · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the iron-and-glass hall at Borough Market in London under clear afternoon light",
+      "description": "Inside Borough Market the view runs along the Victorian hall, green cast-iron columns under an iron-and-glass roof. Daylight comes through the glass on a clear afternoon, about 23.4°C and dry. Southwark Cathedral is not in the frame. The market hall is the only subject.",
+      "viewpoint": "Public viewpoint inside the Borough Market hall near Stoney Street, looking along the iron-and-glass roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://boroughmarket.org.uk/",
+        "https://en.wikipedia.org/wiki/Borough_Market"
+      ],
+      "anchors": [
+        "The hall is a Victorian structure of green-painted cast iron and glass",
+        "Repeated iron arches and columns carry the glazed roof",
+        "Southwark Cathedral is outside this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-032-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-032-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-032-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-033",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Cleopatra's Needle",
+      "place": "Westminster",
+      "caption": "Cleopatra's Needle, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · the Victoria Embankment looking south at the obelisk and sphinxes · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Cleopatra's Needle on the Victoria Embankment in London under a clear afternoon sky",
+      "description": "On the Victoria Embankment the pink-granite obelisk of Cleopatra's Needle stands on its pedestal, with two bronze sphinxes at the base. The Thames wall is behind it under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The needle is the only subject.",
+      "viewpoint": "Public viewpoint on the Victoria Embankment pavement beside Cleopatra's Needle, looking south at the obelisk. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Cleopatra%27s_Needle,_London",
+        "https://en.wikipedia.org/wiki/Victoria_Embankment"
+      ],
+      "anchors": [
+        "The monument is the pink-granite Egyptian obelisk on the Victoria Embankment",
+        "Two bronze sphinxes lie at the pedestal and face the needle",
+        "The London Eye is not the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-033-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-033-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-033-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-034",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Marble Arch",
+      "place": "Westminster",
+      "caption": "Marble Arch, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · the north side looking south at the white marble arch · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Marble Arch in London under a clear afternoon sky",
+      "description": "From the north side the view looks south at Marble Arch, the white marble triumphal arch with a large central opening and two narrower side arches. Corinthian columns and relief panels sit against a clear sky. It is a dry afternoon, about 23.2°C, and the sun is in the southwest. There is no bronze quadriga on the roof.",
+      "viewpoint": "Public viewpoint on the north side of Marble Arch, looking south at the arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalparks.org.uk/visit/parks/hyde-park",
+        "https://en.wikipedia.org/wiki/Marble_Arch"
+      ],
+      "anchors": [
+        "Marble Arch is John Nash's white marble triumphal arch, now on an island by Hyde Park",
+        "A large central opening is flanked by two narrower side arches, with Corinthian columns",
+        "There is no bronze quadriga; that sculpture belongs to Wellington Arch"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-034-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-034-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-034-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-035",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Albert Memorial",
+      "place": "Westminster",
+      "caption": "Albert Memorial, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · the north path looking south at the gilded canopy · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Albert Memorial in Kensington Gardens under a clear afternoon sky",
+      "description": "From the path just north of the memorial the view looks south at the Albert Memorial, George Gilbert Scott's Gothic canopy, the gilded seated figure, and the tall spire. White marble groups stand at the corners of the steps, and the garden trees are at the sides. It is a dry afternoon, about 23.3°C, with the sun in the southwest. The Royal Albert Hall is behind the camera and is not in the frame.",
+      "viewpoint": "Public viewpoint on the path immediately north of the Albert Memorial in Kensington Gardens, looking south. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalparks.org.uk/visit/parks/kensington-gardens",
+        "https://en.wikipedia.org/wiki/Albert_Memorial"
+      ],
+      "anchors": [
+        "George Gilbert Scott's Gothic Revival canopy, completed in 1872, with a gilded seated figure of Prince Albert",
+        "A tall decorated spire rises over a mosaic vault, and white marble groups stand at the corners of the steps",
+        "The Royal Albert Hall is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-035-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-035-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-035-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-036",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Banqueting House",
+      "place": "Westminster",
+      "caption": "Banqueting House, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · Whitehall looking west at the Portland-stone facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Banqueting House on Whitehall in London under a clear afternoon sky",
+      "description": "From the east side of Whitehall the view looks west at the Banqueting House, Inigo Jones's Portland-stone facade of seven bays, pilasters on two storeys, and a roof balustrade. The street is in the foreground under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. Horse Guards is not in the frame.",
+      "viewpoint": "Public viewpoint on the east side of Whitehall, looking west at the Banqueting House facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.hrp.org.uk/banqueting-house/",
+        "https://en.wikipedia.org/wiki/Banqueting_House,_Whitehall"
+      ],
+      "anchors": [
+        "Inigo Jones's 1622 facade is Portland stone, seven bays, with Ionic pilasters below and Composite pilasters above",
+        "A balustrade runs along the roof and the basement is rusticated",
+        "This is not Horse Guards and it has no clock tower"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-036-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-036-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-036-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-037",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Leadenhall Market",
+      "place": "City of London",
+      "caption": "Leadenhall Market, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · inside the arcade looking toward the crossing dome · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the painted iron-and-glass arcade at Leadenhall Market in London",
+      "description": "Inside Leadenhall Market the view looks along Horace Jones's arcade, cast iron painted burgundy, cream, and green, toward the glass crossing dome. Afternoon light comes through the roof on a clear day, about 23.4°C and dry. Cobbles run under the arches. The painted market roof is the only subject.",
+      "viewpoint": "Public viewpoint inside Leadenhall Market, looking along the arcade toward the crossing dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://leadenhallmarket.co.uk/",
+        "https://en.wikipedia.org/wiki/Leadenhall_Market"
+      ],
+      "anchors": [
+        "Horace Jones's 1881 market is an ornate cast-iron and glass arcade",
+        "The ironwork is painted burgundy, cream, and green, and a glass dome marks the crossing",
+        "This is not Borough Market and not Covent Garden"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-037-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-037-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-037-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-038",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Millennium Bridge",
+      "place": "Southwark",
+      "caption": "Millennium Bridge, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · close on a Y-shaped support and the cable fan · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Millennium Bridge steel structure in London under a clear afternoon sky",
+      "description": "The frame is filled by the Millennium Bridge itself: a Y-shaped steel support, the fan of cables, and the flat steel deck over the Thames. The afternoon is clear and dry, about 23.5°C, with the sun in the southwest. St Paul's Cathedral is not in the picture. The bridge is the only subject.",
+      "viewpoint": "On the Millennium Bridge, close to a Y-shaped steel support, so the deck and cables fill the frame. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Millennium_Bridge,_London",
+        "https://www.fosterandpartners.com/projects/millennium-bridge"
+      ],
+      "anchors": [
+        "The Millennium Bridge is a flat steel footbridge with Y-shaped transverse supports and fanning cables",
+        "This frame is filled by one of those supports, the cable fan, and the steel deck",
+        "St Paul's Cathedral is not in the frame, and Tate Modern is not the subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-038-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-038-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-038-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-039",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Horse Guards",
+      "place": "Westminster",
+      "caption": "Horse Guards, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · Whitehall looking west at the clock-tower arch · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Horse Guards building on Whitehall in London under a clear afternoon sky",
+      "description": "From Whitehall the view looks west at the Horse Guards building, William Kent's white stone front, the central arch, the clock tower, and the cupola. Symmetrical wings sit to either side under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The building is the subject.",
+      "viewpoint": "Public viewpoint on Whitehall, looking west at the Horse Guards facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.householddivision.org.uk/horse-guards",
+        "https://en.wikipedia.org/wiki/Horse_Guards_(building)"
+      ],
+      "anchors": [
+        "William Kent's Whitehall front is white Portland stone, with a central arch under a clock tower and cupola",
+        "Symmetrical wings with pediments flank the arch",
+        "Banqueting House is not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-039-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-039-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-039-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-040",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Christ Church Spitalfields",
+      "place": "Tower Hamlets",
+      "caption": "Christ Church Spitalfields, London",
+      "scenario_label": "30 September 2026 · 16:08 Europe/London",
+      "composition": "Clear afternoon · Commercial Street looking east at the Hawksmoor west front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the west front of Christ Church Spitalfields in London under a clear afternoon sky",
+      "description": "From Commercial Street the view looks east at the west front of Christ Church Spitalfields, Hawksmoor's Portland-stone portico with its semicircular arch and the broad broach spire above. The whole front, from the steps to the vane, stands against a clear sky. It is a dry afternoon, about 23.5°C, and the sun is in the southwest.",
+      "viewpoint": "Public viewpoint on Commercial Street, looking east at the west front of Christ Church Spitalfields. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://christchurchspitalfields.org/",
+        "https://en.wikipedia.org/wiki/Christ_Church,_Spitalfields"
+      ],
+      "anchors": [
+        "Hawksmoor's west front, completed in 1729, is Portland stone",
+        "A giant Tuscan portico carries a semicircular arch across the middle bay",
+        "A broad tower and a stone broach spire rise above that portico"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3°. The sky is clear. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-040-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-040-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-040-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

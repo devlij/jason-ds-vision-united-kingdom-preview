@@ -1,0 +1,124 @@
+United Kingdom London batch UK-01-031 through UK-01-040
+Candidate for Cosmo QC. Not self-approved. Draft only. Do not merge until Cosmo signs off.
+UK-01-001 through UK-01-010 stay Approved. Their masters, notes, weather, and hashes were not regenerated.
+UK-01-011 through UK-01-030 are not on this branch.
+
+Every scene is genuine afternoon daylight on 30 September 2026, Europe/London.
+Sunrise at these pins is 06:59. The scenario minute is the retrieval minute and sits inside each scene's own model-valid hour (16:00–16:59).
+One Open-Meteo retrieval per scene, unique to the second. Provider: Open-Meteo.
+WMO code 0, clear sky, dry, model is_day 1. Cloud cover is 0% to 4%, under the 30% aerial gate.
+
+Aerial: a 15s 360° clip is in scope when cloud cover is under 30%.
+No motion file is on disk. Still masters ship. The motion control stays off. The orbit is a backfill.
+BACKFILL for UK-01-031, UK-01-032, UK-01-033, UK-01-034, UK-01-035, UK-01-036, UK-01-037, UK-01-038, UK-01-039, and UK-01-040.
+No night aerial.
+
+UK-01-031 Battersea Power Station (Wandsworth)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:07+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 3% code 0 23.6C
+  SHA-256 16x9: d099ef235d83200252cc9de590baabbf5ce3f56fa990f7b2be9bd1670ea55788
+  SHA-256 4x5: eaff5f3ff63436c251d0c5cd75fc89869179959afde6bd61bd2223c25ccee5a0
+  SHA-256 9x16: 0c895558f51cb409e98171ddfc604f8ee9c53650d4d4d991b0778a8ecae3dbfb
+
+UK-01-032 Borough Market (Southwark)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:09+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 2% code 0 23.4C
+  SHA-256 16x9: 32d7bd9a44dd0fa72e829a711eb4b5f9899cdb1dfd8989cd41fcf03fc59e90ca
+  SHA-256 4x5: 7ce05bf893c191f09bfeadb543d6c3e0e6c314d9ddc18dc75300728f2f39a576
+  SHA-256 9x16: 11e982528653a072242c365fca82b5c4a0b278cd39d6b08bb230d175e20eab0d
+
+UK-01-033 Cleopatra's Needle (Westminster)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:11+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 2% code 0 23.4C
+  SHA-256 16x9: e70012c922b54861d6694a38b6bd2bb49f31c0e4c05733464fa5d524ae1e5dc8
+  SHA-256 4x5: 75bd580b4be052a0b1a5cd927470afb67d60a26446d23a7a0a33d5e1fc239b63
+  SHA-256 9x16: 00c7896eea94578a09ee1bd22b8d77f227052648f79037795a8688a7e05260cd
+
+UK-01-034 Marble Arch (Westminster)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:13+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 3% code 0 23.2C
+  SHA-256 16x9: 1f6cf7b98407e7a052a317be496511c7550959efe64fb1c7d48a64386affd55a
+  SHA-256 4x5: 930ee4ba6ce6cee50adfd163087542684752fc3dc67f463d0608a391898dffcb
+  SHA-256 9x16: 8259e7138e3df56b30e96a8922c942755653368991516444e18ba3702d87dedd
+
+UK-01-035 Albert Memorial (Westminster)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:15+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 4% code 0 23.3C
+  SHA-256 16x9: ddcfa91b0d912c7fca8e4b0cd21c3b856829f90c77af19e1d40239c87f0c1052
+  SHA-256 4x5: ee651c80fc901ed92e5d2687f09e1830a0a9ab22569b6086fdf3fe29c4274184
+  SHA-256 9x16: 19ba2d086e39451a4caf71a8437a481a949c14c68fac1308a4baf440931a9e37
+
+UK-01-036 Banqueting House (Westminster)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:18+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 2% code 0 23.4C
+  SHA-256 16x9: 64a88d6b31054f9d04fdba34e18943102ea6249acca95ce8089ac25476dfde66
+  SHA-256 4x5: f0165bbaa372c4a767f897859255b75fc10338af113fce74d3e78cf1787e12cf
+  SHA-256 9x16: 63f56577a84ba8c00da16637de50a50b83149a52fd43960d1d18db8f16a663fb
+
+UK-01-037 Leadenhall Market (City of London)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:20+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 0% code 0 23.4C
+  SHA-256 16x9: 3492b7ae7755f9ff5aa8b0c6d3f65073054c928c525569a605413cef3769e023
+  SHA-256 4x5: 74d09983bb12cd467e5c7b426b75b0e418c420cd5b407160e3598034665088fd
+  SHA-256 9x16: 469f37e55519894763d4277f37b0bab45fad67c8d63f542b0786e0d21fd67cce
+
+UK-01-038 Millennium Bridge (Southwark)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:22+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 2% code 0 23.5C
+  SHA-256 16x9: 0cbd8586fd2af61e77a6185da2f87304cc6a5f98128186092e2a9c22eac5b350
+  SHA-256 4x5: 83cfabfa1bdfb0f01841c9645a363f1a2f1b9127b10e447cda75d0b1011bff65
+  SHA-256 9x16: 024b1723ad4a0f9c0286d0e09e11a63b4656b28ad0965707fe25d9a405b64ece
+
+UK-01-039 Horse Guards (Westminster)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:24+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 2% code 0 23.4C
+  SHA-256 16x9: 2f25e4e03a56ce0b8c5684e65d779c05a4fe6371ba80b0205dcc1e27379e6b49
+  SHA-256 4x5: 6383986184f0c65cd3495de0f39defe2a595e40705f333d77ea684f3feaf0c11
+  SHA-256 9x16: 491f0c9202ebce65589a5ec6decdef3691e9e01bf706f5a96dbb0330940a9f28
+
+UK-01-040 Christ Church Spitalfields (Tower Hamlets)
+  day/night: day
+  aerial: backfill (cloud under 30%, no motion file)
+  retrieval: 2026-09-30T16:08:26+01:00
+  model time: 2026-09-30T16:00
+  scenario: 30 September 2026 · 16:08 Europe/London
+  cloud: 0% code 0 23.5C
+  SHA-256 16x9: 9b159050dbbfd5d33fb455b70382cc28b0b79c40ef95e762cd263a54285f0c5c
+  SHA-256 4x5: 95125ebff397b75dc21be27607d0f47e25ed0c3eda797cedfaf139710aa9a0d2
+  SHA-256 9x16: 911b11524f0a6af722d8efe894b213c0417bc96b97ecf84662112a78e40a771c
