@@ -22,9 +22,8 @@ ART50_DESCRIPTION = (
     "AI-generated artistic interpretation from the Jason D's Vision United Kingdom gallery. "
     "Created with generative AI; not a photograph."
 )
-# UK-01-001..010 were Approved by Cosmo QC. UK-01-021..030 stay Candidate.
-# UK-01-011..020 are not on this branch.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 11)) + list(range(21, 31))]
+# UK-01-001..030 after union-merge (001-020 Approved by Cosmo QC; 021-030 QC-passed).
+EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in range(1, 31)]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 FORBIDDEN = (
     "real-time conditions",
