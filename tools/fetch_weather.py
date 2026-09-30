@@ -50,6 +50,20 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-008", "Royal Observatory", "London", 51.47685, -0.00045, "Europe/London"),
     ("UK-01-009", "British Museum", "London", 51.51855, -0.12655, "Europe/London"),
     ("UK-01-010", "London Eye", "London", 51.50385, -0.11735, "Europe/London"),
+    # London late-afternoon batch, 30 September 2026. England only.
+    # Pins are the public viewpoint, not a surveyed tripod mark.
+    # UK-01-062 is Westminster Cathedral, substituted for the National Maritime Museum.
+    # UK-01-067 uses the Strand entrance so the river front beside Cleopatra's Needle is not the subject.
+    ("UK-01-061", "Queen's House", "London", 51.48040, -0.00361, "Europe/London"),
+    ("UK-01-062", "Westminster Cathedral", "London", 51.49550, -0.13990, "Europe/London"),
+    ("UK-01-063", "St Martin-in-the-Fields", "London", 51.50890, -0.12740, "Europe/London"),
+    ("UK-01-064", "National Gallery", "London", 51.50820, -0.12830, "Europe/London"),
+    ("UK-01-065", "Royal Academy", "London", 51.50920, -0.13950, "Europe/London"),
+    ("UK-01-066", "Fortnum & Mason", "London", 51.50805, -0.13810, "Europe/London"),
+    ("UK-01-067", "The Savoy", "London", 51.51055, -0.12050, "Europe/London"),
+    ("UK-01-068", "Oxo Tower", "London", 51.50845, -0.10840, "Europe/London"),
+    ("UK-01-069", "Alexandra Palace", "London", 51.59290, -0.13070, "Europe/London"),
+    ("UK-01-070", "Freemasons' Hall", "London", 51.51495, -0.12100, "Europe/London"),
 ]
 
 
