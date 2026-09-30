@@ -2747,6 +2747,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-131",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hammersmith Bridge",
+      "place": "Hammersmith and Fulham",
+      "caption": "Hammersmith Bridge, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 the south bank looking north at the green iron towers \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hammersmith Bridge in London, two green iron towers over the Thames, on an overcast night",
+      "description": "From the south-bank path the view looks north at Hammersmith Bridge, Bazalgette's wrought-iron suspension bridge, its two green-and-gold lattice towers linked by chains over the Thames. The towers are iron, not stone, and there is no high enclosed walkway. It is an overcast night, about 19.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south-bank Thames Path, looking north at the two iron towers. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1079819",
+        "https://en.wikipedia.org/wiki/Hammersmith_Bridge"
+      ],
+      "anchors": [
+        "Two openwork wrought-iron towers, painted dark green with gold trim, carry the suspension chains",
+        "The towers are lattice, not stone castle piers, and there is no high enclosed walkway",
+        "Tower Bridge's stone towers and bascules, and Albert Bridge's tollbooths, are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 323\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-131-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-131-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-131-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-132",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Coliseum",
+      "place": "Westminster",
+      "caption": "London Coliseum, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 St Martin's Lane looking at the corner tower and the globe \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Coliseum in London, the globe on the corner tower, on an overcast night",
+      "description": "From St Martin's Lane the view looks at the London Coliseum, Frank Matcham's Edwardian theatre, and the globe set on the corner tower. The stone facade and the globe are the subject. It is an overcast night, about 19.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on St Martin's Lane, looking at the corner tower and the globe. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://londoncoliseum.org/",
+        "https://en.wikipedia.org/wiki/London_Coliseum"
+      ],
+      "anchors": [
+        "The corner tower is crowned by a large globe on a cupola",
+        "The facade is Edwardian stone, with columns and arched windows",
+        "The Royal Opera House Floral Hall and the Theatre Royal Drury Lane porch are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-132-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-132-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-132-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-133",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Bride's Church",
+      "place": "City of London",
+      "caption": "St Bride's Church, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 Fleet Street looking up at the wedding-cake spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Bride's Church in London, the tiered wedding-cake spire, on an overcast night",
+      "description": "From Fleet Street the view looks up at St Bride's, Wren's wedding-cake spire of diminishing octagonal stages. The tiered stone spire is the subject, not a dome. It is an overcast night, about 19.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Fleet Street, looking up at the spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.stbrides.com/",
+        "https://en.wikipedia.org/wiki/St_Bride%27s_Church"
+      ],
+      "anchors": [
+        "The spire is four diminishing octagonal stages of open arches, stacked like a wedding cake, then a small obelisk",
+        "The stone is pale and the spire is the primary subject",
+        "St Paul's dome and Christ Church Spitalfields' portico are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-133-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-133-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-133-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-134",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "ArcelorMittal Orbit",
+      "place": "Newham",
+      "caption": "ArcelorMittal Orbit, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the park path looking at the red looping tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the ArcelorMittal Orbit in London, the red looping steel tower, on a partly cloudy night",
+      "description": "From the park path the view looks at the ArcelorMittal Orbit, the red steel tower whose lattice loops upward in Queen Elizabeth Olympic Park. The London Stadium is not in the frame. It is a partly cloudy night, about 19.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the park path south of the Orbit, looking north, with the stadium out of frame. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://queenelizabetholympicpark.co.uk/the-park/attractions/arcelormittal-orbit",
+        "https://en.wikipedia.org/wiki/ArcelorMittal_Orbit"
+      ],
+      "anchors": [
+        "The tower is a continuous red steel lattice that loops and twists",
+        "An enclosed pod sits on the structure",
+        "The London Stadium bowl and its floodlights are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -36.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-134-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-134-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-134-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-135",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Aquatics Centre",
+      "place": "Newham",
+      "caption": "London Aquatics Centre, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the east side looking at the wave roof \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Aquatics Centre in London, the wave roof, on a partly cloudy night",
+      "description": "From the east side of the building the view looks at the London Aquatics Centre, Zaha Hadid's single wave roof over a glass wall. The Orbit and the stadium are not in the frame. It is a partly cloudy night, about 19.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint east of the centre, looking at the wave roof, with the stadium out of frame. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.londonaquaticscentre.org/",
+        "https://en.wikipedia.org/wiki/London_Aquatics_Centre"
+      ],
+      "anchors": [
+        "One roof only: a long double-curved metallic wave over a glass wall",
+        "The wave is low and wide, not a tower",
+        "The red Orbit sculpture and the London Stadium are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:58 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -36.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-135-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-135-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-135-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-136",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Centre Point",
+      "place": "Camden",
+      "caption": "Centre Point, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 the street junction looking up at the concrete tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Centre Point in London, the concrete honeycomb tower, on an overcast night",
+      "description": "From the street junction the view looks up at Centre Point, the cruciform concrete tower with its honeycomb of precast fins. It is an overcast night, about 19.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint at the New Oxford Street junction, looking up at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1113222",
+        "https://en.wikipedia.org/wiki/Centre_Point"
+      ],
+      "anchors": [
+        "The tower is a single cruciform concrete shaft with a honeycomb of precast fins",
+        "There is no circular pod and no separate service tower",
+        "The BT Tower and Trellick Tower are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-136-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-136-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-136-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-137",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "All Souls Langham Place",
+      "place": "Westminster",
+      "caption": "All Souls Langham Place, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 Langham Place looking at the round porch and the needle spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of All Souls Langham Place in London, the round colonnade and needle spire, on an overcast night",
+      "description": "From Langham Place the view looks at All Souls, Nash's circular Corinthian porch and the needle spire that rises from it. Broadcasting House is not the subject. It is an overcast night, about 19.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Langham Place, looking at the circular porch and the spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.allsouls.org/",
+        "https://en.wikipedia.org/wiki/All_Souls_Church,_Langham_Place"
+      ],
+      "anchors": [
+        "The porch is a circle of Corinthian columns",
+        "A slim needle spire rises from that round colonnade",
+        "Broadcasting House and St Martin-in-the-Fields are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-137-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-137-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-137-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-138",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Senate House",
+      "place": "Camden",
+      "caption": "Senate House, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 Malet Street looking at the stepped stone tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Senate House in London, the stepped Portland-stone tower, on an overcast night",
+      "description": "From Malet Street the view looks at Senate House, Charles Holden's Portland-stone tower, stepping back in ziggurat tiers. It is an overcast night, about 19.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Malet Street, looking north at the south front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.london.ac.uk/about/history/senate-house",
+        "https://en.wikipedia.org/wiki/Senate_House,_London"
+      ],
+      "anchors": [
+        "The tower is Portland stone and steps inward in clear tiers",
+        "The windows are tall and narrow, and the top is flat",
+        "Freemasons' Hall and the BT Tower are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-138-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-138-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-138-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-139",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Peace Pagoda",
+      "place": "Wandsworth",
+      "caption": "London Peace Pagoda, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 the Battersea Park lawn looking at the white-and-gold pagoda \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Peace Pagoda in Battersea Park, London, on an overcast night",
+      "description": "From the lawn in Battersea Park the view looks at the London Peace Pagoda, a low white-and-gold pagoda with two roofs and a gilded finial beside the Thames. It is not the tall brick pagoda at Kew. It is an overcast night, about 19.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Battersea Park lawn, looking toward the pagoda by the river. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.wandsworth.gov.uk/leisure-and-culture/parks-and-open-spaces/battersea-park/",
+        "https://en.wikipedia.org/wiki/Battersea_Park"
+      ],
+      "anchors": [
+        "The pagoda is low, with two broad roofs and a tall gilded finial",
+        "Gilded niches sit on the sides",
+        "The Great Pagoda at Kew, a tall dark brick tower of many storeys, is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -36.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-139-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-139-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-139-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-140",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Trellick Tower",
+      "place": "Kensington and Chelsea",
+      "caption": "Trellick Tower, London",
+      "scenario_label": "30 September 2026 \u00b7 22:55 Europe/London",
+      "composition": "Overcast night \u00b7 Golborne Road looking at the slab and the service tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Trellick Tower in London, the slab and its separate service tower, on an overcast night",
+      "description": "From Golborne Road the view looks at Trellick Tower, Goldfinger's concrete slab and the separate service tower joined to it by bridge links. The Barbican lakeside is not in the frame. It is an overcast night, about 18.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Golborne Road, looking at the slab and the service tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1246688",
+        "https://en.wikipedia.org/wiki/Trellick_Tower"
+      ],
+      "anchors": [
+        "A tall concrete residential slab stands beside a narrower service tower",
+        "Short bridge links join the two shafts, and a boiler house caps the service tower",
+        "The Barbican lakeside and Centre Point's single cruciform tower are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 22:55 Europe/London. Calculated solar azimuth is northwest, about 324\u00b0, and elevation is about -35.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-140-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-140-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-140-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

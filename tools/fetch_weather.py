@@ -112,6 +112,19 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-108", "The Roundhouse", "London", 51.54315, -0.15155, "Europe/London"),
     ("UK-01-109", "Camden Lock Market", "London", 51.54125, -0.14485, "Europe/London"),
     ("UK-01-110", "Abbey Road Studios", "London", 51.53185, -0.17815, "Europe/London"),
+    # London night batch, 30 September 2026. England only. Public viewpoints.
+    # Suggested 131–140 sites already exist as Approved or Candidate scenes.
+    # These pins are the substitute landmarks.
+    ("UK-01-131", "Hammersmith Bridge", "London", 51.48715, -0.23055, "Europe/London"),
+    ("UK-01-132", "London Coliseum", "London", 51.50985, -0.12695, "Europe/London"),
+    ("UK-01-133", "St Bride's Church", "London", 51.51395, -0.10585, "Europe/London"),
+    ("UK-01-134", "ArcelorMittal Orbit", "London", 51.53785, -0.01215, "Europe/London"),
+    ("UK-01-135", "London Aquatics Centre", "London", 51.53955, -0.00955, "Europe/London"),
+    ("UK-01-136", "Centre Point", "London", 51.51575, -0.12935, "Europe/London"),
+    ("UK-01-137", "All Souls Langham Place", "London", 51.51745, -0.14315, "Europe/London"),
+    ("UK-01-138", "Senate House", "London", 51.52055, -0.12855, "Europe/London"),
+    ("UK-01-139", "London Peace Pagoda", "London", 51.48215, -0.15815, "Europe/London"),
+    ("UK-01-140", "Trellick Tower", "London", 51.52085, -0.20455, "Europe/London"),
 ]
 
 
