@@ -1221,5 +1221,390 @@
       "motion": null,
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-041",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Somerset House",
+      "place": "Westminster",
+      "caption": "Somerset House, London",
+      "scenario_label": "30 September 2026 · 16:37 Europe/London",
+      "composition": "Partly cloudy afternoon · the courtyard looking north at the Strand range · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Somerset House courtyard and Strand range in London under a partly cloudy afternoon sky",
+      "description": "From the south side of the courtyard the view looks north across the fountain jets to Somerset House's Strand range, William Chambers's pale stone quadrangle with its central pediment and arched carriage entrance. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The north range is the only building in the frame.",
+      "viewpoint": "Public viewpoint on the south side of the Somerset House courtyard, looking north at the Strand range. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.somersethouse.org.uk/",
+        "https://en.wikipedia.org/wiki/Somerset_House"
+      ],
+      "anchors": [
+        "The courtyard is William Chambers's neoclassical quadrangle of pale stone",
+        "The north range has a central pedimented pavilion and an arched carriage entrance toward the Strand",
+        "The fountain court is foreground; the river wing is behind the camera and is not the subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-041-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-041-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-041-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-042",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Admiralty Arch",
+      "place": "Westminster",
+      "caption": "Admiralty Arch, London",
+      "scenario_label": "30 September 2026 · 16:37 Europe/London",
+      "composition": "Partly cloudy afternoon · The Mall looking northeast at the three arches · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Admiralty Arch from The Mall in London under a partly cloudy afternoon sky",
+      "description": "From The Mall the view looks northeast at Admiralty Arch, the Portland-stone screen of three arches, the wide central opening flanked by two narrower ones, with sculpture along the attic. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. Nelson's Column is not in this frame.",
+      "viewpoint": "Public viewpoint on The Mall, southwest of Admiralty Arch, looking northeast at the arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Admiralty_Arch",
+        "https://www.royalparks.org.uk/visit/parks/st-jamess-park/admiralty-arch"
+      ],
+      "anchors": [
+        "Admiralty Arch is a Portland-stone screen of three arches at the northeast end of The Mall",
+        "The central carriage arch is wider than the two side arches",
+        "Sculpture runs along the attic; this frame is the Mall face and does not include Trafalgar Square"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-042-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-042-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-042-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-043",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Courts of Justice",
+      "place": "Westminster",
+      "caption": "Royal Courts of Justice, London",
+      "scenario_label": "30 September 2026 · 16:37 Europe/London",
+      "composition": "Partly cloudy afternoon · the Strand looking north at the Gothic front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Courts of Justice on the Strand in London under a partly cloudy afternoon sky",
+      "description": "From the south pavement of the Strand the view looks north at the Royal Courts of Justice, George Edmund Street's Gothic stone front, the pointed entrance, the traceried window, the clock, and the pinnacles. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The facade fills the frame.",
+      "viewpoint": "Public viewpoint on the south pavement of the Strand, looking north at the Royal Courts of Justice. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.judiciary.uk/courts-and-tribunals/high-court/",
+        "https://en.wikipedia.org/wiki/Royal_Courts_of_Justice"
+      ],
+      "anchors": [
+        "The Strand front is George Edmund Street's Victorian Gothic facade, opened in 1882",
+        "A deep pointed entrance arch sits under a traceried window and a gabled screen",
+        "A clock is set in the stone front, and pinnacles rise above it"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-043-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-043-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-043-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-044",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Mansion House",
+      "place": "City of London",
+      "caption": "Mansion House, London",
+      "scenario_label": "30 September 2026 · 16:37 Europe/London",
+      "composition": "Partly cloudy afternoon · the junction looking north at the Corinthian portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Mansion House portico in the City of London under a partly cloudy afternoon sky",
+      "description": "From the junction the view looks north at Mansion House, the Lord Mayor's residence, George Dance the Elder's portico of six Corinthian columns on a rusticated podium and a sculpted pediment. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The portico is the subject.",
+      "viewpoint": "Public viewpoint at the Bank junction, looking north at the Mansion House portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.cityoflondon.gov.uk/about-us/about-the-city-of-london-corporation/mansion-house",
+        "https://en.wikipedia.org/wiki/Mansion_House,_London"
+      ],
+      "anchors": [
+        "Mansion House is the Lord Mayor's official residence, facing the Bank junction",
+        "The front is George Dance the Elder's hexastyle Corinthian portico on a rusticated podium",
+        "A sculpted pediment sits above the six columns"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-044-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-044-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-044-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-045",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Bank of England",
+      "place": "City of London",
+      "caption": "Bank of England, London",
+      "scenario_label": "30 September 2026 · 16:37 Europe/London",
+      "composition": "Partly cloudy afternoon · Threadneedle Street looking north at the screen wall · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Bank of England Threadneedle Street facade under a partly cloudy afternoon sky",
+      "description": "From the south side of Threadneedle Street the view looks north at the Bank of England's windowless stone screen, Soane's blank curtain wall with a restrained central doorway and the later upper floors set back. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. It is not the Mansion House portico.",
+      "viewpoint": "Public viewpoint on the south side of Threadneedle Street, looking north at the Bank of England screen wall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.bankofengland.co.uk/about/history",
+        "https://en.wikipedia.org/wiki/Bank_of_England"
+      ],
+      "anchors": [
+        "The Threadneedle Street front is Sir John Soane's windowless stone screen",
+        "A restrained central entrance breaks the blank wall; the street front is not a temple portico",
+        "Herbert Baker's later upper storeys sit back above the screen and are not the street-level subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-045-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-045-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-045-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-046",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Golden Hinde II",
+      "place": "Southwark",
+      "caption": "Golden Hinde II, London",
+      "scenario_label": "30 September 2026 · 16:38 Europe/London",
+      "composition": "Partly cloudy afternoon · the dock quay looking at the galleon · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Golden Hinde in St Mary Overie Dock, Bankside, under a partly cloudy afternoon sky",
+      "description": "From the quay the view looks across St Mary Overie Dock at the Golden Hinde, the wooden replica galleon, its golden-ochre hull, high sterncastle, and masts. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The ship is the only subject.",
+      "viewpoint": "Public viewpoint on the quay of St Mary Overie Dock, Bankside, looking at the Golden Hinde. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.goldenhinde.co.uk/",
+        "https://en.wikipedia.org/wiki/Golden_Hinde_(1973)"
+      ],
+      "anchors": [
+        "The Golden Hinde is the 1973 replica of Francis Drake's galleon, berthed in St Mary Overie Dock",
+        "A high sterncastle, a beak, and three masts identify the ship, and the hull reads as golden ochre",
+        "The ship sits in a stone dock; Shakespeare's Globe is not the subject"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-046-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-046-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-046-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-047",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Apsley House",
+      "place": "Westminster",
+      "caption": "Apsley House, London",
+      "scenario_label": "30 September 2026 · 16:38 Europe/London",
+      "composition": "Partly cloudy afternoon · Hyde Park Corner looking at the Bath-stone house · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Apsley House at Hyde Park Corner in London under a partly cloudy afternoon sky",
+      "description": "From the corner pavement the view looks at Apsley House, the honey Bath-stone mansion at Hyde Park Corner, a three-storey house with a Corinthian portico and a roof balustrade. The afternoon is partly cloudy and dry, about 23.0°C, with the sun low in the west-southwest. Wellington Arch is not in this frame.",
+      "viewpoint": "Public viewpoint at Hyde Park Corner, looking at Apsley House. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/apsley-house/",
+        "https://en.wikipedia.org/wiki/Apsley_House"
+      ],
+      "anchors": [
+        "Apsley House is the Bath-stone mansion at Hyde Park Corner, the Wellington Museum",
+        "A Corinthian portico addresses the corner of the three-storey house",
+        "Wellington Arch and its quadriga are not in this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-047-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-047-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-047-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-048",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Liberty London",
+      "place": "Westminster",
+      "caption": "Liberty London, London",
+      "scenario_label": "30 September 2026 · 16:38 Europe/London",
+      "composition": "Partly cloudy afternoon · Great Marlborough Street looking at the timber front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Liberty's timber facade on Great Marlborough Street in London under a partly cloudy afternoon sky",
+      "description": "From Great Marlborough Street the view looks at Liberty's 1924 timber facade, close-studded oak, pale plaster, leaded windows, and a row of steep gables. The afternoon is partly cloudy and dry, about 23.1°C, and the sun is low in the west-southwest. The timber front is the subject.",
+      "viewpoint": "Public viewpoint on the south side of Great Marlborough Street, looking north at the timber facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.libertylondon.com/uk/information/our-heritage.html",
+        "https://en.wikipedia.org/wiki/Liberty_(department_store)"
+      ],
+      "anchors": [
+        "The Great Marlborough Street front is the 1924 Tudor Revival timber building by Edwin T. Hall and E. Stanley Hall",
+        "Close-studded oak, leaded casements, and a row of gables run along the street",
+        "The timber frame is the subject; the Regent Street stone front is a different building and is not shown"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-048-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-048-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-048-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-049",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Selfridges",
+      "place": "Westminster",
+      "caption": "Selfridges, London",
+      "scenario_label": "30 September 2026 · 16:38 Europe/London",
+      "composition": "Partly cloudy afternoon · Oxford Street looking north at the colonnade and the Queen of Time · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Selfridges Oxford Street colonnade and the Queen of Time under a partly cloudy afternoon sky",
+      "description": "From the Oxford Street pavement the view looks north at the stone colonnade and the gilded Queen of Time standing over the clock at the centre of the facade. The afternoon is partly cloudy and dry, about 22.9°C, with the sun low in the west-southwest. The figure and the columns are the subject.",
+      "viewpoint": "Public viewpoint on the south pavement of Oxford Street, looking north at the colonnade and the Queen of Time. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.selfridges.com/GB/en/features/info/our-heritage/",
+        "https://en.wikipedia.org/wiki/Selfridges,_Oxford_Street"
+      ],
+      "anchors": [
+        "The Oxford Street front is the 1909 Beaux-Arts stone facade, a giant Ionic colonnade",
+        "The Queen of Time, a gilded figure above a clock, marks the central entrance",
+        "The colonnade and the clock figure are the subject of this frame"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-049-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-049-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-049-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+{
+      "entry_id": "UK-01-050",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Barbican Centre",
+      "place": "City of London",
+      "caption": "Barbican Centre, London",
+      "scenario_label": "30 September 2026 · 16:38 Europe/London",
+      "composition": "Partly cloudy afternoon · the lake looking at the concrete towers · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Barbican towers across the lake in London under a partly cloudy afternoon sky",
+      "description": "From the lakeside the view looks across the water at the Barbican towers, bush-hammered concrete, balconies, and angular crowns gathered as one skyline. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. The lake is the foreground and the towers are the subject.",
+      "viewpoint": "Public viewpoint on the Barbican lakeside, looking across the water at the residential towers. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.barbican.org.uk/our-story/architecture",
+        "https://en.wikipedia.org/wiki/Barbican_Estate"
+      ],
+      "anchors": [
+        "The lakeside view gathers the Barbican's concrete residential towers as one skyline",
+        "The towers show board-marked concrete, stacked balconies, and angular crowns",
+        "The lake is foreground; the conservatory and the church are not competing subjects"
+      ],
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.3°. The sky is partly cloudy. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-050-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-050-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-050-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }]
 }
