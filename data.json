@@ -442,6 +442,387 @@
       "git_blob_sha1_16x9": "9898cca788c82109fe358336c06bcb57694edefe",
       "git_blob_sha1_4x5": "ea9a48409d44ab129b7d4a58676854fb30cba60e",
       "git_blob_sha1_9x16": "41d7303fa61a8572bda44d5a08ce9d6fd796f625"
+    },
+    {
+      "entry_id": "UK-01-081",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Tate Britain",
+      "place": "Westminster",
+      "caption": "Tate Britain, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · Millbank looking northwest at the portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tate Britain portico on Millbank under a mainly clear twilight sky",
+      "description": "From the Millbank pavement the view looks northwest at Tate Britain, a straight Portland-stone range with a central Corinthian portico, a sculpted pediment, and a wide flight of steps. The wings do not curve, and there is no dome and no chimney. It is civil twilight just after sunset, mainly clear, about 21.2°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Millbank pavement east of Tate Britain, looking northwest at the portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.tate.org.uk/visit/tate-britain",
+        "https://en.wikipedia.org/wiki/Tate_Britain"
+      ],
+      "anchors": [
+        "The Millbank front is Sidney R. J. Smith's 1897 Portland-stone gallery, a straight range rather than a crescent",
+        "A central Corinthian portico carries a sculpted pediment above a broad flight of steps",
+        "Tate Modern's brick power station and chimney are a different building and are not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.4°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-081-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-081-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-081-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-082",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Imperial War Museum",
+      "place": "Lambeth",
+      "caption": "Imperial War Museum, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · the park lawn looking north at the portico and copper dome · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Imperial War Museum portico and copper dome in Lambeth under a mainly clear twilight sky",
+      "description": "From the park lawn the view looks north at the Imperial War Museum, one stone portico with a pediment and a segmented copper-green dome and lantern rising directly behind it. The dome and the portico are a single building. It is civil twilight just after sunset, mainly clear, about 21.4°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the lawn of Geraldine Mary Harmsworth Park, looking north at the museum front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.iwm.org.uk/visits/iwm-london",
+        "https://en.wikipedia.org/wiki/Imperial_War_Museum"
+      ],
+      "anchors": [
+        "The Lambeth museum reuses the former Bethlem Hospital front, a stone portico under one dome",
+        "The dome is segmented and copper-green, with a small lantern, and it sits on the axis of the portico",
+        "St Paul's Cathedral and its western towers are a different building and are not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.4°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-082-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-082-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-082-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-083",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Design Museum",
+      "place": "Kensington and Chelsea",
+      "caption": "Design Museum, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · Kensington High Street looking north at the copper roof · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Design Museum copper hyperbolic roof in Kensington under a partly cloudy twilight sky",
+      "description": "From Kensington High Street the view looks north at the Design Museum, the former Commonwealth Institute, whose roof is a saddle of green oxidized copper that rises at the corners. The glass base stays lower than the roof. It is civil twilight just after sunset, partly cloudy, about 21.2°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the pavement of Kensington High Street, looking north at the Design Museum roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://designmuseum.org/",
+        "https://en.wikipedia.org/wiki/Design_Museum"
+      ],
+      "anchors": [
+        "The roof is a hyperbolic paraboloid of oxidized copper, high at the corners and lower along the sides",
+        "The base is a low glass and stone pavilion, not a classical portico",
+        "The Victoria and Albert Museum is a different building and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.4°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-083-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-083-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-083-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-084",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Sir John Soane's Museum",
+      "place": "Camden",
+      "caption": "Sir John Soane's Museum, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · Lincoln's Inn Fields looking north at the caryatid porch · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Sir John Soane's Museum facade and caryatid porch under a mainly clear twilight sky",
+      "description": "From Lincoln's Inn Fields the view looks north at Sir John Soane's Museum, a narrow Portland-stone facade of three storeys. Two caryatid figures carry the central porch, and a balcony sits over the door. It is civil twilight just after sunset, mainly clear, about 21.3°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Lincoln's Inn Fields, looking north at the museum facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.soane.org/",
+        "https://en.wikipedia.org/wiki/Sir_John_Soane%27s_Museum"
+      ],
+      "anchors": [
+        "No. 13 Lincoln's Inn Fields is a three-bay stone front, not a church and not a law court",
+        "The porch is carried by two caryatids, with a balcony above the entrance",
+        "Lincoln's Inn Chapel, with its open undercroft, is a different building and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-084-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-084-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-084-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-085",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lincoln's Inn",
+      "place": "Camden",
+      "caption": "Lincoln's Inn, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · the chapel court looking north at the undercroft and chapel · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Lincoln's Inn Chapel on its open undercroft under a mainly clear twilight sky",
+      "description": "From the chapel court the view looks north at Lincoln's Inn Chapel alone, raised on an open stone undercroft of arches, with traceried windows and a crenellated parapet above. New Square's brick houses are not the subject. It is civil twilight just after sunset, mainly clear, about 21.4°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the chapel court at Lincoln's Inn, looking north at the chapel. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.lincolnsinn.org.uk/",
+        "https://en.wikipedia.org/wiki/Lincoln%27s_Inn"
+      ],
+      "anchors": [
+        "The chapel stands on an open undercroft, so the arches can be seen through",
+        "Above the arches the chapel is Perpendicular Gothic, with tall windows and a crenellated parapet",
+        "Sir John Soane's Museum and the Royal Courts of Justice are different buildings and are not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-085-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-085-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-085-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-086",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Staple Inn",
+      "place": "Camden",
+      "caption": "Staple Inn, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · Holborn looking north at the timber facade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Staple Inn timber facade on Holborn under a mainly clear twilight sky",
+      "description": "From the south side of Holborn the view looks north at Staple Inn, a low row of jettied gables in black timber and white plaster, with oriel windows over the pavement. It is one street front, not a tall department store. It is civil twilight just after sunset, mainly clear, about 21.3°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south side of Holborn, looking north at the Staple Inn facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Staple_Inn",
+        "https://historicengland.org.uk/listing/the-list/results?search=Staple+Inn"
+      ],
+      "anchors": [
+        "The Holborn front is a Tudor timber range, black beams and pale plaster, with a row of steep gables",
+        "The upper floors jetty out over the pavement",
+        "Liberty London's large mock-Tudor store is a different building and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-086-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-086-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-086-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-087",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Bartholomew-the-Great",
+      "place": "City of London",
+      "caption": "St Bartholomew-the-Great, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · West Smithfield looking south through the gate at the church · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Bartholomew-the-Great seen through its stone gate under a mainly clear twilight sky",
+      "description": "From West Smithfield the view looks south through the single stone arch of St Bartholomew-the-Great. One small timber gable sits on that arch, and the Norman church, with its square tower, stands beyond the path. The iron market hall is not in the frame. It is civil twilight just after sunset, mainly clear, about 21.4°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on West Smithfield, looking south through the gate at the church. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.greatstbarts.com/",
+        "https://en.wikipedia.org/wiki/St_Bartholomew-the-Great"
+      ],
+      "anchors": [
+        "The gate is one thirteenth-century stone arch with a single timber storey above it",
+        "Through the arch the priory church reads as flint and limestone, with a square tower",
+        "Smithfield Market's iron-and-glass Grand Avenue is a different building and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-087-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-087-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-087-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-088",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Chelsea Physic Garden",
+      "place": "Kensington and Chelsea",
+      "caption": "Chelsea Physic Garden, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · inside the garden, the low glasshouse range · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the low glasshouses at Chelsea Physic Garden under a partly cloudy twilight sky",
+      "description": "Inside Chelsea Physic Garden the view looks at the glasshouse range alone, a low rectangular house with white glazing bars, a shallow pitched roof, and a brick base, set in front of the old brick wall. It is not a tall curved palm house. It is civil twilight just after sunset, partly cloudy, about 21.2°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint inside Chelsea Physic Garden, looking at the glasshouse range. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.chelseaphysicgarden.co.uk/",
+        "https://en.wikipedia.org/wiki/Chelsea_Physic_Garden"
+      ],
+      "anchors": [
+        "The glasshouses are low and rectangular, with a shallow pitched roof and a brick base",
+        "Ordered beds and the garden wall sit with that range",
+        "The Palm House at Kew is a different, much larger curved iron house and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-088-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-088-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-088-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-089",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Brompton Oratory",
+      "place": "Kensington and Chelsea",
+      "caption": "Brompton Oratory, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · Brompton Road looking north at the Baroque facade and dome · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Brompton Oratory facade and dome under a partly cloudy twilight sky",
+      "description": "From Brompton Road the view looks north at the Brompton Oratory, an Italian Baroque stone facade with a pediment, columns, and statues along the balustrade, and one dome rising behind. The museum next door is not in the frame. It is civil twilight just after sunset, partly cloudy, about 21.1°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the pavement of Brompton Road, looking north at the Oratory facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.bromptonoratory.co.uk/",
+        "https://en.wikipedia.org/wiki/Brompton_Oratory"
+      ],
+      "anchors": [
+        "The facade is a wide Baroque stone front with columns, a pediment, and statues on the balustrade",
+        "One dome rises behind that front",
+        "Westminster Cathedral's striped campanile and the V&A are different buildings and are not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-089-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-089-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-089-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-090",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Hospital Chelsea",
+      "place": "Kensington and Chelsea",
+      "caption": "Royal Hospital Chelsea, London",
+      "scenario_label": "30 September 2026 · 18:44 Europe/London",
+      "composition": "Civil twilight · the south lawn looking north at the Figure Court front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Hospital Chelsea Figure Court and its single cupola under a partly cloudy twilight sky",
+      "description": "From the south lawn the view looks north at the Royal Hospital Chelsea, Wren's red-brick Figure Court front, with a central columned portico and a single cupola and lantern on the roof. There is one cupola, not a pair of domes. It is civil twilight just after sunset, partly cloudy, about 21.2°C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south lawn of the Royal Hospital Chelsea, looking north at the Figure Court front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.chelsea-pensioners.co.uk/",
+        "https://en.wikipedia.org/wiki/Royal_Hospital_Chelsea"
+      ],
+      "anchors": [
+        "The south front is a long red-brick range with pale stone dressings",
+        "A central portico sits under a pediment, and one octagonal cupola rises on the axis",
+        "The Old Royal Naval College at Greenwich has twin domes and is not in this frame"
+      ],
+      "solar": "Just after sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 18:44 Europe/London. Calculated solar azimuth is west, about 267°, and elevation is about -1.5°. The disk is below the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-090-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-090-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-090-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
