@@ -2747,6 +2747,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-211",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Anne's, Limehouse",
+      "place": "Tower Hamlets",
+      "caption": "St Anne's, Limehouse, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Broken cloud afternoon \u00b7 Commercial Road looking south at the pyramidal tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the pyramidal west tower of St Anne's Limehouse under a broken afternoon sky",
+      "description": "From Commercial Road the view looks south at St Anne's Limehouse, Nicholas Hawksmoor's Portland-stone church, whose square west tower carries a circular window, clock faces, and a steep pyramidal spire. The church body is a plain stone rectangle beside the tower. It is a dry mainly clear afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Commercial Road, looking south at the west tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Anne%27s_Limehouse",
+        "https://en.wikipedia.org/wiki/Nicholas_Hawksmoor"
+      ],
+      "anchors": [
+        "The west tower is square Portland stone, with a circular oculus and clock faces",
+        "A steep stone pyramid crowns the tower, and nobody stands on the spire",
+        "It is not St George's, Bloomsbury, and it is not Christ Church Spitalfields"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-211-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-211-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-211-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-212",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Shell Mex House",
+      "place": "Westminster",
+      "caption": "Shell Mex House, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Mostly cloudy afternoon \u00b7 the South Bank looking north at the river clock \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the river clock on Shell Mex House in London under a mostly cloudy afternoon sky",
+      "description": "From the South Bank the view looks north across the Thames at Shell Mex House, a plain Art Deco stone slab with one enormous clock centered on the river front and four pale figures at the south corners. The facade is a sheer grid of windows. It is a dry partly cloudy afternoon, about 20.3\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the South Bank, looking north across the Thames at the river clock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Shell_Mex_House",
+        "https://en.wikipedia.org/wiki/Strand,_London"
+      ],
+      "anchors": [
+        "A plain stone slab faces the Thames, with one huge round clock centered on the south front",
+        "Four pale figures stand at the south corners beside the clock",
+        "It is not Somerset House, and it is not the Savoy"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-212-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-212-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-212-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-213",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "One Poultry",
+      "place": "City of London",
+      "caption": "One Poultry, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 Bank junction looking west at the striped prow \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the striped prow of One Poultry at Bank in London under a partly cloudy afternoon sky",
+      "description": "At Bank the view looks west at One Poultry, James Stirling's wedge of even rose-pink and yellow stone stripes, with a pointed window prow and a small glazed clock turret. The building has no classical portico. It is a dry partly cloudy afternoon, about 20.3\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint at Bank junction, looking west at the striped prow. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/No_1_Poultry",
+        "https://en.wikipedia.org/wiki/James_Stirling_(architect)"
+      ],
+      "anchors": [
+        "Even horizontal bands of rose-pink and yellow stone wrap a wedge-shaped prow",
+        "A small glazed clock turret sits above the pointed apex",
+        "It is not The Ned, not Mansion House, and not the Royal Exchange"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-213-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-213-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-213-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-214",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Old War Office",
+      "place": "Westminster",
+      "caption": "Old War Office, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Mostly cloudy afternoon \u00b7 Whitehall looking east at the domed turrets \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the domed corner turrets of the Old War Office on Whitehall under a mostly cloudy afternoon sky",
+      "description": "From Whitehall the view looks east at the Old War Office, a Portland-stone Edwardian Baroque block with rusticated walls and domed corner turrets. The skyline is a row of small cupolas. It is a dry partly cloudy afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Whitehall, looking east at the baroque stone front and corner turrets. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/War_Office",
+        "https://en.wikipedia.org/wiki/Whitehall"
+      ],
+      "anchors": [
+        "The block is Portland stone in an Edwardian Baroque mass, with domed corner turrets",
+        "The front is rusticated, with tall windows and small cupolas on the skyline",
+        "It is not Horse Guards, not Banqueting House, and not Whitehall Court"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-214-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-214-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-214-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-215",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hill Garden Pergola",
+      "place": "Camden",
+      "caption": "Hill Garden Pergola, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the colonnade walk looking along the pergola \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the stone colonnade of the Hill Garden Pergola in Hampstead under a partly cloudy afternoon sky",
+      "description": "On Hampstead Heath the Hill Garden Pergola is a raised walk of pale stone columns on a brick arcade, with weathered timber beams open to the sky. The colonnade recedes through the trees. It is a dry partly cloudy afternoon, about 19.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the pergola walk at the Hill Garden, Hampstead Heath, looking along the colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath",
+        "https://en.wikipedia.org/wiki/Thomas_Hayton_Mawson"
+      ],
+      "anchors": [
+        "Pale stone columns stand on a brick arcade, with timber beams overhead",
+        "The walk is open to the sky between the beams",
+        "It is not Kenwood House"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-215-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-215-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-215-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-216",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Luke's, Old Street",
+      "place": "Islington",
+      "caption": "St Luke's, Old Street, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Mostly cloudy afternoon \u00b7 Old Street looking north at the obelisk spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the fluted obelisk spire of St Luke's, Old Street, under a mostly cloudy afternoon sky",
+      "description": "From Old Street the view looks north at St Luke's, a brick church whose square west tower is crowned by a tall fluted stone obelisk. The church is roofed. It is a dry partly cloudy afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Old Street, looking north at the obelisk spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Luke_Old_Street",
+        "https://en.wikipedia.org/wiki/Nicholas_Hawksmoor"
+      ],
+      "anchors": [
+        "A tall fluted stone obelisk stands on a square west tower",
+        "The church body is brick with stone dressings and a roof",
+        "It is not St Anne's, Limehouse, and it is not St George's, Bloomsbury"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-216-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-216-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-216-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-217",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Reform Club",
+      "place": "Westminster",
+      "caption": "Reform Club, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Mostly cloudy afternoon \u00b7 Pall Mall looking south at the stone palazzo \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Portland-stone palazzo front of the Reform Club on Pall Mall under a mostly cloudy afternoon sky",
+      "description": "From Pall Mall the view looks south at the Reform Club, Charles Barry's Portland-stone palazzo, with a rusticated base, pedimented upper windows, and a heavy cornice. The street front has no columned porch. It is a dry partly cloudy afternoon, about 20.3\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the Pall Mall pavement, looking south at the stone palazzo front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Reform_Club",
+        "https://www.reformclub.com/"
+      ],
+      "anchors": [
+        "The street front is a symmetrical Portland-stone palazzo with a rusticated ground storey",
+        "The upper windows carry alternating pediments under a heavy cornice",
+        "It is not the Athenaeum, and it is not the Royal Academy"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-217-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-217-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-217-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-218",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Bush House",
+      "place": "Westminster",
+      "caption": "Bush House, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Mostly cloudy afternoon \u00b7 Kingsway looking south at the colonnade \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the stone colonnade of Bush House on Kingsway under a mostly cloudy afternoon sky",
+      "description": "From Kingsway the view looks south at Bush House, a recessed colonnade of giant stone columns set between two plain wings. The entablature is bare of lettering. It is a dry partly cloudy afternoon, about 20.2\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Kingsway, looking south at the north colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bush_House",
+        "https://en.wikipedia.org/wiki/Kingsway,_London"
+      ],
+      "anchors": [
+        "A recessed colonnade of giant stone columns sits between two plain wings",
+        "The entablature carries no readable inscription",
+        "It is not Somerset House, and it is not Broadcasting House"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-218-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-218-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-218-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-219",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Liverpool Street Station",
+      "place": "City of London",
+      "caption": "Liverpool Street Station, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Broken cloud afternoon \u00b7 Liverpool Street looking south at the station and hotel roofs \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Liverpool Street Station and the adjoining hotel roofs under a broken afternoon sky",
+      "description": "From Liverpool Street the view looks south at the station's Gothic brick arches and the adjoining Great Eastern Hotel, red brick with pale stone bands and steep pavilion roofs, with iron-and-glass train-shed arches behind. The skyline has no single huge clock tower. It is a dry partly cloudy afternoon, about 20.3\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Liverpool Street, looking south at the station front and the hotel roofs. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Liverpool_Street_station",
+        "https://en.wikipedia.org/wiki/Andaz_London_Liverpool_Street"
+      ],
+      "anchors": [
+        "A Gothic brick-and-stone station front with pointed arches stands beside a red-brick hotel",
+        "The hotel has pale stone bands and steep French Renaissance pavilion roofs",
+        "It is not St Pancras, and it is not King's Cross"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-219-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-219-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-219-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-220",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Portcullis House",
+      "place": "Westminster",
+      "caption": "Portcullis House, London",
+      "scenario_label": "1 October 2026 \u00b7 16:41 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the Embankment looking west at the bronze chimneys \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the bronze chimney stacks on Portcullis House in Westminster under a partly cloudy afternoon sky",
+      "description": "From the Victoria Embankment the view looks west at Portcullis House, a rectangular stone office block whose flat roof carries a row of tall bronze chimneys with flared caps. The window grid is regular. It is a dry partly cloudy afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the Victoria Embankment, looking west at the river front and the bronze chimneys. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Portcullis_House",
+        "https://en.wikipedia.org/wiki/Michael_Hopkins_(architect)"
+      ],
+      "anchors": [
+        "A rectangular stone office block has a grid of tall windows",
+        "The flat roof carries many tall bronze chimneys with flared caps",
+        "It is not the Palace of Westminster, and it is not the Norman Shaw Buildings"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:41 Europe/London. Calculated solar azimuth is west-southwest, about 242\u00b0, and elevation is about 16.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-220-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-220-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-220-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
