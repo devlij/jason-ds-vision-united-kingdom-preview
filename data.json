@@ -2747,6 +2747,395 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-231",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Old Billingsgate Market",
+      "place": "City of London",
+      "caption": "Old Billingsgate Market, London",
+      "scenario_label": "1 October 2026 \u00b7 17:49 Europe/London",
+      "composition": "Late afternoon, mostly cloudy \u00b7 the riverside walk looking north at the arched hall \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Old Billingsgate Market from the riverside in London, a yellow-brick hall of tall arches with fish weathervanes, under a mostly cloudy late-afternoon sky",
+      "description": "From the riverside walk the view looks north at Old Billingsgate Market, a long hall of yellow London stock brick and Portland stone, with a row of tall round arches, a lead mansard and stone dormers, and fish-shaped weathervanes on the end pavilions. It is Horace Jones's 1875 fish market, not the custom house and not the market that later moved to the Isle of Dogs. It is a dry mostly cloudy late afternoon, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the riverside walk immediately south of Old Billingsgate, looking north at the river front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Old_Billingsgate_Market",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358911"
+      ],
+      "anchors": [
+        "The river front is a long hall of yellow London stock brick with Portland stone dressings and a row of tall round arches",
+        "A lead mansard carries stone dormers, and the end pavilions have fish-shaped weathervanes",
+        "It is Horace Jones's 1875 market on Lower Thames Street, not Custom House and not the later Billingsgate hall on the Isle of Dogs"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:49 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-231-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-231-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-231-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-232",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "BFI IMAX",
+      "place": "Lambeth",
+      "caption": "BFI IMAX, London",
+      "scenario_label": "1 October 2026 \u00b7 17:49 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 the Waterloo roundabout looking at the glass drum \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the BFI IMAX at Waterloo in London, a short glass drum in a roundabout, under a partly cloudy late-afternoon sky",
+      "description": "From the Waterloo roundabout the view looks at the BFI IMAX, a short glass drum in a dark metal grid with a flat overhanging roof, sitting in the traffic island at the south end of Waterloo Bridge. It is not a dome and it is not the London Eye. It is a dry partly cloudy late afternoon, about 20.2\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the Waterloo roundabout pavement, looking north at the glass drum. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/BFI_IMAX",
+        "https://www.bfi.org.uk/bfi-imax"
+      ],
+      "anchors": [
+        "The cinema is a short glass cylinder, wider than it is tall, in a dark metal grid",
+        "A flat roof disk overhangs the drum, and the drum sits in the roundabout",
+        "It is the Waterloo IMAX, not a dome and not the London Eye"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:49 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-232-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-232-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-232-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-233",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hotel Russell",
+      "place": "Camden",
+      "caption": "Hotel Russell, London",
+      "scenario_label": "1 October 2026 \u00b7 17:49 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 Russell Square looking east at the terracotta front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hotel Russell on Russell Square in London, a red-orange terracotta French Renaissance hotel, under broken late-afternoon cloud",
+      "description": "From Russell Square the view looks east at Hotel Russell, a red-orange terracotta French Renaissance block with a steep slate roof, dormers, and statues of queens set in niches. It is Charles Fitzroy Doll's 1898 hotel, not Senate House and not the British Museum. It is a dry late afternoon under broken cloud, about 19.8\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in Russell Square gardens, looking east at the terracotta front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hotel_Russell",
+        "https://en.wikipedia.org/wiki/Russell_Square"
+      ],
+      "anchors": [
+        "The square front is rich red-orange terracotta in a French Renaissance manner, with a steep slate roof and dormers",
+        "Statues of queens stand in niches on the facade",
+        "It is Charles Fitzroy Doll's 1898 Hotel Russell, not Senate House and not the British Museum colonnade"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:49 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-233-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-233-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-233-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-234",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Craven Cottage",
+      "place": "Hammersmith and Fulham",
+      "caption": "Craven Cottage, London",
+      "scenario_label": "1 October 2026 \u00b7 17:49 Europe/London",
+      "composition": "Late afternoon, mainly clear \u00b7 Bishops Park looking at the cottage in the ground \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Craven Cottage in Fulham, London, a small red-brick gabled house tucked into the corner of the stand, under a mainly clear late-afternoon sky",
+      "description": "From the Bishops Park riverside the view looks toward Craven Cottage, a small red-brick house with a steep gable, white sash windows and a narrow iron balcony, tucked into the corner of the brick stand above a strip of pitch. It is not Fulham Palace. It is a dry mainly clear late afternoon, about 19.6\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint at the Bishops Park riverside edge, looking south toward the cottage in the north-east corner of the ground. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Craven_Cottage",
+        "https://www.fulhamfc.com/"
+      ],
+      "anchors": [
+        "The subject is the cottage: a small two-storey red-brick house with a steep gable, white sash windows and a narrow iron balcony",
+        "The cottage sits in the corner of a low brick stand, with a strip of pitch in front",
+        "It is the Craven Cottage corner, not Fulham Palace"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:49 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.7\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-234-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-234-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-234-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-235",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "55 Broadway",
+      "place": "Westminster",
+      "caption": "55 Broadway, London",
+      "scenario_label": "1 October 2026 \u00b7 17:49 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 Broadway looking up at the stepped stone tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of 55 Broadway in Westminster, London, a cruciform Portland-stone tower with stepped wings, under a partly cloudy late-afternoon sky",
+      "description": "From the Broadway pavement the view looks up at 55 Broadway, Charles Holden's cruciform Portland-stone block, its wings stepping back to a central tower with a small clock. It is not a glass tower and it is not Elizabeth Tower. It is a dry partly cloudy late afternoon, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the Broadway pavement, looking up at the stepped stone tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/55_Broadway",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1219790"
+      ],
+      "anchors": [
+        "The building is cruciform in Portland stone, with wings that step back in terraces",
+        "A central stepped tower carries a small clock",
+        "It is Charles Holden's 1929 headquarters over St James's Park station, not a glass tower and not Elizabeth Tower"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:49 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-235-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-235-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-235-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-236",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Foreign Office",
+      "place": "Westminster",
+      "caption": "Foreign Office, London",
+      "scenario_label": "1 October 2026 \u00b7 17:50 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 St James's Park looking at the Italianate west front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Foreign Office from St James's Park in London, a Portland-stone Italianate palazzo with a corner tower, under a partly cloudy late-afternoon sky",
+      "description": "From St James's Park the view looks at the west front of the Foreign Office, a Portland-stone Italianate palazzo of round-arched windows and one corner tower with a shallow roof. It is George Gilbert Scott's building, not the Gothic Palace of Westminster and not the Banqueting House. It is a dry partly cloudy late afternoon, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in St James's Park at the west end of King Charles Street, looking east at the park front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Foreign,_Commonwealth_and_Development_Office",
+        "https://www.gov.uk/government/history/king-charles-street"
+      ],
+      "anchors": [
+        "The park front is a Portland-stone Italianate range with round-arched windows and a heavy cornice",
+        "One picturesque corner tower has a shallow roof and is not a Gothic clock spire",
+        "It is George Gilbert Scott's Foreign Office, not the Palace of Westminster and not the Banqueting House"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:50 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-236-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-236-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-236-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-237",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Park Crescent",
+      "place": "Westminster",
+      "caption": "Park Crescent, London",
+      "scenario_label": "1 October 2026 \u00b7 17:50 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 the garden looking at the Ionic crescent \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Park Crescent in Marylebone, London, a cream stucco semicircle with a paired Ionic colonnade, under a partly cloudy late-afternoon sky",
+      "description": "From the garden the view looks at Park Crescent, a cream stucco semicircle with a continuous Ionic colonnade of paired columns. It is John Nash's crescent at the foot of Portland Place, not Cumberland Terrace. It is a dry partly cloudy late afternoon, about 19.7\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in the Park Crescent garden, looking south at the Ionic colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Park_Crescent,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1225974"
+      ],
+      "anchors": [
+        "The crescent is pale cream stucco and sweeps in a semicircle",
+        "A continuous ground-floor colonnade uses paired Ionic columns",
+        "It is John Nash's Park Crescent, not Cumberland Terrace and not a triumphal-arch terrace"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:50 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-237-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-237-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-237-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-238",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Magnus the Martyr",
+      "place": "City of London",
+      "caption": "St Magnus the Martyr, London",
+      "scenario_label": "1 October 2026 \u00b7 17:50 Europe/London",
+      "composition": "Late afternoon, mostly cloudy \u00b7 Lower Thames Street looking up at Wren's tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Magnus the Martyr in the City of London, Wren's white stone tower with an octagonal lantern and a slender spire, under a mostly cloudy late-afternoon sky",
+      "description": "From Lower Thames Street the view looks up at St Magnus the Martyr, Wren's white stone tower with a clock stage, an octagonal lantern and a slender spire, the church body beside it. It is not the Monument and it is not St Paul's. It is a dry mostly cloudy late afternoon, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on Lower Thames Street, looking north at Wren's tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Magnus_the_Martyr",
+        "https://www.stmagnusmartyr.org.uk/"
+      ],
+      "anchors": [
+        "The tower is white Portland stone: a square shaft, a clock stage, an octagonal lantern and a slender spire",
+        "The church body, with round-arched windows, stands beside the tower",
+        "It is Wren's St Magnus the Martyr by London Bridge, not the Monument and not St Paul's Cathedral"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:50 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-238-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-238-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-238-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-239",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Dunstan-in-the-West",
+      "place": "City of London",
+      "caption": "St Dunstan-in-the-West, London",
+      "scenario_label": "1 October 2026 \u00b7 17:50 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 Fleet Street looking at the clock and the two figures \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Dunstan-in-the-West on Fleet Street in London, a Gothic front with two gilded figures beside the clock, under a partly cloudy late-afternoon sky",
+      "description": "From the south pavement of Fleet Street the view looks at St Dunstan-in-the-West, a Gothic stone front and a clock porch where two gilded figures stand beside the bells. It is not St Dunstan-in-the-East and it is not the Daily Express Building. It is a dry partly cloudy late afternoon, about 20.0\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the south pavement of Fleet Street, looking north at the clock porch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Dunstan-in-the-West",
+        "https://www.stdunstaninthewest.org/"
+      ],
+      "anchors": [
+        "The Fleet Street front is Gothic Revival stone, with an octagonal tower set back",
+        "A clock porch projects over the pavement, and two gilded figures stand one on each side of the bells",
+        "It is St Dunstan-in-the-West, not the ruined St Dunstan-in-the-East and not the Daily Express Building"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:50 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-239-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-239-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-239-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-240",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Michelin Building",
+      "place": "Kensington and Chelsea",
+      "caption": "Michelin Building, London",
+      "scenario_label": "1 October 2026 \u00b7 17:50 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 Fulham Road looking at the white-tiled corner turret \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Michelin Building on Fulham Road in London, a white ceramic corner turret with a glazed cupola, under broken late-afternoon cloud",
+      "description": "From the corner of Fulham Road and Sloane Avenue the view looks at the Michelin Building, a white ceramic-tiled corner turret with a glazed cupola and floral stained glass. It is the 1911 art nouveau block, not the Victoria and Albert Museum and not the Brompton Oratory. It is a dry late afternoon under broken cloud, about 19.9\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint at the corner of Fulham Road and Sloane Avenue, looking northeast at the tiled turret. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Michelin_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1227402"
+      ],
+      "anchors": [
+        "The corner is faced in glossy white ceramic tiles and turns into a rounded turret",
+        "A glazed cupola caps the turret, and the windows carry floral stained glass",
+        "It is the 1911 Michelin Building on Fulham Road, not the Victoria and Albert Museum and not the Brompton Oratory"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:50 Europe/London. Calculated solar azimuth is west-southwest, about 256\u00b0, and elevation is about 6.6\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-240-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-240-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-240-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
