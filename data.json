@@ -2747,6 +2747,388 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-301",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Pancras New Church",
+      "place": "Camden",
+      "caption": "St Pancras New Church, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Clear night \u00b7 the Ionic portico and caryatid porch \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Pancras New Church on Euston Road in London, the Greek Revival portico and caryatid porch, on a clear night",
+      "description": "From Euston Road the view is St Pancras New Church, the Inwoods' Greek Revival portico and the octagonal tower taken from the Tower of the Winds, with a porch of terracotta caryatids. It is not the railway station. It is a clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Euston Road, looking southeast at the west portico and the north caryatid porch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Pancras_New_Church",
+        "https://www.stpancraschurch.org/"
+      ],
+      "anchors": [
+        "A hexastyle Ionic portico of Portland stone faces the west",
+        "An octagonal tower copied from the Tower of the Winds rises above the roof",
+        "A side porch is carried by terracotta caryatids; it is not St Pancras station"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-301-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-301-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-301-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-302",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hyde Park Corner Screen",
+      "place": "Westminster",
+      "caption": "Hyde Park Corner Screen, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Mainly clear night \u00b7 the Ionic screen \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Decimus Burton's Ionic Screen at Hyde Park Corner in London on a mainly clear night",
+      "description": "From Hyde Park Corner the view is Decimus Burton's Ionic Screen, a pale stone gateway of three arches and Ionic colonnades, with no quadriga on the roof. It is not the Wellington Arch. It is a mainly clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement at Hyde Park Corner, looking north at the Ionic screen into the park. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hyde_Park_Corner",
+        "https://en.wikipedia.org/wiki/Decimus_Burton"
+      ],
+      "anchors": [
+        "A wide pale-stone gateway with three arches and Ionic colonnades",
+        "Iron gates close the carriage openings, and a sculpted frieze runs along the entablature",
+        "Nothing stands on the roof; it is not the Wellington Arch"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-302-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-302-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-302-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-303",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Penguin Pool",
+      "place": "Westminster",
+      "caption": "Penguin Pool, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Clear night \u00b7 the white spiral ramps \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lubetkin Penguin Pool at London Zoo, white spiral ramps over an empty ellipse, on a clear night",
+      "description": "From the visitor path the view is the Lubetkin Penguin Pool, a white concrete ellipse and two interlocking spiral ramps over empty water. No animals are in the frame. It is a clear night, about 16.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public visitor path at London Zoo, looking across the empty penguin pool. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/London_Zoo",
+        "https://en.wikipedia.org/wiki/Tecton_Group"
+      ],
+      "anchors": [
+        "A white concrete elliptical pool is open to the sky",
+        "Two interlocking spiral ramps cross above the water",
+        "The pool is empty; it is the Lubetkin Penguin Pool, not an aviary"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-303-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-303-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-303-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-304",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Peter Jones",
+      "place": "Kensington and Chelsea",
+      "caption": "Peter Jones, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the curved glass wall \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Peter Jones on Sloane Square in London, the curved glass curtain wall, on a partly cloudy night",
+      "description": "From Sloane Square the view is Peter Jones, Crabtree's curved glass curtain wall of horizontal window bands. It is not a classical shopfront. It is a partly cloudy night, about 15.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Sloane Square, looking west at the curved glass corner. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Peter_Jones_(department_store)",
+        "https://www.johnlewis.com/our-shops/peter-jones"
+      ],
+      "anchors": [
+        "A curved glass curtain wall wraps the corner of the island block",
+        "Horizontal window bands and pale spandrels run across seven storeys",
+        "The roof is flat; it is not Harrods and not a classical shopfront"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-304-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-304-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-304-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-305",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Paul's, Deptford",
+      "place": "Lewisham",
+      "caption": "St Paul's, Deptford, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the semicircular portico and steeple \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Paul's Church, Deptford, Thomas Archer's semicircular portico and steeple, on a partly cloudy night",
+      "description": "From the churchyard the view is St Paul's, Deptford, Archer's Portland-stone church with a semi-circular Tuscan portico wrapped around the tower and a steeple above it. It is not St Paul's Cathedral. It is a partly cloudy night, about 16.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public approach beside the churchyard, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Paul%27s,_Deptford",
+        "https://en.wikipedia.org/wiki/Thomas_Archer"
+      ],
+      "anchors": [
+        "A semi-circular portico of giant Tuscan columns wraps the west tower",
+        "A steeple rises from that tower, and the church stands on a high crypt",
+        "It is St Paul's, Deptford, not St Paul's Cathedral"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-305-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-305-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-305-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-306",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal College of Surgeons",
+      "place": "Camden",
+      "caption": "Royal College of Surgeons, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Mainly clear night \u00b7 the Ionic portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal College of Surgeons in Lincoln's Inn Fields, London, Barry's Ionic portico, on a mainly clear night",
+      "description": "From Lincoln's Inn Fields the view is the Royal College of Surgeons, Barry's Ionic portico and pediment on a long stone range. There is no dome. It is a mainly clear night, about 16.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Lincoln's Inn Fields, looking south at the north front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Royal_College_of_Surgeons_of_England",
+        "https://www.rcseng.ac.uk/"
+      ],
+      "anchors": [
+        "A giant Ionic portico stands in front of a long pale stone range",
+        "A triangular pediment closes the portico, and there is no dome",
+        "It is the Royal College of Surgeons, not the Royal Courts of Justice"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-306-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-306-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-306-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-307",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Great Arthur House",
+      "place": "City of London",
+      "caption": "Great Arthur House, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Clear night \u00b7 the curved roof canopy \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Great Arthur House on the Golden Lane Estate in London, the curved concrete roof canopy, on a clear night",
+      "description": "From Golden Lane the view is Great Arthur House, a slender slab with a glass curtain wall, yellow end panels, and a curved concrete canopy on the roof. It is not the Barbican. It is a clear night, about 16.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Golden Lane, looking northeast at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+        "https://en.wikipedia.org/wiki/Chamberlin,_Powell_and_Bon"
+      ],
+      "anchors": [
+        "A slender residential slab carries a glass curtain wall of horizontal bands",
+        "Yellow panels mark the narrow ends",
+        "A curved concrete canopy sits on the roof; it is not a Barbican tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-307-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-307-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-307-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-308",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Space House",
+      "place": "Camden",
+      "caption": "Space House, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Mainly clear night \u00b7 the circular tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Space House on Kingsway in London, Seifert's circular tower, on a mainly clear night",
+      "description": "From Kingsway the view is Space House, Seifert's circular tower of horizontal window bands. It is not a rectangular slab. It is a mainly clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Kingsway, looking east at the circular tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Richard_Seifert",
+        "https://en.wikipedia.org/wiki/Kingsway,_London"
+      ],
+      "anchors": [
+        "A circular concrete tower of horizontal window bands",
+        "The roof is flat, with no mast",
+        "It is Space House, not Centre Point and not the BT Tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-308-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-308-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-308-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-309",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Finsbury Health Centre",
+      "place": "Islington",
+      "caption": "Finsbury Health Centre, London",
+      "scenario_label": "1 October 2026 \u00b7 22:53 Europe/London",
+      "composition": "Clear night \u00b7 the curved glass centre \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Finsbury Health Centre on Pine Street in London, the curved glass centre, on a clear night",
+      "description": "From Pine Street the view is the Finsbury Health Centre, Lubetkin's white two-storey clinic with a curved glass centre and banded wings. It is not a tower. It is a clear night, about 16.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Pine Street, looking north at the white clinic. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Finsbury_Health_Centre",
+        "https://en.wikipedia.org/wiki/Tecton_Group"
+      ],
+      "anchors": [
+        "A low white two-storey clinic, symmetrical",
+        "A curved glass entrance sits between wings of horizontal window bands",
+        "It is the Finsbury Health Centre, not the Penguin Pool and not a tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 22:53 Europe/London. Calculated solar azimuth is northwest, about 323\u00b0, and elevation is about -36.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-309-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-309-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-309-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-310",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Ten Trinity Square",
+      "place": "City of London",
+      "caption": "Ten Trinity Square, London",
+      "scenario_label": "1 October 2026 \u00b7 22:40 Europe/London",
+      "composition": "Mainly clear night \u00b7 the Corinthian tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Ten Trinity Square in London, the former Port of London Authority tower, on a mainly clear night",
+      "description": "From Trinity Square Gardens the view is Ten Trinity Square, Cooper's stone tower with a giant Corinthian colonnade and a crown of standing figures. It is not the Tower of London. It is a mainly clear night, about 16.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Trinity Square Gardens, looking south at the stone tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/10_Trinity_Square",
+        "https://en.wikipedia.org/wiki/Port_of_London_Authority"
+      ],
+      "anchors": [
+        "A symmetrical Portland-stone block with a central tower",
+        "A giant Corinthian colonnade fronts the tower",
+        "Standing figures crown the tower; it is not the Tower of London and it has no dome"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 22:40 Europe/London. Calculated solar azimuth is northwest, about 319\u00b0, and elevation is about -34.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-310-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-310-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-310-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
