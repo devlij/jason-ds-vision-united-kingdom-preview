@@ -2747,6 +2747,390 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-281",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lyceum Theatre",
+      "place": "Westminster",
+      "caption": "Lyceum Theatre, London",
+      "scenario_label": "1 October 2026 \u00b7 21:10 Europe/London",
+      "composition": "Clear night \u00b7 the hexastyle portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lyceum Theatre portico on Wellington Street in London on a clear night",
+      "description": "From Wellington Street the view looks north at the Lyceum Theatre, Samuel Beazley's pale stone portico of Corinthian columns under a triangular pediment. The old dome is not there. It is a clear night, about 17.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Wellington Street, south of the portico, looking north. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lyceum_Theatre,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1066119"
+      ],
+      "anchors": [
+        "A giant hexastyle Corinthian portico of pale stone stands over the pavement, with a triangular pediment",
+        "A tall attic sits above the entablature, and there is no dome",
+        "It is the Lyceum on Wellington Street, not the London Coliseum and not the London Palladium"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:10 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-281-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-281-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-281-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-282",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Marlborough House",
+      "place": "Westminster",
+      "caption": "Marlborough House, London",
+      "scenario_label": "1 October 2026 \u00b7 21:10 Europe/London",
+      "composition": "Clear night \u00b7 the red-brick garden front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red-brick garden front of Marlborough House in London on a clear night",
+      "description": "From The Mall the view looks north at Marlborough House, Wren's long red-brick garden front with stone quoins and sash windows. The end bays step forward. It is a clear night, about 17.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on The Mall, looking north at the garden front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Marlborough_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1331701"
+      ],
+      "anchors": [
+        "The garden front is a long red-brick range with pale stone quoins and sash windows",
+        "The end bays step slightly forward, under a hipped roof with later attic storeys",
+        "It is Marlborough House, not the Tudor gatehouse of St James's Palace"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:10 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-282-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-282-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-282-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-283",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hertford House",
+      "place": "Westminster",
+      "caption": "Hertford House, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Clear night \u00b7 the Manchester Square front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hertford House on Manchester Square in London on a clear night",
+      "description": "From Manchester Square the view looks north at Hertford House, a straight pale-stone townhouse of three storeys with sash windows and iron railings. There is no giant portico and no dome. It is a clear night, about 16.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on the south side of Manchester Square, looking north at the townhouse. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Wallace_Collection",
+        "https://www.wallacecollection.org/"
+      ],
+      "anchors": [
+        "The Manchester Square front is a straight pale-stone townhouse of three storeys",
+        "Sash windows, a modest central door, a roof balustrade, and iron railings",
+        "It is Hertford House, not Apsley House and not a crescent"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-283-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-283-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-283-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-284",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Greenwich Power Station",
+      "place": "Greenwich",
+      "caption": "Greenwich Power Station, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Clear night \u00b7 four octagonal brick chimneys \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Greenwich Power Station and its four brick chimneys in London on a clear night",
+      "description": "From the riverside path the view looks south at Greenwich Power Station, a long stock-brick hall and four tapered octagonal brick chimneys in a row. The chimneys are brick, not the white corner stacks of Battersea. It is a clear night, about 17.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public riverside path just north of the station, looking south at the power house. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Greenwich_Power_Station",
+        "https://structurae.net/en/structures/greenwich-power-station"
+      ],
+      "anchors": [
+        "A long stock-brick power house carries Portland stone dressings",
+        "Four tapered octagonal brick chimneys of equal height stand in a row",
+        "The chimneys are not white and are not at the corners; this is not Battersea Power Station"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -24.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-284-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-284-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-284-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-285",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "110 Bishopsgate",
+      "place": "City of London",
+      "caption": "110 Bishopsgate, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Clear night \u00b7 the south-face diagrid \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of 110 Bishopsgate, the rectangular glass tower with a steel diagrid, in London on a clear night",
+      "description": "From Bishopsgate the view looks up at 110 Bishopsgate, a rectangular glass tower whose south face is a stainless-steel diagonal diagrid. The crown is flat. It is not a wedge and not a slanted blade. It is a clear night, about 17.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Bishopsgate, looking north at the south face of the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Heron_Tower",
+        "https://commons.wikimedia.org/wiki/Category:Heron_Tower"
+      ],
+      "anchors": [
+        "The tower is a tall rectangle of glass, not a wedge and not a bullet",
+        "The south face carries an external stainless-steel diagonal diagrid",
+        "It is 110 Bishopsgate, not the Leadenhall Building and not the Scalpel"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-285-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-285-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-285-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-286",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lord's Media Centre",
+      "place": "Westminster",
+      "caption": "Lord's Media Centre, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Clear night \u00b7 the white aluminium pod \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the white aluminium Lord's Media Centre pod in London on a clear night",
+      "description": "From the Nursery End the view looks at the Lord's Media Centre, Future Systems' white aluminium pod on steel supports, with a band of windows along the shell. The Victorian pavilion is not in the frame. It is a clear night, about 16.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public approach at the Nursery End of Lord's, looking toward the media-centre pod. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lord%27s_Media_Centre",
+        "https://en.wikipedia.org/wiki/Future_Systems"
+      ],
+      "anchors": [
+        "A smooth white aluminium pod, like a shell, sits on steel supports",
+        "A horizontal band of windows runs along the front of the pod",
+        "It is the 1999 media centre, not the Victorian Lord's Pavilion"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-286-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-286-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-286-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-287",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kew Bridge",
+      "place": "Richmond",
+      "caption": "Kew Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Partly cloudy night \u00b7 three granite arches \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Kew Bridge, three granite arches over the Thames, in London on a partly cloudy night",
+      "description": "From the Kew bank the view looks north at Kew Bridge, three wide elliptical arches of grey granite and two piers in the Thames. Lamps line the parapet. It is not a suspension bridge. It is a partly cloudy night, about 16.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Kew bank, looking north at the three arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Kew_Bridge",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1193845"
+      ],
+      "anchors": [
+        "Exactly three wide elliptical arches of grey granite",
+        "Two piers stand in the Thames, with a solid parapet and lamp standards",
+        "It is the 1903 Kew Bridge, not the five-arch Richmond Bridge"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -23.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-287-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-287-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-287-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-288",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Charlton House",
+      "place": "Greenwich",
+      "caption": "Charlton House, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Mainly clear night \u00b7 the Jacobean north front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red-brick north front of Charlton House in London on a mainly clear night",
+      "description": "From the lawn the view looks south at Charlton House, an intact red-brick Jacobean front with stone mullions, a columned porch, and small ogee turrets. It is not a ruin. It is a mainly clear night, about 16.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public lawn north of the house, looking south at the north front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Charlton_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1218593"
+      ],
+      "anchors": [
+        "An intact symmetrical red-brick Jacobean mansion, mullioned windows, and attic gables",
+        "A central columned porch and small ogee-capped turrets",
+        "The house is whole, not the ruined east wing of Holland House"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -24.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-288-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-288-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-288-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-289",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "HQS Wellington",
+      "place": "Westminster",
+      "caption": "HQS Wellington, London",
+      "scenario_label": "1 October 2026 \u00b7 21:11 Europe/London",
+      "composition": "Clear night \u00b7 the white sloop at Temple Pier \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of HQS Wellington, a white sloop at Temple Pier, in London on a clear night",
+      "description": "From the Victoria Embankment the view looks at HQS Wellington, a white Grimsby-class sloop with one funnel and two masts, moored at Temple Pier. There are no gun turrets and no clipper rig. It is a clear night, about 17.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on the Victoria Embankment at Temple Pier, looking south at the moored sloop. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/HQS_Wellington",
+        "https://en.wikipedia.org/wiki/Grimsby-class_sloop"
+      ],
+      "anchors": [
+        "A small white sloop with one funnel and two masts, no sails set",
+        "The hull lies alongside the Embankment, with plane trees and lamp standards",
+        "It is not HMS Belfast and it is not the Cutty Sark"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -24.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-289-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-289-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-289-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-290",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Crystal",
+      "place": "Newham",
+      "caption": "The Crystal, London",
+      "scenario_label": "1 October 2026 \u00b7 21:12 Europe/London",
+      "composition": "Clear night \u00b7 the faceted glass pavilion \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Crystal, a faceted glass pavilion at Royal Victoria Dock, in London on a clear night",
+      "description": "From the dock edge the view looks at The Crystal, WilkinsonEyre's low pavilion of triangular glass facets beside Royal Victoria Dock. It is not a glass bulb and it is not a tower. It is a clear night, about 17.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Royal Victoria Dock, looking north at the glass pavilion. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/City_Hall,_London_(Newham)",
+        "https://wilkinsoneyre.com/projects/the-crystal"
+      ],
+      "anchors": [
+        "A low pavilion of sharp glass facets, with no conventional flat roof",
+        "The building sits beside dock water",
+        "It is The Crystal at Royal Victoria Dock, not the bulbous City Hall at More London"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:12 Europe/London. Calculated solar azimuth is west-northwest, about 297\u00b0, and elevation is about -24.2\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-290-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-290-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-290-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
