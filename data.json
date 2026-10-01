@@ -2747,6 +2747,390 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-161",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Chinatown Gate",
+      "place": "Westminster",
+      "caption": "Chinatown Gate, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Drizzle night \u00b7 Wardour Street looking at the ceremonial gate \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Chinatown gate on Wardour Street in London on a drizzly night",
+      "description": "From Wardour Street the ceremonial gate spans the road, vermilion columns under two tiers of green-tiled roofs with upturned eaves. Wet asphalt mirrors the gate. It is a night of light drizzle, about 16.5\u00b0C, under a solid cloud deck, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Wardour Street, looking north at the ceremonial gate where it spans the street. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Chinatown,_London",
+        "https://www.chinatownlondon.org/"
+      ],
+      "anchors": [
+        "A ceremonial paifang spans Wardour Street on vermilion columns",
+        "Two tiers of green-tiled roofs turn up at the eaves",
+        "The gate is the only subject; shop lettering is not in the frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-161-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-161-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-161-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-162",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Shad Thames",
+      "place": "Southwark",
+      "caption": "Shad Thames, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Overcast night \u00b7 the street looking along the overhead bridges \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the overhead iron bridges on Shad Thames in London on an overcast night",
+      "description": "From the cobbles the view looks along Shad Thames, yellow-brown brick warehouses on both sides and iron pedestrian bridges crossing overhead. Tower Bridge is not in the frame. It is an overcast night, about 17.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the street at Shad Thames, looking east along the warehouse bridges. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Shad_Thames",
+        "https://en.wikipedia.org/wiki/Butler%27s_Wharf"
+      ],
+      "anchors": [
+        "Yellow-brown brick warehouses rise on both sides of a narrow street",
+        "Iron pedestrian bridges cross overhead at several heights",
+        "Tower Bridge is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-162-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-162-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-162-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-163",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Clement Danes",
+      "place": "Westminster",
+      "caption": "St Clement Danes, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Overcast night \u00b7 the Strand island looking east at the steeple \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Clement Danes and its steeple on the Strand in London on an overcast night",
+      "description": "From the west side of the Strand island the view looks east at St Clement Danes, a pale stone church and a tiered steeple with a clock stage, an octagonal belfry, and a lead spire. St Mary-le-Strand is not in the frame. It is an overcast night, about 16.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the west side of the Strand island, looking east at the church and steeple. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Clement_Danes",
+        "https://www.raf.mod.uk/our-organisation/units/st-clement-danes-church/"
+      ],
+      "anchors": [
+        "The church stands on an island in the Strand",
+        "The body is pale stone with two tiers of arched windows",
+        "The steeple has a clock stage, an octagonal belfry, and a lead spire; St Mary-le-Strand is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-163-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-163-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-163-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-164",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Dunstan-in-the-East",
+      "place": "City of London",
+      "caption": "St Dunstan-in-the-East, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Overcast night \u00b7 the garden looking at the flying-buttress spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the ruined nave and Wren tower at St Dunstan-in-the-East in London on an overcast night",
+      "description": "From the garden the ruined Gothic windows stand around Wren's tower, a needle spire carried on flying buttresses, with trees in the tracery. It is an overcast night, about 17.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the ruined-nave garden, looking west at Wren's tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Dunstan-in-the-East",
+        "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/st-dunstan-in-the-east-church-garden"
+      ],
+      "anchors": [
+        "Wren's tower carries a needle spire on flying buttresses",
+        "The ruined nave is open Gothic tracery with trees growing through it",
+        "The tower and the ruined windows are the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-164-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-164-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-164-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-165",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Paddington Station",
+      "place": "Westminster",
+      "caption": "Paddington Station, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Drizzle night \u00b7 the concourse looking along the train shed \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the iron train shed at Paddington Station in London at night",
+      "description": "From the concourse the view looks along the train shed, three iron-and-glass spans with a wide central arch. The platforms are empty. It is a night of light drizzle outside, about 16.5\u00b0C, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the concourse, looking west along the train shed. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/London_Paddington_station",
+        "https://www.networkrail.co.uk/communities/passengers/our-stations/london-paddington/"
+      ],
+      "anchors": [
+        "The subject is the iron-and-glass train shed",
+        "A wide central elliptical span is flanked by two narrower spans",
+        "Departure boards and trains are not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-165-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-165-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-165-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-166",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "One Blackfriars",
+      "place": "Southwark",
+      "caption": "One Blackfriars, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Overcast night \u00b7 street level looking up at the curved tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of One Blackfriars, the curved glass tower, in London on an overcast night",
+      "description": "From Blackfriars Road the view looks up at One Blackfriars, a single glass tower that swells through the middle and narrows at the roof and at the street. No other tower is the subject. It is an overcast night, about 16.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public street-level viewpoint on Blackfriars Road, looking west and up at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/One_Blackfriars",
+        "https://www.simpsonhaugh.com/projects/one-blackfriars"
+      ],
+      "anchors": [
+        "One glass tower is the only subject",
+        "The silhouette swells through the middle and narrows toward the roof and the street",
+        "The Shard and 20 Fenchurch Street are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-166-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-166-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-166-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-167",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Custom House",
+      "place": "City of London",
+      "caption": "Custom House, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Overcast night \u00b7 the riverside walk looking at the stone facade \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Custom House river facade in London on an overcast night",
+      "description": "From the riverside walk the long Portland-stone front of Custom House faces the Thames, a central Ionic portico under a pediment and regular sash windows along the wings. It is an overcast night, about 17.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the riverside walk, looking north at the long stone facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Custom_House,_City_of_London",
+        "https://en.wikipedia.org/wiki/Lower_Thames_Street"
+      ],
+      "anchors": [
+        "A long Portland-stone river front faces the Thames",
+        "A central Ionic portico sits under a pediment",
+        "Regular sash windows run along the wings; Old Billingsgate is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-167-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-167-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-167-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-168",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Broadcasting House",
+      "place": "Westminster",
+      "caption": "Broadcasting House, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Drizzle night \u00b7 Portland Place looking at the stone prow \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the curved stone front of Broadcasting House in London on a drizzly night",
+      "description": "From the Portland Place corner the 1932 stone prow of Broadcasting House curves over the wet pavement, banded windows and a roof mast against the cloud. It is a night of light drizzle, about 16.5\u00b0C, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint at the Portland Place corner, looking northwest at the 1932 stone prow. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Broadcasting_House",
+        "https://www.bbc.com/historyofthebbc/buildings/broadcasting-house"
+      ],
+      "anchors": [
+        "The subject is the curved Portland-stone prow of the 1932 building",
+        "Horizontal bands of windows run around the curve, with a mast on the roof",
+        "Readable letters are not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-168-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-168-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-168-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-169",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lambeth Bridge",
+      "place": "Lambeth",
+      "caption": "Lambeth Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Drizzle night \u00b7 the embankment looking along the red arches \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red arches of Lambeth Bridge in London on a drizzly night",
+      "description": "From the embankment the red steel arches of Lambeth Bridge cross the Thames, with pineapple-topped obelisks at the end. The Palace of Westminster is not in the frame. It is a night of light drizzle, about 16.5\u00b0C, under nearly solid cloud, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the embankment beside the bridge, looking southeast along the red arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lambeth_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "The bridge is painted red and is the only subject",
+        "Steel arches cross the Thames",
+        "Stone obelisks at the end are topped with pineapples; the Palace of Westminster is not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-169-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-169-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-169-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-170",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Fulham Palace",
+      "place": "Hammersmith and Fulham",
+      "caption": "Fulham Palace, London",
+      "scenario_label": "1 October 2026 \u00b7 00:50 Europe/London",
+      "composition": "Drizzle night \u00b7 the courtyard looking at the Tudor brick \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tudor courtyard at Fulham Palace in London on a drizzly night",
+      "description": "From the courtyard the Tudor brick ranges of Fulham Palace show diaper-patterned brick and stone-mullioned windows. It is not a white villa. It is a night of moderate drizzle, about 16.5\u00b0C, under broken cloud, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the Tudor courtyard, looking south at the brick range. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.fulhampalace.org/",
+        "https://en.wikipedia.org/wiki/Fulham_Palace"
+      ],
+      "anchors": [
+        "The subject is the Tudor brick courtyard",
+        "Diaper-patterned brick and stone-mullioned windows mark the range",
+        "A white Palladian villa is not this building"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 00:50 Europe/London. Calculated solar azimuth is north, about 0\u00b0, and elevation is about -41.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-170-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-170-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-170-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

@@ -112,6 +112,18 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-108", "The Roundhouse", "London", 51.54315, -0.15155, "Europe/London"),
     ("UK-01-109", "Camden Lock Market", "London", 51.54125, -0.14485, "Europe/London"),
     ("UK-01-110", "Abbey Road Studios", "London", 51.53185, -0.17815, "Europe/London"),
+    # London night batch, 1 October 2026. England only. Public viewpoints.
+    # Suggested sites that already shipped on other Candidate branches were replaced.
+    ("UK-01-161", "Chinatown Gate", "London", 51.51170, -0.13125, "Europe/London"),
+    ("UK-01-162", "Shad Thames", "London", 51.50340, -0.07355, "Europe/London"),
+    ("UK-01-163", "St Clement Danes", "London", 51.51305, -0.11420, "Europe/London"),
+    ("UK-01-164", "St Dunstan-in-the-East", "London", 51.50960, -0.08285, "Europe/London"),
+    ("UK-01-165", "Paddington Station", "London", 51.51670, -0.17620, "Europe/London"),
+    ("UK-01-166", "One Blackfriars", "London", 51.50785, -0.10430, "Europe/London"),
+    ("UK-01-167", "Custom House", "London", 51.50895, -0.07835, "Europe/London"),
+    ("UK-01-168", "Broadcasting House", "London", 51.51845, -0.14355, "Europe/London"),
+    ("UK-01-169", "Lambeth Bridge", "London", 51.49585, -0.12340, "Europe/London"),
+    ("UK-01-170", "Fulham Palace", "London", 51.47065, -0.21505, "Europe/London"),
 ]
 
 
