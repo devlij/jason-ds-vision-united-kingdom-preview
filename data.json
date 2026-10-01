@@ -2747,6 +2747,396 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-241",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Holborn Bars",
+      "place": "Camden",
+      "caption": "Holborn Bars, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 Holborn looking north at the red carriage arch \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Holborn Bars on Holborn in London, a red-brick Gothic range with a carriage arch and a hipped tower, under a partly cloudy late-evening sky",
+      "description": "From the south pavement of Holborn the view looks north at Holborn Bars, a Gothic Revival range of deep red brick and red terracotta, with a carriageway arch between two pedestrian arches and a hipped tower carrying a slim fleche. It is Alfred and Paul Waterhouse's Prudential Assurance building, not the Natural History Museum and not the timber gables of Staple Inn. It is a dry late evening under partly cloudy skies, about 19.8\u00b0C, and the sun is a low disk in the west.",
+      "viewpoint": "Public viewpoint on the south pavement of Holborn, looking north at the carriage arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Holborn_Bars",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1379064"
+      ],
+      "anchors": [
+        "The Holborn front is deep red brick and red terracotta, with a carriageway arch flanked by two pedestrian arches",
+        "A tower beside that entrance has a hipped roof and a slim fleche",
+        "It is Alfred and Paul Waterhouse's Prudential building, not the Natural History Museum and not Staple Inn"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-241-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-241-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-241-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-242",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Gibson Hall",
+      "place": "City of London",
+      "caption": "Gibson Hall, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 Bishopsgate looking west at the Corinthian hall \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Gibson Hall on Bishopsgate in London, a single-storey Portland stone banking hall with Corinthian columns and rooftop figures, under a partly cloudy late-evening sky",
+      "description": "From Bishopsgate the view looks west at Gibson Hall, a single tall storey of Portland stone with engaged Corinthian columns, relief panels between them, and standing figures along a flat roofline. It is John Gibson's 1865 hall for the National Provincial Bank, not the Royal Exchange and not the Bank of England. It is a dry late evening under partly cloudy skies, about 19.9\u00b0C, and the sun is low in the west behind the stone front.",
+      "viewpoint": "Public viewpoint on Bishopsgate, looking west at the east front of the banking hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Gibson_Hall,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1191569"
+      ],
+      "anchors": [
+        "The street front is one tall storey of Portland stone with engaged Corinthian columns",
+        "Rectangular relief panels sit between the columns, and standing figures line the flat roof",
+        "It is John Gibson's 1865 National Provincial Bank hall, not the Royal Exchange and not the Bank of England"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-242-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-242-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-242-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-243",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hop Exchange",
+      "place": "Southwark",
+      "caption": "Hop Exchange, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 Southwark Street looking north at the eagle pediment \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hop Exchange on Southwark Street in London, a stucco front with an off-centre arched portico and an eagle pediment, under a partly cloudy late-evening sky",
+      "description": "From the south pavement of Southwark Street the view looks north at the Hop Exchange, a stucco front of cast-iron Corinthian half-columns and an off-centre portico of three segmental arches under a pediment with an eagle. It is R.H. Moore's 1866 hop and malt exchange, not Borough Market and not the George Inn. It is a dry late evening under partly cloudy skies, about 19.9\u00b0C, and the sun is a low disk in the west.",
+      "viewpoint": "Public viewpoint on the south pavement of Southwark Street, looking north at the exchange front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hop_Exchange",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1385923"
+      ],
+      "anchors": [
+        "The Southwark Street front is stucco, with cast-iron modified Corinthian half-columns in three giant storeys",
+        "An off-centre portico has three segmental arches, an eagle on the pediment, and iron gates worked with hop plants",
+        "It is R. H. Moore's 1866 exchange, not Borough Market and not the George Inn"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-243-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-243-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-243-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-244",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Unilever House",
+      "place": "City of London",
+      "caption": "Unilever House, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 the Embankment looking north at the Ionic curve \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Unilever House on the Victoria Embankment in London, a curving Portland-stone front with an Ionic colonnade and horse sculptures, under a partly cloudy late-evening sky",
+      "description": "From the Victoria Embankment the view looks north at Unilever House, a curving Portland-stone front with a rusticated base, a colonnade of tall unfluted Ionic columns, and a figure restraining a horse at each end of the curve. It is the 1930-32 block by James Lomax-Simpson with Burnet, Tait and Partners, not Blackfriars Bridge and not the Daily Express Building. It is a dry late evening under partly cloudy skies, about 19.9\u00b0C, and the sun is a low disk in the west.",
+      "viewpoint": "Public viewpoint on the Victoria Embankment pavement, looking north at the curved colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Unilever_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1079108"
+      ],
+      "anchors": [
+        "The embankment front is a curve of Portland stone with a rusticated, almost windowless base",
+        "A colonnade of tall unfluted Ionic columns runs above that base",
+        "Each end of the curve carries a sculpture of a figure restraining a horse, and the building is not Blackfriars Bridge"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-244-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-244-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-244-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-245",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Television Centre",
+      "place": "Hammersmith and Fulham",
+      "caption": "Television Centre, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, mainly clear \u00b7 Wood Lane looking west at the white curved drum \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Television Centre on Wood Lane in London, a white curved studio drum with a cantilevered porch, under a mainly clear late-evening sky",
+      "description": "From Wood Lane the view looks west at Television Centre, a white curved drum with horizontal windows, a cantilevered porch, and a gilded Helios in the courtyard. It is Graham Dawbarn's 1960 studio complex, not Broadcasting House and not the BT Tower. It is a dry late evening under mainly clear skies, about 19.5\u00b0C, and the sun is a low bright disk in the west.",
+      "viewpoint": "Public viewpoint on Wood Lane, looking west at the curved central ring. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/BBC_Television_Centre",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1393371"
+      ],
+      "anchors": [
+        "The Wood Lane front is a white curved drum of offices with horizontal bands of windows",
+        "Studio 1 has a cantilevered porch, and a gilded Helios stands in the central courtyard",
+        "It is Graham Dawbarn's 1960 Television Centre, not Broadcasting House and not the BT Tower"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-245-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-245-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-245-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-246",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St George-in-the-East",
+      "place": "Tower Hamlets",
+      "caption": "St George-in-the-East, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 the west churchyard looking east at the lantern tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St George-in-the-East in London, Hawksmoor's white stone church with a lantern tower and four pepperpot turrets, under a partly cloudy late-evening sky",
+      "description": "From the west churchyard the view looks east at St George-in-the-East, a white Portland-stone church with a stacked lantern tower, four pepperpot corner turrets, and a glass screen in the west end of the nave. It is Nicholas Hawksmoor's church of 1714-1729, not Christ Church Spitalfields and not St Anne's, Limehouse. It is a dry late evening under partly cloudy skies, about 20.0\u00b0C, and the sun is low in the west behind the camera.",
+      "viewpoint": "Public viewpoint in the west churchyard, looking east at the lantern tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_George_in_the_East",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1357779"
+      ],
+      "anchors": [
+        "The west tower is white Portland stone, with a stacked octagonal lantern and a small crown rather than a spire",
+        "Four pepperpot turrets stand at the corners of the church, and the west end of the nave is a glass screen",
+        "It is Nicholas Hawksmoor's church of 1714-1729, not Christ Church Spitalfields and not St Anne's, Limehouse"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-246-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-246-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-246-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-247",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Middlesex Guildhall",
+      "place": "Westminster",
+      "caption": "Middlesex Guildhall, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 Parliament Square looking west at the guildhall tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Middlesex Guildhall on Parliament Square in London, a Portland-stone Gothic front with an arched portal and a tower, under a partly cloudy late-evening sky",
+      "description": "From Parliament Square the view looks west at the Middlesex Guildhall, a Portland-stone front with a deep arched portal, a great window above it, and a tower rising behind a steep hipped roof. It is J.G.S. Gibson's 1906-1913 building, now the UK Supreme Court, not Westminster Abbey and not the Palace of Westminster. It is a dry late evening under partly cloudy skies, about 19.8\u00b0C, and the sun is low in the west behind the stone front.",
+      "viewpoint": "Public viewpoint on Parliament Square, looking west at the guildhall front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Middlesex_Guildhall",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1226369"
+      ],
+      "anchors": [
+        "The east front is Portland stone, nine bays, with a deep segmental-arched portal and a great segmental window above it",
+        "Canted bay-turrets frame that centre, and a tower with a pierced parapet rises behind a steep hipped roof",
+        "It is J. G. S. Gibson's 1906-1913 guildhall, now the Supreme Court, not Westminster Abbey and not the Palace of Westminster"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-247-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-247-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-247-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-248",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Isokon Building",
+      "place": "Camden",
+      "caption": "Isokon Building, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, broken cloud \u00b7 Lawn Road looking west at the white balcony block \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Isokon Building on Lawn Road in London, a white four-storey concrete block with long balconies, under a broken late-evening sky",
+      "description": "From Lawn Road the view looks west at the Isokon Building, a four-storey white concrete block with a flat roof, long horizontal windows, and cantilevered balconies linked by an external stair. It is Wells Coates's 1933-34 Lawn Road Flats, not Trellick Tower and not the Brunswick Centre. It is a dry late evening under broken cloud, about 19.2\u00b0C, and the sun is a low disk in the west behind the white block.",
+      "viewpoint": "Public viewpoint on Lawn Road, looking west at the balcony elevation. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Isokon_Flats",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1379280"
+      ],
+      "anchors": [
+        "The Lawn Road front is a four-storey white concrete block with a flat roof and long horizontal windows",
+        "Continuous cantilevered balconies run across the elevation and meet an external stair and an entrance canopy",
+        "It is Wells Coates's 1933-34 Lawn Road Flats, not Trellick Tower and not the Brunswick Centre"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-248-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-248-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-248-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-249",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Australia House",
+      "place": "Westminster",
+      "caption": "Australia House, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 the Strand looking west at the quadriga corner \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Australia House on the Strand in London, a Portland-stone corner with allegorical figures and a bronze quadriga, under a partly cloudy late-evening sky",
+      "description": "From the Strand the view looks west at Australia House, a Portland-stone corner with a tall arched door, two groups of seated figures, giant Roman Doric columns, and a bronze quadriga above a steep mansard. It is Marshall Mackenzie's 1912-18 High Commission, not St Clement Danes and not Bush House. It is a dry late evening under partly cloudy skies, about 19.8\u00b0C, and the sun is low in the west behind the building.",
+      "viewpoint": "Public viewpoint on the Strand east of the entrance, looking west at the splayed corner, with St Clement Danes behind the camera. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/High_Commission_of_Australia,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1357166"
+      ],
+      "anchors": [
+        "The splayed corner entrance is Portland stone, with a tall arch flanked by two pyramidal groups of seated figures",
+        "Giant Roman Doric columns rise above the door, and a bronze quadriga stands on the attic against a steep mansard",
+        "It is the 1912-18 Australia House by A. Marshall Mackenzie, not St Clement Danes and not Bush House"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-249-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-249-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-249-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-250",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Blackfriars Station",
+      "place": "City of London",
+      "caption": "Blackfriars Station, London",
+      "scenario_label": "1 October 2026 \u00b7 18:19 Europe/London",
+      "composition": "Late evening, partly cloudy \u00b7 the south bank looking north at the solar-roofed station \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Blackfriars Station in London, a solar-panel roof on piers spanning the Thames, under a partly cloudy late-evening sky",
+      "description": "From the south-bank walk the view looks north at Blackfriars Station, a long flat roof of solar panels on pale piers in the Thames, with a glass-sided train shed crossing the river. It is the station rebuilt by 2012, not the road bridge beside it and not Tower Bridge. It is a dry late evening under partly cloudy skies, about 19.9\u00b0C, and the sun is a low disk in the west.",
+      "viewpoint": "Public viewpoint on the south-bank riverside walk, looking north at the station as it crosses the river. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Blackfriars_station",
+        "https://en.wikipedia.org/wiki/Blackfriars_Railway_Bridge"
+      ],
+      "anchors": [
+        "The station is a long flat roof of solar panels carried on pale piers in the Thames",
+        "Glass sides enclose the train shed as the platforms run from the south bank to the north bank",
+        "It is the station rebuilt by 2012 on the railway bridge, not Blackfriars Bridge and not Tower Bridge"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 18:19 Europe/London. Calculated solar azimuth is west, about 262\u00b0, and elevation is about 2.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-250-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-250-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-250-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
