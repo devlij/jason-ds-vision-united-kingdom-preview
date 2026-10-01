@@ -2747,6 +2747,392 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-181",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Victoria Memorial",
+      "place": "Westminster",
+      "caption": "Victoria Memorial, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the white marble memorial and gilded figure from The Mall \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Victoria Memorial in London, a white marble monument with a gilded figure on top on a partly cloudy afternoon",
+      "description": "From The Mall the Victoria Memorial fills the view, a white marble pedestal and fountain basin under a gilded winged figure. It is a dry partly cloudy afternoon, about 20.9\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on The Mall, close to the memorial, looking southwest so the monument fills the frame. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Victoria_Memorial,_London",
+        "https://www.royalparks.org.uk/visit/parks/st-jamess-park"
+      ],
+      "anchors": [
+        "A white marble pedestal rises from a circular basin",
+        "A gilded winged figure stands at the top",
+        "Buckingham Palace is not the subject"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-181-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-181-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-181-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-182",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Victoria Tower",
+      "place": "Westminster",
+      "caption": "Victoria Tower, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the square Gothic tower and flag from Abingdon Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Victoria Tower in London, a square Gothic stone tower with a flag and no clock on a partly cloudy afternoon",
+      "description": "From Abingdon Street the Victoria Tower rises as a square Gothic stone tower with corner pinnacles and a flag on the roof staff, and there is no clock. It is a dry partly cloudy afternoon, about 20.9\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public pavement on Abingdon Street just south of the tower, looking north. The camera stays on the public highway. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Victoria_Tower",
+        "https://www.parliament.uk/about/living-heritage/building/palace/architecture/"
+      ],
+      "anchors": [
+        "The tower is square, with corner pinnacles",
+        "A flag flies from a roof staff",
+        "There is no clock face"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-182-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-182-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-182-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-183",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Blackfriars Bridge",
+      "place": "City of London",
+      "caption": "Blackfriars Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the red arches and stone pulpits from the north bank \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red arches and stone pulpits of Blackfriars Bridge in London on a partly cloudy afternoon",
+      "description": "From the north bank the red arches of Blackfriars Bridge cross the Thames, with stone pulpits and pale columns on the piers. It is a dry partly cloudy afternoon, about 20.8\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the north-bank walk just east of the bridge, looking west at the nearest arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Blackfriars_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "Red iron arches sit low over the Thames",
+        "Stone pulpits and pale columns stand on the piers",
+        "There is no glass tower in the frame"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-183-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-183-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-183-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-184",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Holborn Viaduct",
+      "place": "City of London",
+      "caption": "Holborn Viaduct, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the span, corner pavilions, and bronze statues from Farringdon Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Holborn Viaduct in London, a Victorian span with corner pavilions and bronze statues on a partly cloudy afternoon",
+      "description": "From Farringdon Street Holborn Viaduct crosses overhead, a short Victorian span with corner pavilions and bronze winged statues. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Farringdon Street beneath the viaduct, looking north at the span and the corner pavilions. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Holborn_Viaduct",
+        "https://en.wikipedia.org/wiki/Farringdon_Street"
+      ],
+      "anchors": [
+        "A short stone and iron span crosses the lower street",
+        "Small stone pavilion houses stand at the corners",
+        "Bronze winged statues stand at the ends of the span"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-184-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-184-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-184-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-185",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Vauxhall Bridge",
+      "place": "Lambeth",
+      "caption": "Vauxhall Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the shallow arches and bronze figures from the embankment \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Vauxhall Bridge in London, shallow arches with large bronze figures on the piers on a partly cloudy afternoon",
+      "description": "From the embankment the shallow arches of Vauxhall Bridge cross the Thames, and large bronze figures stand on the piers. It is a dry partly cloudy afternoon, about 21.0\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the Albert Embankment just southeast of the bridge, looking northwest along the arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Vauxhall_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "Shallow steel arches cross the Thames",
+        "Large bronze standing figures are mounted on the piers",
+        "No green glass ziggurat is in the frame"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-185-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-185-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-185-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-186",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Gasholder Park",
+      "place": "Camden",
+      "caption": "Gasholder Park, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the circular iron frame around the lawn \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the circular cast-iron gasholder frame at Gasholder Park in London on a partly cloudy afternoon",
+      "description": "Inside Gasholder Park a circular cast-iron frame stands around the lawn, columns and lattice open to the sky. It is a dry partly cloudy afternoon, about 20.5\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint inside Gasholder Park at King's Cross, looking across the lawn at the cast-iron guide frame. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.kingscross.co.uk/gasholder-park",
+        "https://en.wikipedia.org/wiki/Gas_holder"
+      ],
+      "anchors": [
+        "One circular cast-iron guide frame encloses a lawn",
+        "Columns and lattice girders form an open cylinder",
+        "The frame is not a railway train shed and not Coal Drops Yard"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-186-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-186-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-186-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-187",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Scalpel",
+      "place": "City of London",
+      "caption": "The Scalpel, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the glass wedge from Lime Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Scalpel in London, a glass tower with a sloping face and a sharp top on an overcast afternoon",
+      "description": "From Lime Street the Scalpel rises as a glass wedge, one face sloping to a sharp top. It is a dry overcast afternoon, about 20.8\u00b0C, and cloud hides the sun.",
+      "viewpoint": "Public pavement on Lime Street, looking up at the wedge tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/52_Lime_Street",
+        "https://en.wikipedia.org/wiki/Lime_Street,_London"
+      ],
+      "anchors": [
+        "The glass tower is a wedge, with a sloping face and a sharp top",
+        "The roof is not flat",
+        "The tower is not the Gherkin, the Cheesegrater, or the Walkie Talkie"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-187-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-187-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-187-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-188",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lee Valley VeloPark",
+      "place": "Newham",
+      "caption": "Lee Valley VeloPark, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the timber saddle roof from the park \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lee Valley VeloPark velodrome in London, a timber roof that dips in the middle on an overcast afternoon",
+      "description": "Across the park the Lee Valley velodrome shows a timber roof that dips in the middle and rises at both ends. It is a dry overcast afternoon, about 20.6\u00b0C, and cloud hides the sun.",
+      "viewpoint": "Public parkland viewpoint south of the velodrome at Lee Valley VeloPark, looking north at the timber roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lee_Valley_VeloPark",
+        "https://www.visitleevalley.org.uk/lee-valley-velopark"
+      ],
+      "anchors": [
+        "A double-curved timber roof dips in the middle and rises at the ends",
+        "The cladding reads as pale wood",
+        "There is no stadium bowl and no Olympic rings"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-188-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-188-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-188-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-189",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Severndroog Castle",
+      "place": "Greenwich",
+      "caption": "Severndroog Castle, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the triangular brick tower in the trees \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Severndroog Castle in London, a small triangular Gothic brick tower among trees on an overcast afternoon",
+      "description": "In Castle Wood Severndroog Castle stands as a small triangular Gothic brick tower among the trees. It is a dry overcast afternoon, about 19.8\u00b0C, and cloud hides the sun.",
+      "viewpoint": "Public path in Castle Wood on Shooters Hill, looking up at the triangular tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Severndroog_Castle",
+        "https://www.severndroogcastle.org.uk/"
+      ],
+      "anchors": [
+        "A small triangular Gothic tower stands alone in trees",
+        "Brown brick, pointed windows, and battlements",
+        "One tower only, not a palace and not an observatory"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-189-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-189-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-189-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-190",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Crossness Pumping Station",
+      "place": "Bexley",
+      "caption": "Crossness Pumping Station, London",
+      "scenario_label": "1 October 2026 \u00b7 14:50 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the brick engine house and lantern from the approach path \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Crossness Pumping Station engine house in London, patterned brick and a central lantern on an overcast afternoon",
+      "description": "From the approach path the Crossness engine house shows round-arched windows, patterned brick, and a central lantern. It is a dry overcast afternoon, about 20.6\u00b0C, and cloud hides the sun.",
+      "viewpoint": "Public approach path at Crossness, looking at the beam-engine house across flat ground. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Crossness_Pumping_Station",
+        "https://www.crossness.org.uk/"
+      ],
+      "anchors": [
+        "A Romanesque brick engine house with round-arched windows",
+        "Patterned brick and a central lantern",
+        "The building stands on flat open ground"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 14:50 Europe/London. Calculated solar azimuth is southwest, about 215\u00b0, and elevation is about 29.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-190-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-190-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-190-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
