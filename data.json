@@ -2747,6 +2747,390 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-191",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Southwark Bridge",
+      "place": "Southwark",
+      "caption": "Southwark Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 15:39 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the green steel arches from the south bank \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the green steel arches of Southwark Bridge over the Thames in London under a partly cloudy afternoon sky",
+      "description": "From the south-bank path the five green steel arches of Southwark Bridge cross the Thames on granite piers. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the south-bank Thames Path just west of Southwark Bridge, looking east at the iron arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Southwark_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "Five steel arches span the Thames and are painted a deep green",
+        "Pale granite piers carry the arches",
+        "There are no stone towers, no bascules, and no high-level walkways"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 15:39 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-191-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-191-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-191-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-192",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Waterloo Bridge",
+      "place": "Lambeth",
+      "caption": "Waterloo Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 15:39 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the pale stone arches from the South Bank \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the pale Portland-stone arches of Waterloo Bridge in London under a partly cloudy afternoon sky",
+      "description": "From the South Bank the pale Portland-stone arches of Waterloo Bridge run across the Thames under a plain balustrade. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the South Bank just west of Waterloo Bridge, looking east along the stone arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Waterloo_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "Five shallow arches are faced in pale Portland stone",
+        "A plain classical balustrade runs along the deck",
+        "The bridge is not green iron and it is not a Gothic tower"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:39 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-192-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-192-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-192-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-193",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Putney Bridge",
+      "place": "Wandsworth",
+      "caption": "Putney Bridge, London",
+      "scenario_label": "1 October 2026 \u00b7 15:39 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the granite arches from the Putney bank \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the pale granite arches of Putney Bridge in London under a partly cloudy afternoon sky",
+      "description": "From the Putney bank the pale granite arches of Putney Bridge cross the Thames, with lamp standards along the parapet. It is a dry partly cloudy afternoon, about 20.6\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the Putney bank, looking north along the granite arches. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Putney_Bridge",
+        "https://en.wikipedia.org/wiki/River_Thames"
+      ],
+      "anchors": [
+        "Five arches are pale Cornish granite",
+        "Lamp standards line the parapet",
+        "This is not Battersea Bridge and not a red-brick viaduct"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:39 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-193-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-193-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-193-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-194",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Jewel Tower",
+      "place": "Westminster",
+      "caption": "Jewel Tower, London",
+      "scenario_label": "1 October 2026 \u00b7 15:39 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the moated ragstone tower from Abingdon Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the moated ragstone Jewel Tower in Westminster, London under a partly cloudy afternoon sky",
+      "description": "From Abingdon Street the Jewel Tower stands as a small square ragstone keep in its moat, with battlements and narrow windows and no clock. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public pavement beside the moat on Abingdon Street, looking west at the tower. The camera stays on the public side of the moat. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.english-heritage.org.uk/visit/places/jewel-tower/",
+        "https://en.wikipedia.org/wiki/Jewel_Tower"
+      ],
+      "anchors": [
+        "A small square ragstone tower stands in a moat",
+        "Battlements and narrow windows finish the keep",
+        "There is no clock face and no flag"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:39 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-194-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-194-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-194-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-195",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Methodist Central Hall",
+      "place": "Westminster",
+      "caption": "Methodist Central Hall, London",
+      "scenario_label": "1 October 2026 \u00b7 15:39 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the portico and dome from Broad Sanctuary \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the portico and dome of Methodist Central Hall in Westminster, London under a partly cloudy afternoon sky",
+      "description": "From Broad Sanctuary Methodist Central Hall shows a pale stone portico and a broad dome set on a rectangular block. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Broad Sanctuary, looking northwest at the portico and the dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Methodist_Central_Hall,_Westminster",
+        "https://www.methodist-central-hall.org.uk/"
+      ],
+      "anchors": [
+        "A rectangular Portland-stone block carries a columned portico",
+        "A broad grey-white dome sits on the roof",
+        "The building is not a Gothic abbey and not a green copper dome"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:39 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-195-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-195-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-195-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-196",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Tower 42",
+      "place": "City of London",
+      "caption": "Tower 42, London",
+      "scenario_label": "1 October 2026 \u00b7 15:40 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the hexagonal tower from Old Broad Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the hexagonal Tower 42 office tower in the City of London under a partly cloudy afternoon sky",
+      "description": "From Old Broad Street Tower 42 rises as a hexagonal glass tower with a flat crown and a cantilevered top. It is a dry partly cloudy afternoon, about 20.6\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public pavement on Old Broad Street, looking up at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tower_42",
+        "https://en.wikipedia.org/wiki/Old_Broad_Street"
+      ],
+      "anchors": [
+        "The shaft is hexagonal, with flat chevron sides",
+        "The roof is flat and the top floors cantilever outward",
+        "The tower is not round, not a wedge, and not a pyramid"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 15:40 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-196-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-196-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-196-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-197",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Winchester Palace",
+      "place": "Southwark",
+      "caption": "Winchester Palace, London",
+      "scenario_label": "1 October 2026 \u00b7 15:40 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the rose-window gable from Clink Street \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the rose window in the Winchester Palace ruin on Clink Street in London under a partly cloudy afternoon sky",
+      "description": "On Clink Street the Winchester Palace ruin is a flint-and-stone gable pierced by a large rose window. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Clink Street, looking at the ruined gable and the rose window. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Winchester_Palace",
+        "https://en.wikipedia.org/wiki/Clink_Street"
+      ],
+      "anchors": [
+        "A ruined medieval gable stands on its own",
+        "A large circular rose window with stone tracery is centered in the wall",
+        "There is no roof and no spire"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 15:40 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-197-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-197-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-197-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-198",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hoover Building",
+      "place": "Ealing",
+      "caption": "Hoover Building, London",
+      "scenario_label": "1 October 2026 \u00b7 15:40 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the white Art Deco front from Western Avenue \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the white Art Deco front of the Hoover Building in Perivale, London under a partly cloudy afternoon sky",
+      "description": "From Western Avenue the Hoover Building shows a long white tiled front, green and red geometric bands, and a central tower. It is a dry partly cloudy afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Western Avenue in Perivale, looking north at the Art Deco front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hoover_Building",
+        "https://en.wikipedia.org/wiki/Perivale"
+      ],
+      "anchors": [
+        "A long Art Deco front is clad in white ceramic tile",
+        "Green, red, and black geometric bands run across the facade",
+        "A central tower rises from the front, and no readable name is on the tile"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:40 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-198-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-198-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-198-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-199",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Greater London House",
+      "place": "Camden",
+      "caption": "Greater London House, London",
+      "scenario_label": "1 October 2026 \u00b7 15:40 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the Egyptian front and black cats from Hampstead Road \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Egyptian-revival front and black cat statues of Greater London House in London under a partly cloudy afternoon sky",
+      "description": "From Hampstead Road Greater London House shows an Egyptian-revival front, lotus columns, and two black cat statues beside the entrance. It is a dry partly cloudy afternoon, about 20.5\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public pavement on Hampstead Road at Mornington Crescent, looking north at the Egyptian-revival front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Carreras_Cigarette_Factory",
+        "https://en.wikipedia.org/wiki/Mornington_Crescent"
+      ],
+      "anchors": [
+        "Two large black seated cats flank the entrance",
+        "Columns carry lotus capitals",
+        "Colored geometric bands run across an Egyptian-revival front"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:40 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-199-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-199-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-199-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-200",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Whitehall Court",
+      "place": "Westminster",
+      "caption": "Whitehall Court, London",
+      "scenario_label": "1 October 2026 \u00b7 15:40 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the turreted river front from the Embankment \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the turreted red-brick river front of Whitehall Court in London under a partly cloudy afternoon sky",
+      "description": "From the Embankment Whitehall Court rises as a red-brick and stone chateau with round turrets and steep slate roofs. It is a dry partly cloudy afternoon, about 20.6\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the Victoria Embankment, looking northwest at the turreted river front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Whitehall_Court",
+        "https://en.wikipedia.org/wiki/Victoria_Embankment"
+      ],
+      "anchors": [
+        "Red brick and pale stone form a chateau river front",
+        "Round turrets and steep slate roofs crowd the skyline",
+        "The building is not the Palace of Westminster and not a glass ziggurat"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 15:40 Europe/London. Calculated solar azimuth is southwest, about 228\u00b0, and elevation is about 24.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-200-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-200-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-200-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }

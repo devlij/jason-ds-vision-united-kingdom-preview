@@ -112,6 +112,18 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-108", "The Roundhouse", "London", 51.54315, -0.15155, "Europe/London"),
     ("UK-01-109", "Camden Lock Market", "London", 51.54125, -0.14485, "Europe/London"),
     ("UK-01-110", "Abbey Road Studios", "London", 51.53185, -0.17815, "Europe/London"),
+    # London batch, 1 October 2026. England only. Public viewpoints.
+    # These ten landmarks are not already a scene on main or on the open Candidate branches.
+    ("UK-01-191", "Southwark Bridge", "London", 51.50860, -0.09440, "Europe/London"),
+    ("UK-01-192", "Waterloo Bridge", "London", 51.50860, -0.11690, "Europe/London"),
+    ("UK-01-193", "Putney Bridge", "London", 51.46740, -0.21320, "Europe/London"),
+    ("UK-01-194", "Jewel Tower", "London", 51.49840, -0.12650, "Europe/London"),
+    ("UK-01-195", "Methodist Central Hall", "London", 51.50000, -0.12980, "Europe/London"),
+    ("UK-01-196", "Tower 42", "London", 51.51520, -0.08440, "Europe/London"),
+    ("UK-01-197", "Winchester Palace", "London", 51.50710, -0.09130, "Europe/London"),
+    ("UK-01-198", "Hoover Building", "London", 51.53550, -0.31680, "Europe/London"),
+    ("UK-01-199", "Greater London House", "London", 51.53460, -0.13880, "Europe/London"),
+    ("UK-01-200", "Whitehall Court", "London", 51.50590, -0.12430, "Europe/London"),
 ]
 
 
