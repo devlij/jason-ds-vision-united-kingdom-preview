@@ -2747,6 +2747,393 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-261",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Whitechapel Gallery",
+      "place": "Whitechapel",
+      "caption": "Whitechapel Gallery, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Mainly clear night \u00b7 Whitechapel High Street looking north at the terracotta front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Whitechapel Gallery in London, a buff terracotta arch and gold leaf frieze between two turrets, at night",
+      "description": "From the south pavement of Whitechapel High Street the view looks north at the Whitechapel Gallery, a buff-terracotta front with a great entrance arch, a gold-leaf frieze of leaves above it, and a turret at each end. It is Charles Harrison Townsend's 1901 gallery, not the Horniman Museum. It is a dry mainly clear night, about 18.8\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the south pavement of Whitechapel High Street, looking north at the terracotta front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Whitechapel_Gallery",
+        "https://www.whitechapelgallery.org/project/rachel-whiteread/"
+      ],
+      "anchors": [
+        "A large semicircular arch holds the street-level entrance doors",
+        "A gold-leaf panel of leaves sits above the arch, between two end turrets",
+        "It is the Whitechapel Gallery, not the Horniman Museum"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-261-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-261-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-261-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-262",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "East Finchley Station",
+      "place": "East Finchley",
+      "caption": "East Finchley Station, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Partly cloudy night \u00b7 High Road looking up at the kneeling archer \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of East Finchley station in London, a kneeling archer on the parapet above concrete canopies, at night",
+      "description": "From the High Road the view looks up at East Finchley station, where a kneeling archer draws a longbow on the parapet above red-brick walls and cantilevered concrete canopies. It is the 1939 Northern line station, not the circular drum at Arnos Grove. It is a dry partly cloudy night, about 17.6\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the High Road pavement, looking up at the viaduct and the archer on the parapet. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/East_Finchley_tube_station",
+        "https://art.tfl.gov.uk/projects/the-archer/"
+      ],
+      "anchors": [
+        "A kneeling archer draws a longbow on the station parapet",
+        "Red brick and cantilevered concrete canopies carry the platforms over the road",
+        "It is East Finchley station, not Arnos Grove and not 55 Broadway"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-262-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-262-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-262-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-263",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Mary Abbots",
+      "place": "Kensington",
+      "caption": "St Mary Abbots, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Clear night \u00b7 Kensington High Street looking toward the cloister and spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Mary Abbots in Kensington, a tall stone spire beyond a pointed cloister, at night",
+      "description": "From Kensington High Street the view looks toward St Mary Abbots, a neo-Gothic church whose tall stone spire rises beyond a cloister of pointed arches. It is George Gilbert Scott's parish church, not Westminster Abbey. It is a dry clear night, about 18.0\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on Kensington High Street, looking north toward the cloister and the spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Mary_Abbots",
+        "https://www.smaw8.org/sir-george-gilbert-scott.html"
+      ],
+      "anchors": [
+        "A very tall stone spire rises from a square tower",
+        "A pointed-arch cloister runs in from the street",
+        "It is St Mary Abbots, not Westminster Abbey"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-263-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-263-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-263-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-264",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Brompton Cemetery Chapel",
+      "place": "West Brompton",
+      "caption": "Brompton Cemetery Chapel, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Clear night \u00b7 the central avenue looking southeast at the domed chapel \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Brompton Cemetery chapel in London, an octagonal stone dome between colonnades, at night",
+      "description": "From the central avenue the view looks toward the Brompton Cemetery chapel, an octagonal Bath-stone building under a lead dome, with round-arched colonnades along the path. It is Benjamin Baud's cemetery chapel, not the Egyptian gate at Highgate. It is a dry clear night, about 18.0\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the central avenue, looking southeast toward the chapel and the colonnades. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Brompton_Cemetery",
+        "https://www.royalparks.org.uk/visit/parks/brompton-cemetery/famous-graves-burials/chapel-1842"
+      ],
+      "anchors": [
+        "An octagonal stone chapel carries a lead dome",
+        "Round-arched colonnades flank the avenue",
+        "It is Brompton Cemetery, not Highgate Cemetery"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-264-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-264-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-264-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-265",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Strata SE1",
+      "place": "Elephant and Castle",
+      "caption": "Strata SE1, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Clear night \u00b7 Walworth Road looking up at the three turbine openings \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Strata SE1 in London, a tapering tower with three turbine openings in the crown, at night",
+      "description": "From Walworth Road the view looks up at Strata SE1, a tapering glass tower whose slanted crown is pierced by three circular openings, each holding a wind turbine. It is the Elephant and Castle tower, not the Shard. It is a dry clear night, about 18.6\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on Walworth Road, looking up at the tower crown. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Strata_SE1",
+        "https://en.wikipedia.org/wiki/Elephant_and_Castle"
+      ],
+      "anchors": [
+        "A tapering glass tower ends in a slanted crown",
+        "Exactly three circular openings, each with a turbine, sit in that crown",
+        "It is Strata SE1, not the Shard and not 30 St Mary Axe"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-265-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-265-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-265-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-266",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Red House",
+      "place": "Bexleyheath",
+      "caption": "Red House, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Clear night \u00b7 the garden looking at the red-brick house and conical well \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Red House in Bexleyheath, red brick and a conical well roof, at night",
+      "description": "From the garden the view looks at Red House, an L-shaped red-brick house with steep tiled roofs, pointed windows, and a well under a conical tiled roof. It is Philip Webb's house for William Morris, not a Tudor palace. It is a dry clear night, about 17.1\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public garden viewpoint at Red House, looking toward the brick front and the well. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/red-house",
+        "https://en.wikipedia.org/wiki/Red_House,_Bexleyheath"
+      ],
+      "anchors": [
+        "The house is exposed red brick with steep tiled roofs and pointed windows",
+        "A well in the garden has a steep conical tiled roof",
+        "It is Red House, not Hall Place and not Hampton Court Palace"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -13.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-266-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-266-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-266-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-267",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Cannon Street Station",
+      "place": "City of London",
+      "caption": "Cannon Street Station, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Mainly clear night \u00b7 the station approach looking at the pair of brick towers \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Cannon Street station towers in London, two yellow-brick towers with square domes, at night",
+      "description": "From the street the view looks at the two yellow-brick towers of Cannon Street station, each finished with a square dome, a lantern, and a short spire, with a plain modern block between them. They are the 1866 railway towers, not Blackfriars station and not St Paul's. It is a dry mainly clear night, about 18.6\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint at Cannon Street station, looking toward the pair of yellow-brick towers. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Cannon_Street_station",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1359145"
+      ],
+      "anchors": [
+        "Two yellow-brick towers each end in a square dome, a lantern, and a short spire",
+        "A plain modern block sits between the towers",
+        "It is Cannon Street station, not Blackfriars station and not St Paul's"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-267-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-267-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-267-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-268",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Christ Church Greyfriars",
+      "place": "City of London",
+      "caption": "Christ Church Greyfriars, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Mainly clear night \u00b7 Newgate Street looking at the Wren tower and the rose garden \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Christ Church Greyfriars in London, a Wren spire above a rose garden of wooden posts, at night",
+      "description": "From Newgate Street the view looks at Christ Church Greyfriars, where Wren's tower and open colonnade still carry a slender spire above a rose garden of hedges and wooden posts. The nave is gone. It is not St Paul's and not the tree-filled shell of St Dunstan-in-the-East. It is a dry mainly clear night, about 18.4\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on Newgate Street, looking north at the surviving tower and the rose garden. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Christ_Church_Greyfriars",
+        "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/christchurch-greyfriars-church-garden"
+      ],
+      "anchors": [
+        "The surviving tower has an open colonnade and a slender spire",
+        "The nave is a garden of hedges and wooden posts",
+        "It is Christ Church Greyfriars, not St Paul's and not St Dunstan-in-the-East"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-268-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-268-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-268-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-269",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Museum of the Home",
+      "place": "Hoxton",
+      "caption": "Museum of the Home, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Mainly clear night \u00b7 Kingsland Road looking west at the almshouse front and cupola \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Museum of the Home in London, a long brick almshouse range with a central cupola, at night",
+      "description": "From Kingsland Road the view looks across the lawn at the Museum of the Home, a long brown-brick almshouse range whose centre is a pedimented chapel with a small white cupola. It is the old Geffrye almshouses, not the British Museum. It is a dry mainly clear night, about 18.7\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the Kingsland Road pavement, looking west across the lawn at the almshouse front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Museum_of_the_Home",
+        "https://www.museumofthehome.org.uk/"
+      ],
+      "anchors": [
+        "A long brown-brick almshouse range faces a lawn",
+        "The centre is a pedimented chapel with a small white cupola",
+        "It is the Museum of the Home, not the British Museum"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-269-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-269-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-269-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-270",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "York Water Gate",
+      "place": "Westminster",
+      "caption": "York Water Gate, London",
+      "scenario_label": "1 October 2026 \u00b7 19:55 Europe/London",
+      "composition": "Mainly clear night \u00b7 Embankment Gardens looking south at the stone watergate \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the York Water Gate in London, a Portland-stone arch with lions on the pediment, at night",
+      "description": "From Victoria Embankment Gardens the view looks at the York Water Gate, a Portland-stone watergate with a large central arch, side niches, and lions on the pediment, standing inland on a lawn. It is the 1626 gate from York House, not Somerset House. It is a dry mainly clear night, about 18.4\u00b0C, and the sun is already well below the horizon in the west.",
+      "viewpoint": "Public viewpoint in Victoria Embankment Gardens, looking south at the river face of the watergate. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/York_Watergate",
+        "https://www.historic-uk.com/HistoryMagazine/DestinationsUK/York-Watergate/"
+      ],
+      "anchors": [
+        "A Portland-stone watergate has one large central arch and two side niches",
+        "Lions lie at the ends of the pediment",
+        "It is the York Water Gate, not Somerset House and not Temple Bar"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281\u00b0, and elevation is about -12.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-270-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-270-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-270-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
