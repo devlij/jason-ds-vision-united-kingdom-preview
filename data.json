@@ -2747,6 +2747,392 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-201",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St George's, Bloomsbury",
+      "place": "Camden",
+      "caption": "St George's, Bloomsbury, London",
+      "scenario_label": "1 October 2026 \u00b7 16:11 Europe/London",
+      "composition": "Mainly clear afternoon \u00b7 the portico and the stepped spire from Bloomsbury Way \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the portico and stepped spire of St George's, Bloomsbury, under a mainly clear afternoon sky",
+      "description": "From Bloomsbury Way the Portland-stone church shows a columned portico and a stepped pyramid spire with a statue at the top. It is a dry mainly clear afternoon, about 20.5\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Bloomsbury Way, looking north at the portico and the stepped spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_George%27s,_Bloomsbury",
+        "https://en.wikipedia.org/wiki/Nicholas_Hawksmoor"
+      ],
+      "anchors": [
+        "A Corinthian portico stands on a flight of steps",
+        "The tower becomes a stepped pyramid spire",
+        "A statue stands on the spire, and the church is not a dome and not a round porch"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:11 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-201-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-201-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-201-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-202",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St John's, Smith Square",
+      "place": "Westminster",
+      "caption": "St John's, Smith Square, London",
+      "scenario_label": "1 October 2026 \u00b7 16:11 Europe/London",
+      "composition": "Mainly clear afternoon \u00b7 the four corner towers from Smith Square \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the four corner towers of St John's, Smith Square, under a mainly clear afternoon sky",
+      "description": "Across Smith Square the baroque church reads as a stone block with a tower at each corner. It is a dry mainly clear afternoon, about 20.6\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Smith Square, looking south at the four-towered church front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_John%27s,_Smith_Square",
+        "https://en.wikipedia.org/wiki/Thomas_Archer"
+      ],
+      "anchors": [
+        "Four corner towers of equal height end in cupolas",
+        "A pediment sits between the two near towers",
+        "There is no clock and no single spire"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:11 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-202-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-202-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-202-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-203",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Buxton Memorial Fountain",
+      "place": "Westminster",
+      "caption": "Buxton Memorial Fountain, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Mainly clear afternoon \u00b7 the enamel-roofed fountain in Victoria Tower Gardens \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Buxton Memorial Fountain, a small Gothic canopy with a coloured enamel roof, in a London park under a mainly clear afternoon sky",
+      "description": "In Victoria Tower Gardens a small Gothic fountain stands on the grass, its enamel roof red, blue, and gold. It is a dry mainly clear afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint in Victoria Tower Gardens, looking north at the fountain. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Buxton_Memorial_Fountain",
+        "https://en.wikipedia.org/wiki/Victoria_Tower_Gardens"
+      ],
+      "anchors": [
+        "A small octagonal Gothic canopy stands on the grass",
+        "The roof is coloured enamel, red, blue, and gold",
+        "It is not the Victoria Memorial and not the Albert Memorial"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-203-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-203-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-203-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-204",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Trinity Buoy Wharf Lighthouse",
+      "place": "Tower Hamlets",
+      "caption": "Trinity Buoy Wharf Lighthouse, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the brick lighthouse at the wharf \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the short brick lighthouse at Trinity Buoy Wharf in London under an overcast afternoon sky",
+      "description": "At the end of the wharf a short brick lighthouse with a black lantern stands against grey water. It is a dry overcast afternoon, about 20.7\u00b0C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint on the wharf, looking east at the brick lighthouse where Bow Creek meets the Thames. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Trinity_Buoy_Wharf",
+        "https://en.wikipedia.org/wiki/Blackwall"
+      ],
+      "anchors": [
+        "A short hexagonal brick tower carries a black lantern",
+        "The tower is attached to a low brick warehouse",
+        "It is not a tall coastal lighthouse and not the Greenwich time ball"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.4\u00b0. The disk is above the horizon but hidden by overcast. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-204-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-204-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-204-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-205",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "House Mill",
+      "place": "Newham",
+      "caption": "House Mill, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the brick mill front across the pond \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red-brick House Mill at Three Mills in London under an overcast afternoon sky",
+      "description": "Across the mill pond House Mill shows a long red-brick front, rows of white sash windows, and a small white cupola. It is a dry overcast afternoon, about 20.7\u00b0C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint across the mill pond at Three Mills, looking east at the brick mill front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/House_Mill",
+        "https://en.wikipedia.org/wiki/Three_Mills"
+      ],
+      "anchors": [
+        "A long red-brick mill of four storeys faces the pond",
+        "Regular white sash windows and a small white cupola mark the ridge",
+        "The round Clock Mill is not the subject"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.4\u00b0. The disk is above the horizon but hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-205-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-205-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-205-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-206",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Ned",
+      "place": "City of London",
+      "caption": "The Ned, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Mainly clear afternoon \u00b7 the stone corner from Poultry \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the rusticated stone corner and green copper roof of The Ned in London under a mainly clear afternoon sky",
+      "description": "From Poultry the former bank shows a rusticated stone corner and a green copper roof behind the parapet. It is a dry mainly clear afternoon, about 20.5\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Poultry, looking north at the chamfered stone corner. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Ned",
+        "https://en.wikipedia.org/wiki/Edwin_Lutyens"
+      ],
+      "anchors": [
+        "Portland stone, rusticated, with a chamfered corner",
+        "A green copper roof sits behind the parapet",
+        "It is not the Bank of England, not the Royal Exchange, and not Mansion House"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-206-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-206-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-206-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-207",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lord's Pavilion",
+      "place": "Westminster",
+      "caption": "Lord's Pavilion, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the pavilion across the empty outfield \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the red-brick Lord's pavilion and its Father Time weathervane under a partly cloudy afternoon sky",
+      "description": "Across the empty outfield the red-brick pavilion shows white balconies and a weathervane of Father Time on the ridge. It is a dry partly cloudy afternoon, about 20.4\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on the outfield side, looking southwest at the pavilion front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lord%27s",
+        "https://en.wikipedia.org/wiki/Thomas_Verity"
+      ],
+      "anchors": [
+        "A long red-brick stand with white balconies",
+        "A central gable and a steep slate roof",
+        "Father Time, lifting a bail, is the weathervane, and there is no tennis court and no white arch"
+      ],
+      "solar": "Afternoon. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.5\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-207-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-207-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-207-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-208",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Waterloo Station Victory Arch",
+      "place": "Lambeth",
+      "caption": "Waterloo Station Victory Arch, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Mainly clear afternoon \u00b7 the single stone arch from Station Approach \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the single Portland-stone Victory Arch at Waterloo Station under a mainly clear afternoon sky",
+      "description": "From Station Approach a single Portland-stone arch marks the station entrance, with sculpted figures on the attic and no readable inscription. It is a dry mainly clear afternoon, about 20.6\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Station Approach, looking north at the single stone arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/London_Waterloo_station",
+        "https://en.wikipedia.org/wiki/London_and_South_Western_Railway_War_Memorial"
+      ],
+      "anchors": [
+        "One pale stone arch, not three",
+        "Sculpted figures stand on the attic",
+        "It is a station entrance, not a bridge and not Admiralty Arch"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-208-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-208-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-208-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-209",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hall Place",
+      "place": "Bexley",
+      "caption": "Hall Place, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Overcast afternoon \u00b7 the checkerboard range from the lawn \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the checkerboard flint and stone front of Hall Place in Bexley under an overcast afternoon sky",
+      "description": "From the lawn Hall Place shows a Tudor range of checkerboard flint and stone, with mullioned windows and gables. It is a dry overcast afternoon, about 20.4\u00b0C, and the sun is not visible.",
+      "viewpoint": "Public viewpoint on the lawn at Hall Place, looking south at the checkerboard range. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hall_Place",
+        "https://en.wikipedia.org/wiki/Bexley"
+      ],
+      "anchors": [
+        "The walls are a checkerboard of pale stone and dark flint",
+        "Mullioned windows and gables face the lawn",
+        "It is not Hampton Court and not Kew Palace"
+      ],
+      "solar": "Afternoon. Model sunrise 06:59 and sunset 18:37 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 236\u00b0, and elevation is about 20.3\u00b0. The disk is above the horizon but hidden by overcast. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-209-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-209-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-209-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-210",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Peckham Library",
+      "place": "Southwark",
+      "caption": "Peckham Library, London",
+      "scenario_label": "1 October 2026 \u00b7 16:12 Europe/London",
+      "composition": "Partly cloudy afternoon \u00b7 the lifted copper volume over the square \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Peckham Library, a copper volume lifted over the square, under a partly cloudy afternoon sky",
+      "description": "Over Peckham Square the library is a copper-green box lifted on angled legs, with an orange underside and three coloured pods on the roof. It is a dry partly cloudy afternoon, about 20.7\u00b0C, and the sun is above the horizon.",
+      "viewpoint": "Public viewpoint on Peckham Square, looking southwest at the lifted copper volume. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Peckham_Library",
+        "https://en.wikipedia.org/wiki/Will_Alsop"
+      ],
+      "anchors": [
+        "A copper-green volume is lifted on angled legs over the plaza",
+        "The underside is orange and yellow",
+        "Three coloured pods rise through the roof, and it is not the Design Museum"
+      ],
+      "solar": "Afternoon. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 16:12 Europe/London. Calculated solar azimuth is southwest, about 235\u00b0, and elevation is about 20.4\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-210-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-210-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-210-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
