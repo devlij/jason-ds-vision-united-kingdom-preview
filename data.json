@@ -2747,6 +2747,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-331",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "All Saints, Margaret Street",
+      "place": "Westminster",
+      "caption": "All Saints, Margaret Street, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 Margaret Street looking south at the spire \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of All Saints, Margaret Street, its banded brick and broach spire, on an overcast night",
+      "description": "From Margaret Street the church stands in a narrow courtyard between two banded-brick ranges, its pink and black brick chequered and zigzagged, with a tall broach spire of grey slate and cream stone bands. Pointed arches open onto the forecourt. It is an overcast night, about 14.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the north pavement of Margaret Street, looking south into the courtyard. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/All_Saints,_Margaret_Street",
+        "https://asms.uk/about/history/"
+      ],
+      "anchors": [
+        "William Butterfield's church of 1850\u201359 is pink-red brick banded and chequered with black brick, set in a small courtyard",
+        "A clergy house and a former choir school, in the same brick, flank the forecourt on Margaret Street",
+        "The broach spire is grey slate with cream stone bands; it is not the circular portico of All Souls Langham Place"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 356\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-331-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-331-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-331-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-332",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Queen Elizabeth's Hunting Lodge",
+      "place": "Chingford",
+      "caption": "Queen Elizabeth's Hunting Lodge, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Partly cloudy night \u00b7 Rangers Road looking north at the timber lodge \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Queen Elizabeth's Hunting Lodge, a three-storey timber frame at Chingford, on a partly cloudy night",
+      "description": "From Rangers Road the hunting lodge is a three-storey timber frame of 1543, dark oak and pale plaster, with a clay-tile roof, mullioned windows, and a stair wing to the south. Epping Forest is dark behind it. It is a partly cloudy night, about 14.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Rangers Road, looking north at the lodge. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Queen_Elizabeth%27s_Hunting_Lodge",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1293481"
+      ],
+      "anchors": [
+        "The Great Standing of 1543 is an L-plan timber frame of three storeys, with plaster infill and a pitched tile roof",
+        "Mullioned windows, mostly of two lights, and a stair wing on the south side",
+        "It is a hunt standing at the edge of Epping Forest, not a brick manor and not a castle"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -41.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-332-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-332-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-332-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-333",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Ranger's House",
+      "place": "Greenwich",
+      "caption": "Ranger's House, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Partly cloudy night \u00b7 Chesterfield Walk looking east at the west front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the west front of Ranger's House in Greenwich on a partly cloudy night",
+      "description": "From Chesterfield Walk the west front is a brown-brick villa with red dressings, seven bays of sash windows, a balustraded parapet, and a Portland-stone centre of Ionic columns and a pediment. Low wings end in tapered brick chimneys. It is a partly cloudy night, about 14.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Chesterfield Walk, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1218679",
+        "https://www.english-heritage.org.uk/visit/places/rangers-house-the-wernher-collection/"
+      ],
+      "anchors": [
+        "The west front, built about 1700, is brown brick with red dressings, two storeys over a basement, and seven sash-window bays",
+        "A slightly recessed Portland-stone centre has Ionic columns, a pediment, and a fanlit door, under a balustraded parapet",
+        "One-storey wings carry tapered brick chimneys; this is not the white Queen's House"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -42.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-333-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-333-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-333-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-334",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Highpoint One",
+      "place": "Highgate",
+      "caption": "Highpoint One, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 North Hill looking west at the white slab \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Highpoint One, the white Highgate apartment block, on an overcast night",
+      "description": "From North Hill, Highpoint One is a white concrete slab of 1935, a double cruciform of flats lifted on pilotis, with long window bands, curved balconies, and a curved entrance canopy at the street. It is an overcast night, about 13.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on North Hill, looking west at the white block. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Highpoint_I",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358885"
+      ],
+      "anchors": [
+        "Lubetkin and Tecton's 1935 block is white reinforced concrete, about eight storeys, on a double-cruciform plan",
+        "The flats are raised on pilotis, with horizontal window bands and cantilevered balconies with curved ends",
+        "A curved porte-cochere marks the road end; it is not Trellick Tower and it has no separate service tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-334-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-334-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-334-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-335",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Round Chapel",
+      "place": "Hackney",
+      "caption": "The Round Chapel, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 Lower Clapton Road looking southeast at the curved west end \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Round Chapel in Lower Clapton, its curved stone west end and conical towers, on an overcast night",
+      "description": "From Lower Clapton Road the west end of the Round Chapel is a curve of pale ashlar, with round-arched windows, a balustraded parapet, and octagonal towers under conical slate roofs. Steps spread from the curve. It is an overcast night, about 15.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Lower Clapton Road, looking southeast at the rounded west end. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1265632",
+        "https://www.hhbt.org.uk/round-chapel"
+      ],
+      "anchors": [
+        "Henry Fuller's chapel of 1869\u201371 is pale ashlar in an Italianate manner, with round-arched windows",
+        "The west end toward Lower Clapton Road is a wide curve, with a projecting ground floor, a balustrade, and steps",
+        "Octagonal towers with conical slate roofs flank the curve and the east end; it is not the Camden Roundhouse"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-335-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-335-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-335-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-336",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Danson House",
+      "place": "Bexley",
+      "caption": "Danson House, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the park lawn looking south at the north front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the north front of Danson House in Bexley on a partly cloudy night",
+      "description": "From the park lawn the north front of Danson House is a compact Portland-stone villa, three storeys on a rusticated base, with a pediment that holds a round window and a wide balustraded stair to the door. There is no outer dome. It is a partly cloudy night, about 13.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the park lawn, looking south at the north entrance front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Danson_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1064225"
+      ],
+      "anchors": [
+        "Sir Robert Taylor's villa of the 1760s is Portland stone, three storeys, with a rusticated ground floor and no surviving wings",
+        "The north front has a square central projection and a pediment with a round window in the tympanum",
+        "Engaged Corinthian columns frame the door above a broad balustraded stair; the oval dome is inside the house and is not an outer dome"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -42.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-336-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-336-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-336-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-337",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Eastbury Manor House",
+      "place": "Barking",
+      "caption": "Eastbury Manor House, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 the garden looking north at the brick manor \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Eastbury Manor House in Barking, its brick gables and one stair turret, on an overcast night",
+      "description": "From the garden, Eastbury Manor House is a red-brick H-plan house of the 1570s, with gables, mullioned windows, tall octagonal chimney shafts, and one surviving octagonal stair turret. It is an overcast night, about 15.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the garden, looking north at the courtyard side. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/eastbury-manor-house",
+        "https://www.british-history.ac.uk/survey-london/bk11/pp19-29"
+      ],
+      "anchors": [
+        "The 1570s manor is red brick on an H-plan, with gables, mullioned windows, and grouped octagonal chimney shafts",
+        "One octagonal stair turret survives; the second turret was taken down in the early nineteenth century and is not shown",
+        "A square porch stands on the north side; it is not the symmetrical front of Charlton House"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-337-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-337-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-337-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-338",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Kensal Green Anglican Chapel",
+      "place": "Kensal Green",
+      "caption": "Kensal Green Anglican Chapel, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 the centre avenue looking west at the Doric portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Greek Doric Anglican chapel at Kensal Green Cemetery on an overcast night",
+      "description": "From the centre avenue the Anglican chapel is a Greek Doric portico of four baseless fluted columns under a plain pediment, with colonnades running out to square pavilions. Cemetery trees stand behind the stone. It is an overcast night, about 14.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the centre avenue, looking west at the portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1190995",
+        "https://www.kensalgreencemetery.com/history2/"
+      ],
+      "anchors": [
+        "John Griffith's chapel of 1835\u201336 is Portland stone and stucco, Greek Doric, with a tetrastyle portico of baseless fluted columns",
+        "The pediment is plain, and the chapel stands on a podium with a central flight of steps",
+        "Flanking colonnades of paired Doric columns end in square pavilions, with anthemion ornaments on the parapet"
+      ],
+      "solar": "After sunset. Model sunrise 07:03 and sunset 18:36 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 356\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-338-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-338-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-338-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-339",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Limehouse Accumulator Tower",
+      "place": "Limehouse",
+      "caption": "Limehouse Accumulator Tower, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 Mill Place looking east at the octagonal tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Limehouse accumulator tower and its side chimney on an overcast night",
+      "description": "Beside the basin the accumulator tower is a slim octagon of yellow stock brick, with slit windows, a cornice, and an octagonal chimney rising from its own square base on the north side. The pumping house is gone. It is an overcast night, about 15.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Mill Place, looking east at the tower and its chimney. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1065116",
+        "http://glias.org.uk/journals/11-d.html"
+      ],
+      "anchors": [
+        "The 1869 hydraulic tower is octagonal yellow stock brick, with a cornice, a parapet, cream dressings, and tall slit windows",
+        "The shaft narrows slightly above mid-height",
+        "An octagonal chimney stands on a square base against the north side and is taller than the tower; it does not rise out of the roof, and the pumping house is not standing"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -42.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-339-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-339-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-339-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-340",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lowther Lodge",
+      "place": "South Kensington",
+      "caption": "Lowther Lodge, London",
+      "scenario_label": "2 October 2026 \u00b7 00:39 Europe/London",
+      "composition": "Overcast night \u00b7 Kensington Gore looking south at the Queen Anne front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Lowther Lodge on Kensington Gore, its red brick and tall chimneys, on an overcast night",
+      "description": "From Kensington Gore, Lowther Lodge is a red-brick Queen Anne house, with steep tiled roofs, tall fluted chimney stacks, pedimented gables, and leaded cross windows. A semicircular arched door sits in one wing. It is an overcast night, about 14.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Kensington Gore pavement, looking south at the north front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lowther_Lodge",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1217774"
+      ],
+      "anchors": [
+        "Richard Norman Shaw's house of 1873\u201375 is red brick with steep tiled roofs and tall fluted chimney stacks",
+        "The Kensington Gore front is two storeys and an attic, with pedimented gables, leaded cross windows, and a coved cornice",
+        "One wing has a semicircular arched doorway and a small balcony; the subject is this front, not the Royal Albert Hall"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 357\u00b0, and elevation is about -42.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-340-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-340-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-340-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
