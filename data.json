@@ -2747,6 +2747,396 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-251",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Arnos Grove Station",
+      "place": "Enfield",
+      "caption": "Arnos Grove Station, London",
+      "scenario_label": "1 October 2026 \u00b7 19:07 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 Bowes Road looking north at the brick drum \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Arnos Grove station in London, a circular brick drum under a flat concrete lid, at dusk",
+      "description": "From the south pavement of Bowes Road the view looks north at Arnos Grove station, a circular red-brown brick drum of vertical window strips rising from a low brick wing and capped by a flat concrete lid. It is Charles Holden's 1932 ticket hall, not a clock tower and not 55 Broadway. It is a dry dusk under mainly clear skies, about 18.2\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the south pavement of Bowes Road, looking north at the ticket-hall drum. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Arnos_Grove_tube_station",
+        "https://www.modernistbritain.co.uk/post/building/Arnos+Grove+Underground+Station/"
+      ],
+      "anchors": [
+        "A circular red-brown brick drum rises from a low single-storey wing",
+        "Vertical window strips ring the drum, and a flat concrete lid oversails it",
+        "It is Charles Holden's 1932 station, not a clock tower and not 55 Broadway"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:07 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-251-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-251-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-251-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-252",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Greenwich Foot Tunnel",
+      "place": "Greenwich",
+      "caption": "Greenwich Foot Tunnel, London",
+      "scenario_label": "1 October 2026 \u00b7 19:07 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 Cutty Sark Gardens looking north at the glass dome \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Greenwich Foot Tunnel south entrance in London, a brick drum and glass dome, at dusk",
+      "description": "From Cutty Sark Gardens the view looks north at the south entrance of the Greenwich Foot Tunnel, a circular red-brick drum under a ribbed glass dome, with the Thames behind it. The ship in the dry dock is not the subject, and neither is the Naval College. It is a dry dusk under mainly clear skies, about 19.4\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint in Cutty Sark Gardens, looking north at the south entrance drum, with the river beyond. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Greenwich_foot_tunnel",
+        "https://www.royalgreenwich.gov.uk/info/200259/transport_and_travel/693/foot_tunnels"
+      ],
+      "anchors": [
+        "The south entrance is a circular red-brick drum under a ribbed glass dome",
+        "The dome stands on the paved garden with the Thames behind it",
+        "It is the foot-tunnel entrance, not the Cutty Sark and not the Old Royal Naval College"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 19:07 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.4\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-252-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-252-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-252-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-253",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "10 Downing Street",
+      "place": "Westminster",
+      "caption": "10 Downing Street, London",
+      "scenario_label": "1 October 2026 \u00b7 19:07 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 the street looking north at the black door \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the black door of 10 Downing Street in London at dusk, with its fanlight and iron lamp",
+      "description": "From the street the view looks north at the closed black door of 10 Downing Street, its white stone surround, semicircular fanlight, and the iron lamp beside the railings. It is the Georgian door, not the Foreign Office and not the Cenotaph. It is a dry dusk under mainly clear skies, about 19.4\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint in Downing Street, looking north at the closed door. The camera stays outside the house. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/10_Downing_Street",
+        "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street"
+      ],
+      "anchors": [
+        "The subject is the closed black six-panel door, the white stone surround, and the semicircular fanlight",
+        "A black iron lamp stands beside the door, with iron railings along the Georgian front",
+        "It is the door of 10 Downing Street, not the Foreign Office and not the Cenotaph"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:07 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-253-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-253-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-253-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-254",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hayward Gallery",
+      "place": "Lambeth",
+      "caption": "Hayward Gallery, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, partly cloudy \u00b7 the riverside walk looking south at the concrete pyramids \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hayward Gallery in London, board-marked concrete and glass pyramid rooflights, at dusk",
+      "description": "From the riverside walk the view looks south at the Hayward Gallery, a low mass of board-marked concrete with a cluster of glass pyramid rooflights. It is the gallery, not the National Theatre and not the Royal Festival Hall. It is a dry dusk under partly cloudy skies, about 19.4\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the riverside walk, looking south at the gallery. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hayward_Gallery",
+        "https://www.southbankcentre.co.uk/venues/hayward-gallery/"
+      ],
+      "anchors": [
+        "The gallery is a low mass of board-marked grey concrete",
+        "A cluster of glass pyramid rooflights sits on the roof",
+        "It is the Hayward Gallery, not the National Theatre and not the Royal Festival Hall"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.4\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-254-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-254-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-254-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-255",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "His Majesty's Theatre",
+      "place": "Westminster",
+      "caption": "His Majesty's Theatre, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 Haymarket looking west at the stone front and squared dome \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of His Majesty's Theatre in London, a pale stone front and squared dome, at dusk",
+      "description": "From the Haymarket pavement the view looks west at His Majesty's Theatre, a pale stone front with a Corinthian loggia and one large squared dome. It is Phipps's theatre, not the London Coliseum. It is a dry dusk under mainly clear skies, about 19.2\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the east pavement of Haymarket, looking west at the theatre front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_London",
+        "https://en.wikipedia.org/wiki/Charles_John_Phipps"
+      ],
+      "anchors": [
+        "The Haymarket front is pale stone, with a Corinthian colonnade forming a loggia",
+        "One large squared dome rises behind the roof",
+        "It is His Majesty's Theatre, not the London Coliseum and not the Palace Theatre"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-255-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-255-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-255-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-256",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Wesley's Chapel",
+      "place": "Islington",
+      "caption": "Wesley's Chapel, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, partly cloudy \u00b7 City Road looking east at the Doric porch \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Wesley's Chapel in London, a brown-brick front and coupled Doric porch, at dusk",
+      "description": "From the City Road pavement the view looks east at Wesley's Chapel, a brown-brick Georgian front with round-arched windows and a porch of coupled Greek Doric columns. It is the Methodist chapel, not St Paul's Cathedral. It is a dry dusk under partly cloudy skies, about 19.4\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the west pavement of City Road, looking east at the chapel front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Wesley%27s_Chapel",
+        "https://www.wesleyschapel.org.uk/"
+      ],
+      "anchors": [
+        "The front is brown brick, two storeys, with round-arched windows",
+        "A stone porch of coupled Greek Doric columns carries a plain pediment",
+        "It is Wesley's Chapel, not St Paul's Cathedral and not a Gothic church"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 272\u00b0, and elevation is about -5.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-256-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-256-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-256-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-257",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Italian Gardens",
+      "place": "Westminster",
+      "caption": "Italian Gardens, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 the Long Water path looking north at the stone pavilion \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Italian Gardens in Kensington Gardens, London, stone basins and a pale pavilion, at dusk",
+      "description": "From the path at the head of the Long Water the view looks north across four stone basins to the pale pavilion of the Italian Gardens. It is the formal water garden, not the Albert Memorial and not the Diana Memorial Fountain. It is a dry dusk under mainly clear skies, about 19.3\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint on the path at the north end of the Long Water, looking north across the basins to the pavilion. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.royalparks.org.uk/visit/parks/kensington-gardens/italian-gardens",
+        "https://en.wikipedia.org/wiki/Kensington_Gardens"
+      ],
+      "anchors": [
+        "Four rectangular stone basins with fountain jets lead to a pale stone pavilion",
+        "The pavilion has arches and a balustraded roof",
+        "It is the Italian Gardens, not the Albert Memorial and not the Diana Memorial Fountain"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 271\u00b0, and elevation is about -5.4\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-257-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-257-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-257-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-258",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Henry VIII Gate",
+      "place": "City of London",
+      "caption": "Henry VIII Gate, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, partly cloudy \u00b7 West Smithfield looking south at the statue and the arch \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Henry VIII Gate at St Bartholomew's Hospital in London, a stone arch and statue, at dusk",
+      "description": "From West Smithfield the view looks south at the Henry VIII Gate, a stone gatehouse with a rusticated arch, Ionic pilasters, and a statue of Henry VIII above the arch. It is the hospital gate of 1702, not the half-timbered gate of St Bartholomew-the-Great. It is a dry dusk under partly cloudy skies, about 19.3\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint in West Smithfield, looking south at the hospital gate. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Bartholomew%27s_Hospital",
+        "https://historicengland.org.uk/services-skills/education/educational-images/the-gatehouse-st-bartholomews-hospital-city-of-london-8369"
+      ],
+      "anchors": [
+        "A stone gatehouse of three bays stands over a rusticated arch",
+        "Giant Ionic pilasters carry a pediment, and a statue of Henry VIII stands above the arch",
+        "It is the hospital gate, not the half-timbered gate of St Bartholomew-the-Great"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 272\u00b0, and elevation is about -5.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-258-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-258-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-258-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-259",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Canada House",
+      "place": "Westminster",
+      "caption": "Canada House, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 Trafalgar Square looking west at the Ionic front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Canada House in London, a Bath-stone Ionic front on Trafalgar Square, at dusk",
+      "description": "From Trafalgar Square the view looks west at Canada House, a long Bath-stone front with a portico of giant engaged Ionic columns and a balustraded parapet. Nelson's Column and the National Gallery are outside the frame. It is a dry dusk under mainly clear skies, about 19.3\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint in Trafalgar Square, looking west at the Bath-stone front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Canada_House",
+        "https://britishlistedbuildings.co.uk/101217724-canada-house-including-the-former-royal-college-of-physicians-st-jamess-ward"
+      ],
+      "anchors": [
+        "The square front is a long Bath-stone Greek Revival range with a balustraded parapet",
+        "The centre is a portico of giant engaged Ionic columns",
+        "It is Canada House, not the National Gallery and not Nelson's Column"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 272\u00b0, and elevation is about -5.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-259-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-259-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-259-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-260",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Palace Theatre",
+      "place": "Westminster",
+      "caption": "Palace Theatre, London",
+      "scenario_label": "1 October 2026 \u00b7 19:08 Europe/London",
+      "composition": "Dusk, mainly clear \u00b7 Cambridge Circus looking northwest at the terracotta front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Palace Theatre in London, red brick and buff terracotta with turret domes, at dusk",
+      "description": "From Cambridge Circus the view looks northwest at the Palace Theatre, a red-brick and buff-terracotta front with octagonal turret domes and a banded gable. It is Collcutt's theatre, not His Majesty's Theatre and not the London Coliseum. It is a dry dusk under mainly clear skies, about 19.2\u00b0C, and the sun is already below the horizon in the west.",
+      "viewpoint": "Public viewpoint in Cambridge Circus, looking northwest at the theatre front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Palace_Theatre,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1066339"
+      ],
+      "anchors": [
+        "The concave front is red brick banded with buff terracotta",
+        "Octagonal turrets with small domes flank a broad banded gable",
+        "It is the Palace Theatre, not His Majesty's Theatre and not the London Coliseum"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:08 Europe/London. Calculated solar azimuth is west, about 272\u00b0, and elevation is about -5.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-260-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-260-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-260-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
