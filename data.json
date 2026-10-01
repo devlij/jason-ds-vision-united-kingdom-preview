@@ -2747,6 +2747,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-271",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Southgate Station",
+      "place": "Enfield",
+      "caption": "Southgate Station, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the circular ticket hall and the lit finial \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Southgate station's circular ticket hall and illuminated finial in London on a clear night",
+      "description": "From the south side of the station the view looks north at Southgate, Holden's circular brick ticket hall with a glass band under a floating concrete roof and a lit finial of stacked rings and a ball. It is a clear night, about 17.3\u00b0C, dry, and the sun is below the horizon. A curved parade of shops sits behind the drum.",
+      "viewpoint": "Public roadway on the south side of the station, looking north at the circular ticket hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Southgate_tube_station",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1188692"
+      ],
+      "anchors": [
+        "A low circular brick ticket hall has a band of glass under a flat concrete roof",
+        "An illuminated finial of stacked rings and a ball stands on that roof",
+        "It is Southgate station, not Arnos Grove and not East Finchley"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-271-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-271-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-271-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-272",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hammersmith Apollo",
+      "place": "Hammersmith and Fulham",
+      "caption": "Hammersmith Apollo, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the wide Art Deco front and the curved centre \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hammersmith Apollo Art Deco front in London on a clear night",
+      "description": "From Queen Caroline Street the view looks at the Hammersmith Apollo, a very wide Art Deco front of brick and pale stone with a curved centre. It is a clear night, about 17.6\u00b0C, dry, and the sun is below the horizon. There is no globe on the roof.",
+      "viewpoint": "Public pavement on Queen Caroline Street, looking southeast at the wide front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hammersmith_Apollo",
+        "https://www.eventimapollo.com/"
+      ],
+      "anchors": [
+        "A very wide Art Deco front of brick and pale stone",
+        "The centre of the front is curved",
+        "There is no globe, so it is not the London Coliseum"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-272-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-272-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-272-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-273",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Holland House",
+      "place": "Kensington and Chelsea",
+      "caption": "Holland House, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the surviving east wing and the low ruin \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the surviving east wing of Holland House in Holland Park on a clear night",
+      "description": "From a path in Holland Park the view looks at the surviving east wing of Holland House, red brick and stone with an arcade, shaped gables, and a low ruin where the old centre stood. It is a clear night, about 17.4\u00b0C, dry, and the sun is below the horizon. The house is not rebuilt as a complete palace.",
+      "viewpoint": "Public path in Holland Park, looking west at the surviving east wing. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Holland_House",
+        "https://britishlistedbuildings.co.uk/101267135-holland-house-campden-ward"
+      ],
+      "anchors": [
+        "The east wing is red brick and stone, with an arcade, mullions, and shaped gables",
+        "The old centre survives only as a low ruin",
+        "It is Holland House, not Leighton House"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.5\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-273-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-273-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-273-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-274",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "United States Embassy",
+      "place": "Wandsworth",
+      "caption": "United States Embassy, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the glass cube on its colonnade \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the United States Embassy glass cube at Nine Elms in London on a clear night",
+      "description": "From the public garden at Nine Elms the view looks across the pond at the United States Embassy, a glass cube on a colonnade. It is a clear night, about 17.7\u00b0C, dry, and the sun is below the horizon. Interior lights show through the cube.",
+      "viewpoint": "Public garden at Nine Elms, looking south across the pond at the cube. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_London",
+        "https://kierantimberlake.com/work/embassy-of-the-united-states-of-america/"
+      ],
+      "anchors": [
+        "A glass cube stands on a colonnade",
+        "A pond lies in front of the colonnade",
+        "It is the Nine Elms embassy, not the SIS Building"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-274-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-274-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-274-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-275",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Old Vic",
+      "place": "Lambeth",
+      "caption": "The Old Vic, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the colonnade and the broken pediment \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Vic's rendered front and colonnade in London on a clear night",
+      "description": "From the corner of The Cut the view looks at the Old Vic, a white rendered front with a colonnade and a broken pediment, and a brick flank of blind arches. It is a clear night, about 17.9\u00b0C, dry, and the sun is below the horizon. The concrete National Theatre is not the subject.",
+      "viewpoint": "Public corner of The Cut and Waterloo Road, looking north at the rendered front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Old_Vic",
+        "https://www.oldvictheatre.com/"
+      ],
+      "anchors": [
+        "A white rendered front of five bays and three storeys",
+        "A colonnade and a broken pediment mark the front",
+        "The brick flank has tall blind arches, and it is not the National Theatre"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-275-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-275-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-275-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-276",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hyde Park Barracks",
+      "place": "Westminster",
+      "caption": "Hyde Park Barracks, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the red-brick slab and the stables range \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hyde Park Barracks brick tower in London on a clear night",
+      "description": "From the south edge of Hyde Park the view looks at Hyde Park Barracks, a tall rectangular red-brick tower with a flat roof and a low stables range at its foot. It is a clear night, about 17.4\u00b0C, dry, and the sun is below the horizon. A few windows are lit.",
+      "viewpoint": "Public path on the south edge of Hyde Park, looking south at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hyde_Park_Barracks,_London",
+        "https://c20society.org.uk/casework/barracks-under-threat"
+      ],
+      "anchors": [
+        "A tall rectangular red-brick slab with a flat roof",
+        "A long low stables range sits at the foot of the tower",
+        "It is Hyde Park Barracks, not the London Hilton on Park Lane"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-276-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-276-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-276-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-277",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Brixton Windmill",
+      "place": "Lambeth",
+      "caption": "Brixton Windmill, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the tarred tower, the cap, and four sails \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Brixton Windmill, a tarred brick tower mill, in London on a clear night",
+      "description": "From Windmill Gardens the view looks at Brixton Windmill, a tarred brick tower with a pale cap and four sails. It is a clear night, about 17.4\u00b0C, dry, and the sun is below the horizon. It is not the white smock mill at Wimbledon.",
+      "viewpoint": "Public path in Windmill Gardens, looking north at the mill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Ashby%27s_Mill",
+        "https://www.brixtonwindmill.org/"
+      ],
+      "anchors": [
+        "A tarred brick tower mill with a boat-shaped cap",
+        "Four sails, and no fantail",
+        "It is Brixton Windmill, not the white smock mill on Wimbledon Common"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-277-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-277-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-277-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-278",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Crystal Palace Transmitter",
+      "place": "Bromley",
+      "caption": "Crystal Palace Transmitter, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the tapering lattice tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Crystal Palace transmitting tower in London on a clear night",
+      "description": "From Crystal Palace Park the view looks at the transmitting station, a tall tapering lattice steel tower with warning lights. It is a clear night, about 16.4\u00b0C, dry, and the sun is below the horizon. The dinosaurs are not in the frame.",
+      "viewpoint": "Public ground in Crystal Palace Park, looking north at the lattice tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Crystal_Palace_transmitting_station",
+        "https://en.wikipedia.org/wiki/The_Crystal_Palace"
+      ],
+      "anchors": [
+        "A tall tapering square-section lattice steel tower",
+        "Aircraft warning lights mark the shaft",
+        "It is the transmitter, not the Crystal Palace dinosaurs and not the Shard"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-278-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-278-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-278-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-279",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Maughan Library",
+      "place": "City of London",
+      "caption": "Maughan Library, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the Gothic clock tower on Chancery Lane \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Maughan Library clock tower on Chancery Lane in London on a clear night",
+      "description": "From Chancery Lane the view looks at the Maughan Library, a neo-Gothic stone range and a square clock tower with a steep roof. It is a clear night, about 17.8\u00b0C, dry, and the sun is below the horizon. It is the old Public Record Office, not the Royal Courts.",
+      "viewpoint": "Public pavement on Chancery Lane, looking east at the clock tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Maughan_Library",
+        "https://www.kcl.ac.uk/visit/maughan-library"
+      ],
+      "anchors": [
+        "A neo-Gothic stone range with a square clock tower",
+        "The tower has a steep roof and figures near the summit",
+        "It is the Maughan Library, not the Royal Courts of Justice"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-279-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-279-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-279-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-280",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Battersea Arts Centre",
+      "place": "Wandsworth",
+      "caption": "Battersea Arts Centre, London",
+      "scenario_label": "1 October 2026 \u00b7 20:27 Europe/London",
+      "composition": "Clear night \u00b7 the brick and stone civic front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Battersea Arts Centre, the former town hall, in London on a clear night",
+      "description": "From Lavender Hill the view looks at Battersea Arts Centre, the former town hall, red brick and Bath stone with a formal centrepiece. It is a clear night, about 17.4\u00b0C, dry, and the sun is below the horizon. There are no power-station chimneys.",
+      "viewpoint": "Public pavement on Lavender Hill, looking north at the civic front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Battersea_Town_Hall",
+        "https://bac.org.uk/"
+      ],
+      "anchors": [
+        "Red Suffolk brick with Bath stone dressings",
+        "A formal stone centrepiece on a three-storey civic front",
+        "It is the former Battersea Town Hall, not Battersea Power Station"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287\u00b0, and elevation is about -17.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-280-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-280-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-280-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
