@@ -2747,6 +2747,390 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-311",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Vedast Foster Lane",
+      "place": "City of London",
+      "caption": "St Vedast Foster Lane, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 Foster Lane looking at the baroque steeple \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the baroque steeple of St Vedast Foster Lane in the City of London on a clear night",
+      "description": "From Foster Lane the view looks at St Vedast-alias-Foster, a small City church whose Portland-stone steeple rises in three baroque stages, concave then convex, and closes in an obelisk with a ball and cross. It is not the wedding-cake spire of St Bride's. It is a clear night, about 16.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Foster Lane, looking east at the steeple. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Vedast_Foster_Lane",
+        "https://www.cityoflondon.gov.uk/things-to-do/architecture/city-churches-and-religious-buildings/st-vedast-alias-foster"
+      ],
+      "anchors": [
+        "The steeple is Portland stone in three stages: a concave lower stage, a convex middle stage, and an obelisk spire",
+        "A ball and cross finish the obelisk; the church body below is a low plain wall on a narrow lane",
+        "It is not St Bride's stacked octagonal wedding-cake spire, and St Paul's dome is not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-311-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-311-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-311-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-312",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Old Curiosity Shop",
+      "place": "Westminster",
+      "caption": "The Old Curiosity Shop, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 Portsmouth Street looking at the jettied shop \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Curiosity Shop on Portsmouth Street in London on a clear night",
+      "description": "From Portsmouth Street the view is the Old Curiosity Shop, a tiny two-storey plastered timber house whose upper floor overhangs the corner, under a tiled hipped roof. Shop windows sit below the jetty. It is not the long Holborn front of Staple Inn. It is a clear night, about 16.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Portsmouth Street, looking north at the corner of the small shop. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1227133",
+        "https://blogs.lse.ac.uk/lsehistory/2023/08/01/the-curious-history-of-the-old-curiosity-shop/"
+      ],
+      "anchors": [
+        "A two-storey plastered timber house, the upper floor jettying over the pavement",
+        "A tiled hipped roof and two casements set on the corner splay",
+        "Wooden shop windows and a panelled door below; it is one small building, not the long timber range of Staple Inn"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-312-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-312-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-312-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-313",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Stoke Newington Pumping Station",
+      "place": "Hackney",
+      "caption": "Stoke Newington Pumping Station, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 the brick keep and chimney tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the castle-like Stoke Newington Pumping Station in London on a clear night",
+      "description": "From the southwest the Stoke Newington Pumping Station reads as a stock-brick fortress: battlements, stepped buttresses, a round tower with a conical roof, and a taller octagonal chimney tower. William Chadwell Mylne and Robert Billings built it in the 1850s to house the engines. It is a clear night, about 16.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of the ground southwest of the engine house, looking northeast at the brick keep. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1226755",
+        "https://en.wikipedia.org/wiki/Castle_Climbing_Centre"
+      ],
+      "anchors": [
+        "A stock-brick waterworks of 1854\u201356 built as a Scottish baronial fortress, with battlements and stepped buttresses",
+        "Round towers carry square bartizans; one has a conical roof, and a taller octagonal chimney tower stands to the east",
+        "It is a Victorian engine house on a mound, not a medieval stone castle"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-313-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-313-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-313-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-314",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Trafalgar Tavern",
+      "place": "Greenwich",
+      "caption": "Trafalgar Tavern, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 the white river front and bow windows \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Trafalgar Tavern river front in Greenwich, London, on a clear night",
+      "description": "From the riverside the Trafalgar Tavern is a white stucco block on the Thames wall, with bow windows, shell motifs, and iron balconies. The centre is three storeys and the sides are two. The naval college domes and the Cutty Sark stay out of the frame. It is a clear night, about 16.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the riverside walk in front of the tavern, looking south at the river elevation. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Trafalgar_Tavern",
+        "https://www.trafalgartavern.co.uk/history/"
+      ],
+      "anchors": [
+        "Joseph Kay's 1837 white stucco river front, a three-storey centre and two-storey side bays on the river wall",
+        "Bow windows with swept lead roofs, cast-iron balconies, and shell motifs over the central windows",
+        "The Old Royal Naval College domes and the Cutty Sark are not in this frame"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-314-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-314-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-314-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-315",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Serpentine North",
+      "place": "Westminster",
+      "caption": "Serpentine North, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 the brick Magazine and the white tensile roof \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Serpentine North in Kensington Gardens, the brick Magazine and the white tensile roof, on a clear night",
+      "description": "From the park path Serpentine North is two joined parts: the low brick Magazine of 1805, with its colonnade, and the white tensile roof that undulates beside it and seems to hover on a line of glass. It is not the ring-shaped Diana Memorial Fountain. It is a clear night, about 15.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public path in Kensington Gardens west of the Magazine, looking east at the brick colonnade and the white roof. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.zha.com/projects/architecture/serpentine-north-gallery",
+        "https://en.wikipedia.org/wiki/Serpentine_Galleries"
+      ],
+      "anchors": [
+        "The 1805 Magazine is a low stock-brick gunpowder store with a colonnade",
+        "Zaha Hadid's 2013 extension is a white tensile membrane that undulates and dips to the ground",
+        "A glass strip separates the white roof from the brick parapet; this is not the Diana Memorial Fountain"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-315-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-315-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-315-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-316",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Granary",
+      "place": "Camden",
+      "caption": "The Granary, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 Granary Square looking at the brick warehouse \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Granary warehouse at King's Cross in London on a clear night",
+      "description": "From Granary Square the view looks north at the Granary, Cubitt's six-storey stock-brick warehouse, its hoist bays running the full height under stone crane hoods. There is no station clock and no kissing roof. It is a clear night, about 16.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Granary Square, looking north at the south facade of the granary. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://britishlistedbuildings.co.uk/101379215-the-granary-st-pancras-and-somers-town-ward",
+        "https://www.kingscross.co.uk/central-saint-martins"
+      ],
+      "anchors": [
+        "Lewis Cubitt's 1851\u201352 granary, a six-storey block of multicoloured stock brick",
+        "The south front is symmetrical, with projecting hoist bays, full-height segmental arches, and stone crane hoods",
+        "It is not King's Cross station and it is not the Coal Drops Yard roof"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-316-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-316-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-316-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-317",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Augustine's Tower",
+      "place": "Hackney",
+      "caption": "St Augustine's Tower, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 the ragstone tower in the churchyard garden \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Augustine's Tower standing alone in Hackney, London, on a clear night",
+      "description": "In St John's Church Gardens, St Augustine's Tower stands on its own, a ragstone tower of four stages with diagonal buttresses, traceried bell openings, and a battlemented top. The medieval church it served was taken down in 1798, so there is no nave. It is a clear night, about 16.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in St John's Church Gardens, looking north at the standalone tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Augustine%27s_Tower,_Hackney",
+        "https://www.hhbt.org.uk/st-augustines-tower"
+      ],
+      "anchors": [
+        "A standalone Kentish ragstone tower of four stages, with diagonal buttresses and a high plinth",
+        "Traceried bell openings and a restored battlemented parapet; there is no spire",
+        "The nave was demolished in 1798, so no church body is attached"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-317-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-317-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-317-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-318",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Seven Dials",
+      "place": "Camden",
+      "caption": "Seven Dials, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 the sundial pillar at the junction \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Seven Dials sundial pillar in London on a clear night",
+      "description": "At the junction the Seven Dials pillar is a Portland-stone Doric column on a pedestal, topped by a block of six sundial faces. Streets run away from it. There is no figure on the capital and no gilded urn. It is a clear night, about 15.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement at the south of the junction, looking north at the sundial pillar. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://sevendials.com/the_seven_dials_monument_charity.htm",
+        "https://en.wikipedia.org/wiki/Seven_Dials,_London"
+      ],
+      "anchors": [
+        "A Portland-stone Doric column on a pedestal at the centre of the street junction",
+        "Six sundial faces crown the column; the shaft itself was counted as the seventh dial",
+        "There is no statue and no flaming urn; it is not Nelson's Column and not the Monument"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-318-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-318-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-318-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-319",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lincoln's Inn Gatehouse",
+      "place": "Camden",
+      "caption": "Lincoln's Inn Gatehouse, London",
+      "scenario_label": "1 October 2026 \u00b7 23:12 Europe/London",
+      "composition": "Clear night \u00b7 Chancery Lane looking at the brick gate \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lincoln's Inn Gatehouse on Chancery Lane in London on a clear night",
+      "description": "From Chancery Lane the Lincoln's Inn Gatehouse is a brown-brick Tudor gate, a carriage arch beside a narrower passage, with a taller brick tower rising on the right. Diaper patterns run through the brick. It is not the stone clock tower of the Maughan Library. It is a clear night, about 16.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Chancery Lane, looking southwest at the brick gate. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.lincolnsinn.org.uk/about-us/the-history-of-the-inn/buildings/",
+        "https://www.lincolnsinn.org.uk/library-archives/tales-from-the-archive/may-2017-thomas-lovell-and-the-gate-house/"
+      ],
+      "anchors": [
+        "A brown-brick Tudor gate of 1517\u201321, with diaper brickwork",
+        "A carriage arch, a narrower foot passage to the left, and a taller brick tower to the right",
+        "Stone panels sit over the arch; it is not the Maughan Library clock tower across the lane"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 23:12 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-319-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-319-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-319-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-320",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Canada Water Library",
+      "place": "Southwark",
+      "caption": "Canada Water Library, London",
+      "scenario_label": "1 October 2026 \u00b7 23:13 Europe/London",
+      "composition": "Clear night \u00b7 the bronze inverted pyramid by the basin \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Canada Water Library, the bronze inverted pyramid in Rotherhithe, London, on a clear night",
+      "description": "From the plaza Canada Water Library is an inverted pyramid, narrow at the glass base and overhanging above, clad in light bronze perforated metal. The basin sits to one side. It is not a timber cone and not a glass tower. It is a clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public plaza by Canada Water basin, looking south at the library. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://czwg.com/projects/community-and-public-use/canada-water-library/",
+        "https://www.bbc.co.uk/news/uk-england-london-15912616"
+      ],
+      "anchors": [
+        "Piers Gough's 2011 library is an inverted pyramid, narrow at the ground and leaning outward",
+        "The skin is light bronze anodised aluminium with a fine perforated pattern, over a glass base",
+        "It stands by the Canada Water basin; it is not a timber cone and not the Shard"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 23:13 Europe/London. Calculated solar azimuth is northwest, about 329\u00b0, and elevation is about -37.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-320-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-320-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-320-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
