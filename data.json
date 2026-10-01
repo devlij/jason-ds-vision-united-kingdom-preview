@@ -2747,6 +2747,392 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-221",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Daily Express Building",
+      "place": "City of London",
+      "caption": "Daily Express Building, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 Fleet Street looking north at the rounded black-glass corner \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Daily Express Building on Fleet Street in London, a rounded black-glass corner with horizontal chrome bands, in late-afternoon broken cloud",
+      "description": "From the south pavement of Fleet Street the view looks north at the Daily Express Building, a rounded corner of black vitrolite and clear glass bound by horizontal chromium bands, with a shallow chrome canopy at the street. It is not a white factory and it is not a stone palazzo. It is a dry late afternoon under broken cloud, about 20.0\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the south pavement of Fleet Street, looking north at the rounded black-glass corner. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Daily_Express_Building,_London",
+        "https://en.wikipedia.org/wiki/Streamline_Moderne"
+      ],
+      "anchors": [
+        "The Fleet Street front is a black vitrolite and clear-glass curtain with horizontal chromium bands and a rounded corner",
+        "A shallow chrome canopy marks the street entrance, and the bands run sideways rather than as classical columns",
+        "It is the 1932 Ellis and Clarke Streamline Moderne block, not the white Hoover Building and not a stone palazzo"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-221-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-221-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-221-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-222",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Artillery Memorial",
+      "place": "Westminster",
+      "caption": "Royal Artillery Memorial, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 Hyde Park Corner looking at the stone howitzer \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Artillery Memorial at Hyde Park Corner in London, a stone howitzer on a Portland-stone plinth, under a partly cloudy late-afternoon sky",
+      "description": "From the Hyde Park Corner pavement the view looks at the Royal Artillery Memorial, a Portland-stone plinth carrying a carved stone howitzer, with bronze sculptures of artillery soldiers at the sides. The gun is the subject, not the arch nearby. It is a dry partly cloudy late afternoon, about 20.0\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the Hyde Park Corner pavement, looking north at the stone howitzer. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Royal_Artillery_Memorial",
+        "https://en.wikipedia.org/wiki/Charles_Sargeant_Jagger"
+      ],
+      "anchors": [
+        "A cruciform Portland-stone plinth carries a carved stone howitzer",
+        "Bronze sculptures of artillery soldiers stand at the ends of the cross",
+        "The gun is the subject. It is not Wellington Arch and it is not the Albert Memorial"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-222-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-222-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-222-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-223",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Paul's, Covent Garden",
+      "place": "Westminster",
+      "caption": "St Paul's, Covent Garden, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 the piazza looking west at the Tuscan portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Paul's Church, Covent Garden, the Tuscan portico on a brick church, in London under a partly cloudy late-afternoon sky",
+      "description": "From the Covent Garden piazza the view looks west at St Paul's Church, a deep plain Tuscan portico and pediment on a rectangular brick church with a pitched roof and no spire. The market hall is not the subject. It is a dry partly cloudy late afternoon, about 20.0\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in the Covent Garden piazza, looking west at the east portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Paul%27s,_Covent_Garden",
+        "https://www.actorschurch.org/"
+      ],
+      "anchors": [
+        "The east front is a deep plain Tuscan portico under a triangular pediment",
+        "The body is a rectangular brick church with a pitched roof, and there is no dome and no spire",
+        "It is Inigo Jones's actors' church, not St Paul's Cathedral and not the Covent Garden market hall"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-223-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-223-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-223-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-224",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Abbey Mills Pumping Station",
+      "place": "Newham",
+      "caption": "Abbey Mills Pumping Station, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 the yard looking at the cruciform engine house \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Abbey Mills Pumping Station in London, the polychrome-brick engine house with a central lantern, under broken late-afternoon cloud",
+      "description": "From the yard at Mill Meads the view looks at Abbey Mills Pumping Station, the 1868 cruciform engine house in polychrome brick, with a central lantern and four corner turrets. The later plain station is not the subject. It is a dry late afternoon under broken cloud, about 20.2\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in the yard at Abbey Mills, Mill Meads, looking north at the 1868 engine house. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Abbey_Mills_Pumping_Station",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1190476"
+      ],
+      "anchors": [
+        "The 1868 engine house is cruciform, in polychrome brick, with a central lantern",
+        "Four ornate corner turrets and arched windows sit under steep slate roofs",
+        "It is Charles Driver's Italian Gothic engine house for Bazalgette, not Crossness Pumping Station and not the 1997 station nearby"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 10.9\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-224-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-224-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-224-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-225",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Wimbledon Windmill",
+      "place": "Merton",
+      "caption": "Wimbledon Windmill, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 the common looking at the white smock mill \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Wimbledon Windmill on Wimbledon Common in London, a white smock mill with four sails, under broken late-afternoon cloud",
+      "description": "From the grass of Wimbledon Common the view looks at the windmill, a white eight-sided smock on a brick base, with a black cap, four lattice sails, and a fantail. The tennis grounds are not in the frame. It is a dry late afternoon under broken cloud, about 19.2\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on the grass of Wimbledon Common, looking west at the smock mill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Wimbledon_Windmill",
+        "https://wimbledonwindmill.org.uk/"
+      ],
+      "anchors": [
+        "A two-storey brick base carries a white eight-sided weatherboarded smock",
+        "The black cap has four lattice patent sails and a fantail",
+        "The mill stands alone on the common. It is not Wimbledon Centre Court"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.1\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-225-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-225-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-225-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-226",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "22 Bishopsgate",
+      "place": "City of London",
+      "caption": "22 Bishopsgate, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 Bishopsgate looking up at the rectangular glass tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of 22 Bishopsgate in London, a rectangular glass tower with a single slanted crown, under broken late-afternoon cloud",
+      "description": "From Bishopsgate the view looks up at 22 Bishopsgate, a rectangular glass tower with straight vertical sides and a single slanted crown. It is not a point, a wedge, or a bullet. It is a dry late afternoon under broken cloud, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on Bishopsgate, looking north and up at the rectangular glass tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/22_Bishopsgate",
+        "https://www.22bishopsgate.com/"
+      ],
+      "anchors": [
+        "The tower is a rectangular glass slab with straight vertical sides and an even window grid",
+        "The crown is one slanted glass plane, not a point and not a stack of setbacks",
+        "It is the 2020 tower at 22 Bishopsgate, not the Shard, not 30 St Mary Axe, not the Leadenhall Building, and not 20 Fenchurch Street"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-226-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-226-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-226-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-227",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Palladium",
+      "place": "Westminster",
+      "caption": "London Palladium, London",
+      "scenario_label": "1 October 2026 \u00b7 17:20 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 Argyll Street looking at the stone theatre front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Palladium on Argyll Street, a Portland-stone theatre front with a central arch, under a partly cloudy late-afternoon sky",
+      "description": "From Argyll Street the view looks at the London Palladium, a symmetrical Portland-stone theatre front with a central arch, a plain canopy, and columns above. There is no rooftop globe and no readable name. It is a dry partly cloudy late afternoon, about 20.0\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint on Argyll Street, looking west at the Portland-stone theatre front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/London_Palladium",
+        "https://en.wikipedia.org/wiki/Frank_Matcham"
+      ],
+      "anchors": [
+        "The Argyll Street front is a symmetrical Portland-stone facade with a central arch and a plain canopy",
+        "Columns and tall windows sit above the arch, under a balustrade",
+        "There is no rooftop globe and no readable name. It is not the London Coliseum and not the Royal Opera House"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:20 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-227-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-227-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-227-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-228",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Athenaeum",
+      "place": "Westminster",
+      "caption": "The Athenaeum, London",
+      "scenario_label": "1 October 2026 \u00b7 17:21 Europe/London",
+      "composition": "Late afternoon, partly cloudy \u00b7 Pall Mall looking at the portico and the gilded Athena \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Athenaeum on Pall Mall in London, a stucco clubhouse with a Doric portico and a gilded statue of Athena, under a partly cloudy late-afternoon sky",
+      "description": "From the corner of Pall Mall and Waterloo Place the view looks at the Athenaeum, a cream stucco block with a Doric portico, a gilded statue of Athena above it, and a sculpted frieze under the cornice. It is not an Italian palazzo. It is a dry partly cloudy late afternoon, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint at the corner of Pall Mall and Waterloo Place, looking northwest at the portico and the statue. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Athenaeum_Club,_London",
+        "https://en.wikipedia.org/wiki/Decimus_Burton"
+      ],
+      "anchors": [
+        "The clubhouse is a cream stucco neoclassical block by Decimus Burton, with a Doric portico",
+        "A gilded standing statue of Athena is set above the portico, and a sculpted frieze runs under the cornice",
+        "It is not the Reform Club, which has no street portico, and it is not the Royal Academy colonnade"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:21 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-228-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-228-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-228-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-229",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Mary Woolnoth",
+      "place": "City of London",
+      "caption": "St Mary Woolnoth, London",
+      "scenario_label": "1 October 2026 \u00b7 17:21 Europe/London",
+      "composition": "Late afternoon, broken cloud \u00b7 Bank looking at Hawksmoor's west front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Mary Woolnoth at Bank in London, Hawksmoor's rusticated west front with two small turrets, under broken late-afternoon cloud",
+      "description": "From the corner of Lombard Street and King William Street the view looks at St Mary Woolnoth, Hawksmoor's broad rusticated west front, with a giant semicircular niche and two small square turrets and no spire. The Royal Exchange is not the subject. It is a dry late afternoon under broken cloud, about 20.1\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint at the corner of Lombard Street and King William Street, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Mary_Woolnoth",
+        "https://en.wikipedia.org/wiki/Nicholas_Hawksmoor"
+      ],
+      "anchors": [
+        "Hawksmoor's west front is a broad rusticated stone block with a giant semicircular niche",
+        "Two small square turrets with little caps stand on the skyline, and there is no needle spire",
+        "It is not the Royal Exchange, not Mansion House, and not One Poultry"
+      ],
+      "solar": "Before sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 17:21 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-229-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-229-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-229-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-230",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Brunswick Centre",
+      "place": "Camden",
+      "caption": "Brunswick Centre, London",
+      "scenario_label": "1 October 2026 \u00b7 17:21 Europe/London",
+      "composition": "Late afternoon, mostly cloudy \u00b7 the plaza looking at the stepped concrete terraces \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Brunswick Centre in Bloomsbury, London, stepped cream concrete terraces above glass shops, under a mostly cloudy late-afternoon sky",
+      "description": "From the plaza the view looks at the Brunswick Centre, stepped cream concrete terraces of flats above a line of glass shops. There is no classical portico. It is a dry mostly cloudy late afternoon, about 19.9\u00b0C, and the sun is low in the west-southwest.",
+      "viewpoint": "Public viewpoint in the Brunswick Centre plaza, looking east at the stepped terraces. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Brunswick_Centre",
+        "https://en.wikipedia.org/wiki/Bloomsbury"
+      ],
+      "anchors": [
+        "Cream concrete terraces of flats step back in tiers above a line of glass shops",
+        "The plaza is in the foreground, and the cascading section is the subject",
+        "It is Patrick Hodgkinson's Bloomsbury megastructure, not the British Museum and not Senate House"
+      ],
+      "solar": "Before sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 17:21 Europe/London. Calculated solar azimuth is west-southwest, about 250\u00b0, and elevation is about 11.0\u00b0. The disk is above the horizon. model is_day is 1.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-230-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-230-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-230-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
