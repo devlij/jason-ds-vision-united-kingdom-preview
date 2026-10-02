@@ -2748,5 +2748,389 @@
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
     }
+,
+    {
+      "entry_id": "UK-01-341",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Bruce Castle",
+      "place": "Tottenham",
+      "caption": "Bruce Castle, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the park looking north at the south front and the detached Tudor tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Bruce Castle in Tottenham, its clock tower and cupola, with a separate round brick tower on the lawn, on a partly cloudy night",
+      "description": "From Bruce Castle Park the south front is a red-brick manor, with a stuccoed clock tower, a glazed octagon and a cupola rising over the parapet. A short circular Tudor brick tower with battlements stands apart on the lawn. It is a partly cloudy night, about 15.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Bruce Castle Park, looking north at the south front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bruce_Castle",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358861"
+      ],
+      "anchors": [
+        "The south front is red brick, with half-octagonal ends and a parapet, and a projecting stuccoed clock tower crowned by a glazed octagon, an open drum and a cupola",
+        "A short circular battlemented red-brick Tudor tower stands detached on the lawn to the southwest and does not touch the house",
+        "The subject is this house and its tower, not Vanbrugh Castle and not Severndroog Castle"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-341-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-341-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-341-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-342",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Forty Hall",
+      "place": "Enfield",
+      "caption": "Forty Hall, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Overcast night \u00b7 the lawn looking north at the south front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Forty Hall in Enfield, a square red-brick house with a hipped slate roof and octagonal chimneys, on an overcast night",
+      "description": "From the lawn, Forty Hall is a square light-red-brick house of three storeys, with a high hipped green-slate roof and tall octagonal chimney stacks. Pale quoins and bands cross the front, and a pediment frames the centre window above the porch. It is an overcast night, about 13.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the lawn south of Forty Hall, looking north at the south front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Forty_Hall",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1294469"
+      ],
+      "anchors": [
+        "The house is square, three storeys, light red brick, with a high hipped green-slate roof and tall octagonal brick chimney stacks",
+        "Stucco quoins and horizontal bands mark the fronts, and the south front has a porch with a pediment framing the central first-floor window",
+        "There is no dome; the subject is not Danson House and not Chiswick House"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-342-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-342-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-342-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-343",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Rainham Hall",
+      "place": "Rainham",
+      "caption": "Rainham Hall, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the Broadway pavement looking at the entrance front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Rainham Hall, a three-storey brick merchant house with a segmental pediment porch and iron railings, on a partly cloudy night",
+      "description": "From the Broadway pavement, Rainham Hall is a three-storey brown-red brick merchant house, with red dressings, stone quoins and a panelled parapet. A carved wooden porch with Corinthian pilasters carries an open segmental pediment, and wrought-iron railings stand in front. It is a partly cloudy night, about 14.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Broadway pavement in front of Rainham Hall, looking at the entrance front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Rainham_Hall",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358506"
+      ],
+      "anchors": [
+        "The 1729 front is three storeys and a basement, brown-red brick with red rubbed dressings, stone quoins and a panelled parapet",
+        "The centre bay projects, and the door has a carved wooden porch of fluted Corinthian pilasters under an open segmental pediment",
+        "Wrought-iron railings close the front; the neighbouring church is not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:34 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-343-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-343-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-343-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-344",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Boston Manor House",
+      "place": "Brentford",
+      "caption": "Boston Manor House, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the garden looking west at the east front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Boston Manor House in Brentford, a red-brick Jacobean front with three gables and a stone porch, on a partly cloudy night",
+      "description": "From the garden, Boston Manor House shows a red-brick east front of three storeys, crowned by three gables with round-headed niches. A stone cornice divides the floors, the ground-floor windows are pedimented, and a balustraded stone porch marks the door. It is a partly cloudy night, about 14.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in the garden east of Boston Manor House, looking west at the east front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Boston_Manor_House",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1079603"
+      ],
+      "anchors": [
+        "The east front is red brick, three storeys, with three gables, stone coping and a round-headed blank niche in each gable",
+        "A dentilled stone cornice separates the first and second floors, and the ground-floor windows have pediments",
+        "A nineteenth-century stone porch with a balustrade is centred on the door; this is not the portico of Osterley Park House"
+      ],
+      "solar": "After sunset. Model sunrise 07:03 and sunset 18:36 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-344-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-344-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-344-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-345",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Upminster Windmill",
+      "place": "Upminster",
+      "caption": "Upminster Windmill, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Clear night \u00b7 the public grass looking at the white smock mill \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Upminster Windmill, a white octagonal smock mill with a boat-shaped cap, four sails and a fantail, on a clear night",
+      "description": "From the grass, Upminster Windmill is a white octagonal smock on a low brick base, with a wooden stage, a boat-shaped cap, four sails and a six-bladed fantail. The body is weatherboarded, not a brick tower. It is a clear night, about 13.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the grass beside Upminster Windmill, looking at the smock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Upminster_Windmill",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1079878"
+      ],
+      "anchors": [
+        "The mill is an octagonal smock of white horizontal weatherboarding on a single-storey brick base, with a stage at first-floor level",
+        "A boat-shaped cap carries four patent sails, and a six-bladed fantail stands at right angles to the sails",
+        "It is not the brick tower mill at Brixton and not the hollow-post mill at Wimbledon"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:34 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-345-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-345-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-345-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-346",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Fenton House",
+      "place": "Hampstead",
+      "caption": "Fenton House, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Overcast night \u00b7 Hampstead Grove looking west at the east front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Fenton House in Hampstead, a brown-brick house with a Doric porch and an iron gate, on an overcast night",
+      "description": "From Hampstead Grove, Fenton House is a brown-brick merchant house with red dressings, a hipped tiled roof and dormers. A Roman Doric porch marks the door, a blank panel carries an empty roundel, and a wrought-iron gate with a lantern stands in front. It is an overcast night, about 13.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Hampstead Grove, looking west at the east front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Fenton_House,_Hampstead",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1378648"
+      ],
+      "anchors": [
+        "The east front is brown brick with red-brick dressings, two storeys with an attic and basement, a hipped tiled roof and dormers",
+        "The centre bay is recessed behind a Roman Doric portico, and the middle window is a blank panel with an empty circular roundel",
+        "A wrought-iron gate with an overthrow and lantern closes the front; the subject is not Kenwood House"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-346-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-346-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-346-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-347",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "2 Willow Road",
+      "place": "Hampstead",
+      "caption": "2 Willow Road, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Overcast night \u00b7 Willow Road looking south at the street front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of 2 Willow Road in Hampstead, Goldfinger's red-brick terrace with a continuous first-floor window band, on an overcast night",
+      "description": "From Willow Road, numbers 1 to 3 read as one red-brick modernist terrace, with a concrete frame and a flat roof. A continuous window band runs the full width of the first floor, and seven separate windows sit on the floor above. It is an overcast night, about 14.4\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Willow Road pavement, looking south at the street front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/2_Willow_Road",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1379196"
+      ],
+      "anchors": [
+        "Ern\u0151 Goldfinger's 1939 terrace of three houses is faced in red brick, with the concrete frame visible, and reads as one building",
+        "The first floor is a continuous horizontal window band; the second floor has seven separate rectangular windows",
+        "The ground floor is recessed, with the outer garages projecting to carry balconies; this is not the Isokon Building and not Highpoint One"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-347-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-347-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-347-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-348",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Mary Somerset Tower",
+      "place": "City of London",
+      "caption": "St Mary Somerset Tower, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Overcast night \u00b7 Upper Thames Street looking north at the isolated tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the isolated Portland-stone tower of St Mary Somerset, with eight Baroque pinnacles, on an overcast night",
+      "description": "From Upper Thames Street, St Mary Somerset survives only as a Portland-stone tower. Circular and round-arched windows alternate up the faces, and eight pinnacles, corner urns and obelisks, crown the parapet. It is an overcast night, about 15.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Upper Thames Street, looking north at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Mary_Somerset",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1358904"
+      ],
+      "anchors": [
+        "Only the tower remains; the body of the church was demolished in 1871 and is not in the frame",
+        "The tower is Portland stone, with a south door and alternating circular and round-arched windows",
+        "The parapet carries eight pinnacles: urns on the corner pedestals and obelisks between them. There is no spire and no dome"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-348-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-348-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-348-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-349",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "German Gymnasium",
+      "place": "King's Cross",
+      "caption": "German Gymnasium, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Overcast night \u00b7 King's Boulevard looking at the brick gable \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the German Gymnasium at King's Cross, a polychrome brick gable with an oculus and a ridge lantern, on an overcast night",
+      "description": "From King's Boulevard, the German Gymnasium is a multi-coloured stock-brick hall, with a gable of pointed-arch windows, an oculus and a Lombard frieze. A narrow stair tower stands at one side, and a lantern runs along the roof ridge. It is an overcast night, about 14.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on King's Boulevard, looking at the gable of the German Gymnasium. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/German_Gymnasium,_London",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1113243"
+      ],
+      "anchors": [
+        "Edward Gruning's hall of 1864\u201365 is multi-coloured stock brick, with a gabled end of five pointed-arch windows and an oculus",
+        "A deep Lombard frieze and a brick cornice run under the eaves, and a staircase tower has narrow lights",
+        "The roof is hipped, with a ridge lantern; the subject is not St Pancras station and not King's Cross station"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-349-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-349-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-349-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-350",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Trinity Hospital",
+      "place": "Greenwich",
+      "caption": "Trinity Hospital, London",
+      "scenario_label": "2 October 2026 \u00b7 01:04 Europe/London",
+      "composition": "Partly cloudy night \u00b7 the Thames Path looking south at the river front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Trinity Hospital in Greenwich, a small battlemented almshouse with a central clock tower, on a partly cloudy night",
+      "description": "From the Thames Path, Trinity Hospital is a small stuccoed gothic almshouse, with a battlemented parapet, crow-stepped end gables and a high slate roof. A central tower carries a clock and a short spike. It is a partly cloudy night, about 15.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the Thames Path, looking south at the river front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Trinity_Hospital,_Greenwich",
+        "https://historicengland.org.uk/listing/the-list/list-entry/1078961"
+      ],
+      "anchors": [
+        "The river front is small in scale, stuccoed, two storeys and seven windows, with a battlemented parapet and crow-stepped end gables",
+        "Gothic casements sit under square hoodmoulds, and the central tower has an arched door, a clock and a small spike",
+        "The subject is this almshouse, not the twin domes of the Old Royal Naval College and not Greenwich Power Station"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 01:04 Europe/London. Calculated solar azimuth is north, about 5\u00b0, and elevation is about -41.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-350-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-350-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-350-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    }
   ]
 }
