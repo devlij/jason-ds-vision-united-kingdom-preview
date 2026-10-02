@@ -207,6 +207,8 @@ def assert_phase1(html: str, meta: dict[str, list]) -> None:
         "G-PDJ4WSS725",
         "https://spain.jdvision.org/",
         "https://sweden.jdvision.org/",
+        "https://norway.jdvision.org/",
+        "https://denmark.jdvision.org/",
         "https://uk.jdvision.org/",
         "https://devlij.github.io/jason-ds-vision-ireland-preview/",
         "https://devlij.github.io/jason-ds-vision-netherlands-preview/",
@@ -270,12 +272,27 @@ def assert_phase1(html: str, meta: dict[str, list]) -> None:
     positions = [nav.find(name) for name in order]
     if any(pos < 0 for pos in positions) or positions != sorted(positions):
         raise SystemExit(f"switcher order is not Germany→United Kingdom: {positions}")
+    if "https://norway.jdvision.org/" not in nav or "https://denmark.jdvision.org/" not in nav:
+        raise SystemExit("Norway and Denmark must use their jdvision.org gallery hosts")
+    if "jason-ds-vision-norway-preview" in nav or "jason-ds-vision-denmark-preview" in nav:
+        raise SystemExit("Norway and Denmark must not use preview hosts")
     if "linear-gradient(#fff,#fff) center/45% 22%" not in html:
         raise SystemExit("Swiss flag chip is missing the white cross")
     if not meta:
         if "const SCENES = [];" not in html:
             raise SystemExit("empty gallery must publish an empty SCENES array")
         return
+    regions = sorted({row[0] for row in meta.values() if row[0]})
+    if len(regions) == 1:
+        coverage = regions[0]
+    elif len(regions) == 2:
+        coverage = f"{regions[0]} and {regions[1]}"
+    else:
+        coverage = ", ".join(regions[:-1]) + ", and " + regions[-1]
+    if f'<p class="sub">{coverage} ·' not in html:
+        raise SystemExit(f"header coverage does not match published regions: {coverage}")
+    if html.count(f"United Kingdom — {coverage}.") < 3:
+        raise SystemExit(f"page descriptions do not match published regions: {coverage}")
     for entry_id, row in meta.items():
         if entry_id not in html:
             raise SystemExit(f"{entry_id} missing from generated page")
