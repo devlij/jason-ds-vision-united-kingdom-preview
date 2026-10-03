@@ -134,6 +134,15 @@ def main() -> None:
     if not isinstance(scenes, list):
         errors.append("data.json scenes is not a list")
         scenes = []
+    regions = sorted({scene.get("region") for scene in scenes if scene.get("region")})
+    if len(regions) == 1:
+        coverage = regions[0]
+    elif len(regions) == 2:
+        coverage = f"{regions[0]} and {regions[1]}"
+    else:
+        coverage = ", ".join(regions[:-1]) + ", and " + regions[-1] if regions else ""
+    if coverage and data.get("territory") != coverage:
+        errors.append(f"data.json territory {data.get('territory')!r} does not match published regions {coverage!r}")
     ids = [scene.get("entry_id") for scene in scenes]
     if ids != EXPECTED_IDS:
         errors.append(f"data.json scene order is {ids}")
@@ -215,6 +224,14 @@ def main() -> None:
             errors.append("lightbox interval is not 4000ms")
         if "https://uk.jdvision.org/" not in html:
             errors.append("United Kingdom canonical missing")
+        if coverage and f'<p class="sub">{coverage} ·' not in html:
+            errors.append(f"header coverage does not match published regions {coverage!r}")
+        if coverage and html.count(f"United Kingdom — {coverage}.") < 3:
+            errors.append(f"page descriptions do not match published regions {coverage!r}")
+        if "https://norway.jdvision.org/" not in html or "https://denmark.jdvision.org/" not in html:
+            errors.append("Norway or Denmark switcher is not on jdvision.org")
+        if "jason-ds-vision-norway-preview" in html or "jason-ds-vision-denmark-preview" in html:
+            errors.append("Norway or Denmark still points at a preview host")
         if not EXPECTED_IDS:
             if "const SCENES = [];" not in html:
                 errors.append("index.html is not an empty scene list")

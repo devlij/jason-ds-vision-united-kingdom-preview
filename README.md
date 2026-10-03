@@ -1,6 +1,6 @@
 # Jason D’s Vision — United Kingdom
 
-AI-generated artistic interpretations of the United Kingdom: England, Scotland, Wales, and Northern Ireland. Free to use, no credit required.
+AI-generated artistic interpretations of the United Kingdom — England. Free to use, no credit required.
 
 Gallery canon: https://uk.jdvision.org/
 
