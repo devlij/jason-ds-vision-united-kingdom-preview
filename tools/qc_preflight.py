@@ -24,10 +24,13 @@ ART50_DESCRIPTION = (
 )
 # UK-01-001..010 were Approved by Cosmo QC and stay in the image sitemap.
 # UK-01-011..048 and UK-01-050..060 were Approved on main before this batch.
-# UK-01-049 stays Candidate. UK-01-061..100 are not on this branch.
-# data.json keeps UK-01-101..110 as Candidate. Cosmo set scene-level Approved
-# badges in index.html for 101–105 and 107–110. UK-01-106 stays Candidate.
-EXPECTED_IDS: list[str] = [f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111))]
+# UK-01-049 stays Candidate. UK-01-061..100 and UK-01-111..260 are not on this branch.
+# Cosmo's re-audit set data.json and the page badge to Approved for
+# UK-01-101..105 and UK-01-107..110. UK-01-106 stays Candidate.
+# UK-01-261..270 are Candidate on this branch.
+EXPECTED_IDS: list[str] = [
+    f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111)) + list(range(261, 271))
+]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 MAIN_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(1, 49)) + list(range(50, 61))}
 INDEX_BADGE_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(101, 106)) + list(range(107, 111))}
@@ -93,6 +96,9 @@ def check_masters(errors: list[str], scene: dict, note: str) -> None:
     city = scene.get("folder") or scene.get("city") or ""
     for fmt, size in CANVAS.items():
         # Cosmo locked the published masters at assets/pretext/united-kingdom/<City>/.
+        # UK-01-261 and later use a 1080x1920 9:16 plate. Scenes already on main stay 1080x2110.
+        if fmt == "9x16" and entry_id >= "UK-01-261":
+            size = (1080, 1920)
         path = ROOT / "assets" / "pretext" / "united-kingdom" / city / f"{entry_id.lower()}-{fmt}.png"
         if not path.is_file():
             errors.append(f"missing master {path}")
@@ -135,7 +141,7 @@ def main() -> None:
     for scene in scenes:
         entry_id = scene.get("entry_id")
         status = scene.get("approval_status")
-        if entry_id in MAIN_APPROVED_IDS:
+        if entry_id in MAIN_APPROVED_IDS or entry_id in INDEX_BADGE_IDS:
             if status != "Approved":
                 errors.append(f"{entry_id} must stay Approved")
         elif status == "Approved":
