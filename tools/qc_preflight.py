@@ -27,9 +27,9 @@ ART50_DESCRIPTION = (
 # UK-01-049 stays Candidate. UK-01-061..100 and UK-01-111..260 are not on this branch.
 # Cosmo's re-audit set data.json and the page badge to Approved for
 # UK-01-101..105 and UK-01-107..110. UK-01-106 stays Candidate.
-# UK-01-261..290 are Candidate on this branch.
+# UK-01-261..300 are Candidate on this branch.
 EXPECTED_IDS: list[str] = [
-    f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111)) + list(range(261, 291))
+    f"UK-01-{n:03d}" for n in list(range(1, 61)) + list(range(101, 111)) + list(range(261, 301))
 ]
 COSMO_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in range(1, 11)}
 MAIN_APPROVED_IDS: set[str] = {f"UK-01-{n:03d}" for n in list(range(1, 49)) + list(range(50, 61))}

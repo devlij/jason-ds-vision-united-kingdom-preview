@@ -3901,6 +3901,391 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-291",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Admiralty Citadel",
+      "place": "Westminster",
+      "caption": "Admiralty Citadel, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the ivy-covered bunker \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the ivy-covered Admiralty Citadel beside Horse Guards Parade in London on a clear night",
+      "description": "From Horse Guards Parade the view is the Admiralty Citadel, a windowless concrete bunker whose walls are covered in ivy. It is not Admiralty Arch and it has no clock tower. It is a clear night, about 16.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Horse Guards Parade, looking west at the ivy-covered bunker. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Military_citadels_under_London",
+        "https://en.wikipedia.org/wiki/Horse_Guards_Parade"
+      ],
+      "anchors": [
+        "A windowless concrete citadel whose walls are covered in ivy",
+        "The mass is a blunt flat-roofed block beside the parade ground",
+        "It is the Admiralty Citadel, not Admiralty Arch and not the Horse Guards clock tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 307\u00b0, and elevation is about -29.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-291-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-291-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-291-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-292",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "London Cable Car",
+      "place": "Greenwich",
+      "caption": "London Cable Car, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 white pylons and gondolas over the Thames \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the London Cable Car, white pylons and gondolas over the Thames, on a clear night",
+      "description": "From the river the view is the London Cable Car, white lattice pylons and a line of gondolas over the Thames. It is not a bridge and the O2 is not the subject. It is a clear night, about 17.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public riverside on the cable-car crossing, looking north along the line of pylons and gondolas. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/London_cable_car",
+        "https://en.wikipedia.org/wiki/WilkinsonEyre"
+      ],
+      "anchors": [
+        "Tall white lattice pylons carry a cable and enclosed gondolas",
+        "The line crosses the Thames with open water under the cabins",
+        "It is the London Cable Car, not a bridge and not the O2"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 308\u00b0, and elevation is about -29.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-292-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-292-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-292-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-293",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Millennium Mills",
+      "place": "Newham",
+      "caption": "Millennium Mills, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the long mill on the dock \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Millennium Mills, a long brick and concrete flour mill on Royal Victoria Dock, in London on a clear night",
+      "description": "From the dock the view is Millennium Mills, a long brick and concrete flour mill with a flat roof and a grid of windows beside Royal Victoria Dock. It is not a glass pavilion and it is not a power station. It is a clear night, about 17.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Royal Victoria Dock, looking south at the mill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Millennium_Mills",
+        "https://en.wikipedia.org/wiki/Royal_Victoria_Dock"
+      ],
+      "anchors": [
+        "A long flat-roofed flour mill of brick and concrete",
+        "The facade is a grid of industrial windows beside dock water",
+        "It is Millennium Mills, not The Crystal and not a power station"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 308\u00b0, and elevation is about -29.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-293-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-293-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-293-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-294",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Pitzhanger Manor",
+      "place": "Ealing",
+      "caption": "Pitzhanger Manor, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the caryatid porch \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Pitzhanger Manor and its caryatid porch in Ealing on a clear night",
+      "description": "From Walpole Park the view is Pitzhanger Manor, Soane's low stucco house, with four caryatids carrying the porch. It has no dome and it is not the museum in Lincoln's Inn Fields. It is a clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public lawn in Walpole Park, looking north toward the caryatid porch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Pitzhanger_Manor",
+        "https://www.pitzhanger.org.uk/"
+      ],
+      "anchors": [
+        "A low two-storey stucco house with a hipped roof and no dome",
+        "Four caryatid figures carry the porch",
+        "It is Pitzhanger Manor in Ealing, not Sir John Soane's Museum in Lincoln's Inn Fields"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 307\u00b0, and elevation is about -29.6\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-294-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-294-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-294-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-295",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Alfege Church",
+      "place": "Greenwich",
+      "caption": "St Alfege Church, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 Hawksmoor's tower and portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Alfege Church in Greenwich, a Portland-stone tower and portico, on a clear night",
+      "description": "From Greenwich Church Street the view is St Alfege, Hawksmoor's Portland-stone church, its west tower rising to a lantern and cupola above a columned portico. It is not the dome of St Paul's. It is a clear night, about 16.9\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Greenwich Church Street, looking east at the west tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Alfege_Church,_Greenwich",
+        "https://st-alfege.org/"
+      ],
+      "anchors": [
+        "A Portland-stone parish church with a columned portico",
+        "The west tower rises to a square lantern and a small cupola",
+        "It is St Alfege, Greenwich, not the dome of St Paul's Cathedral"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 308\u00b0, and elevation is about -29.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-295-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-295-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-295-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-296",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal College of Physicians",
+      "place": "Marylebone",
+      "caption": "Royal College of Physicians, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the white terraces \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal College of Physicians, a low white-tiled building by Denys Lasdun, in London on a clear night",
+      "description": "From the park edge the view is the Royal College of Physicians, Lasdun's low white-tiled building of horizontal terraces on St Andrews Place. It is not a classical college and it is not a tower. It is a clear night, about 16.6\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of Regent's Park at St Andrews Place, looking south at the white terraces. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Royal_College_of_Physicians",
+        "https://www.rcp.ac.uk/"
+      ],
+      "anchors": [
+        "A low white-tiled modern building of horizontal terraces",
+        "The roof is flat and there is no dome and no classical portico",
+        "It is Denys Lasdun's Royal College of Physicians, not a white tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 307\u00b0, and elevation is about -29.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-296-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-296-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-296-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-297",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Lots Road Power Station",
+      "place": "Chelsea",
+      "caption": "Lots Road Power Station, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 two brick chimneys \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Lots Road Power Station in Chelsea, a brick hall with two chimneys, on a clear night",
+      "description": "From the creek the view is Lots Road Power Station, a long brick hall with two brick chimneys. It is not Battersea's four white chimneys. It is a clear night, about 16.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public bank of Chelsea Creek, looking north at the brick hall and its two chimneys. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lots_Road_Power_Station",
+        "https://en.wikipedia.org/wiki/Chelsea,_London"
+      ],
+      "anchors": [
+        "A long brown-brick power hall beside the creek",
+        "Exactly two tall brick chimneys rise from the hall",
+        "It is Lots Road, not Battersea's four white chimneys and not Greenwich's four octagonal chimneys"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 307\u00b0, and elevation is about -29.7\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-297-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-297-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-297-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-298",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "India House",
+      "place": "Aldwych",
+      "caption": "India House, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the domed stone corner \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of India House, a domed Portland-stone building on Aldwych, in London on a clear night",
+      "description": "From the Aldwych corner the view is India House, a Portland-stone block with a central dome. It is not Australia House and it is not Bush House. It is a clear night, about 16.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement at the Aldwych corner, looking south at the domed stone front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/India_House,_London",
+        "https://en.wikipedia.org/wiki/Herbert_Baker"
+      ],
+      "anchors": [
+        "A Portland-stone corner building with a central dome",
+        "The facades turn the street corner",
+        "It is India House, not Australia House and not Bush House"
+      ],
+      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 307\u00b0, and elevation is about -29.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-298-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-298-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-298-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-299",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Royal Artillery Barracks",
+      "place": "Woolwich",
+      "caption": "Royal Artillery Barracks, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the long colonnade \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Artillery Barracks in Woolwich, a long yellow-brick colonnade, on a clear night",
+      "description": "From the parade ground the view is the Royal Artillery Barracks, a very long yellow-brick Georgian front with a paired-column colonnade. It is not the Royal Artillery Memorial at Hyde Park Corner. It is a clear night, about 16.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public edge of the parade ground, looking north at the long colonnade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Royal_Artillery_Barracks",
+        "https://en.wikipedia.org/wiki/Woolwich"
+      ],
+      "anchors": [
+        "An extremely long Georgian front of pale yellow brick",
+        "A ground-floor colonnade of paired columns runs along the facade, with a central pavilion",
+        "It is the Royal Artillery Barracks in Woolwich, not the Royal Artillery Memorial at Hyde Park Corner"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 308\u00b0, and elevation is about -29.9\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-299-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-299-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-299-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-300",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Hackney Empire",
+      "place": "Hackney",
+      "caption": "Hackney Empire, London",
+      "scenario_label": "1 October 2026 \u00b7 21:55 Europe/London",
+      "composition": "Clear night \u00b7 the terracotta dome \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hackney Empire, a red terracotta theatre with a corner dome, in London on a clear night",
+      "description": "From Mare Street the view is the Hackney Empire, Matcham's red terracotta theatre with a corner dome. It is not the London Coliseum. It is a clear night, about 17\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public pavement on Mare Street, looking west at the terracotta front and dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hackney_Empire",
+        "https://hackneyempire.co.uk/"
+      ],
+      "anchors": [
+        "A red terracotta theatre with an ornate arched facade",
+        "A corner tower carries a dome and a small cupola",
+        "It is the Hackney Empire, not the London Coliseum"
+      ],
+      "solar": "After sunset. Model sunrise 07:00 and sunset 18:37 Europe/London. The scenario is 21:55 Europe/London. Calculated solar azimuth is northwest, about 308\u00b0, and elevation is about -29.8\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-300-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-300-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-300-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
