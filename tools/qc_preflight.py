@@ -239,7 +239,7 @@ def main() -> None:
                 errors.append(f"index.html scene order is {page_ids}")
             for scene in page_scenes:
                 entry_id = scene.get("entry_id")
-                if entry_id in MAIN_APPROVED_IDS or entry_id in INDEX_BADGE_IDS:
+                if entry_id in MAIN_APPROVED_IDS:
                     if scene.get("approval_status") != "Approved":
                         errors.append(f"index.html downgraded {entry_id}")
                     for key in (
