@@ -184,6 +184,18 @@ SCENES: list[tuple[str, str, str, float, float, str]] = [
     ("UK-01-318", "Seven Dials", "London", 51.51375, -0.12690, "Europe/London"),
     ("UK-01-319", "Lincoln's Inn Gatehouse", "London", 51.51644, -0.11248, "Europe/London"),
     ("UK-01-320", "Canada Water Library", "London", 51.49767, -0.04908, "Europe/London"),
+    # London night batch, 2 October 2026. England only. Public viewpoints.
+    # These ten sites are not scenes on main or on Candidate branches through UK-01-320.
+    ("UK-01-321", "Blewcoat School", "London", 51.49839, -0.13603, "Europe/London"),
+    ("UK-01-322", "Soane Mausoleum", "London", 51.53555, -0.13003, "Europe/London"),
+    ("UK-01-323", "Brunel Engine House", "London", 51.50164, -0.05286, "Europe/London"),
+    ("UK-01-324", "Vanbrugh Castle", "London", 51.48043, 0.00462, "Europe/London"),
+    ("UK-01-325", "Sutton House", "London", 51.54833, -0.05028, "Europe/London"),
+    ("UK-01-326", "The Langham", "London", 51.51766, -0.14357, "Europe/London"),
+    ("UK-01-327", "Bomber Command Memorial", "London", 51.50333, -0.14889, "Europe/London"),
+    ("UK-01-328", "Clock Mill", "London", 51.52720, -0.00720, "Europe/London"),
+    ("UK-01-329", "Prospect of Whitby", "London", 51.50720, -0.05100, "Europe/London"),
+    ("UK-01-330", "St Etheldreda's Church", "London", 51.51864, -0.10752, "Europe/London"),
 ]
 
 

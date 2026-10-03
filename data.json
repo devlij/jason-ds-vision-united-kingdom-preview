@@ -5052,6 +5052,389 @@
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-321",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Blewcoat School",
+      "place": "Westminster",
+      "caption": "Blewcoat School, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 Caxton Street looking south at the bluecoat niche \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Blewcoat School on Caxton Street in Westminster on a clear night",
+      "description": "From Caxton Street the Blewcoat School is a small brown-brick block of 1709, three bays wide, with a Doric porch and a niche holding a scholar in a blue coat and yellow stockings. A clock and a split pediment finish the parapet. It is a clear night, about 15.0\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the north pavement of Caxton Street, looking south at the school. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1210081",
+        "https://en.wikipedia.org/wiki/Blewcoat_School"
+      ],
+      "anchors": [
+        "The 1709 school is a small freestanding brown-brick block with red dressings, three bays and two tiers of sash windows",
+        "A Doric porch carries a round niche with a bluecoat scholar, then a clock and a segmental split pediment",
+        "The Caxton Street front is the subject; it is not a church and not a modern shopfront"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-321-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-321-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-321-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-322",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Soane Mausoleum",
+      "place": "Camden",
+      "caption": "Soane Mausoleum, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 St Pancras Gardens looking at the canopy dome \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Sir John Soane's mausoleum in St Pancras Gardens on a clear night",
+      "description": "In St Pancras Gardens the Soane mausoleum is a small Portland-stone canopy, a dome on four piers around a marble Ionic shrine, with a pineapple finial above a snake-banded drum. A low balustrade closes the plot. It is a mostly clear night, about 15.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public path in St Pancras Gardens, looking south at the Soane tomb. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1322044",
+        "https://collections.soane.org/SCHEME545"
+      ],
+      "anchors": [
+        "The 1816 tomb is a small Portland-stone canopy dome on four piers, no taller than a telephone kiosk",
+        "A white marble Ionic aedicule sits inside the canopy; a pineapple finial stands over a drum banded by a snake",
+        "A low balustrade encloses the tomb in St Pancras Gardens; it is not the Soane Museum in Lincoln's Inn Fields"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-322-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-322-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-322-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-323",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Brunel Engine House",
+      "place": "Southwark",
+      "caption": "Brunel Engine House, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 Rotherhithe looking at the brick chimney \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Brunel Engine House and its brick chimney in Rotherhithe on a clear night",
+      "description": "On Railway Avenue the Brunel Engine House is a low stock-brick block with a pantile roof and a square brick chimney carrying a thin metal stack. It is the pumping house for the Thames Tunnel, not a power station. It is a clear night, about 15.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Railway Avenue, Rotherhithe, looking north at the engine house and chimney. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1386007",
+        "https://en.wikipedia.org/wiki/Thames_Tunnel"
+      ],
+      "anchors": [
+        "The engine house is a two-storey stock-brick block of about 1842 with a low pantile roof",
+        "A square battered brick chimney, with a stone cornice and a metal stack, stands at one end",
+        "It pumped the Thames Tunnel; it is not a riverside power station and not the tunnel shaft alone"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-323-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-323-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-323-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-324",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Vanbrugh Castle",
+      "place": "Greenwich",
+      "caption": "Vanbrugh Castle, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 Maze Hill looking east at the copper-capped tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Vanbrugh Castle on Maze Hill in Greenwich on a clear night",
+      "description": "From Maze Hill, Vanbrugh Castle is a brown-brick house with a round tower under a copper cone and two square battlemented towers. The windows are narrow Georgian sashes, not arrow slits in a stone keep. It is a clear night, about 15.1\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Maze Hill, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1078943",
+        "https://en.wikipedia.org/wiki/Vanbrugh_Castle"
+      ],
+      "anchors": [
+        "John Vanbrugh's own house of about 1719 is stock brick, not medieval stone",
+        "The west front has a central round tower with a conical copper roof between two square battlemented towers",
+        "Narrow sash windows sit in round gauged-brick arches; the Old Royal Naval College is not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-324-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-324-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-324-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-325",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Sutton House",
+      "place": "Hackney",
+      "caption": "Sutton House, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Mainly clear night \u00b7 Homerton High Street looking south at the brick front \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Sutton House on Homerton High Street in Hackney on a mainly clear night",
+      "description": "From Homerton High Street, Sutton House reads as a three-storey brick front with projecting wings, sash windows, and a stuccoed wing with quoins. The Tudor house is still there behind the eighteenth-century parapet, with an old chimney against the sky. It is a mainly clear night, about 15.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Homerton High Street, looking south at the street front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard",
+        "https://en.wikipedia.org/wiki/Sutton_House,_London"
+      ],
+      "anchors": [
+        "The house was built about 1535 for Ralph Sadler as a brick H-plan, and the street front was remodelled in the eighteenth century",
+        "Projecting wings flank a recessed brick centre of sash windows; the east wing is stuccoed with quoins",
+        "The street parapet replaced the original gables; a Tudor chimney remains behind the roof"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-325-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-325-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-325-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-326",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "The Langham",
+      "place": "Westminster",
+      "caption": "The Langham, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 Portland Place looking south at the pavilion roofs \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Langham on Portland Place in London on a clear night",
+      "description": "From Portland Place the Langham closes the street, a vast pale-brick hotel with French pavilion roofs, an arched stone porch, and a square belvedere at the corner. Rows of round-headed windows are lit. It is a clear night, about 15.3\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on Portland Place, looking south at the north front of the hotel. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1227056",
+        "https://en.wikipedia.org/wiki/Langham_Hotel,_London"
+      ],
+      "anchors": [
+        "The 1865 hotel by Giles and Murray is pale stock brick with Portland stone, in a heavy Italianate manner",
+        "The north front is symmetrical, a seven-window centre between pavilion roofs, with a columned porch and a square belvedere at the northeast corner",
+        "All Souls Langham Place, the circular portico and spire across the road, is not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.0\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-326-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-326-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-326-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-327",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Bomber Command Memorial",
+      "place": "Westminster",
+      "caption": "Bomber Command Memorial, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Clear night \u00b7 Piccadilly looking south into the Doric pavilion \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Bomber Command Memorial in Green Park on a clear night",
+      "description": "From Piccadilly the Bomber Command Memorial is a pale Portland-stone Doric pavilion, open to the night sky, with a bronze crew of airmen standing inside. Colonnade wings reach toward Green Park. It is a clear night, about 15.2\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the south side of Piccadilly, looking south into the memorial pavilion and Green Park. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/RAF_Bomber_Command_Memorial",
+        "https://www.liamoconnor.com/project-raf-bc"
+      ],
+      "anchors": [
+        "Liam O'Connor's 2012 memorial is an open Portland-stone pavilion with Greek Doric columns",
+        "The roof is open to the sky around a metal lattice, and Philip Jackson's bronze of a seven-man bomber crew stands inside",
+        "It faces Green Park from Piccadilly; it is not the Cenotaph and not the Royal Artillery Memorial"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:36 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-327-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-327-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-327-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-328",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Clock Mill",
+      "place": "Newham",
+      "caption": "Clock Mill, London",
+      "scenario_label": "2 October 2026 \u00b7 00:04 Europe/London",
+      "composition": "Mainly clear night \u00b7 Three Mills looking east at the kiln roofs and clock tower \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Clock Mill at Three Mills on a mainly clear night",
+      "description": "Across the mill water the Clock Mill is a brown-brick range with two conical kiln roofs and a yellow-brick clock tower under a wooden cupola. The timber House Mill is not in the frame. It is a mainly clear night, about 15.8\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint at Three Mills, looking east across the water at the Clock Mill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1191269",
+        "https://en.wikipedia.org/wiki/Three_Mills"
+      ],
+      "anchors": [
+        "The Clock Mill is the 1817 brick tidal mill, with a clock tower of 1753 kept from the earlier mill",
+        "Two conical kiln roofs with cowls stand beside a yellow-brick tower and a wooden octagonal cupola",
+        "The timber-framed House Mill is a different building and is not the subject"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:04 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-328-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-328-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-328-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-329",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "Prospect of Whitby",
+      "place": "Tower Hamlets",
+      "caption": "Prospect of Whitby, London",
+      "scenario_label": "2 October 2026 \u00b7 00:05 Europe/London",
+      "composition": "Clear night \u00b7 the Thames looking north at the hooded balcony \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Prospect of Whitby balcony over the Thames at Wapping on a clear night",
+      "description": "From the river the Prospect of Whitby shows a hooded balcony with a turned balustrade over the Thames, three storeys of sash windows, and yellow brick at the side. The tide is dark under the lamps. It is a clear night, about 15.7\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint on the river side, looking north at the tavern's Thames balcony. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/listing/the-list/list-entry/1357505",
+        "https://en.wikipedia.org/wiki/Prospect_of_Whitby"
+      ],
+      "anchors": [
+        "The Wapping Wall tavern is said to date from about 1520, with an early nineteenth-century yellow-brick street front",
+        "The river elevation has a hooded balcony with a turned balustrade over the Thames",
+        "It is not the white stucco river front of the Trafalgar Tavern at Greenwich"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:05 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "urban"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-329-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-329-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-329-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
+    },
+    {
+      "entry_id": "UK-01-330",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "London",
+      "folder": "London",
+      "site": "St Etheldreda's Church",
+      "place": "Camden",
+      "caption": "St Etheldreda's Church, London",
+      "scenario_label": "2 October 2026 \u00b7 00:05 Europe/London",
+      "composition": "Clear night \u00b7 Ely Place looking east at the Decorated west window \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the west window of St Etheldreda's Church in Ely Place on a clear night",
+      "description": "In Ely Place the west end of St Etheldreda's is a ragstone gable filled by a five-light Decorated window, with blind arcades beside it and a quatrefoil above. The glass glows red and blue against the night. It is a clear night, about 15.5\u00b0C, dry, and the sun is below the horizon.",
+      "viewpoint": "Public viewpoint in Ely Place, looking east at the west window. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://taking-stock.org.uk/building/ely-place-st-etheldreda/",
+        "https://en.wikipedia.org/wiki/St_Etheldreda's_Church"
+      ],
+      "anchors": [
+        "The chapel of the Bishops of Ely, about 1290, is ragstone with limestone dressings",
+        "The west front to Ely Place is a large five-light Decorated window, flanked by blind cusped arcades, with a quatrefoil above",
+        "A plain crypt sits under the chapel; it is not a Wren steeple and not a ruined City church"
+      ],
+      "solar": "After sunset. Model sunrise 07:02 and sunset 18:35 Europe/London. The scenario is 00:05 Europe/London. Calculated solar azimuth is north, about 345\u00b0, and elevation is about -41.1\u00b0. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Candidate",
+      "format_16x9_approval_status": "Candidate",
+      "format_4x5_approval_status": "Candidate",
+      "format_9x16_approval_status": "Candidate",
+      "file_16x9": "assets/pretext/united-kingdom/London/uk-01-330-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/London/uk-01-330-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/London/uk-01-330-9x16.png",
+      "motion": null,
+      "license_badge": "Free \u00b7 no credit needed",
+      "license_anchor": "#license"
     }
   ]
 }
