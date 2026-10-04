@@ -364,12 +364,17 @@
       const slash = path.lastIndexOf("/");
       return slash >= 0 ? path.slice(slash + 1) : path;
     }
-    /* Germany row: night image is the scene master already on the card.
-       Genuine daylight, the three postcard fields, and 360° are read only
-       when those files are already named. Nothing here invents a plate. */
+    /* Night is a separate file, never the scene master or the pretext plate.
+       The button is emitted only when that distinct night file exists. */
+    function separateNight(value, scenePath) {
+      const path = value || "";
+      if (!path || path === scenePath) return "";
+      return path;
+    }
     function srcKey(fmt, mode) {
       if (mode === 'pc') return fmt === '9x16' ? 'data-src-916-pc' : fmt === '4x5' ? 'data-src-45-pc' : 'data-src-16-pc';
       if (mode === 'gday') return fmt === '9x16' ? 'data-src-916-gday' : fmt === '4x5' ? 'data-src-45-gday' : 'data-src-16-gday';
+      if (mode === 'night') return fmt === '9x16' ? 'data-src-916-night' : fmt === '4x5' ? 'data-src-45-night' : 'data-src-16-night';
       return fmt === '9x16' ? 'data-src-916' : fmt === '4x5' ? 'data-src-45' : 'data-src-16';
     }
     function rowMode(card) {
@@ -377,13 +382,16 @@
       if (ptab && ptab.classList.contains('is-active')) return 'pc';
       const gtab = card.querySelector('.gday-tab');
       if (gtab && gtab.classList.contains('is-active')) return 'gday';
-      return 'night';
+      const ntab = card.querySelector('.night-tab');
+      if (ntab && ntab.classList.contains('is-active')) return 'night';
+      return 'scene';
     }
     function nightSrcFor(img, fmt) {
-      let nightSrc = img.getAttribute('data-src-16') || img.getAttribute('data-src');
-      if (fmt === '4x5') nightSrc = img.getAttribute('data-src-45') || nightSrc;
-      if (fmt === '9x16') nightSrc = img.getAttribute('data-src-916') || nightSrc;
-      return nightSrc;
+      return img.getAttribute(srcKey(fmt, 'night'))
+        || img.getAttribute('data-src-16-night')
+        || img.getAttribute('data-src-45-night')
+        || img.getAttribute('data-src-916-night')
+        || '';
     }
     function applyRowMode(card) {
       const mode = rowMode(card);
@@ -395,9 +403,9 @@
         const dnext = img.getAttribute(srcKey(dfmt, mode));
         if (dnext) { img.src = dnext; link.href = dnext; }
       }
-      const dkey = mode === 'pc' ? 'data-dl-pc' : mode === 'gday' ? 'data-dl-gday' : 'data-dl-night';
+      const dkey = mode === 'pc' ? 'data-dl-pc' : mode === 'gday' ? 'data-dl-gday' : mode === 'night' ? 'data-dl-night' : 'data-dl-scene';
       card.querySelectorAll('a.download').forEach((a) => {
-        const target = a.getAttribute(dkey) || a.getAttribute('data-dl-night');
+        const target = a.getAttribute(dkey);
         if (target) { a.setAttribute('href', target); a.setAttribute('download', target.split('/').pop()); }
       });
       const sc = card.querySelector('p.scenario');
@@ -466,9 +474,12 @@
         const pc16 = s.file_16x9_postcard || "";
         const pc45 = s.file_4x5_postcard || "";
         const pc916 = s.file_9x16_postcard || "";
-        const hasNight = !!(file16 || file45);
+        const night16 = separateNight(s.file_16x9_night || s.file_night_16x9, file16);
+        const night45 = separateNight(s.file_4x5_night || s.file_night_4x5, file45);
+        const night916 = separateNight(s.file_9x16_night || s.file_night_9x16, file916 || s.file_9x16 || "");
         const hasGday = !!(gday16 || gday45 || gday916);
         const hasPc = !!(pc16 || pc45 || pc916);
+        const hasNight = !!(night16 || night45 || night916);
         const motionSrc = s.file_motion_10s_4x5 || s.file_motion_8s_4x5 || s.motion || "";
         const hero = hasPc ? (pc16 || pc45 || pc916) : file16;
         const dl16 = (hasPc && pc16) ? pc16 : file16;
@@ -483,7 +494,7 @@
         card.innerHTML = `
           <div class="preview">
             <a class="thumb" href="${esc(hero)}" target="_blank" rel="noopener">
-              <img src="${esc(hero)}" alt="${esc(imageAlt(s))}" loading="lazy"${attr("data-src-16", file16)}${attr("data-src-45", file45)}${attr("data-src-916", file916)}${attr("data-src-16-gday", gday16)}${attr("data-src-45-gday", gday45)}${attr("data-src-916-gday", gday916)}${attr("data-src-16-pc", pc16)}${attr("data-src-45-pc", pc45)}${attr("data-src-916-pc", pc916)} />
+              <img src="${esc(hero)}" alt="${esc(imageAlt(s))}" loading="lazy"${attr("data-src-16", file16)}${attr("data-src-45", file45)}${attr("data-src-916", file916)}${attr("data-src-16-night", night16)}${attr("data-src-45-night", night45)}${attr("data-src-916-night", night916)}${attr("data-src-16-gday", gday16)}${attr("data-src-45-gday", gday45)}${attr("data-src-916-gday", gday916)}${attr("data-src-16-pc", pc16)}${attr("data-src-45-pc", pc45)}${attr("data-src-916-pc", pc916)} />
             </a>
           </div>
           <div class="fmt-tabs" role="group" aria-label="Image size">
@@ -503,9 +514,9 @@
             ${s.description ? `<p class="detail">${esc(s.description)}</p>` : ""}
             <div class="actions">
               <a class="badge" href="${esc(s.license_anchor)}">${esc(s.license_badge)}</a>
-              ${dl16 ? `<a class="download" data-dl="16x9"${attr("data-dl-night", file16)}${attr("data-dl-gday", gday16)}${attr("data-dl-pc", pc16)} href="${esc(dl16)}" download="${esc(fileName(dl16))}">Download 16:9</a>` : ""}
-              ${dl45 ? `<a class="download" data-dl="4x5"${attr("data-dl-night", file45)}${attr("data-dl-gday", gday45)}${attr("data-dl-pc", pc45)} href="${esc(dl45)}" download="${esc(fileName(dl45))}">Download 4:5</a>` : ""}
-              ${dl916 ? `<a class="download" data-dl="9x16"${attr("data-dl-night", file916)}${attr("data-dl-gday", gday916)}${attr("data-dl-pc", pc916)} href="${esc(dl916)}" download="${esc(fileName(dl916))}">Download 9:16</a>` : ""}
+              ${dl16 ? `<a class="download" data-dl="16x9"${attr("data-dl-scene", file16)}${attr("data-dl-night", night16)}${attr("data-dl-gday", gday16)}${attr("data-dl-pc", pc16)} href="${esc(dl16)}" download="${esc(fileName(dl16))}">Download 16:9</a>` : ""}
+              ${dl45 ? `<a class="download" data-dl="4x5"${attr("data-dl-scene", file45)}${attr("data-dl-night", night45)}${attr("data-dl-gday", gday45)}${attr("data-dl-pc", pc45)} href="${esc(dl45)}" download="${esc(fileName(dl45))}">Download 4:5</a>` : ""}
+              ${dl916 ? `<a class="download" data-dl="9x16"${attr("data-dl-scene", file916)}${attr("data-dl-night", night916)}${attr("data-dl-gday", gday916)}${attr("data-dl-pc", pc916)} href="${esc(dl916)}" download="${esc(fileName(dl916))}">Download 9:16</a>` : ""}
             </div>
           </div>`;
         grid.appendChild(card);
