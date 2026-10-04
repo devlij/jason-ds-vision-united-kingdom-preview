@@ -111,7 +111,7 @@ __SOCIAL_IMAGE__
     }
     .preview { position: relative; }
     .fmt-tabs { display: flex; gap: 6px; padding: 0.75rem 1.05rem 0; line-height: 1.4; }
-    .day-row { padding: 0.5rem 1.05rem 0; }
+    .day-row { display: flex; flex-wrap: wrap; gap: 8px; padding: 0.5rem 1.05rem 0; }
     .fmt-tab {
       background: rgba(17, 26, 44, 0.85); color: var(--text); border: 1px solid var(--line);
       border-radius: 8px; padding: 5px 10px; font: inherit; font-size: 12px; line-height: 1.2; cursor: pointer;
@@ -120,14 +120,28 @@ __SOCIAL_IMAGE__
     .fmt-tab.is-active {
       background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 700;
     }
-    .day-row button.day-tab {
+    .day-row button.day-tab,
+    .day-row button.night-tab,
+    .day-row button.gday-tab,
+    .day-row button.pc-tab,
+    .day-row button.motion-tab {
       display: inline-block; background: #1c2c44; color: var(--text);
-      border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.85rem; border: 1px solid var(--line);
+      border-radius: 8px; padding: 0.4rem 0.7rem; font: inherit; font-size: 0.85rem; border: 1px solid var(--line);
       cursor: pointer;
     }
-    .day-row button.day-tab:hover { border-color: var(--accent); }
-    .day-row button.day-tab.is-active {
+    .day-row button.day-tab:hover,
+    .day-row button.night-tab:hover,
+    .day-row button.gday-tab:hover,
+    .day-row button.pc-tab:hover,
+    .day-row button.motion-tab:hover { border-color: var(--accent); }
+    .day-row button.day-tab.is-active,
+    .day-row button.night-tab.is-active,
+    .day-row button.gday-tab.is-active,
+    .day-row button.motion-tab.is-active {
       background: #e8b23a; border-color: #e8b23a; color: #1a1405; font-weight: 700;
+    }
+    .day-row button.pc-tab.is-active {
+      background: #1f6b4a; border-color: #1f6b4a; color: #f4fff8; font-weight: 700;
     }
     .thumb {
       display: block; padding: 0.65rem 0.65rem 0; background: #090f1a; line-height: 0;
@@ -138,6 +152,10 @@ __SOCIAL_IMAGE__
     }
     .thumb.tall img { aspect-ratio: 4 / 5; }
     .thumb.tall916 img { aspect-ratio: 9 / 16; }
+    .thumb video.motion-clip {
+      width: 100%; height: auto; display: block; border-radius: 8px; background: #000;
+      aspect-ratio: 4 / 5; object-fit: contain;
+    }
     .card-body { padding: 1rem 1rem 1.15rem; display: flex; flex-direction: column; gap: 0.35rem; flex: 1; }
     .entry-id { font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); }
     .status-row { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center; }
@@ -351,6 +369,87 @@ __SOCIAL_IMAGE__
       const slash = path.lastIndexOf("/");
       return slash >= 0 ? path.slice(slash + 1) : path;
     }
+    function assetPath(record, key) {
+      const value = record && record[key];
+      return (typeof value === "string" && value.trim()) ? value.trim() : "";
+    }
+    function optAttr(name, value) {
+      return value ? " " + name + "=\"" + esc(value) + "\"" : "";
+    }
+    function srcAttr(fmt, mode) {
+      const stem = fmt === "9x16" ? "data-src-916" : fmt === "4x5" ? "data-src-45" : "data-src-16";
+      const suffix = mode === "pc" ? "-pc" : mode === "gday" ? "-gday" : mode === "night" ? "-night" : "";
+      return stem + suffix;
+    }
+    function cardMode(card) {
+      const postcard = card.querySelector(".pc-tab");
+      if (postcard && postcard.classList.contains("is-active")) return "pc";
+      const daylight = card.querySelector(".gday-tab");
+      if (daylight && daylight.classList.contains("is-active")) return "gday";
+      const night = card.querySelector(".night-tab");
+      if (night && night.classList.contains("is-active")) return "night";
+      return "base";
+    }
+    function stopSweep(card) {
+      const clip = card.querySelector("video.motion-clip");
+      if (clip) clip.remove();
+      const image = card.querySelector("a.thumb img");
+      if (image) image.style.display = "";
+      const sweep = card.querySelector(".motion-tab");
+      if (sweep) {
+        sweep.classList.remove("is-active");
+        sweep.innerHTML = "\u25B6 360\u00B0";
+        sweep.setAttribute("title", "Play the 360° daylight motion clip");
+      }
+      const active = card.querySelector(".fmt-tab.is-active");
+      const fmt = active ? active.getAttribute("data-format") : "16x9";
+      const link = card.querySelector("a.thumb");
+      if (link) {
+        link.classList.toggle("tall", fmt === "4x5");
+        link.classList.toggle("tall916", fmt === "9x16");
+      }
+    }
+    function deactivateModes(card, selector) {
+      card.querySelectorAll(selector).forEach((button) => {
+        button.classList.remove("is-active");
+        button.setAttribute("aria-pressed", "false");
+        if (button.classList.contains("pc-tab")) button.setAttribute("data-postcard", "off");
+      });
+    }
+    function applyCapture(card) {
+      const mode = cardMode(card);
+      const active = card.querySelector(".fmt-tab.is-active");
+      const fmt = active ? active.getAttribute("data-format") : "16x9";
+      const link = card.querySelector("a.thumb");
+      const image = link && link.querySelector("img");
+      if (image && link) {
+        let next = image.getAttribute(srcAttr(fmt, mode));
+        if (mode !== "base" && !next) next = "";
+        if (next) { image.src = next; link.href = next; }
+      }
+      const downloadKey = mode === "pc" ? "data-dl-pc" : mode === "gday" ? "data-dl-gday" : mode === "night" ? "data-dl-night" : "data-dl-still";
+      card.querySelectorAll("a.download").forEach((anchor) => {
+        let target = anchor.getAttribute(downloadKey);
+        if (!target && mode === "base") target = anchor.getAttribute("data-dl-still");
+        if (target) {
+          anchor.href = target;
+          anchor.setAttribute("download", target.split("/").pop());
+        }
+      });
+      const scenario = card.querySelector("p.scenario");
+      if (scenario) {
+        scenario.textContent = mode === "pc" ? "Postcard collection"
+          : mode === "gday" ? "\u2600 Genuine daylight capture"
+          : "Scenario: " + (scenario.getAttribute("data-scenario") || "");
+      }
+    }
+    function restorePostcard(card) {
+      const postcard = card.querySelector(".pc-tab");
+      if (!postcard) return;
+      postcard.classList.add("is-active");
+      postcard.setAttribute("aria-pressed", "true");
+      postcard.setAttribute("data-postcard", "on");
+    }
 
     function render() {
       const query = q.value.trim().toLowerCase();
@@ -380,33 +479,65 @@ __SOCIAL_IMAGE__
         const file16 = s.file_16x9;
         const file45 = s.file_4x5 ? s.file_4x5 : null;
         const file916 = (s.file_9x16 && s.format_9x16_approval_status === "Approved") ? s.file_9x16 : null;
-        const motionSrc = s.motion || "";
+        const night16 = assetPath(s, "file_night_16x9");
+        const night45 = assetPath(s, "file_night_4x5");
+        const night916 = assetPath(s, "file_night_9x16");
+        const gday16 = assetPath(s, "file_genuine_daylight_16x9");
+        const gday45 = assetPath(s, "file_genuine_daylight_4x5");
+        const gday916 = assetPath(s, "file_genuine_daylight_9x16");
+        const pc16 = assetPath(s, "file_16x9_postcard");
+        const pc45 = assetPath(s, "file_4x5_postcard");
+        const pc916 = assetPath(s, "file_9x16_postcard");
+        const sweep = assetPath(s, "file_motion_10s_4x5");
+        const legacyMotion = assetPath(s, "motion");
+        const hasNight = !!(night16 || (night45 && file45) || (night916 && file916));
+        const hasGday = !!(gday16 || (gday45 && file45) || (gday916 && file916));
+        const hasPostcard = !!(pc16 || (pc45 && file45) || (pc916 && file916));
+        let initialFmt = "16x9";
+        let initialSrc = file16;
+        if (pc16) { initialSrc = pc16; initialFmt = "16x9"; }
+        else if (pc45 && file45) { initialSrc = pc45; initialFmt = "4x5"; }
+        else if (pc916 && file916) { initialSrc = pc916; initialFmt = "9x16"; }
+        const showLegacy = legacyMotion && legacyMotion !== sweep;
+        const controls = [];
+        if (hasNight) controls.push(`<button type="button" class="night-tab" aria-pressed="false" title="Show the night image">🌙 Night</button>`);
+        if (hasGday) controls.push(`<button type="button" class="gday-tab" aria-pressed="false" title="Toggle the genuine daylight capture">☀ Genuine daylight</button>`);
+        if (hasPostcard) controls.push(`<button type="button" class="pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">📩 Postcard</button>`);
+        if (sweep) controls.push(`<button type="button" class="motion-tab" data-motion="${esc(sweep)}" title="Play the 360° daylight motion clip">▶ 360°</button>`);
+        const thumbClass = "thumb" + (initialFmt === "4x5" ? " tall" : "") + (initialFmt === "9x16" ? " tall916" : "");
+        const scenarioText = hasPostcard ? "Postcard collection" : ("Scenario: " + (s.scenario_label || ""));
+        function dl(fmt, label, still, postcard, daylight, night) {
+          if (!still) return "";
+          const href = (hasPostcard && postcard) ? postcard : still;
+          return `<a class="download" data-dl="${fmt}"${optAttr("data-dl-still", still)}${optAttr("data-dl-pc", postcard)}${optAttr("data-dl-gday", daylight)}${optAttr("data-dl-night", night)} href="${esc(href)}" download="${esc(fileName(href))}">Download ${label}</a>`;
+        }
         card.innerHTML = `
           <div class="preview">
-            <a class="thumb" href="${esc(file16)}" target="_blank" rel="noopener">
-              <img src="${esc(file16)}" alt="${esc(imageAlt(s))}" loading="lazy" data-src-16="${esc(file16)}"${file45 ? ` data-src-45="${esc(file45)}"` : ""}${file916 ? ` data-src-916="${esc(file916)}"` : ""} />
+            <a class="${thumbClass}" href="${esc(initialSrc)}" target="_blank" rel="noopener">
+              <img src="${esc(initialSrc)}" alt="${esc(imageAlt(s))}" loading="lazy"${optAttr("data-src-16", file16)}${optAttr("data-src-45", file45)}${optAttr("data-src-916", file916)}${optAttr("data-src-16-night", night16)}${optAttr("data-src-45-night", night45)}${optAttr("data-src-916-night", night916)}${optAttr("data-src-16-gday", gday16)}${optAttr("data-src-45-gday", gday45)}${optAttr("data-src-916-gday", gday916)}${optAttr("data-src-16-pc", pc16)}${optAttr("data-src-45-pc", pc45)}${optAttr("data-src-916-pc", pc916)} />
             </a>
           </div>
           <div class="fmt-tabs" role="group" aria-label="Image size">
-              <button type="button" class="fmt-tab is-active" data-format="16x9" aria-pressed="true">16:9</button>
-              ${file45 ? `<button type="button" class="fmt-tab" data-format="4x5" aria-pressed="false">4:5</button>` : ""}
-              ${file916 ? `<button type="button" class="fmt-tab" data-format="9x16" aria-pressed="false">9:16</button>` : ""}
+              <button type="button" class="fmt-tab${initialFmt === "16x9" ? " is-active" : ""}" data-format="16x9" aria-pressed="${initialFmt === "16x9" ? "true" : "false"}">16:9</button>
+              ${file45 ? `<button type="button" class="fmt-tab${initialFmt === "4x5" ? " is-active" : ""}" data-format="4x5" aria-pressed="${initialFmt === "4x5" ? "true" : "false"}">4:5</button>` : ""}
+              ${file916 ? `<button type="button" class="fmt-tab${initialFmt === "9x16" ? " is-active" : ""}" data-format="9x16" aria-pressed="${initialFmt === "9x16" ? "true" : "false"}">9:16</button>` : ""}
             </div>
+          ${controls.length ? `<div class="day-row">${controls.join("")}</div>` : ""}
           <div class="card-body">
             <div class="status-row">
               <div class="entry-id">${esc(s.entry_id)}</div>
               <span class="status ${esc((s.approval_status || 'Candidate').toLowerCase())}">${esc(s.approval_status || 'Candidate')}</span>
             </div>
             <h3 class="caption">${esc(s.caption)}</h3>
-            <p class="scenario" data-scenario="${esc(s.scenario_label)}">Scenario: ${esc(s.scenario_label)}</p>
+            <p class="scenario" data-scenario="${esc(s.scenario_label)}">${esc(scenarioText)}</p>
             <p class="composition">${esc(s.composition)}</p>
             ${s.description ? `<p class="detail">${esc(s.description)}</p>` : ""}
             <div class="actions">
               <a class="badge" href="${esc(s.license_anchor)}">${esc(s.license_badge)}</a>
-              <a class="download" data-dl="16x9" href="${esc(file16)}" download="${esc(fileName(file16))}">Download 16:9</a>
-              ${file45 ? `<a class="download" data-dl="4x5" href="${esc(file45)}" download="${esc(fileName(file45))}">Download 4:5</a>` : ""}
-              ${file916 ? `<a class="download" data-dl="9x16" href="${esc(file916)}" download="${esc(fileName(file916))}">Download 9:16</a>` : ""}
-              ${motionSrc ? `<button type="button" class="motion" data-src="${esc(motionSrc)}">Play motion</button>` : ""}
+              ${dl("16x9", "16:9", file16, pc16, gday16, night16)}
+              ${file45 ? dl("4x5", "4:5", file45, pc45, gday45, night45) : ""}
+              ${file916 ? dl("9x16", "9:16", file916, pc916, gday916, night916) : ""}
+              ${showLegacy ? `<button type="button" class="motion" data-src="${esc(legacyMotion)}">Play motion</button>` : ""}
             </div>
           </div>`;
         grid.appendChild(card);
@@ -414,6 +545,89 @@ __SOCIAL_IMAGE__
       if (typeof phase1Enhance === 'function') phase1Enhance();
     }
     grid.addEventListener('click', (event) => {
+      const nightBtn = event.target.closest('.night-tab');
+      if (nightBtn) {
+        event.preventDefault();
+        const card = nightBtn.closest('.card');
+        if (!card) return;
+        const active = card.querySelector('.fmt-tab.is-active');
+        const fmt = active ? active.getAttribute('data-format') : '16x9';
+        const image = card.querySelector('a.thumb img');
+        if (!image || !image.getAttribute(srcAttr(fmt, 'night'))) return;
+        stopSweep(card);
+        deactivateModes(card, '.pc-tab.is-active, .gday-tab.is-active, .day-tab.is-active');
+        nightBtn.classList.add('is-active');
+        nightBtn.setAttribute('aria-pressed', 'true');
+        applyCapture(card);
+        return;
+      }
+      const gtab = event.target.closest('.gday-tab');
+      if (gtab) {
+        event.preventDefault();
+        const card = gtab.closest('.card');
+        if (!card) return;
+        const active = card.querySelector('.fmt-tab.is-active');
+        const fmt = active ? active.getAttribute('data-format') : '16x9';
+        const image = card.querySelector('a.thumb img');
+        const on = !gtab.classList.contains('is-active');
+        if (on && (!image || !image.getAttribute(srcAttr(fmt, 'gday')))) return;
+        stopSweep(card);
+        gtab.classList.toggle('is-active', on);
+        gtab.setAttribute('aria-pressed', on ? 'true' : 'false');
+        if (on) deactivateModes(card, '.night-tab.is-active, .pc-tab.is-active, .day-tab.is-active');
+        else restorePostcard(card);
+        applyCapture(card);
+        return;
+      }
+      const ptab = event.target.closest('.pc-tab');
+      if (ptab) {
+        event.preventDefault();
+        const card = ptab.closest('.card');
+        if (!card) return;
+        const active = card.querySelector('.fmt-tab.is-active');
+        const fmt = active ? active.getAttribute('data-format') : '16x9';
+        const image = card.querySelector('a.thumb img');
+        const on = !ptab.classList.contains('is-active');
+        if (on && (!image || !image.getAttribute(srcAttr(fmt, 'pc')))) return;
+        stopSweep(card);
+        ptab.classList.toggle('is-active', on);
+        ptab.setAttribute('aria-pressed', on ? 'true' : 'false');
+        ptab.setAttribute('data-postcard', on ? 'on' : 'off');
+        if (on) deactivateModes(card, '.night-tab.is-active, .gday-tab.is-active, .day-tab.is-active');
+        applyCapture(card);
+        return;
+      }
+      const sweepBtn = event.target.closest('.motion-tab');
+      if (sweepBtn) {
+        event.preventDefault();
+        const card = sweepBtn.closest('.card');
+        if (!card) return;
+        if (card.querySelector('video.motion-clip')) { stopSweep(card); return; }
+        stopSweep(card);
+        const link = card.querySelector('a.thumb');
+        const image = link && link.querySelector('img');
+        const vid = document.createElement('video');
+        vid.className = 'motion-clip';
+        vid.src = sweepBtn.getAttribute('data-motion');
+        vid.autoplay = true;
+        vid.loop = true;
+        vid.muted = true;
+        vid.playsInline = true;
+        vid.controls = false;
+        vid.disablePictureInPicture = true;
+        vid.style.width = '100%';
+        vid.style.display = 'block';
+        if (image) image.style.display = 'none';
+        if (link) {
+          link.classList.add('tall');
+          link.classList.remove('tall916');
+          link.appendChild(vid);
+        }
+        sweepBtn.classList.add('is-active');
+        sweepBtn.innerHTML = '\u2715 Close';
+        sweepBtn.setAttribute('title', 'Close the 360° motion clip');
+        return;
+      }
       const motionBtn = event.target.closest('.motion');
       if (motionBtn) {
         event.preventDefault();
@@ -431,59 +645,21 @@ __SOCIAL_IMAGE__
         if (player.paused) player.play(); else player.pause();
         return;
       }
-      const dtab = event.target.closest('.day-tab');
-      if (dtab) {
-        event.preventDefault();
-        const dcard = dtab.closest('.card');
-        if (!dcard) return;
-        const isDay = !dtab.classList.contains('is-active');
-        dtab.classList.toggle('is-active', isDay);
-        dtab.setAttribute('aria-pressed', isDay ? 'true' : 'false');
-        dtab.setAttribute('data-daynight', isDay ? 'day' : 'night');
-        const ftab = dcard.querySelector('.fmt-tab.is-active');
-        const dfmt = ftab ? ftab.getAttribute('data-format') : '16x9';
-        const dlink = dcard.querySelector('a.thumb');
-        const dimg = dlink && dlink.querySelector('img');
-        if (dimg && dlink) {
-          const dkey = dfmt === '4x5' ? (isDay ? 'data-src-45-day' : 'data-src-45') : dfmt === '9x16' ? (isDay ? 'data-src-916-day' : 'data-src-916') : (isDay ? 'data-src-16-day' : 'data-src-16');
-          const dnext = dimg.getAttribute(dkey);
-          if (dnext) { dimg.src = dnext; dlink.href = dnext; }
-        }
-        dcard.querySelectorAll('a.download').forEach((a) => {
-          const f = a.getAttribute('data-dl');
-          const dk = f === '4x5' ? (isDay ? 'data-src-45-day' : 'data-src-45') : f === '9x16' ? (isDay ? 'data-src-916-day' : 'data-src-916') : (isDay ? 'data-src-16-day' : 'data-src-16');
-          const u = dimg && dimg.getAttribute(dk);
-          if (u) a.href = u;
-        });
-        const sc = dcard.querySelector('p.scenario');
-        if (sc) sc.textContent = isDay ? '\u2600 Daylight variant \u00b7 derived from the night interpretation' : 'Scenario: ' + sc.getAttribute('data-scenario');
-        return;
-      }
       const tab = event.target.closest('.fmt-tab');
       if (!tab) return;
       event.preventDefault();
       const card = tab.closest('.card');
       if (!card) return;
+      stopSweep(card);
       const fmt = tab.getAttribute('data-format');
       card.querySelectorAll('.fmt-tab').forEach((item) => {
         const on = item === tab;
         item.classList.toggle('is-active', on);
         item.setAttribute('aria-pressed', on ? 'true' : 'false');
       });
+      applyCapture(card);
       const link = card.querySelector('a.thumb');
-      const img = link && link.querySelector('img');
-      if (!img || !link) return;
-      const dayOn = card.querySelector('.day-tab.is-active');
-      const useDay = dayOn && dayOn.getAttribute('data-daynight') === 'day';
-      const next = fmt === "4x5"
-        ? (useDay && img.getAttribute("data-src-45-day")) || img.getAttribute("data-src-45")
-        : fmt === "9x16"
-        ? (useDay && img.getAttribute("data-src-916-day")) || img.getAttribute("data-src-916")
-        : (useDay && img.getAttribute("data-src-16-day")) || img.getAttribute("data-src-16");
-      if (next) {
-        img.src = next;
-        link.href = next;
-      }
+      if (!link) return;
       link.classList.toggle('tall', fmt === '4x5');
       link.classList.toggle('tall916', fmt === '9x16');
     });
@@ -597,22 +773,33 @@ __SOCIAL_IMAGE__
     var playing=false,timer=null;
     var INTERVAL=4000;
     var lbFormat='16x9';
-    var lbDay='night';
+    var lbMode='base';
+    function modeSrc(im, fmt, mode){
+      var suffix=mode==='pc'?'-pc':mode==='gday'?'-gday':mode==='night'?'-night':'';
+      var key=fmt==='4x5'?'data-src-45':fmt==='9x16'?'data-src-916':'data-src-16';
+      return im.getAttribute(key+suffix)||'';
+    }
+    function openMode(card){
+      var p=card.querySelector('.pc-tab');
+      if(p&&p.classList.contains('is-active'))return 'pc';
+      var g=card.querySelector('.gday-tab');
+      if(g&&g.classList.contains('is-active'))return 'gday';
+      var n=card.querySelector('.night-tab');
+      if(n&&n.classList.contains('is-active'))return 'night';
+      return 'base';
+    }
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
     function show(i){
       items=visibleCards().map(function(c){
         var im=c.querySelector('a.thumb img');var t=c.querySelector('h3.caption');
         var src='';
-        var daySrc='';
         if(im){
-          if(lbDay==='day'){daySrc=(lbFormat==='4x5'?im.getAttribute('data-src-45-day'):lbFormat==='9x16'?im.getAttribute('data-src-916-day'):im.getAttribute('data-src-16-day'))||'';}
-          src=daySrc||(lbFormat==='4x5'?im.getAttribute('data-src-45'):lbFormat==='9x16'?im.getAttribute('data-src-916'):im.getAttribute('data-src-16'));
+          src=modeSrc(im, lbFormat, lbMode);
+          if(!src) src=modeSrc(im, lbFormat, 'base');
         }
         if(!src){var a=c.querySelector('a.thumb');src=a?a.href:'';}
         var capT=t?t.textContent:'';
-        if(daySrc)capT=capT+' \u2014 \u2600 Daylight variant';
         var altT=(im&&im.alt)?im.alt:capT;
-        if(daySrc)altT=altT+' \u2014 \u2600 Daylight variant';
         return{src:src,cap:capT,alt:altT};
       }).filter(function(x){return x.src;});
       if(!items.length)return;
@@ -631,7 +818,7 @@ __SOCIAL_IMAGE__
     function hide(){stopSlideshow();overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
     document.addEventListener('click',function(e){
       var a=e.target.closest?e.target.closest('a.thumb'):null;
-      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';var dtab=card.querySelector('.day-tab.is-active');lbDay=(dtab&&dtab.getAttribute('data-daynight')==='day')?'day':'night';show(cards.indexOf(card));return;}
+      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';lbMode=openMode(card);show(cards.indexOf(card));return;}
       if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
       else if(e.target.closest&&e.target.closest('.lb-play'))togglePlay();
       else if(e.target.closest&&e.target.closest('.lb-prev'))nav(-1);
