@@ -1797,7 +1797,7 @@
       "site": "Golden Hinde II",
       "place": "Southwark",
       "caption": "Golden Hinde II, London",
-      "scenario_label": "30 September 2026 \u00b7 16:38 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 11:15 Europe/London",
       "composition": "Partly cloudy afternoon \u00b7 the dock quay looking at the galleon \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Golden Hinde in St Mary Overie Dock, Bankside, under a partly cloudy afternoon sky",
       "description": "From the quay the view looks across St Mary Overie Dock at the Golden Hinde, the wooden replica galleon, its golden-ochre hull, high sterncastle, and masts. The afternoon is partly cloudy and dry, about 23.3\u00b0C, and the sun is low in the west-southwest. The ship is the only subject.",
@@ -1811,7 +1811,7 @@
         "A high sterncastle, a beak, and three masts identify the ship, and the hull reads as golden ochre",
         "The ship sits in a stone dock; Shakespeare's Globe is not the subject"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4\u00b0. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 11:15 Europe/London. Calculated solar azimuth is southeast-south and elevation is about 30\u00b0. The sky is partly cloudy. model is_day is 1.",
       "moods": [
         "historic"
       ],
