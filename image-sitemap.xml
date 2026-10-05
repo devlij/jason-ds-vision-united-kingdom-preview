@@ -976,6 +976,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://uk.jdvision.org/#UK-01-106</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-106-16x9.png</image:loc>
+      <image:caption>From the east pavement of Bow Street the view looks west at the Royal Opera House. The glazed iron-and-glass Floral Hall, with its tall arched windows and barrel-vaulted roof, stands beside the smaller stone block and its six-column Corinthian portico above a rusticated arched ground storey. The Covent Garden piazza is not in the frame. It is a mostly clear night, about 21.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Royal Opera House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-106-4x5.png</image:loc>
+      <image:caption>From the east pavement of Bow Street the view looks west at the Royal Opera House. The glazed iron-and-glass Floral Hall, with its tall arched windows and barrel-vaulted roof, stands beside the smaller stone block and its six-column Corinthian portico above a rusticated arched ground storey. The Covent Garden piazza is not in the frame. It is a mostly clear night, about 21.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Royal Opera House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
     <loc>https://uk.jdvision.org/#UK-01-107</loc>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-107-16x9.png</image:loc>
