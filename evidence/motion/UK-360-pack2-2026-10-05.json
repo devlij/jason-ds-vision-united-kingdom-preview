@@ -1,0 +1,215 @@
+{
+  "work_order": "wo-360-kickoff-uk-20261005",
+  "reauth": "wo-360-static-ambient-reauth-20261005",
+  "pack": 2,
+  "method": "static-ambient",
+  "method_note": "ffmpeg Ken Burns pan-zoom on crop=864:1080:0:0 of base 4:5 master; no i2v. Same pack1 settings (zoom 1.00\u21921.08 + ~2% L\u2192R pan).",
+  "via": "Image Assistant / Jason JDVISION 2026-10-05",
+  "cosmo_qc": "not claimed",
+  "approval_status_flipped": false,
+  "escalate": {
+    "triggered": true,
+    "after": [
+      "UK-01-024",
+      "UK-01-025",
+      "UK-01-026"
+    ],
+    "note": "3 consecutive HOLDs: local+main 4:5 masters are 576x720, cannot apply crop=864:1080:0:0 without upscaling invent. Cosmo QC not claimed; post note only."
+  },
+  "spec": {
+    "duration_s": 10.0,
+    "fps": 24,
+    "frames": 240,
+    "width": 864,
+    "height": 1080,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "crop": "864:1080:0:0",
+    "zoom": "1.00\u21921.08 ease-in-out",
+    "pan": "2% width left\u2192right"
+  },
+  "pass": [
+    "UK-01-021",
+    "UK-01-022",
+    "UK-01-023"
+  ],
+  "hold": [
+    {
+      "entry_id": "UK-01-024",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main."
+    },
+    {
+      "entry_id": "UK-01-025",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main."
+    },
+    {
+      "entry_id": "UK-01-026",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main."
+    }
+  ],
+  "skipped": [
+    {
+      "entry_id": "UK-01-027",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted"
+    },
+    {
+      "entry_id": "UK-01-028",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted"
+    },
+    {
+      "entry_id": "UK-01-029",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted"
+    },
+    {
+      "entry_id": "UK-01-030",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted"
+    }
+  ],
+  "results": [
+    {
+      "entry_id": "UK-01-021",
+      "status": "PASS",
+      "reason": "ok (encoded pack2)",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-021-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-021-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 3126241,
+      "site": "Royal Albert Hall",
+      "sha256": "4e3e7228e22bb372c442728c4c7d96d745e18ebce18202690bdf6e2aae5cead2"
+    },
+    {
+      "entry_id": "UK-01-022",
+      "status": "PASS",
+      "reason": "ok (encoded pack2)",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-022-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-022-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 3743929,
+      "site": "30 St Mary Axe",
+      "sha256": "9cb3a0b509f11de695cda3d8e5c7fac8d6e4d2754518c91af21129376a3a9bdd"
+    },
+    {
+      "entry_id": "UK-01-023",
+      "status": "PASS",
+      "reason": "ok (encoded pack2)",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-023-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-023-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 2534629,
+      "site": "Shakespeare's Globe",
+      "sha256": "c1827f7811be9c3519ad7510c229d9147b2e330244a78390d700015aff53a588"
+    },
+    {
+      "entry_id": "UK-01-024",
+      "status": "HOLD",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main.",
+      "method": "static-ambient",
+      "site": "The Monument",
+      "master_shape": [
+        720,
+        576,
+        3
+      ],
+      "source": "assets/pretext/united-kingdom/London/uk-01-024-4x5.png"
+    },
+    {
+      "entry_id": "UK-01-025",
+      "status": "HOLD",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main.",
+      "method": "static-ambient",
+      "site": "Harrods",
+      "master_shape": [
+        720,
+        576,
+        3
+      ],
+      "source": "assets/pretext/united-kingdom/London/uk-01-025-4x5.png"
+    },
+    {
+      "entry_id": "UK-01-026",
+      "status": "HOLD",
+      "reason": "master undersized for crop=864:1080:0:0 (got 576x720; need >=864x1080). No full-res master on main.",
+      "method": "static-ambient",
+      "site": "Old Royal Naval College",
+      "master_shape": [
+        720,
+        576,
+        3
+      ],
+      "source": "assets/pretext/united-kingdom/London/uk-01-026-4x5.png"
+    },
+    {
+      "entry_id": "UK-01-027",
+      "status": "SKIPPED",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted",
+      "method": "static-ambient",
+      "site": "Victoria and Albert Museum",
+      "master_shape": [
+        720,
+        576,
+        3
+      ]
+    },
+    {
+      "entry_id": "UK-01-028",
+      "status": "SKIPPED",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted",
+      "method": "static-ambient",
+      "site": "Guildhall",
+      "master_shape": [
+        720,
+        576,
+        3
+      ]
+    },
+    {
+      "entry_id": "UK-01-029",
+      "status": "SKIPPED",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted",
+      "method": "static-ambient",
+      "site": "Lambeth Palace",
+      "master_shape": [
+        720,
+        576,
+        3
+      ]
+    },
+    {
+      "entry_id": "UK-01-030",
+      "status": "SKIPPED",
+      "reason": "escalate after 3 consecutive HOLDs \u2014 not attempted",
+      "method": "static-ambient",
+      "site": "Wellington Arch",
+      "master_shape": [
+        720,
+        576,
+        3
+      ]
+    }
+  ]
+}

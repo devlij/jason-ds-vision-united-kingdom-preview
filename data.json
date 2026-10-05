@@ -862,7 +862,7 @@
       "file_16x9": "assets/pretext/united-kingdom/London/uk-01-021-16x9.png",
       "file_4x5": "assets/pretext/united-kingdom/London/uk-01-021-4x5.png",
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-021-9x16.png",
-      "motion": null,
+      "motion": "assets/pretext/united-kingdom/London/uk-01-021-motion-10s-4x5.mp4",
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
     },
@@ -900,7 +900,7 @@
       "file_16x9": "assets/pretext/united-kingdom/London/uk-01-022-16x9.png",
       "file_4x5": "assets/pretext/united-kingdom/London/uk-01-022-4x5.png",
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-022-9x16.png",
-      "motion": null,
+      "motion": "assets/pretext/united-kingdom/London/uk-01-022-motion-10s-4x5.mp4",
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
     },
@@ -938,7 +938,7 @@
       "file_16x9": "assets/pretext/united-kingdom/London/uk-01-023-16x9.png",
       "file_4x5": "assets/pretext/united-kingdom/London/uk-01-023-4x5.png",
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-023-9x16.png",
-      "motion": null,
+      "motion": "assets/pretext/united-kingdom/London/uk-01-023-motion-10s-4x5.mp4",
       "license_badge": "Free \u00b7 no credit needed",
       "license_anchor": "#license"
     },
