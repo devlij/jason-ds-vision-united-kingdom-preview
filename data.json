@@ -1719,7 +1719,7 @@
       "site": "Mansion House",
       "place": "City of London",
       "caption": "Mansion House, London",
-      "scenario_label": "30 September 2026 \u00b7 16:37 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 10:45 Europe/London",
       "composition": "Partly cloudy afternoon \u00b7 the junction looking north at the Corinthian portico \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Mansion House portico in the City of London under a partly cloudy afternoon sky",
       "description": "From the junction the view looks north at Mansion House, the Lord Mayor's residence, George Dance the Elder's portico of six Corinthian columns on a rusticated podium and a sculpted pediment. The afternoon is partly cloudy and dry, about 23.3\u00b0C, and the sun is low in the west-southwest. The portico is the subject.",
@@ -1733,7 +1733,7 @@
         "The front is George Dance the Elder's hexastyle Corinthian portico on a rusticated podium",
         "A sculpted pediment sits above the six columns"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4\u00b0. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 10:45 Europe/London. Calculated solar azimuth is southeast-south and elevation is about 28\u00b0. The sky is partly cloudy. model is_day is 1.",
       "moods": [
         "urban",
         "historic"
