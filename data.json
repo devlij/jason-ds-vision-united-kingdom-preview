@@ -1489,7 +1489,7 @@
       "site": "Millennium Bridge",
       "place": "Southwark",
       "caption": "Millennium Bridge, London",
-      "scenario_label": "30 September 2026 \u00b7 16:08 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 09:15 Europe/London",
       "composition": "Clear afternoon \u00b7 close on a Y-shaped support and the cable fan \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Millennium Bridge steel structure in London under a clear afternoon sky",
       "description": "The frame is filled by the Millennium Bridge itself: a Y-shaped steel support, the fan of cables, and the flat steel deck over the Thames. The afternoon is clear and dry, about 23.5\u00b0C, with the sun in the southwest. St Paul's Cathedral is not in the picture. The bridge is the only subject.",
@@ -1503,7 +1503,7 @@
         "This frame is filled by one of those supports, the cable fan, and the steel deck",
         "St Paul's Cathedral is not in the frame, and Tate Modern is not the subject"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.3\u00b0. The sky is clear. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 09:15 Europe/London. Calculated solar azimuth is east-southeast and elevation is about 17.7\u00b0. The sky is clear. model is_day is 1.",
       "moods": [
         "urban"
       ],
