@@ -1527,7 +1527,7 @@
       "site": "Horse Guards",
       "place": "Westminster",
       "caption": "Horse Guards, London",
-      "scenario_label": "30 September 2026 \u00b7 16:08 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 09:30 Europe/London",
       "composition": "Clear afternoon \u00b7 Whitehall looking west at the clock-tower arch \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Horse Guards building on Whitehall in London under a clear afternoon sky",
       "description": "From Whitehall the view looks west at the Horse Guards building, William Kent's white stone front, the central arch, the clock tower, and the cupola. Symmetrical wings sit to either side under a clear sky. It is a dry afternoon, about 23.4\u00b0C, and the sun is in the southwest. The building is the subject.",
@@ -1541,7 +1541,7 @@
         "Symmetrical wings with pediments flank the arch",
         "Banqueting House is not in this frame"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4\u00b0. The sky is clear. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 09:30 Europe/London. Calculated solar azimuth is southeast and elevation is about 19.6\u00b0. The sky is clear. model is_day is 1.",
       "moods": [
         "historic"
       ],
