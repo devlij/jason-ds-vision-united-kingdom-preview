@@ -1642,7 +1642,7 @@
       "site": "Admiralty Arch",
       "place": "Westminster",
       "caption": "Admiralty Arch, London",
-      "scenario_label": "30 September 2026 \u00b7 16:37 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 10:15 Europe/London",
       "composition": "Partly cloudy afternoon \u00b7 The Mall looking northeast at the three arches \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of Admiralty Arch from The Mall in London under a partly cloudy afternoon sky",
       "description": "From The Mall the view looks northeast at Admiralty Arch, the Portland-stone screen of three arches, the wide central opening flanked by two narrower ones, with sculpture along the attic. The afternoon is partly cloudy and dry, about 23.2\u00b0C, and the sun is low in the west-southwest. Nelson's Column is not in this frame.",
@@ -1656,7 +1656,7 @@
         "The central carriage arch is wider than the two side arches",
         "Sculpture runs along the attic; this frame is the Mall face and does not include Trafalgar Square"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:37 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4\u00b0. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 10:15 Europe/London. Calculated solar azimuth is southeast and elevation is about 24.9\u00b0. The sky is partly cloudy. model is_day is 1.",
       "moods": [
         "urban",
         "historic"
