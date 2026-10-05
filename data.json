@@ -3162,7 +3162,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3171,7 +3171,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-271-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Southgate Station. Holden's circular ticket hall and the mast of lit rings. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Southgate Station, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-272",
@@ -3277,7 +3279,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3286,7 +3288,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-274-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. United States Embassy. The glass cube, the crystalline wrapper, the colonnade, and the pool at Nine Elms. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'United States Embassy, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-275",
@@ -3392,7 +3396,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3401,7 +3405,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-277-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Brixton Windmill. The black tower, the white cap, and the four sails. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Brixton Windmill, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-278",
@@ -3430,7 +3436,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3439,7 +3445,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-278-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Crystal Palace Transmitter. The lattice mast on the wooded hill, with the red lights. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Crystal Palace Transmitter, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-279",
@@ -3468,7 +3476,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3477,7 +3485,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-279-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Maughan Library. The Gothic stone range and the clock tower with the figures on the crown. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Maughan Library, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-280",
@@ -3585,7 +3595,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3594,7 +3604,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-282-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Marlborough House. Wren's red-brick range with stone quoins, behind the plane trees on the Mall. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Marlborough House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-283",
@@ -3662,7 +3674,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3671,7 +3683,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-284-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Greenwich Power Station. The long stock-brick range and the four brick chimneys on the river. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Greenwich Power Station, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-285",
@@ -3700,7 +3714,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3709,7 +3723,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-285-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. 110 Bishopsgate. The Heron Tower's diamond diagrid. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption '110 Bishopsgate, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-286",
@@ -3738,7 +3754,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3747,7 +3763,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-286-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Lord's Media Centre. Future Systems' white pod and the band of glass, lifted over the stand. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Lord's Media Centre, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-287",
@@ -3776,7 +3794,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3785,7 +3803,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-287-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Kew Bridge. Barry's three granite arches and the lamps. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Kew Bridge, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-288",
@@ -3814,7 +3834,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3823,7 +3843,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-288-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Charlton House. The Jacobean brick front, the corner turrets with their ogee caps, and the stone porch. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Charlton House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-289",
@@ -3853,7 +3875,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3862,7 +3884,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-289-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. HQS Wellington. The white ship, the funnel, and the two masts, alongside the Embankment. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'HQS Wellington, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-290",
@@ -3891,7 +3915,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3900,7 +3924,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-290-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. The Crystal. The faceted glass building on Royal Victoria Dock. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'The Crystal, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-291",
@@ -3930,7 +3956,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3939,7 +3965,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-291-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Admiralty Citadel. The windowless concrete block on Horse Guards, grown over with ivy. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Admiralty Citadel, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-292",
@@ -4007,7 +4035,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4016,7 +4044,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-293-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Millennium Mills. The long derelict mill on Royal Victoria Dock. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Millennium Mills, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-294",
@@ -4045,7 +4075,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4054,7 +4084,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-294-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Pitzhanger Manor. Soane's stucco villa and the four caryatids under the porch. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Pitzhanger Manor, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-295",
@@ -4160,7 +4192,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4169,7 +4201,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-297-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Lots Road Power Station. The long brick station and the two chimneys on the river. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Lots Road Power Station, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-298",
@@ -4237,7 +4271,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4246,7 +4280,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-299-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Royal Artillery Barracks. The enormous colonnade and the central pediment, across the parade ground. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Royal Artillery Barracks, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-300",
@@ -4314,7 +4350,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4323,7 +4359,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-301-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. St Pancras New Church. Inwood's Ionic portico and the caryatid porch over the crypt entrance. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'St Pancras New Church, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-302",
@@ -4391,7 +4429,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4400,7 +4438,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-303-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Penguin Pool. Lubetkin's white concrete ramps interlocking over the pool. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Penguin Pool, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-304",
@@ -4429,7 +4469,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4438,7 +4478,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-304-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Peter Jones. The curved glass store wrapping the corner of Sloane Square. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Peter Jones, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-305",
@@ -4543,7 +4585,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4552,7 +4594,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-307-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Great Arthur House. The Golden Lane tower, yellow end wall, and the upswept concrete crown. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Great Arthur House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-308",
@@ -4581,7 +4625,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4590,7 +4634,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-308-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Space House. Seifert's cylinder on its circular podium. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Space House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-309",
@@ -4619,7 +4665,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4628,7 +4674,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-309-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Finsbury Health Centre. Lubetkin's white block and the curved glass center. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Finsbury Health Centre, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-310",
@@ -4658,7 +4706,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4667,7 +4715,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-310-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Ten Trinity Square. Cooper's stone front and the sculptural group on the tower. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Ten Trinity Square, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-311",
@@ -4734,7 +4784,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4743,7 +4793,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-312-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. The Old Curiosity Shop. The little plastered timber house on the corner of Portsmouth Street, jettied upper floor and hipped tile roof. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'The Old Curiosity Shop, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-313",
@@ -4811,7 +4863,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4820,7 +4872,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-314-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Trafalgar Tavern. The river front: taller centre with the Ionic screen and shell panels, and the lead-roofed bows with iron balconies. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Trafalgar Tavern, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-315",
@@ -4850,7 +4904,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4859,7 +4913,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-315-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Serpentine North. The old magazine colonnade and the white undulating roof beside it. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Serpentine North, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-316",
@@ -4927,7 +4983,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4936,7 +4992,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-317-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. St Augustine's Tower. The lone ragstone tower in the Hackney churchyard. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'St Augustine's Tower, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-318",
@@ -4966,7 +5024,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -4975,7 +5033,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-318-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Seven Dials. The sundial pillar in the middle of the junction. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Seven Dials, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-319",
@@ -5004,7 +5064,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5013,7 +5073,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-319-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Lincoln's Inn Gatehouse. The brick gate on Chancery Lane, diaper work, the carriage arch and the side passage. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Lincoln's Inn Gatehouse, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-320",
@@ -5042,7 +5104,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5051,7 +5113,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-320-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Canada Water Library. The inverted bronze pyramid on its glass base, by the dock. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Canada Water Library, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-321",
@@ -5156,7 +5220,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5165,7 +5229,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-323-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Brunel Engine House. The stock-brick engine house and its tall chimney at Rotherhithe. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Brunel Engine House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-324",
@@ -5232,7 +5298,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5241,7 +5307,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-325-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Sutton House. The Homerton front as it is now: brick centre and west wing, the stuccoed east wing, and the two doors from when the house was split. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Sutton House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-326",
@@ -5271,7 +5339,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5280,7 +5348,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-326-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. The Langham. The mansard and the arched porte-coch\u00e8re on Portland Place. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'The Langham, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-327",
@@ -5310,7 +5380,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5319,7 +5389,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-327-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Bomber Command Memorial. The open stone pavilion and the seven bronze aircrew under the lattice roof. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Bomber Command Memorial, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-328",
@@ -5348,7 +5420,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5357,7 +5429,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-328-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Clock Mill. The clock turret and the two kiln cones at Three Mills. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Clock Mill, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-329",
@@ -5387,7 +5461,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5396,7 +5470,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-329-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Prospect of Whitby. The timber balcony over the river wall at Wapping. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Prospect of Whitby, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-330",
@@ -5425,7 +5501,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5434,7 +5510,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-330-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. St Etheldreda's Church. The great west window at the end of Ely Place. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'St Etheldreda's Church, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-331",
@@ -5464,7 +5542,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5473,7 +5551,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-331-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. All Saints, Margaret Street. Butterfield's banded brick and the striped spire. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'All Saints, Margaret Street, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-332",
@@ -5502,7 +5582,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5511,7 +5591,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-332-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Queen Elizabeth's Hunting Lodge. The tall timber-framed stand in Epping Forest. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Queen Elizabeth's Hunting Lodge, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-333",
@@ -5540,7 +5622,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5549,7 +5631,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-333-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Ranger's House. The brick villa and the stone portico on the edge of the park. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Ranger's House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-334",
@@ -5616,7 +5700,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5625,7 +5709,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-335-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. The Round Chapel. Fuller's stone west curve, the octagonal towers with conical roofs, and the steps. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'The Round Chapel, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-336",
@@ -5654,7 +5740,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5663,7 +5749,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-336-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Danson House. Taylor's villa, the pediment, and the stair up to the door. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Danson House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-337",
@@ -5692,7 +5780,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5701,7 +5789,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-337-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Eastbury Manor House. The Elizabethan brick H-plan, the gables and the chimneys. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Eastbury Manor House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-338",
@@ -5769,7 +5859,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5778,7 +5868,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-339-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Limehouse Accumulator Tower. The octagonal brick tower and the chimney by the basin, with the viaduct behind. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Limehouse Accumulator Tower, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-340",
@@ -5808,7 +5900,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5817,7 +5909,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-340-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Lowther Lodge. Norman Shaw's red brick, the gables and the tall chimneys. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Lowther Lodge, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-341",
@@ -5846,7 +5940,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5855,7 +5949,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-341-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Bruce Castle. The brick manor, the white clock cupola, and the separate crenellated round tower. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Bruce Castle, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-342",
@@ -5922,7 +6018,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5931,7 +6027,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-343-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Rainham Hall. Three storeys of brown-red brick, stone quoins, the carved porch, and the forecourt railings. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Rainham Hall, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-344",
@@ -5960,7 +6058,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -5969,7 +6067,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-344-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Boston Manor House. Red brick, three Dutch gables with roundels, and the stone porch with its balcony. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Boston Manor House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-345",
@@ -5998,7 +6098,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6007,7 +6107,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-345-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Upminster Windmill. The white smock mill, the gallery, four sails, and the fantail. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Upminster Windmill, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-346",
@@ -6036,7 +6138,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6045,7 +6147,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-346-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Fenton House. Brown brick, the blind centre with its roundel, the Doric porch, and the balustraded wings. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Fenton House, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-347",
@@ -6075,7 +6179,7 @@
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6084,7 +6188,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-347-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. 2 Willow Road. Goldfinger's brick terrace, the concrete frame, the continuous first-floor window, and the projecting garages. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption '2 Willow Road, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-348",
@@ -6114,7 +6220,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6123,7 +6229,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-348-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. St Mary Somerset Tower. Wren's stone tower and the pinnacles, standing on Upper Thames Street. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'St Mary Somerset Tower, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-349",
@@ -6153,7 +6261,7 @@
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6162,7 +6270,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-349-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. German Gymnasium. Yellow stock brick, the gabled end with its round window, and the long arched range. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'German Gymnasium, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-350",
@@ -6191,7 +6301,7 @@
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -6200,7 +6310,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-350-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. WO wo-qc-zeroout-uk-20261005T164050Z; result devlij/jason-d-vision-relay main results/wo-qc-zeroout-uk-20261005T164050Z-result.json (56 PASS / 36 FAIL, completed 2026-10-05T16:50:01Z). Gate 1 visual/location: PASS. Trinity Hospital. The Gothic almshouse range, the clock and spire, on the river wall at Greenwich. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, base masters HTTP 200/200/200. Gate 3 originality/provenance: PASS. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Trinity Hospital, London', disclosure present, signature present. Evidence: prior-report PASS (asset unchanged, md5 match) + fresh 16:9/4:5 Read.",
+      "approved_at": "2026-10-05"
     }
   ]
 }
