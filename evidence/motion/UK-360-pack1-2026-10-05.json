@@ -1,0 +1,227 @@
+{
+  "work_order": "wo-360-kickoff-uk-20261005",
+  "pack": 1,
+  "method": "static-ambient",
+  "method_note": "ffmpeg Ken Burns pan-zoom on crop=864:1080:0:0 of base 4:5 master; no i2v",
+  "via": "Image Assistant / Jason JDVISION 2026-10-05",
+  "cosmo_qc": "not claimed",
+  "approval_status_flipped": false,
+  "spec": {
+    "duration_s": 10.0,
+    "fps": 24,
+    "frames": 240,
+    "width": 864,
+    "height": 1080,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "crop": "864:1080:0:0",
+    "zoom": "1.00\u21921.08 ease-in-out",
+    "pan": "2% width left\u2192right"
+  },
+  "pass": [
+    "UK-01-011",
+    "UK-01-012",
+    "UK-01-013",
+    "UK-01-014",
+    "UK-01-015",
+    "UK-01-016",
+    "UK-01-017",
+    "UK-01-018",
+    "UK-01-019",
+    "UK-01-020"
+  ],
+  "hold": [],
+  "results": [
+    {
+      "entry_id": "UK-01-011",
+      "status": "PASS",
+      "reason": "ok diff=30.48",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-011-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-011-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 4780558,
+      "sha256": "a6b3b8b587c8acc2ae12a6990fad48f3e0c32c28fc7c1de73c1f2e57c3643ce2"
+    },
+    {
+      "entry_id": "UK-01-012",
+      "status": "PASS",
+      "reason": "ok diff=21.63",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-012-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-012-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3960785,
+      "sha256": "6f603f876acabee1ff262bb7b9c2107fdeaba741a3ed0af9a0bfd98670320c5b"
+    },
+    {
+      "entry_id": "UK-01-013",
+      "status": "PASS",
+      "reason": "ok diff=32.09",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-013-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-013-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 5514301,
+      "sha256": "84882943185d3416eb541f58072a37d8572f23cfb01d2ab122da2bf84f9bd817"
+    },
+    {
+      "entry_id": "UK-01-014",
+      "status": "PASS",
+      "reason": "ok diff=12.38",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-014-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-014-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 1959464,
+      "sha256": "62edebb6a7b341e40a2f5ba11fed049ca9c6019c53492ec0b20911f109c58dc1"
+    },
+    {
+      "entry_id": "UK-01-015",
+      "status": "PASS",
+      "reason": "ok diff=19.59",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-015-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-015-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3673638,
+      "sha256": "461c83f7e0ee6c7ed81313a73ea8547a85725db8490792387aa0ccfd7838c58e"
+    },
+    {
+      "entry_id": "UK-01-016",
+      "status": "PASS",
+      "reason": "ok diff=21.23",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-016-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-016-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 2865387,
+      "sha256": "e6b8502bfc362ad952184077d355bedd0786f0326e79f52088f8ce5721aa6d50"
+    },
+    {
+      "entry_id": "UK-01-017",
+      "status": "PASS",
+      "reason": "ok diff=21.76",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-017-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-017-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 4052884,
+      "sha256": "0c21a1f9f123e232966237120bb5f7890c2ecafcc1670a16c1a61708fa9a0ee9"
+    },
+    {
+      "entry_id": "UK-01-018",
+      "status": "PASS",
+      "reason": "ok diff=17.87",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-018-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-018-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3204458,
+      "sha256": "b554153b46092f43af37520f89074e84008530a029d02b298f6b5eb700074a72"
+    },
+    {
+      "entry_id": "UK-01-019",
+      "status": "PASS",
+      "reason": "ok diff=23.16",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-019-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-019-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 4461552,
+      "sha256": "1832cb80fbec90307046c0561375448f545fa768da8e43c2c03858f8590e240a"
+    },
+    {
+      "entry_id": "UK-01-020",
+      "status": "PASS",
+      "reason": "ok diff=23.05",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-020-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-020-4x5.png",
+      "method": "static-ambient",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 4582152,
+      "sha256": "a5a4d0fcc9d60f521cfc9572d8d8fd6a7cdf7568588f0f822b8a55a27ac0cfa4"
+    }
+  ]
+}
