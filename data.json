@@ -1412,7 +1412,7 @@
       "site": "Banqueting House",
       "place": "Westminster",
       "caption": "Banqueting House, London",
-      "scenario_label": "30 September 2026 \u00b7 16:08 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 08:45 Europe/London",
       "composition": "Clear afternoon \u00b7 Whitehall looking west at the Portland-stone facade \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Banqueting House on Whitehall in London under a clear afternoon sky",
       "description": "From the east side of Whitehall the view looks west at the Banqueting House, Inigo Jones's Portland-stone facade of seven bays, pilasters on two storeys, and a roof balustrade. The street is in the foreground under a clear sky. It is a dry afternoon, about 23.4\u00b0C, and the sun is in the southwest. Horse Guards is not in the frame.",
@@ -1426,7 +1426,7 @@
         "A balustrade runs along the roof and the basement is rusticated",
         "This is not Horse Guards and it has no clock tower"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:08 Europe/London. Calculated solar azimuth is southwest and elevation is about 21.4\u00b0. The sky is clear. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 08:45 Europe/London. Calculated solar azimuth is east-southeast and elevation is about 13.7\u00b0. The sky is clear. model is_day is 1.",
       "moods": [
         "historic"
       ],
