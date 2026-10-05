@@ -1,0 +1,317 @@
+{
+  "work_order": "wo-verifier-uk360-fix-20261005",
+  "prior_wo": "wo-360-kickoff-uk-20261005",
+  "reauth": "wo-360-static-ambient-reauth-20261005",
+  "jason_confirmation": "2026-10-05",
+  "pack": 2,
+  "method": "static-ambient",
+  "method_note": "Claimed Cosmo path executed for UK-01-024–030: prefer genuine-daylight-16x9 (else 16x9) from main; documented Lanczos scale 1280×720→1920×1080 (needed so height≥1080); Cosmo crop=864:1080:528:0 → 864×1080 plate; Ken Burns zoom 1.00→1.08 + ~2% L→R ease over exactly 10.0s @ 24fps (240 frames). UK-01-021–023 kept from prior tall-4:5 PASS. No i2v.",
+  "via": "Real Place Verifier / Jason JDVISION 2026-10-05",
+  "cosmo_qc": "not claimed",
+  "approval_status_flipped": false,
+  "spec": {
+    "duration_s": 10.0,
+    "fps": 24,
+    "frames": 240,
+    "width": 864,
+    "height": 1080,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "source_path_024_030": "16x9 daylight → Lanczos 1920x1080 → crop=864:1080:528:0",
+    "source_path_021_023": "4:5 master → crop=864:1080:0:0 (prior, kept)",
+    "zoom": "1.00→1.08 ease-in-out",
+    "pan": "2% width left→right",
+    "scale_note": "On main, UK-01-024–030 genuine-daylight-16x9 PNGs are 1280×720; Lanczos upscale to 1920×1080 is required once so Cosmo crop height is valid. Documented per Jason confirmation 2026-10-05."
+  },
+  "pass": [
+    "UK-01-021",
+    "UK-01-022",
+    "UK-01-023",
+    "UK-01-024",
+    "UK-01-025",
+    "UK-01-026",
+    "UK-01-027",
+    "UK-01-028",
+    "UK-01-029",
+    "UK-01-030"
+  ],
+  "hold": [],
+  "skipped": [],
+  "escalate": {
+    "triggered": false
+  },
+  "scenes": [
+    {
+      "entry_id": "UK-01-021",
+      "site": "Royal Albert Hall",
+      "status": "PASS",
+      "reason": "kept from prior pack2 (tall 4:5 path); not replaced",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-021-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-021-4x5.png",
+      "pipeline": "4:5 master crop=864:1080:0:0 → KenBurns (prior)",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 3126241
+    },
+    {
+      "entry_id": "UK-01-022",
+      "site": "30 St Mary Axe",
+      "status": "PASS",
+      "reason": "kept from prior pack2 (tall 4:5 path); not replaced",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-022-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-022-4x5.png",
+      "pipeline": "4:5 master crop=864:1080:0:0 → KenBurns (prior)",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 3743929
+    },
+    {
+      "entry_id": "UK-01-023",
+      "site": "Shakespeare's Globe",
+      "status": "PASS",
+      "reason": "kept from prior pack2 (tall 4:5 path); not replaced",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-023-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-023-4x5.png",
+      "pipeline": "4:5 master crop=864:1080:0:0 → KenBurns (prior)",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false
+      },
+      "bytes": 2534629
+    },
+    {
+      "entry_id": "UK-01-024",
+      "site": "The Monument",
+      "status": "PASS",
+      "reason": "ok diff=31.10",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-024-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-024-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 2176145
+    },
+    {
+      "entry_id": "UK-01-025",
+      "site": "Harrods",
+      "status": "PASS",
+      "reason": "ok diff=34.08",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-025-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-025-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3213146
+    },
+    {
+      "entry_id": "UK-01-026",
+      "site": "Old Royal Naval College",
+      "status": "PASS",
+      "reason": "ok diff=25.88",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-026-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-026-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 2247648
+    },
+    {
+      "entry_id": "UK-01-027",
+      "site": "Victoria and Albert Museum",
+      "status": "PASS",
+      "reason": "ok diff=33.31",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-027-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-027-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3002050
+    },
+    {
+      "entry_id": "UK-01-028",
+      "site": "Guildhall",
+      "status": "PASS",
+      "reason": "ok diff=31.58",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-028-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-028-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3039840
+    },
+    {
+      "entry_id": "UK-01-029",
+      "site": "Lambeth Palace",
+      "status": "PASS",
+      "reason": "ok diff=26.02",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-029-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-029-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 3483168
+    },
+    {
+      "entry_id": "UK-01-030",
+      "site": "Wellington Arch",
+      "status": "PASS",
+      "reason": "ok diff=33.47",
+      "motion": "assets/pretext/united-kingdom/London/uk-01-030-motion-10s-4x5.mp4",
+      "source": "assets/pretext/united-kingdom/London/uk-01-030-genuine-daylight-16x9.png",
+      "source_dims": [
+        1280,
+        720
+      ],
+      "scaled_1280_to_1920": true,
+      "scale_note": "Lanczos upscale 1280x720 → 1920x1080 so Cosmo crop crop=864:1080:528:0 is valid (Jason confirmed 2026-10-05)",
+      "crop": "864:1080:528:0",
+      "plate_dims": [
+        864,
+        1080
+      ],
+      "method": "static-ambient",
+      "pipeline": "16x9→Lanczos 1920x1080→crop=864:1080:528:0→KenBurns",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "duration": 10.0,
+        "has_audio": false,
+        "nb_frames": "240"
+      },
+      "bytes": 2256771
+    }
+  ]
+}
