@@ -1930,7 +1930,7 @@
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -1939,7 +1939,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-049-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired proper labeled masters (1920\u00d71270 / 864\u00d71270 / 1080\u00d72110) via tools/composite_masters.py from the retained photoreal postcard plates; prior live file_16x9/file_4x5 were bare 1280\u00d7720 identical to postcard (FAIL technical/provenance/publication). Gate 1 visual/location: PASS (carried). Photoreal Oxford Street colonnade with Queen of Time / SELFRIDGES fascia; imagery unchanged from prior visual PASS. Gate 2 technical: PASS. 16:9 1920x1270, 4:5 864x1270, 9:16 1080x2110; label bar #0e0e12 + hairline; base\u2260postcard. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 2 references). Gate 5 publication readiness: PASS. Baked caption 'Selfridges, London', disclosure present, signature present. Evidence: /workspace/uk-049-fix/self-qc.json; scenario 5 October 2026 \u00b7 12:00 Europe/London.",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-050",
