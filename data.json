@@ -3208,26 +3208,26 @@
       "site": "Hammersmith Apollo",
       "place": "Hammersmith and Fulham",
       "caption": "Hammersmith Apollo, London",
-      "scenario_label": "1 October 2026 · 20:27 Europe/London",
-      "composition": "Clear night · the wide Art Deco front and the curved centre · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Hammersmith Apollo Art Deco front in London on a clear night",
-      "description": "From Queen Caroline Street the view looks at the Hammersmith Apollo, a very wide Art Deco front of brick and pale stone with a curved centre. It is a clear night, about 17.6°C, dry, and the sun is below the horizon. There is no globe on the roof.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Queen Caroline Street looking at the curved Art Deco colonnade and canopy · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hammersmith Apollo Art Deco front in London, a curved colonnade of giant engaged columns under a canopy",
+      "description": "From Queen Caroline Street the view looks at the Hammersmith Apollo, a very wide Art Deco front of pale stone with a curved centre of giant engaged columns and a flat canopy between flanking pavilions. It is a dry mainly clear day, and the sun is well above the horizon. There is no globe on the roof.",
       "viewpoint": "Public pavement on Queen Caroline Street, looking southeast at the wide front. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Hammersmith_Apollo",
         "https://www.eventimapollo.com/"
       ],
       "anchors": [
-        "A very wide Art Deco front of brick and pale stone",
-        "The centre of the front is curved",
+        "A curved centre of about fifteen giant engaged fluted columns",
+        "A flat canopy spans the curved centre between the side pavilions",
         "There is no globe, so it is not the London Coliseum"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287°, and elevation is about -17.5°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3236,7 +3236,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-272-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Hammersmith Apollo ~15 giant engaged columns on curved centre + canopy between pavilions; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Hammersmith Apollo, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-273",
@@ -3247,10 +3249,10 @@
       "site": "Holland House",
       "place": "Kensington and Chelsea",
       "caption": "Holland House, London",
-      "scenario_label": "1 October 2026 · 20:27 Europe/London",
-      "composition": "Clear night · the surviving east wing and the low ruin · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the surviving east wing of Holland House in Holland Park on a clear night",
-      "description": "From a path in Holland Park the view looks at the surviving east wing of Holland House, red brick and stone with an arcade, shaped gables, and a low ruin where the old centre stood. It is a clear night, about 17.4°C, dry, and the sun is below the horizon. The house is not rebuilt as a complete palace.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Holland Park looking at the east wing arcade and attached stone ruin · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Holland House in London, a roofed red-brick east wing with shaped gables over an arcade and an attached low stone ruin loggia",
+      "description": "From a path in Holland Park the view looks at the surviving east wing of Holland House, red brick and stone with an arcade and shaped gables, and an attached low stone ruin porch where the old centre stood. It is a dry mainly clear day, and the sun is well above the horizon. The house is not rebuilt as a complete palace.",
       "viewpoint": "Public path in Holland Park, looking west at the surviving east wing. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Holland_House",
@@ -3258,14 +3260,14 @@
       ],
       "anchors": [
         "The east wing is red brick and stone, with an arcade, mullions, and shaped gables",
-        "The old centre survives only as a low ruin",
+        "A low stone ruin porch or loggia is attached to the wing, not a separate complete palace",
         "It is Holland House, not Leighton House"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287°, and elevation is about -17.5°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3274,7 +3276,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-273-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Holland House roofed east wing with shaped gables over arcade + attached low stone ruin porch/loggia (not complete palace); photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Holland House, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-274",
@@ -3325,10 +3329,10 @@
       "site": "The Old Vic",
       "place": "Lambeth",
       "caption": "The Old Vic, London",
-      "scenario_label": "1 October 2026 · 20:27 Europe/London",
-      "composition": "Clear night · the colonnade and the broken pediment · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Old Vic's rendered front and colonnade in London on a clear night",
-      "description": "From the corner of The Cut the view looks at the Old Vic, a white rendered front with a colonnade and a broken pediment, and a brick flank of blind arches. It is a clear night, about 17.9°C, dry, and the sun is below the horizon. The concrete National Theatre is not the subject.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · The Cut looking at the colonnade and broken pediment · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Vic in London, a white five-bay front with a colonnade and a broken pediment with a coat of arms",
+      "description": "From the corner of The Cut the view looks at the Old Vic, a white rendered three-storey five-bay front with a five-bay colonnade and a broken pediment holding a coat of arms, and a brick flank of blind arches. It is a dry mainly clear day, and the sun is well above the horizon. The concrete National Theatre is not the subject.",
       "viewpoint": "Public corner of The Cut and Waterloo Road, looking north at the rendered front. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/The_Old_Vic",
@@ -3336,15 +3340,15 @@
       ],
       "anchors": [
         "A white rendered front of five bays and three storeys",
-        "A colonnade and a broken pediment mark the front",
+        "A five-bay colonnade and a broken pediment with a coat of arms mark the front",
         "The brick flank has tall blind arches, and it is not the National Theatre"
       ],
-      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287°, and elevation is about -17.6°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3353,7 +3357,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-275-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. The Old Vic 3-storey 5-bay Cut front, 5-bay colonnade, broken pediment with coat of arms; brick flank OK; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'The Old Vic, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-276",
@@ -3364,25 +3370,25 @@
       "site": "Hyde Park Barracks",
       "place": "Westminster",
       "caption": "Hyde Park Barracks, London",
-      "scenario_label": "1 October 2026 · 20:27 Europe/London",
-      "composition": "Clear night · the red-brick slab and the stables range · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Hyde Park Barracks brick tower in London on a clear night",
-      "description": "From the south edge of Hyde Park the view looks at Hyde Park Barracks, a tall rectangular red-brick tower with a flat roof and a low stables range at its foot. It is a clear night, about 17.4°C, dry, and the sun is below the horizon. A few windows are lit.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Hyde Park looking south at the Spence tower and stables · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hyde Park Barracks in London, a Spence concrete ribbon-window tower under a metal crown beside modern stables",
+      "description": "From the south edge of Hyde Park the view looks at Hyde Park Barracks, Sir Basil Spence's tall concrete tower of continuous ribbon windows under a cantilevered metal crown, with a modern low stables range at its foot. It is a dry mainly clear day, and the sun is well above the horizon. It is not a brick point block.",
       "viewpoint": "Public path on the south edge of Hyde Park, looking south at the tower. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Hyde_Park_Barracks,_London",
         "https://c20society.org.uk/casework/barracks-under-threat"
       ],
       "anchors": [
-        "A tall rectangular red-brick slab with a flat roof",
-        "A long low stables range sits at the foot of the tower",
-        "It is Hyde Park Barracks, not the London Hilton on Park Lane"
+        "A tall concrete tower of horizontal ribbon windows under a metal crown",
+        "A long low modern stables range sits at the foot of the tower",
+        "It is Hyde Park Barracks (Spence), not a brick point block and not the London Hilton on Park Lane"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287°, and elevation is about -17.6°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3391,7 +3397,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-276-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Hyde Park Barracks Spence concrete ribbon-window tower under metal crown + modern stables (not brick point block); photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Hyde Park Barracks, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-277",
@@ -3522,26 +3530,26 @@
       "site": "Battersea Arts Centre",
       "place": "Wandsworth",
       "caption": "Battersea Arts Centre, London",
-      "scenario_label": "1 October 2026 · 20:27 Europe/London",
-      "composition": "Clear night · the brick and stone civic front · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Battersea Arts Centre, the former town hall, in London on a clear night",
-      "description": "From Lavender Hill the view looks at Battersea Arts Centre, the former town hall, red brick and Bath stone with a formal centrepiece. It is a clear night, about 17.4°C, dry, and the sun is below the horizon. There are no power-station chimneys.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Lavender Hill looking at the Ionic portico, cupola, and corner pavilions · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Battersea Arts Centre in London, a red-brick civic front with an Ionic semicircular portico, cupola, and corner pavilions",
+      "description": "From Lavender Hill the view looks at Battersea Arts Centre, the former town hall, red brick and Bath stone with an Ionic semicircular portico, a roof cupola, and corner pavilions. It is a dry mainly clear day, and the sun is well above the horizon. There are no power-station chimneys.",
       "viewpoint": "Public pavement on Lavender Hill, looking north at the civic front. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Battersea_Town_Hall",
         "https://bac.org.uk/"
       ],
       "anchors": [
-        "Red Suffolk brick with Bath stone dressings",
-        "A formal stone centrepiece on a three-storey civic front",
+        "An Ionic semicircular portico marks the civic entrance",
+        "A cupola sits on the roof above the centre, with corner pavilions at the ends",
         "It is the former Battersea Town Hall, not Battersea Power Station"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 20:27 Europe/London. Calculated solar azimuth is west-northwest, about 287°, and elevation is about -17.6°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3550,7 +3558,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-280-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Battersea Arts Centre Ionic semicircular portico + cupola + corner pavilions; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Battersea Arts Centre, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-281",
@@ -3561,26 +3571,26 @@
       "site": "Lyceum Theatre",
       "place": "Westminster",
       "caption": "Lyceum Theatre, London",
-      "scenario_label": "1 October 2026 · 21:10 Europe/London",
-      "composition": "Clear night · the hexastyle portico · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Lyceum Theatre portico on Wellington Street in London on a clear night",
-      "description": "From Wellington Street the view looks north at the Lyceum Theatre, Samuel Beazley's pale stone portico of Corinthian columns under a triangular pediment. The old dome is not there. It is a clear night, about 17.1°C, dry, and the sun is below the horizon.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Wellington Street looking north at the hexastyle Corinthian portico · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Lyceum Theatre in London, a pale stone hexastyle Corinthian portico under a triangular pediment",
+      "description": "From Wellington Street the view looks north at the Lyceum Theatre, Samuel Beazley's pale stone hexastyle portico of six Corinthian columns under a triangular pediment. The old dome is not there. It is a dry mainly clear day, and the sun is well above the horizon.",
       "viewpoint": "Public pavement on Wellington Street, south of the portico, looking north. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Lyceum_Theatre,_London",
         "https://historicengland.org.uk/listing/the-list/list-entry/1066119"
       ],
       "anchors": [
-        "A giant hexastyle Corinthian portico of pale stone stands over the pavement, with a triangular pediment",
+        "A giant hexastyle Corinthian portico of six columns stands over the pavement, with a triangular pediment",
         "A tall attic sits above the entablature, and there is no dome",
         "It is the Lyceum on Wellington Street, not the London Coliseum and not the London Palladium"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:10 Europe/London. Calculated solar azimuth is west-northwest, about 297°, and elevation is about -23.9°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3589,7 +3599,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-281-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Lyceum Theatre hexastyle 6-column Corinthian portico under triangular pediment; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Lyceum Theatre, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-282",
@@ -3641,26 +3653,26 @@
       "site": "Hertford House",
       "place": "Westminster",
       "caption": "Hertford House, London",
-      "scenario_label": "1 October 2026 · 21:11 Europe/London",
-      "composition": "Clear night · the Manchester Square front · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Hertford House on Manchester Square in London on a clear night",
-      "description": "From Manchester Square the view looks north at Hertford House, a straight pale-stone townhouse of three storeys with sash windows and iron railings. There is no giant portico and no dome. It is a clear night, about 16.9°C, dry, and the sun is below the horizon.",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Manchester Square looking at the red-brick Wallace front and Doric porte cochère · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hertford House in London, a red-brick Wallace Collection front with a Doric porte cochère",
+      "description": "From Manchester Square the view looks north at Hertford House, the red-brick Wallace Collection front with cream stone dressings and a central Doric porte cochère under a stone balustrade. It is a dry mainly clear day, and the sun is well above the horizon. It is not a plain pale-stone terrace without a porch.",
       "viewpoint": "Public pavement on the south side of Manchester Square, looking north at the townhouse. A surveyed tripod mark was not pinned.",
       "references": [
         "https://en.wikipedia.org/wiki/Wallace_Collection",
         "https://www.wallacecollection.org/"
       ],
       "anchors": [
-        "The Manchester Square front is a straight pale-stone townhouse of three storeys",
-        "Sash windows, a modest central door, a roof balustrade, and iron railings",
-        "It is Hertford House, not Apsley House and not a crescent"
+        "The Manchester Square front is red brick with cream stone dressings over a rusticated stone ground floor",
+        "A central Doric porte cochère carries a stone balustrade balcony",
+        "It is Hertford House (Wallace Collection), not Apsley House and not a crescent"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 21:11 Europe/London. Calculated solar azimuth is west-northwest, about 297°, and elevation is about -23.9°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "historic",
         "urban"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3669,7 +3681,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-283-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Hertford House red-brick Wallace front + Doric porte cochère; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Hertford House, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-284",
