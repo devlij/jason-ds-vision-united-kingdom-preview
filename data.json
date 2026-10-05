@@ -2562,10 +2562,10 @@
       "site": "Royal Opera House",
       "place": "Westminster",
       "caption": "Royal Opera House, London",
-      "scenario_label": "30 September 2026 \u00b7 21:47 Europe/London",
-      "composition": "Partly cloudy night \u00b7 Bow Street looking west at the Floral Hall and the stone portico \u00b7 AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Royal Opera House on Bow Street in London, the glazed Floral Hall beside the stone portico, on a partly cloudy night",
-      "description": "From the east pavement of Bow Street the view looks west at the Royal Opera House. The glazed iron-and-glass Floral Hall, with its tall arched windows and barrel-vaulted roof, stands beside the smaller stone block and its six-column Corinthian portico. The Covent Garden piazza is not in the frame. It is a partly cloudy night, about 19.3\u00b0C, dry, and the sun is below the horizon.",
+      "scenario_label": "5 October 2026 \u00b7 18:33 Europe/London",
+      "composition": "Mostly clear night \u00b7 Bow Street looking west at the Floral Hall and the stone portico \u00b7 AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Opera House on Bow Street in London, the glazed Floral Hall beside the stone portico with columns above rusticated arches, on a mostly clear night",
+      "description": "From the east pavement of Bow Street the view looks west at the Royal Opera House. The glazed iron-and-glass Floral Hall, with its tall arched windows and barrel-vaulted roof, stands beside the smaller stone block and its six-column Corinthian portico above a rusticated arched ground storey. The Covent Garden piazza is not in the frame. It is a mostly clear night, about 21.0\u00b0C, dry, and the sun is below the horizon.",
       "viewpoint": "Public viewpoint on the east pavement of Bow Street, looking west at the Floral Hall with the stone portico block beside it. A surveyed tripod mark was not pinned.",
       "references": [
         "https://www.architape.co.uk/blog/architape-projects-245/royal-opera-house-london-259",
@@ -2581,12 +2581,12 @@
         "Beside it, the stone block has a Corinthian hexastyle portico of six columns on a rusticated podium, under a pediment",
         "The two fronts are one Bow Street building; the Covent Garden piazza and the Theatre Royal Drury Lane porch are not in this frame"
       ],
-      "solar": "After sunset. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 21:47 Europe/London. Calculated solar azimuth is northwest, about 306\u00b0, and elevation is about -28.3\u00b0. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunset. Model sunrise 07:07 and sunset 18:29 Europe/London. The scenario is 18:33 Europe/London. Calculated solar elevation is below the horizon. The sky is mostly clear (cloud cover about 28%). model is_day is 0.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Candidate",
@@ -2595,7 +2595,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-106-9x16.png",
       "motion": null,
       "license_badge": "Free \u00b7 no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal ROH stills (postcard / genuine-daylight-night / night) and proper labeled masters (1920\u00d71270 / 864\u00d71270 / 1080\u00d72110) via tools/composite_masters.py from the night live-weather genuine plate (London night at gen/publish time). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Barry portico ABOVE rusticated arched ground storey on both 16:9 and 4:5 labeled photos; Floral Hall beside stone portico; photoreal; not pavement-plinth columns. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base\u2260postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented (Free \u00b7 no credit needed \u00b7 7 references). Gate 5 publication readiness: PASS. Baked caption 'Royal Opera House, London', disclosure present, signature present. Evidence: /workspace/uk-106-qc/self-qc.json; scenario 5 October 2026 \u00b7 18:33 Europe/London (night; model is_day 0).",
+      "approved_at": "2026-10-05"
     },
     {
       "entry_id": "UK-01-107",
