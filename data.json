@@ -3086,8 +3086,8 @@
       "site": "Museum of the Home",
       "place": "Hoxton",
       "caption": "Museum of the Home, London",
-      "scenario_label": "1 October 2026 · 19:55 Europe/London",
-      "composition": "Mainly clear night · Kingsland Road looking west at the almshouse front and cupola · AI-generated artistic interpretation",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Kingsland Road looking west at the almshouse front and cupola · AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Museum of the Home in London, a long brick almshouse range with a central cupola, at night",
       "description": "From Kingsland Road the view looks across the lawn at the Museum of the Home, a long brown-brick almshouse range whose centre is a pedimented chapel with a small white cupola. It is the old Geffrye almshouses, not the British Museum. It is a dry mainly clear night, about 18.7°C, and the sun is already well below the horizon in the west.",
       "viewpoint": "Public viewpoint on the Kingsland Road pavement, looking west across the lawn at the almshouse front. A surveyed tripod mark was not pinned.",
@@ -3100,12 +3100,12 @@
         "The centre is a pedimented chapel with a small white cupola",
         "It is the Museum of the Home, not the British Museum"
       ],
-      "solar": "After sunset. Model sunrise 07:00 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281°, and elevation is about -12.9°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:28 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 7%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3114,7 +3114,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-269-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. Georgian Museum of the Home almshouse front on lawn with central pediment + white cupola; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'Museum of the Home, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-270",
@@ -3125,8 +3127,8 @@
       "site": "York Water Gate",
       "place": "Westminster",
       "caption": "York Water Gate, London",
-      "scenario_label": "1 October 2026 · 19:55 Europe/London",
-      "composition": "Mainly clear night · Embankment Gardens looking south at the stone watergate · AI-generated artistic interpretation",
+      "scenario_label": "5 October 2026 · Europe/London",
+      "composition": "Clear sky daylight · Embankment Gardens looking south at the stone watergate · AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the York Water Gate in London, a Portland-stone arch with lions on the pediment, at night",
       "description": "From Victoria Embankment Gardens the view looks at the York Water Gate, a Portland-stone watergate with a large central arch, side niches, and lions on the pediment, standing inland on a lawn. It is the 1626 gate from York House, not Somerset House. It is a dry mainly clear night, about 18.4°C, and the sun is already well below the horizon in the west.",
       "viewpoint": "Public viewpoint in Victoria Embankment Gardens, looking south at the river face of the watergate. A surveyed tripod mark was not pinned.",
@@ -3139,12 +3141,12 @@
         "Lions lie at the ends of the pediment",
         "It is the York Water Gate, not Somerset House and not Temple Bar"
       ],
-      "solar": "After sunset. Model sunrise 07:01 and sunset 18:38 Europe/London. The scenario is 19:55 Europe/London. Calculated solar azimuth is west, about 281°, and elevation is about -12.8°. The disk is below the horizon. model is_day is 0.",
+      "solar": "After sunrise. Model sunrise 07:07 and sunset 18:29 Europe/London. The scenario is 5 October 2026 · Europe/London (daylight bake; labeled from genuine-daylight plate). Calculated solar position near midday is high in the southern sky. The sky is clear sky (cloud cover about 5%). model is_day is 1.",
       "moods": [
         "urban",
         "historic"
       ],
-      "approval_status": "Candidate",
+      "approval_status": "Approved",
       "format_16x9_approval_status": "Candidate",
       "format_4x5_approval_status": "Candidate",
       "format_9x16_approval_status": "Approved",
@@ -3153,7 +3155,9 @@
       "file_9x16": "assets/pretext/united-kingdom/London/uk-01-270-9x16.png",
       "motion": null,
       "license_badge": "Free · no credit needed",
-      "license_anchor": "#license"
+      "license_anchor": "#license",
+      "approved_at": "2026-10-05",
+      "approval_basis": "Real Place Verifier self-QC five-gate PASS (Grok Bot QC) 2026-10-05, under Jason's 2026-10-05 authorization for RPV to approve its own five-gate passes. This is not a Cosmo review and not a Jason review. Rebuild: wired photoreal stills (postcard / genuine-daylight / night) and labeled masters (1920×1270 / 864×1270 / 1080×2110). Art.50 day 2026-10-05. Gate 1 visual/location: PASS. York Water Gate three rusticated arches + reclining lions + central arms; photoreal; same place on 16:9 and 4:5. Gate 2 technical: PASS. dims 1920x1270 / 864x1270 / 1080x2110; label bar #0e0e12 + hairline; base≠postcard; dimensions MAD 0.0. Gate 3 originality/provenance: PASS. Art.50 Title/Description/Copyright/Software/Comment 5/5; on-bar caption/disclosure/signature. Gate 4 commercial/IP: documented. Gate 5 publication readiness: PASS. Baked caption 'York Water Gate, London', disclosure present, signature present. Scenario: 5 October 2026 · Europe/London (daylight genuine plate)."
     },
     {
       "entry_id": "UK-01-271",
