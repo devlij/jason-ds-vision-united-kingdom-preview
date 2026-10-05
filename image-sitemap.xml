@@ -49,14 +49,14 @@
     <loc>https://uk.jdvision.org/#UK-01-004</loc>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-004-16x9.png</image:loc>
-      <image:caption>From Ludgate Hill the view looks east at the west front of St Paul's Cathedral: the Corinthian portico, the two baroque towers, and Wren's dome, lantern, and cross above them. Portland stone reads pale under a featureless grey sky. It is a dry overcast morning, about 21.2°C, with no sun disk.</image:caption>
-      <image:title>St Paul's Cathedral, London</image:title>
+      <image:caption>From Ludgate Hill the view looks east at the west front of St Paul&apos;s Cathedral: the Corinthian portico, the two baroque towers, and Wren&apos;s dome, lantern, and cross above them. Portland stone reads pale under a featureless grey sky. It is a dry overcast morning, about 21.2°C, with no sun disk.</image:caption>
+      <image:title>St Paul&apos;s Cathedral, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-004-4x5.png</image:loc>
-      <image:caption>From Ludgate Hill the view looks east at the west front of St Paul's Cathedral: the Corinthian portico, the two baroque towers, and Wren's dome, lantern, and cross above them. Portland stone reads pale under a featureless grey sky. It is a dry overcast morning, about 21.2°C, with no sun disk.</image:caption>
-      <image:title>St Paul's Cathedral, London</image:title>
+      <image:caption>From Ludgate Hill the view looks east at the west front of St Paul&apos;s Cathedral: the Corinthian portico, the two baroque towers, and Wren&apos;s dome, lantern, and cross above them. Portland stone reads pale under a featureless grey sky. It is a dry overcast morning, about 21.2°C, with no sun disk.</image:caption>
+      <image:title>St Paul&apos;s Cathedral, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
   </url>
@@ -79,13 +79,13 @@
     <loc>https://uk.jdvision.org/#UK-01-006</loc>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-006-16x9.png</image:loc>
-      <image:caption>From the south side of Trafalgar Square the view looks north to Nelson's Column, the granite shaft and the statue, with the bronze lions at the pedestal and the National Gallery portico behind. The sky is a flat grey. It is dry, about 21.2°C, and no sun is visible.</image:caption>
+      <image:caption>From the south side of Trafalgar Square the view looks north to Nelson&apos;s Column, the granite shaft and the statue, with the bronze lions at the pedestal and the National Gallery portico behind. The sky is a flat grey. It is dry, about 21.2°C, and no sun is visible.</image:caption>
       <image:title>Trafalgar Square, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-006-4x5.png</image:loc>
-      <image:caption>From the south side of Trafalgar Square the view looks north to Nelson's Column, the granite shaft and the statue, with the bronze lions at the pedestal and the National Gallery portico behind. The sky is a flat grey. It is dry, about 21.2°C, and no sun is visible.</image:caption>
+      <image:caption>From the south side of Trafalgar Square the view looks north to Nelson&apos;s Column, the granite shaft and the statue, with the bronze lions at the pedestal and the National Gallery portico behind. The sky is a flat grey. It is dry, about 21.2°C, and no sun is visible.</image:caption>
       <image:title>Trafalgar Square, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
@@ -124,13 +124,13 @@
     <loc>https://uk.jdvision.org/#UK-01-009</loc>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-009-16x9.png</image:loc>
-      <image:caption>From the forecourt the view looks north at the British Museum's south front, Smirke's Ionic portico and sculpted pediment in Portland stone, with the steps below. The Great Court roof is not part of this exterior. The morning is overcast and dry, about 21.1°C, with no sun disk.</image:caption>
+      <image:caption>From the forecourt the view looks north at the British Museum&apos;s south front, Smirke&apos;s Ionic portico and sculpted pediment in Portland stone, with the steps below. The Great Court roof is not part of this exterior. The morning is overcast and dry, about 21.1°C, with no sun disk.</image:caption>
       <image:title>British Museum, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
     <image:image>
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-009-4x5.png</image:loc>
-      <image:caption>From the forecourt the view looks north at the British Museum's south front, Smirke's Ionic portico and sculpted pediment in Portland stone, with the steps below. The Great Court roof is not part of this exterior. The morning is overcast and dry, about 21.1°C, with no sun disk.</image:caption>
+      <image:caption>From the forecourt the view looks north at the British Museum&apos;s south front, Smirke&apos;s Ionic portico and sculpted pediment in Portland stone, with the steps below. The Great Court roof is not part of this exterior. The morning is overcast and dry, about 21.1°C, with no sun disk.</image:caption>
       <image:title>British Museum, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
@@ -147,6 +147,1716 @@
       <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-010-4x5.png</image:loc>
       <image:caption>From the north bank the view looks south across the Thames at the London Eye, the whole white wheel and its capsules in frame, with the A-frame over the water and a curve of County Hall to one side. The sky is flat grey and the wheel is not lit for night. It is dry, about 21.3°C, and the sun is hidden.</image:caption>
       <image:title>London Eye, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-011</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-011-16x9.png</image:loc>
+      <image:caption>From the Cromwell Road pavement the view looks north at the Natural History Museum, Waterhouse&apos;s Romanesque front with two towers, banded stone, and the great arched entrance. The afternoon is clear and dry, about 23.8°C, and the sun is in the southwest. The facade is fully in the frame.</image:caption>
+      <image:title>Natural History Museum, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-011-4x5.png</image:loc>
+      <image:caption>From the Cromwell Road pavement the view looks north at the Natural History Museum, Waterhouse&apos;s Romanesque front with two towers, banded stone, and the great arched entrance. The afternoon is clear and dry, about 23.8°C, and the sun is in the southwest. The facade is fully in the frame.</image:caption>
+      <image:title>Natural History Museum, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-012</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-012-16x9.png</image:loc>
+      <image:caption>From the piazza the view looks at Covent Garden&apos;s central market hall, the pale stone arcade and the glass-and-iron roof. The sky is clear, about 23.8°C, dry, with the afternoon sun in the southwest. Shop lettering was not sought in the frame.</image:caption>
+      <image:title>Covent Garden Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-012-4x5.png</image:loc>
+      <image:caption>From the piazza the view looks at Covent Garden&apos;s central market hall, the pale stone arcade and the glass-and-iron roof. The sky is clear, about 23.8°C, dry, with the afternoon sun in the southwest. Shop lettering was not sought in the frame.</image:caption>
+      <image:title>Covent Garden Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-013</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-013-16x9.png</image:loc>
+      <image:caption>From Broad Sanctuary the view looks east at the west front of Westminster Abbey, the twin Gothic towers, the rose window, and the three portals. Elizabeth Tower is outside this frame. It is a clear dry afternoon, about 23.9°C, with the sun in the southwest.</image:caption>
+      <image:title>Westminster Abbey, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-013-4x5.png</image:loc>
+      <image:caption>From Broad Sanctuary the view looks east at the west front of Westminster Abbey, the twin Gothic towers, the rose window, and the three portals. Elizabeth Tower is outside this frame. It is a clear dry afternoon, about 23.9°C, with the sun in the southwest.</image:caption>
+      <image:title>Westminster Abbey, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-014</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-014-16x9.png</image:loc>
+      <image:caption>From the Bankside walk the view looks at Tate Modern, the brick hall of the former power station and its tall rectangular chimney. St Paul&apos;s and the Millennium Bridge are not the subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.</image:caption>
+      <image:title>Tate Modern, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-014-4x5.png</image:loc>
+      <image:caption>From the Bankside walk the view looks at Tate Modern, the brick hall of the former power station and its tall rectangular chimney. St Paul&apos;s and the Millennium Bridge are not the subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.</image:caption>
+      <image:title>Tate Modern, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-015</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-015-16x9.png</image:loc>
+      <image:caption>From Kensington Gardens the view looks west at the red-brick east front of Kensington Palace, white sash windows, and the central pediment. The sky is clear, about 23.7°C, dry, and the sun is in the southwest. The palace front is the whole subject.</image:caption>
+      <image:title>Kensington Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-015-4x5.png</image:loc>
+      <image:caption>From Kensington Gardens the view looks west at the red-brick east front of Kensington Palace, white sash windows, and the central pediment. The sky is clear, about 23.7°C, dry, and the sun is in the southwest. The palace front is the whole subject.</image:caption>
+      <image:title>Kensington Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-016</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-016-16x9.png</image:loc>
+      <image:caption>From the circus the view is centered on the Shaftesbury Memorial Fountain, the bronze winged figure above the basin, with the curved stone quadrant behind it. Light panels carry no readable brands. It is a clear dry afternoon, about 23.7°C, with the sun in the southwest.</image:caption>
+      <image:title>Piccadilly Circus, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-016-4x5.png</image:loc>
+      <image:caption>From the circus the view is centered on the Shaftesbury Memorial Fountain, the bronze winged figure above the basin, with the curved stone quadrant behind it. Light panels carry no readable brands. It is a clear dry afternoon, about 23.7°C, with the sun in the southwest.</image:caption>
+      <image:title>Piccadilly Circus, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-017</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-017-16x9.png</image:loc>
+      <image:caption>From the riverside the view looks at the Cutty Sark in its Greenwich dry dock, the copper hull, bowsprit, and three masts. The Royal Observatory is not in this frame. The afternoon is clear and dry, about 23.7°C, with the sun in the southwest.</image:caption>
+      <image:title>Cutty Sark, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-017-4x5.png</image:loc>
+      <image:caption>From the riverside the view looks at the Cutty Sark in its Greenwich dry dock, the copper hull, bowsprit, and three masts. The Royal Observatory is not in this frame. The afternoon is clear and dry, about 23.7°C, with the sun in the southwest.</image:caption>
+      <image:title>Cutty Sark, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-018</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-018-16x9.png</image:loc>
+      <image:caption>From the south bank the view looks north at HMS Belfast, the grey cruiser&apos;s turrets, bridge, and masts, close enough that Tower Bridge stays out of the frame. It is clear and dry, about 24.0°C, with the sun in the southwest. The ship is the only subject.</image:caption>
+      <image:title>HMS Belfast, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-018-4x5.png</image:loc>
+      <image:caption>From the south bank the view looks north at HMS Belfast, the grey cruiser&apos;s turrets, bridge, and masts, close enough that Tower Bridge stays out of the frame. It is clear and dry, about 24.0°C, with the sun in the southwest. The ship is the only subject.</image:caption>
+      <image:title>HMS Belfast, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-019</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-019-16x9.png</image:loc>
+      <image:caption>From the churchyard the view looks at Southwark Cathedral, the Gothic tower with its corner pinnacles and the stone nave. Borough Market stalls are not in the frame, so the cathedral is the only subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.</image:caption>
+      <image:title>Southwark Cathedral, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-019-4x5.png</image:loc>
+      <image:caption>From the churchyard the view looks at Southwark Cathedral, the Gothic tower with its corner pinnacles and the stone nave. Borough Market stalls are not in the frame, so the cathedral is the only subject. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest.</image:caption>
+      <image:title>Southwark Cathedral, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-020</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-020-16x9.png</image:loc>
+      <image:caption>From Euston Road the view looks at the St Pancras clock tower and the red-brick Gothic facade of the former Midland Grand Hotel. King&apos;s Cross station is not the subject. It is a clear dry afternoon, about 23.7°C, and the sun is in the southwest.</image:caption>
+      <image:title>St Pancras, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-020-4x5.png</image:loc>
+      <image:caption>From Euston Road the view looks at the St Pancras clock tower and the red-brick Gothic facade of the former Midland Grand Hotel. King&apos;s Cross station is not the subject. It is a clear dry afternoon, about 23.7°C, and the sun is in the southwest.</image:caption>
+      <image:title>St Pancras, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-021</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-021-16x9.png</image:loc>
+      <image:caption>From Kensington Gore the view looks north at the Royal Albert Hall, the elliptical terracotta drum, the arched south porch, and the glass-and-iron dome. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. The hall is the only subject.</image:caption>
+      <image:title>Royal Albert Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-021-4x5.png</image:loc>
+      <image:caption>From Kensington Gore the view looks north at the Royal Albert Hall, the elliptical terracotta drum, the arched south porch, and the glass-and-iron dome. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. The hall is the only subject.</image:caption>
+      <image:title>Royal Albert Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-022</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-022-16x9.png</image:loc>
+      <image:caption>From the plaza the view looks up at 30 St Mary Axe, the rounded glass tower known as the Gherkin, its diamond lattice swelling and then closing in a lens-shaped crown. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. The tower is the only subject, and it is not a pointed pyramid.</image:caption>
+      <image:title>30 St Mary Axe, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-022-4x5.png</image:loc>
+      <image:caption>From the plaza the view looks up at 30 St Mary Axe, the rounded glass tower known as the Gherkin, its diamond lattice swelling and then closing in a lens-shaped crown. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. The tower is the only subject, and it is not a pointed pyramid.</image:caption>
+      <image:title>30 St Mary Axe, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-023</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-023-16x9.png</image:loc>
+      <image:caption>From the Bankside walk the view looks at Shakespeare&apos;s Globe, the round timber theatre with white plaster, dark oak, and a thatched roof. The afternoon is clear and dry, about 23.8°C, and the sun is in the southwest. Tate Modern and St Paul&apos;s are not in the frame.</image:caption>
+      <image:title>Shakespeare&apos;s Globe, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-023-4x5.png</image:loc>
+      <image:caption>From the Bankside walk the view looks at Shakespeare&apos;s Globe, the round timber theatre with white plaster, dark oak, and a thatched roof. The afternoon is clear and dry, about 23.8°C, and the sun is in the southwest. Tate Modern and St Paul&apos;s are not in the frame.</image:caption>
+      <image:title>Shakespeare&apos;s Globe, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-024</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-024-16x9.png</image:loc>
+      <image:caption>From Monument Street the view looks at the Monument to the Great Fire, a fluted Doric column of Portland stone on a square pedestal, with a gilded flaming urn at the top. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. St Paul&apos;s dome is not in the frame, so the column is the only subject.</image:caption>
+      <image:title>The Monument, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-024-4x5.png</image:loc>
+      <image:caption>From Monument Street the view looks at the Monument to the Great Fire, a fluted Doric column of Portland stone on a square pedestal, with a gilded flaming urn at the top. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. St Paul&apos;s dome is not in the frame, so the column is the only subject.</image:caption>
+      <image:title>The Monument, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-025</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-025-16x9.png</image:loc>
+      <image:caption>From Brompton Road the view looks at the Harrods corner in Knightsbridge, the warm terracotta facade and the dome above the corner. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. Shop lettering was not sought in the frame.</image:caption>
+      <image:title>Harrods, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-025-4x5.png</image:loc>
+      <image:caption>From Brompton Road the view looks at the Harrods corner in Knightsbridge, the warm terracotta facade and the dome above the corner. The afternoon is clear and dry, about 23.8°C, with the sun in the southwest. Shop lettering was not sought in the frame.</image:caption>
+      <image:title>Harrods, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-026</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-026-16x9.png</image:loc>
+      <image:caption>From the Greenwich riverside the view looks south at the Old Royal Naval College, the two matching baroque domes and the pale stone wings. The afternoon is mainly clear and dry, about 23.7°C, with broken cloud and the sun in the southwest. The Cutty Sark is not in the frame.</image:caption>
+      <image:title>Old Royal Naval College, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-026-4x5.png</image:loc>
+      <image:caption>From the Greenwich riverside the view looks south at the Old Royal Naval College, the two matching baroque domes and the pale stone wings. The afternoon is mainly clear and dry, about 23.7°C, with broken cloud and the sun in the southwest. The Cutty Sark is not in the frame.</image:caption>
+      <image:title>Old Royal Naval College, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-027</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-027-16x9.png</image:loc>
+      <image:caption>From the south side of Cromwell Road the view looks north at the Victoria and Albert Museum entrance, the stone screen with its central arch, columns, and statues along the parapet. The afternoon is clear and dry, about 23.9°C, with the sun in the southwest. This is not the Romanesque front of the Natural History Museum.</image:caption>
+      <image:title>Victoria and Albert Museum, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-027-4x5.png</image:loc>
+      <image:caption>From the south side of Cromwell Road the view looks north at the Victoria and Albert Museum entrance, the stone screen with its central arch, columns, and statues along the parapet. The afternoon is clear and dry, about 23.9°C, with the sun in the southwest. This is not the Romanesque front of the Natural History Museum.</image:caption>
+      <image:title>Victoria and Albert Museum, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-028</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-028-16x9.png</image:loc>
+      <image:caption>From Guildhall Yard the view looks at the Guildhall&apos;s medieval porch, a stone Gothic front with a great pointed arch and battlements. The afternoon is clear and dry, about 23.7°C, with the sun in the southwest. The porch is the only subject.</image:caption>
+      <image:title>Guildhall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-028-4x5.png</image:loc>
+      <image:caption>From Guildhall Yard the view looks at the Guildhall&apos;s medieval porch, a stone Gothic front with a great pointed arch and battlements. The afternoon is clear and dry, about 23.7°C, with the sun in the southwest. The porch is the only subject.</image:caption>
+      <image:title>Guildhall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-029</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-029-16x9.png</image:loc>
+      <image:caption>From Lambeth Palace Road the view looks at Morton&apos;s Tower, the red-brick Tudor gatehouse of Lambeth Palace, with two polygonal towers and a central arch. The afternoon is clear and dry, about 24.0°C, with the sun in the southwest. The river front is not the subject, and the Houses of Parliament stay out of the frame.</image:caption>
+      <image:title>Lambeth Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-029-4x5.png</image:loc>
+      <image:caption>From Lambeth Palace Road the view looks at Morton&apos;s Tower, the red-brick Tudor gatehouse of Lambeth Palace, with two polygonal towers and a central arch. The afternoon is clear and dry, about 24.0°C, with the sun in the southwest. The river front is not the subject, and the Houses of Parliament stay out of the frame.</image:caption>
+      <image:title>Lambeth Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-030</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-030-16x9.png</image:loc>
+      <image:caption>From Hyde Park Corner the view looks at Wellington Arch, the pale stone triumphal arch, with the bronze quadriga of four horses and a winged figure on the roof. The afternoon is clear and dry, about 23.9°C, with the sun in the southwest. Marble Arch is not this monument.</image:caption>
+      <image:title>Wellington Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-030-4x5.png</image:loc>
+      <image:caption>From Hyde Park Corner the view looks at Wellington Arch, the pale stone triumphal arch, with the bronze quadriga of four horses and a winged figure on the roof. The afternoon is clear and dry, about 23.9°C, with the sun in the southwest. Marble Arch is not this monument.</image:caption>
+      <image:title>Wellington Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-031</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-031-16x9.png</image:loc>
+      <image:caption>From the riverside the view looks south at Battersea Power Station, the long brown-brick Art Deco block with a cream chimney at each corner. The Thames sits in the foreground under a clear sky. It is a dry afternoon, about 23.6°C, and the sun is in the southwest. The station is the only subject.</image:caption>
+      <image:title>Battersea Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-031-4x5.png</image:loc>
+      <image:caption>From the riverside the view looks south at Battersea Power Station, the long brown-brick Art Deco block with a cream chimney at each corner. The Thames sits in the foreground under a clear sky. It is a dry afternoon, about 23.6°C, and the sun is in the southwest. The station is the only subject.</image:caption>
+      <image:title>Battersea Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-032</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-032-16x9.png</image:loc>
+      <image:caption>Inside Borough Market the view runs along the Victorian hall, green cast-iron columns under an iron-and-glass roof. Daylight comes through the glass on a clear afternoon, about 23.4°C and dry. Southwark Cathedral is not in the frame. The market hall is the only subject.</image:caption>
+      <image:title>Borough Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-032-4x5.png</image:loc>
+      <image:caption>Inside Borough Market the view runs along the Victorian hall, green cast-iron columns under an iron-and-glass roof. Daylight comes through the glass on a clear afternoon, about 23.4°C and dry. Southwark Cathedral is not in the frame. The market hall is the only subject.</image:caption>
+      <image:title>Borough Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-033</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-033-16x9.png</image:loc>
+      <image:caption>On the Victoria Embankment the pink-granite obelisk of Cleopatra&apos;s Needle stands on its pedestal, with two bronze sphinxes at the base. The Thames wall is behind it under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The needle is the only subject.</image:caption>
+      <image:title>Cleopatra&apos;s Needle, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-033-4x5.png</image:loc>
+      <image:caption>On the Victoria Embankment the pink-granite obelisk of Cleopatra&apos;s Needle stands on its pedestal, with two bronze sphinxes at the base. The Thames wall is behind it under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The needle is the only subject.</image:caption>
+      <image:title>Cleopatra&apos;s Needle, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-034</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-034-16x9.png</image:loc>
+      <image:caption>From the north side the view looks south at Marble Arch, the white marble triumphal arch with a large central opening and two narrower side arches. Corinthian columns and relief panels sit against a clear sky. It is a dry afternoon, about 23.2°C, and the sun is in the southwest. There is no bronze quadriga on the roof.</image:caption>
+      <image:title>Marble Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-034-4x5.png</image:loc>
+      <image:caption>From the north side the view looks south at Marble Arch, the white marble triumphal arch with a large central opening and two narrower side arches. Corinthian columns and relief panels sit against a clear sky. It is a dry afternoon, about 23.2°C, and the sun is in the southwest. There is no bronze quadriga on the roof.</image:caption>
+      <image:title>Marble Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-035</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-035-16x9.png</image:loc>
+      <image:caption>From the path just north of the memorial the view looks south at the Albert Memorial, George Gilbert Scott&apos;s Gothic canopy, the gilded seated figure, and the tall spire. White marble groups stand at the corners of the steps, and the garden trees are at the sides. It is a dry afternoon, about 23.3°C, with the sun in the southwest. The Royal Albert Hall is behind the camera and is not in the frame.</image:caption>
+      <image:title>Albert Memorial, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-035-4x5.png</image:loc>
+      <image:caption>From the path just north of the memorial the view looks south at the Albert Memorial, George Gilbert Scott&apos;s Gothic canopy, the gilded seated figure, and the tall spire. White marble groups stand at the corners of the steps, and the garden trees are at the sides. It is a dry afternoon, about 23.3°C, with the sun in the southwest. The Royal Albert Hall is behind the camera and is not in the frame.</image:caption>
+      <image:title>Albert Memorial, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-036</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-036-16x9.png</image:loc>
+      <image:caption>From the east side of Whitehall the view looks west at the Banqueting House, Inigo Jones&apos;s Portland-stone facade of seven bays, pilasters on two storeys, and a roof balustrade. The street is in the foreground under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. Horse Guards is not in the frame.</image:caption>
+      <image:title>Banqueting House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-036-4x5.png</image:loc>
+      <image:caption>From the east side of Whitehall the view looks west at the Banqueting House, Inigo Jones&apos;s Portland-stone facade of seven bays, pilasters on two storeys, and a roof balustrade. The street is in the foreground under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. Horse Guards is not in the frame.</image:caption>
+      <image:title>Banqueting House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-037</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-037-16x9.png</image:loc>
+      <image:caption>Inside Leadenhall Market the view looks along Horace Jones&apos;s arcade, cast iron painted burgundy, cream, and green, toward the glass crossing dome. Afternoon light comes through the roof on a clear day, about 23.4°C and dry. Cobbles run under the arches. The painted market roof is the only subject.</image:caption>
+      <image:title>Leadenhall Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-037-4x5.png</image:loc>
+      <image:caption>Inside Leadenhall Market the view looks along Horace Jones&apos;s arcade, cast iron painted burgundy, cream, and green, toward the glass crossing dome. Afternoon light comes through the roof on a clear day, about 23.4°C and dry. Cobbles run under the arches. The painted market roof is the only subject.</image:caption>
+      <image:title>Leadenhall Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-038</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-038-16x9.png</image:loc>
+      <image:caption>The frame is filled by the Millennium Bridge itself: a Y-shaped steel support, the fan of cables, and the flat steel deck over the Thames. The afternoon is clear and dry, about 23.5°C, with the sun in the southwest. St Paul&apos;s Cathedral is not in the picture. The bridge is the only subject.</image:caption>
+      <image:title>Millennium Bridge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-038-4x5.png</image:loc>
+      <image:caption>The frame is filled by the Millennium Bridge itself: a Y-shaped steel support, the fan of cables, and the flat steel deck over the Thames. The afternoon is clear and dry, about 23.5°C, with the sun in the southwest. St Paul&apos;s Cathedral is not in the picture. The bridge is the only subject.</image:caption>
+      <image:title>Millennium Bridge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-039</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-039-16x9.png</image:loc>
+      <image:caption>From Whitehall the view looks west at the Horse Guards building, William Kent&apos;s white stone front, the central arch, the clock tower, and the cupola. Symmetrical wings sit to either side under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The building is the subject.</image:caption>
+      <image:title>Horse Guards, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-039-4x5.png</image:loc>
+      <image:caption>From Whitehall the view looks west at the Horse Guards building, William Kent&apos;s white stone front, the central arch, the clock tower, and the cupola. Symmetrical wings sit to either side under a clear sky. It is a dry afternoon, about 23.4°C, and the sun is in the southwest. The building is the subject.</image:caption>
+      <image:title>Horse Guards, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-040</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-040-16x9.png</image:loc>
+      <image:caption>From Commercial Street the view looks east at the west front of Christ Church Spitalfields, Hawksmoor&apos;s Portland-stone portico with its semicircular arch and the broad broach spire above. The whole front, from the steps to the vane, stands against a clear sky. It is a dry afternoon, about 23.5°C, and the sun is in the southwest.</image:caption>
+      <image:title>Christ Church Spitalfields, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-040-4x5.png</image:loc>
+      <image:caption>From Commercial Street the view looks east at the west front of Christ Church Spitalfields, Hawksmoor&apos;s Portland-stone portico with its semicircular arch and the broad broach spire above. The whole front, from the steps to the vane, stands against a clear sky. It is a dry afternoon, about 23.5°C, and the sun is in the southwest.</image:caption>
+      <image:title>Christ Church Spitalfields, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-041</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-041-16x9.png</image:loc>
+      <image:caption>From the south side of the courtyard the view looks north across the fountain jets to Somerset House&apos;s Strand range, William Chambers&apos;s pale stone quadrangle with its central pediment and arched carriage entrance. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The north range is the only building in the frame.</image:caption>
+      <image:title>Somerset House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-041-4x5.png</image:loc>
+      <image:caption>From the south side of the courtyard the view looks north across the fountain jets to Somerset House&apos;s Strand range, William Chambers&apos;s pale stone quadrangle with its central pediment and arched carriage entrance. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The north range is the only building in the frame.</image:caption>
+      <image:title>Somerset House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-042</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-042-16x9.png</image:loc>
+      <image:caption>From The Mall the view looks northeast at Admiralty Arch, the Portland-stone screen of three arches, the wide central opening flanked by two narrower ones, with sculpture along the attic. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. Nelson&apos;s Column is not in this frame.</image:caption>
+      <image:title>Admiralty Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-042-4x5.png</image:loc>
+      <image:caption>From The Mall the view looks northeast at Admiralty Arch, the Portland-stone screen of three arches, the wide central opening flanked by two narrower ones, with sculpture along the attic. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. Nelson&apos;s Column is not in this frame.</image:caption>
+      <image:title>Admiralty Arch, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-043</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-043-16x9.png</image:loc>
+      <image:caption>From the south pavement of the Strand the view looks north at the Royal Courts of Justice, George Edmund Street&apos;s Gothic stone front, the pointed entrance, the traceried window, the clock, and the pinnacles. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The facade fills the frame.</image:caption>
+      <image:title>Royal Courts of Justice, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-043-4x5.png</image:loc>
+      <image:caption>From the south pavement of the Strand the view looks north at the Royal Courts of Justice, George Edmund Street&apos;s Gothic stone front, the pointed entrance, the traceried window, the clock, and the pinnacles. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. The facade fills the frame.</image:caption>
+      <image:title>Royal Courts of Justice, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-044</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-044-16x9.png</image:loc>
+      <image:caption>From the junction the view looks north at Mansion House, the Lord Mayor&apos;s residence, George Dance the Elder&apos;s portico of six Corinthian columns on a rusticated podium and a sculpted pediment. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The portico is the subject.</image:caption>
+      <image:title>Mansion House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-044-4x5.png</image:loc>
+      <image:caption>From the junction the view looks north at Mansion House, the Lord Mayor&apos;s residence, George Dance the Elder&apos;s portico of six Corinthian columns on a rusticated podium and a sculpted pediment. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The portico is the subject.</image:caption>
+      <image:title>Mansion House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-045</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-045-16x9.png</image:loc>
+      <image:caption>From the south side of Threadneedle Street the view looks north at the Bank of England&apos;s windowless stone screen, Soane&apos;s blank curtain wall with a restrained central doorway and the later upper floors set back. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. It is not the Mansion House portico.</image:caption>
+      <image:title>Bank of England, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-045-4x5.png</image:loc>
+      <image:caption>From the south side of Threadneedle Street the view looks north at the Bank of England&apos;s windowless stone screen, Soane&apos;s blank curtain wall with a restrained central doorway and the later upper floors set back. The afternoon is partly cloudy and dry, about 23.2°C, with the sun low in the west-southwest. It is not the Mansion House portico.</image:caption>
+      <image:title>Bank of England, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-046</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-046-16x9.png</image:loc>
+      <image:caption>From the quay the view looks across St Mary Overie Dock at the Golden Hinde, the wooden replica galleon, its golden-ochre hull, high sterncastle, and masts. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The ship is the only subject.</image:caption>
+      <image:title>Golden Hinde II, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-046-4x5.png</image:loc>
+      <image:caption>From the quay the view looks across St Mary Overie Dock at the Golden Hinde, the wooden replica galleon, its golden-ochre hull, high sterncastle, and masts. The afternoon is partly cloudy and dry, about 23.3°C, and the sun is low in the west-southwest. The ship is the only subject.</image:caption>
+      <image:title>Golden Hinde II, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-047</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-047-16x9.png</image:loc>
+      <image:caption>From the corner pavement the view looks at Apsley House, the honey Bath-stone mansion at Hyde Park Corner, a three-storey house with a Corinthian portico and a roof balustrade. The afternoon is partly cloudy and dry, about 23.0°C, with the sun low in the west-southwest. Wellington Arch is not in this frame.</image:caption>
+      <image:title>Apsley House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-047-4x5.png</image:loc>
+      <image:caption>From the corner pavement the view looks at Apsley House, the honey Bath-stone mansion at Hyde Park Corner, a three-storey house with a Corinthian portico and a roof balustrade. The afternoon is partly cloudy and dry, about 23.0°C, with the sun low in the west-southwest. Wellington Arch is not in this frame.</image:caption>
+      <image:title>Apsley House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-048</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-048-16x9.png</image:loc>
+      <image:caption>From Great Marlborough Street the view looks at Liberty&apos;s 1924 timber facade, close-studded oak, pale plaster, leaded windows, and a row of steep gables. The afternoon is partly cloudy and dry, about 23.1°C, and the sun is low in the west-southwest. The timber front is the subject.</image:caption>
+      <image:title>Liberty London, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-048-4x5.png</image:loc>
+      <image:caption>From Great Marlborough Street the view looks at Liberty&apos;s 1924 timber facade, close-studded oak, pale plaster, leaded windows, and a row of steep gables. The afternoon is partly cloudy and dry, about 23.1°C, and the sun is low in the west-southwest. The timber front is the subject.</image:caption>
+      <image:title>Liberty London, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-050</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-050-16x9.png</image:loc>
+      <image:caption>From the lakeside the view looks across the water at the Barbican towers, bush-hammered concrete, balconies, and angular crowns gathered as one skyline. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. The lake is the foreground and the towers are the subject.</image:caption>
+      <image:title>Barbican Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-050-4x5.png</image:loc>
+      <image:caption>From the lakeside the view looks across the water at the Barbican towers, bush-hammered concrete, balconies, and angular crowns gathered as one skyline. The afternoon is partly cloudy and dry, about 23.2°C, and the sun is low in the west-southwest. The lake is the foreground and the towers are the subject.</image:caption>
+      <image:title>Barbican Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-051</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-051-16x9.png</image:loc>
+      <image:caption>From the moat bridge the view looks east at the Great Gatehouse of Hampton Court Palace, a red-brick Tudor front with dark diaper patterns, two octagonal turrets and lead cupolas, and heraldic stone beasts along the parapet. The later baroque ranges are not in the frame. It is a dry overcast afternoon, about 21.6°C, and the sun is not in the sky.</image:caption>
+      <image:title>Hampton Court Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-051-4x5.png</image:loc>
+      <image:caption>From the moat bridge the view looks east at the Great Gatehouse of Hampton Court Palace, a red-brick Tudor front with dark diaper patterns, two octagonal turrets and lead cupolas, and heraldic stone beasts along the parapet. The later baroque ranges are not in the frame. It is a dry overcast afternoon, about 21.6°C, and the sun is not in the sky.</image:caption>
+      <image:title>Hampton Court Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-052</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-052-16x9.png</image:loc>
+      <image:caption>From the west side of the pond the view looks east at the Palm House at Kew, Decimus Burton&apos;s curved iron-and-glass conservatory, the tall central vault and the two lower wings reflected in still water. No other glasshouse is in the frame. The afternoon is overcast and dry, about 22.0°C, with no sun disk.</image:caption>
+      <image:title>Kew Gardens Palm House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-052-4x5.png</image:loc>
+      <image:caption>From the west side of the pond the view looks east at the Palm House at Kew, Decimus Burton&apos;s curved iron-and-glass conservatory, the tall central vault and the two lower wings reflected in still water. No other glasshouse is in the frame. The afternoon is overcast and dry, about 22.0°C, with no sun disk.</image:caption>
+      <image:title>Kew Gardens Palm House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-053</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-053-16x9.png</image:loc>
+      <image:caption>From the street the view looks up at the dome of the Old Bailey, the Central Criminal Court, a green copper dome and a gilt figure of Lady Justice with open eyes, a sword, and scales. The statue is the crown of the stone drum. It is a dry overcast afternoon, about 22.7°C, and the sun is hidden.</image:caption>
+      <image:title>Old Bailey, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-053-4x5.png</image:loc>
+      <image:caption>From the street the view looks up at the dome of the Old Bailey, the Central Criminal Court, a green copper dome and a gilt figure of Lady Justice with open eyes, a sword, and scales. The statue is the crown of the stone drum. It is a dry overcast afternoon, about 22.7°C, and the sun is hidden.</image:caption>
+      <image:title>Old Bailey, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-054</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-054-16x9.png</image:loc>
+      <image:caption>From the church court the view takes in Temple Church&apos;s round Norman nave, a circular limestone drum with a conical roof, round-arched windows, and stout buttresses, with the chancel lower to one side. There is no tower competing with the round church. The afternoon is overcast and dry, about 22.8°C, and the sun is not visible.</image:caption>
+      <image:title>Temple Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-054-4x5.png</image:loc>
+      <image:caption>From the church court the view takes in Temple Church&apos;s round Norman nave, a circular limestone drum with a conical roof, round-arched windows, and stout buttresses, with the chancel lower to one side. There is no tower competing with the round church. The afternoon is overcast and dry, about 22.8°C, and the sun is not visible.</image:caption>
+      <image:title>Temple Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-055</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-055-16x9.png</image:loc>
+      <image:caption>From Bank junction the view looks east at the west portico of the Royal Exchange, eight Corinthian columns under a sculpted pediment, with the stone tower and its weathervane rising behind. The Bank of England and Mansion House are not the subject. It is a dry overcast afternoon, about 22.8°C, with no sun in the sky.</image:caption>
+      <image:title>Royal Exchange, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-055-4x5.png</image:loc>
+      <image:caption>From Bank junction the view looks east at the west portico of the Royal Exchange, eight Corinthian columns under a sculpted pediment, with the stone tower and its weathervane rising behind. The Bank of England and Mansion House are not the subject. It is a dry overcast afternoon, about 22.8°C, with no sun in the sky.</image:caption>
+      <image:title>Royal Exchange, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-056</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-056-16x9.png</image:loc>
+      <image:caption>From Lime Street the view looks up at the Lloyd&apos;s Building, stainless-steel service towers, exposed ducts, blue roof cranes, and yellow service pods wrapped around a glass core. No other City tower is in the frame. The afternoon is overcast and dry, about 22.8°C, and the sun is hidden.</image:caption>
+      <image:title>Lloyd&apos;s Building, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-056-4x5.png</image:loc>
+      <image:caption>From Lime Street the view looks up at the Lloyd&apos;s Building, stainless-steel service towers, exposed ducts, blue roof cranes, and yellow service pods wrapped around a glass core. No other City tower is in the frame. The afternoon is overcast and dry, about 22.8°C, and the sun is hidden.</image:caption>
+      <image:title>Lloyd&apos;s Building, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-057</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-057-16x9.png</image:loc>
+      <image:caption>From the plaza the view looks up at One Canada Square, the stainless-steel Canary Wharf tower and its square pyramid crown against a flat grey sky. The pyramid is the subject, and no second tower matches its height. It is a dry overcast afternoon, about 22.8°C, with no sun disk.</image:caption>
+      <image:title>One Canada Square, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-057-4x5.png</image:loc>
+      <image:caption>From the plaza the view looks up at One Canada Square, the stainless-steel Canary Wharf tower and its square pyramid crown against a flat grey sky. The pyramid is the subject, and no second tower matches its height. It is a dry overcast afternoon, about 22.8°C, with no sun disk.</image:caption>
+      <image:title>One Canada Square, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-058</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-058-16x9.png</image:loc>
+      <image:caption>From the Queen&apos;s Walk the view is filled by the former City Hall, Norman Foster&apos;s leaning glass bulb, the spiral inside faintly visible through the glass and the river only a thin foreground. Tower Bridge is not in the frame. The afternoon is overcast and dry, about 23.0°C, and the sun is hidden.</image:caption>
+      <image:title>City Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-058-4x5.png</image:loc>
+      <image:caption>From the Queen&apos;s Walk the view is filled by the former City Hall, Norman Foster&apos;s leaning glass bulb, the spiral inside faintly visible through the glass and the river only a thin foreground. Tower Bridge is not in the frame. The afternoon is overcast and dry, about 23.0°C, and the sun is hidden.</image:caption>
+      <image:title>City Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-059</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-059-16x9.png</image:loc>
+      <image:caption>From the park the view looks across the grass at the London Stadium, the white elliptical roof and the tall triangular floodlight towers reading as one bowl. The red Orbit sculpture is not in the frame. It is a dry overcast afternoon, about 22.9°C, with no sun in the sky.</image:caption>
+      <image:title>London Stadium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-059-4x5.png</image:loc>
+      <image:caption>From the park the view looks across the grass at the London Stadium, the white elliptical roof and the tall triangular floodlight towers reading as one bowl. The red Orbit sculpture is not in the frame. It is a dry overcast afternoon, about 22.9°C, with no sun in the sky.</image:caption>
+      <image:title>London Stadium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-060</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-060-16x9.png</image:loc>
+      <image:caption>From Olympic Way the view looks south at the Wembley Stadium arch, the white lattice parabola spanning the bowl, both feet of the arch in frame and the stadium subordinate beneath it. It is a dry overcast afternoon, about 22.2°C, and the sun is not visible.</image:caption>
+      <image:title>Wembley Stadium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-060-4x5.png</image:loc>
+      <image:caption>From Olympic Way the view looks south at the Wembley Stadium arch, the white lattice parabola spanning the bowl, both feet of the arch in frame and the stadium subordinate beneath it. It is a dry overcast afternoon, about 22.2°C, and the sun is not visible.</image:caption>
+      <image:title>Wembley Stadium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-101</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-101-16x9.png</image:loc>
+      <image:caption>From the south lawn the view looks north at Kenwood House, Robert Adam&apos;s long cream-stucco front, with an Ionic portico and pediment and a curved window bay at one end. Dark heath trees stand behind the roof. It is a clear night, about 18.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Kenwood House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-101-4x5.png</image:loc>
+      <image:caption>From the south lawn the view looks north at Kenwood House, Robert Adam&apos;s long cream-stucco front, with an Ionic portico and pediment and a curved window bay at one end. Dark heath trees stand behind the roof. It is a clear night, about 18.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Kenwood House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-102</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-102-16x9.png</image:loc>
+      <image:caption>From the west lawn the view looks east at Syon House, a square battlemented stone house with a classical portico and a standing lion on the roof. The lion and the portico are the subject. It is a mainly clear night, about 18.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Syon House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-102-4x5.png</image:loc>
+      <image:caption>From the west lawn the view looks east at Syon House, a square battlemented stone house with a classical portico and a standing lion on the roof. The lion and the portico are the subject. It is a mainly clear night, about 18.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Syon House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-103</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-103-16x9.png</image:loc>
+      <image:caption>From the south garden the view looks north at Ham House, a symmetrical red-brick Jacobean front with tall chimneys and no giant portico. A lawn and a gravel path lead to the door. It is a mainly clear night, about 18.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ham House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-103-4x5.png</image:loc>
+      <image:caption>From the south garden the view looks north at Ham House, a symmetrical red-brick Jacobean front with tall chimneys and no giant portico. A lawn and a gravel path lead to the door. It is a mainly clear night, about 18.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ham House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-104</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-104-16x9.png</image:loc>
+      <image:caption>From the garden the view looks at Chiswick House, a small stone villa with an octagonal dome, a Corinthian portico, and two curved staircases. The dome stays fully in the frame. It is a mainly clear night, about 19.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Chiswick House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-104-4x5.png</image:loc>
+      <image:caption>From the garden the view looks at Chiswick House, a small stone villa with an octagonal dome, a Corinthian portico, and two curved staircases. The dome stays fully in the frame. It is a mainly clear night, about 19.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Chiswick House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-105</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-105-16x9.png</image:loc>
+      <image:caption>From across the moat the view looks at Eltham Palace, the curved cream Art Deco entrance in front of the steep roof and Gothic windows of the medieval great hall. The water is dark. It is a partly cloudy night, about 19.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Eltham Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-105-4x5.png</image:loc>
+      <image:caption>From across the moat the view looks at Eltham Palace, the curved cream Art Deco entrance in front of the steep roof and Gothic windows of the medieval great hall. The water is dark. It is a partly cloudy night, about 19.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Eltham Palace, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-107</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-107-16x9.png</image:loc>
+      <image:caption>From Catherine Street the view looks at the Theatre Royal, Drury Lane, a pale stucco front with a porch of coupled square piers and three arched doorways. It is not the Corinthian portico on Bow Street. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Theatre Royal Drury Lane, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-107-4x5.png</image:loc>
+      <image:caption>From Catherine Street the view looks at the Theatre Royal, Drury Lane, a pale stucco front with a porch of coupled square piers and three arched doorways. It is not the Corinthian portico on Bow Street. It is a clear night, about 19.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Theatre Royal Drury Lane, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-108</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-108-16x9.png</image:loc>
+      <image:caption>From the Chalk Farm forecourt the view looks at the Roundhouse, a circular yellow-brick drum under a conical slate roof with a lantern. Arched openings ring the drum. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Roundhouse, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-108-4x5.png</image:loc>
+      <image:caption>From the Chalk Farm forecourt the view looks at the Roundhouse, a circular yellow-brick drum under a conical slate roof with a lantern. Arched openings ring the drum. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Roundhouse, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-109</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-109-16x9.png</image:loc>
+      <image:caption>From the towpath the view looks along Camden Lock, black gates and long white-tipped balance beams over dark canal water. The lock is the only subject. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Camden Lock Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-109-4x5.png</image:loc>
+      <image:caption>From the towpath the view looks along Camden Lock, black gates and long white-tipped balance beams over dark canal water. The lock is the only subject. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Camden Lock Market, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-110</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-110-16x9.png</image:loc>
+      <image:caption>From the public zebra crossing on Abbey Road the view looks toward the studios, a white three-storey townhouse behind the empty crossing and a low white wall. The camera stays on the street. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Abbey Road Studios, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-110-4x5.png</image:loc>
+      <image:caption>From the public zebra crossing on Abbey Road the view looks toward the studios, a white three-storey townhouse behind the empty crossing and a low white wall. The camera stays on the street. It is a clear night, about 19.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Abbey Road Studios, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-271</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-271-16x9.png</image:loc>
+      <image:caption>From the south side of the station the view looks north at Southgate, Holden&apos;s circular brick ticket hall with a glass band under a floating concrete roof and a lit finial of stacked rings and a ball. It is a clear night, about 17.3°C, dry, and the sun is below the horizon. A curved parade of shops sits behind the drum.</image:caption>
+      <image:title>Southgate Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-271-4x5.png</image:loc>
+      <image:caption>From the south side of the station the view looks north at Southgate, Holden&apos;s circular brick ticket hall with a glass band under a floating concrete roof and a lit finial of stacked rings and a ball. It is a clear night, about 17.3°C, dry, and the sun is below the horizon. A curved parade of shops sits behind the drum.</image:caption>
+      <image:title>Southgate Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-274</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-274-16x9.png</image:loc>
+      <image:caption>From the public garden at Nine Elms the view looks across the pond at the United States Embassy, a glass cube on a colonnade. It is a clear night, about 17.7°C, dry, and the sun is below the horizon. Interior lights show through the cube.</image:caption>
+      <image:title>United States Embassy, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-274-4x5.png</image:loc>
+      <image:caption>From the public garden at Nine Elms the view looks across the pond at the United States Embassy, a glass cube on a colonnade. It is a clear night, about 17.7°C, dry, and the sun is below the horizon. Interior lights show through the cube.</image:caption>
+      <image:title>United States Embassy, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-277</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-277-16x9.png</image:loc>
+      <image:caption>From Windmill Gardens the view looks at Brixton Windmill, a tarred brick tower with a pale cap and four sails. It is a clear night, about 17.4°C, dry, and the sun is below the horizon. It is not the white smock mill at Wimbledon.</image:caption>
+      <image:title>Brixton Windmill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-277-4x5.png</image:loc>
+      <image:caption>From Windmill Gardens the view looks at Brixton Windmill, a tarred brick tower with a pale cap and four sails. It is a clear night, about 17.4°C, dry, and the sun is below the horizon. It is not the white smock mill at Wimbledon.</image:caption>
+      <image:title>Brixton Windmill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-278</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-278-16x9.png</image:loc>
+      <image:caption>From Crystal Palace Park the view looks at the transmitting station, a tall tapering lattice steel tower with warning lights. It is a clear night, about 16.4°C, dry, and the sun is below the horizon. The dinosaurs are not in the frame.</image:caption>
+      <image:title>Crystal Palace Transmitter, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-278-4x5.png</image:loc>
+      <image:caption>From Crystal Palace Park the view looks at the transmitting station, a tall tapering lattice steel tower with warning lights. It is a clear night, about 16.4°C, dry, and the sun is below the horizon. The dinosaurs are not in the frame.</image:caption>
+      <image:title>Crystal Palace Transmitter, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-279</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-279-16x9.png</image:loc>
+      <image:caption>From Chancery Lane the view looks at the Maughan Library, a neo-Gothic stone range and a square clock tower with a steep roof. It is a clear night, about 17.8°C, dry, and the sun is below the horizon. It is the old Public Record Office, not the Royal Courts.</image:caption>
+      <image:title>Maughan Library, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-279-4x5.png</image:loc>
+      <image:caption>From Chancery Lane the view looks at the Maughan Library, a neo-Gothic stone range and a square clock tower with a steep roof. It is a clear night, about 17.8°C, dry, and the sun is below the horizon. It is the old Public Record Office, not the Royal Courts.</image:caption>
+      <image:title>Maughan Library, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-282</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-282-16x9.png</image:loc>
+      <image:caption>From The Mall the view looks north at Marlborough House, Wren&apos;s long red-brick garden front with stone quoins and sash windows. The end bays step forward. It is a clear night, about 17.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Marlborough House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-282-4x5.png</image:loc>
+      <image:caption>From The Mall the view looks north at Marlborough House, Wren&apos;s long red-brick garden front with stone quoins and sash windows. The end bays step forward. It is a clear night, about 17.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Marlborough House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-284</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-284-16x9.png</image:loc>
+      <image:caption>From the riverside path the view looks south at Greenwich Power Station, a long stock-brick hall and four tapered octagonal brick chimneys in a row. The chimneys are brick, not the white corner stacks of Battersea. It is a clear night, about 17.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Greenwich Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-284-4x5.png</image:loc>
+      <image:caption>From the riverside path the view looks south at Greenwich Power Station, a long stock-brick hall and four tapered octagonal brick chimneys in a row. The chimneys are brick, not the white corner stacks of Battersea. It is a clear night, about 17.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Greenwich Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-285</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-285-16x9.png</image:loc>
+      <image:caption>From Bishopsgate the view looks up at 110 Bishopsgate, a rectangular glass tower whose south face is a stainless-steel diagonal diagrid. The crown is flat. It is not a wedge and not a slanted blade. It is a clear night, about 17.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>110 Bishopsgate, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-285-4x5.png</image:loc>
+      <image:caption>From Bishopsgate the view looks up at 110 Bishopsgate, a rectangular glass tower whose south face is a stainless-steel diagonal diagrid. The crown is flat. It is not a wedge and not a slanted blade. It is a clear night, about 17.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>110 Bishopsgate, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-286</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-286-16x9.png</image:loc>
+      <image:caption>From the Nursery End the view looks at the Lord&apos;s Media Centre, Future Systems&apos; white aluminium pod on steel supports, with a band of windows along the shell. The Victorian pavilion is not in the frame. It is a clear night, about 16.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lord&apos;s Media Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-286-4x5.png</image:loc>
+      <image:caption>From the Nursery End the view looks at the Lord&apos;s Media Centre, Future Systems&apos; white aluminium pod on steel supports, with a band of windows along the shell. The Victorian pavilion is not in the frame. It is a clear night, about 16.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lord&apos;s Media Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-287</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-287-16x9.png</image:loc>
+      <image:caption>From the Kew bank the view looks north at Kew Bridge, three wide elliptical arches of grey granite and two piers in the Thames. Lamps line the parapet. It is not a suspension bridge. It is a partly cloudy night, about 16.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Kew Bridge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-287-4x5.png</image:loc>
+      <image:caption>From the Kew bank the view looks north at Kew Bridge, three wide elliptical arches of grey granite and two piers in the Thames. Lamps line the parapet. It is not a suspension bridge. It is a partly cloudy night, about 16.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Kew Bridge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-288</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-288-16x9.png</image:loc>
+      <image:caption>From the lawn the view looks south at Charlton House, an intact red-brick Jacobean front with stone mullions, a columned porch, and small ogee turrets. It is not a ruin. It is a mainly clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Charlton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-288-4x5.png</image:loc>
+      <image:caption>From the lawn the view looks south at Charlton House, an intact red-brick Jacobean front with stone mullions, a columned porch, and small ogee turrets. It is not a ruin. It is a mainly clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Charlton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-289</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-289-16x9.png</image:loc>
+      <image:caption>From the Victoria Embankment the view looks at HQS Wellington, a white Grimsby-class sloop with one funnel and two masts, moored at Temple Pier. There are no gun turrets and no clipper rig. It is a clear night, about 17.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>HQS Wellington, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-289-4x5.png</image:loc>
+      <image:caption>From the Victoria Embankment the view looks at HQS Wellington, a white Grimsby-class sloop with one funnel and two masts, moored at Temple Pier. There are no gun turrets and no clipper rig. It is a clear night, about 17.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>HQS Wellington, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-290</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-290-16x9.png</image:loc>
+      <image:caption>From the dock edge the view looks at The Crystal, WilkinsonEyre&apos;s low pavilion of triangular glass facets beside Royal Victoria Dock. It is not a glass bulb and it is not a tower. It is a clear night, about 17.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Crystal, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-290-4x5.png</image:loc>
+      <image:caption>From the dock edge the view looks at The Crystal, WilkinsonEyre&apos;s low pavilion of triangular glass facets beside Royal Victoria Dock. It is not a glass bulb and it is not a tower. It is a clear night, about 17.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Crystal, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-291</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-291-16x9.png</image:loc>
+      <image:caption>From Horse Guards Parade the view is the Admiralty Citadel, a windowless concrete bunker whose walls are covered in ivy. It is not Admiralty Arch and it has no clock tower. It is a clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Admiralty Citadel, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-291-4x5.png</image:loc>
+      <image:caption>From Horse Guards Parade the view is the Admiralty Citadel, a windowless concrete bunker whose walls are covered in ivy. It is not Admiralty Arch and it has no clock tower. It is a clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Admiralty Citadel, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-293</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-293-16x9.png</image:loc>
+      <image:caption>From the dock the view is Millennium Mills, a long brick and concrete flour mill with a flat roof and a grid of windows beside Royal Victoria Dock. It is not a glass pavilion and it is not a power station. It is a clear night, about 17.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Millennium Mills, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-293-4x5.png</image:loc>
+      <image:caption>From the dock the view is Millennium Mills, a long brick and concrete flour mill with a flat roof and a grid of windows beside Royal Victoria Dock. It is not a glass pavilion and it is not a power station. It is a clear night, about 17.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Millennium Mills, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-294</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-294-16x9.png</image:loc>
+      <image:caption>From Walpole Park the view is Pitzhanger Manor, Soane&apos;s low stucco house, with four caryatids carrying the porch. It has no dome and it is not the museum in Lincoln&apos;s Inn Fields. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Pitzhanger Manor, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-294-4x5.png</image:loc>
+      <image:caption>From Walpole Park the view is Pitzhanger Manor, Soane&apos;s low stucco house, with four caryatids carrying the porch. It has no dome and it is not the museum in Lincoln&apos;s Inn Fields. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Pitzhanger Manor, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-297</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-297-16x9.png</image:loc>
+      <image:caption>From the creek the view is Lots Road Power Station, a long brick hall with two brick chimneys. It is not Battersea&apos;s four white chimneys. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lots Road Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-297-4x5.png</image:loc>
+      <image:caption>From the creek the view is Lots Road Power Station, a long brick hall with two brick chimneys. It is not Battersea&apos;s four white chimneys. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lots Road Power Station, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-299</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-299-16x9.png</image:loc>
+      <image:caption>From the parade ground the view is the Royal Artillery Barracks, a very long yellow-brick Georgian front with a paired-column colonnade. It is not the Royal Artillery Memorial at Hyde Park Corner. It is a clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Royal Artillery Barracks, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-299-4x5.png</image:loc>
+      <image:caption>From the parade ground the view is the Royal Artillery Barracks, a very long yellow-brick Georgian front with a paired-column colonnade. It is not the Royal Artillery Memorial at Hyde Park Corner. It is a clear night, about 16.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Royal Artillery Barracks, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-301</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-301-16x9.png</image:loc>
+      <image:caption>From Euston Road the view is St Pancras New Church, the Inwoods&apos; Greek Revival portico and the octagonal tower taken from the Tower of the Winds, with a porch of terracotta caryatids. It is not the railway station. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Pancras New Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-301-4x5.png</image:loc>
+      <image:caption>From Euston Road the view is St Pancras New Church, the Inwoods&apos; Greek Revival portico and the octagonal tower taken from the Tower of the Winds, with a porch of terracotta caryatids. It is not the railway station. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Pancras New Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-303</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-303-16x9.png</image:loc>
+      <image:caption>From the visitor path the view is the Lubetkin Penguin Pool, a white concrete ellipse and two interlocking spiral ramps over empty water. No animals are in the frame. It is a clear night, about 16.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Penguin Pool, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-303-4x5.png</image:loc>
+      <image:caption>From the visitor path the view is the Lubetkin Penguin Pool, a white concrete ellipse and two interlocking spiral ramps over empty water. No animals are in the frame. It is a clear night, about 16.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Penguin Pool, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-304</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-304-16x9.png</image:loc>
+      <image:caption>From Sloane Square the view is Peter Jones, Crabtree&apos;s curved glass curtain wall of horizontal window bands. It is not a classical shopfront. It is a partly cloudy night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Peter Jones, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-304-4x5.png</image:loc>
+      <image:caption>From Sloane Square the view is Peter Jones, Crabtree&apos;s curved glass curtain wall of horizontal window bands. It is not a classical shopfront. It is a partly cloudy night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Peter Jones, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-307</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-307-16x9.png</image:loc>
+      <image:caption>From Golden Lane the view is Great Arthur House, a slender slab with a glass curtain wall, yellow end panels, and a curved concrete canopy on the roof. It is not the Barbican. It is a clear night, about 16.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Great Arthur House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-307-4x5.png</image:loc>
+      <image:caption>From Golden Lane the view is Great Arthur House, a slender slab with a glass curtain wall, yellow end panels, and a curved concrete canopy on the roof. It is not the Barbican. It is a clear night, about 16.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Great Arthur House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-308</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-308-16x9.png</image:loc>
+      <image:caption>From Kingsway the view is Space House, Seifert&apos;s circular tower of horizontal window bands. It is not a rectangular slab. It is a mainly clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Space House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-308-4x5.png</image:loc>
+      <image:caption>From Kingsway the view is Space House, Seifert&apos;s circular tower of horizontal window bands. It is not a rectangular slab. It is a mainly clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Space House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-309</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-309-16x9.png</image:loc>
+      <image:caption>From Pine Street the view is the Finsbury Health Centre, Lubetkin&apos;s white two-storey clinic with a curved glass centre and banded wings. It is not a tower. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Finsbury Health Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-309-4x5.png</image:loc>
+      <image:caption>From Pine Street the view is the Finsbury Health Centre, Lubetkin&apos;s white two-storey clinic with a curved glass centre and banded wings. It is not a tower. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Finsbury Health Centre, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-310</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-310-16x9.png</image:loc>
+      <image:caption>From Trinity Square Gardens the view is Ten Trinity Square, Cooper&apos;s stone tower with a giant Corinthian colonnade and a crown of standing figures. It is not the Tower of London. It is a mainly clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ten Trinity Square, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-310-4x5.png</image:loc>
+      <image:caption>From Trinity Square Gardens the view is Ten Trinity Square, Cooper&apos;s stone tower with a giant Corinthian colonnade and a crown of standing figures. It is not the Tower of London. It is a mainly clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ten Trinity Square, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-312</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-312-16x9.png</image:loc>
+      <image:caption>From Portsmouth Street the view is the Old Curiosity Shop, a tiny two-storey plastered timber house whose upper floor overhangs the corner, under a tiled hipped roof. Shop windows sit below the jetty. It is not the long Holborn front of Staple Inn. It is a clear night, about 16.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Old Curiosity Shop, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-312-4x5.png</image:loc>
+      <image:caption>From Portsmouth Street the view is the Old Curiosity Shop, a tiny two-storey plastered timber house whose upper floor overhangs the corner, under a tiled hipped roof. Shop windows sit below the jetty. It is not the long Holborn front of Staple Inn. It is a clear night, about 16.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Old Curiosity Shop, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-314</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-314-16x9.png</image:loc>
+      <image:caption>From the riverside the Trafalgar Tavern is a white stucco block on the Thames wall, with bow windows, shell motifs, and iron balconies. The centre is three storeys and the sides are two. The naval college domes and the Cutty Sark stay out of the frame. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Trafalgar Tavern, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-314-4x5.png</image:loc>
+      <image:caption>From the riverside the Trafalgar Tavern is a white stucco block on the Thames wall, with bow windows, shell motifs, and iron balconies. The centre is three storeys and the sides are two. The naval college domes and the Cutty Sark stay out of the frame. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Trafalgar Tavern, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-315</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-315-16x9.png</image:loc>
+      <image:caption>From the park path Serpentine North is two joined parts: the low brick Magazine of 1805, with its colonnade, and the white tensile roof that undulates beside it and seems to hover on a line of glass. It is not the ring-shaped Diana Memorial Fountain. It is a clear night, about 15.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Serpentine North, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-315-4x5.png</image:loc>
+      <image:caption>From the park path Serpentine North is two joined parts: the low brick Magazine of 1805, with its colonnade, and the white tensile roof that undulates beside it and seems to hover on a line of glass. It is not the ring-shaped Diana Memorial Fountain. It is a clear night, about 15.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Serpentine North, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-317</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-317-16x9.png</image:loc>
+      <image:caption>In St John&apos;s Church Gardens, St Augustine&apos;s Tower stands on its own, a ragstone tower of four stages with diagonal buttresses, traceried bell openings, and a battlemented top. The medieval church it served was taken down in 1798, so there is no nave. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Augustine&apos;s Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-317-4x5.png</image:loc>
+      <image:caption>In St John&apos;s Church Gardens, St Augustine&apos;s Tower stands on its own, a ragstone tower of four stages with diagonal buttresses, traceried bell openings, and a battlemented top. The medieval church it served was taken down in 1798, so there is no nave. It is a clear night, about 16.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Augustine&apos;s Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-318</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-318-16x9.png</image:loc>
+      <image:caption>At the junction the Seven Dials pillar is a Portland-stone Doric column on a pedestal, topped by a block of six sundial faces. Streets run away from it. There is no figure on the capital and no gilded urn. It is a clear night, about 15.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Seven Dials, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-318-4x5.png</image:loc>
+      <image:caption>At the junction the Seven Dials pillar is a Portland-stone Doric column on a pedestal, topped by a block of six sundial faces. Streets run away from it. There is no figure on the capital and no gilded urn. It is a clear night, about 15.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Seven Dials, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-319</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-319-16x9.png</image:loc>
+      <image:caption>From Chancery Lane the Lincoln&apos;s Inn Gatehouse is a brown-brick Tudor gate, a carriage arch beside a narrower passage, with a taller brick tower rising on the right. Diaper patterns run through the brick. It is not the stone clock tower of the Maughan Library. It is a clear night, about 16.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lincoln&apos;s Inn Gatehouse, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-319-4x5.png</image:loc>
+      <image:caption>From Chancery Lane the Lincoln&apos;s Inn Gatehouse is a brown-brick Tudor gate, a carriage arch beside a narrower passage, with a taller brick tower rising on the right. Diaper patterns run through the brick. It is not the stone clock tower of the Maughan Library. It is a clear night, about 16.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lincoln&apos;s Inn Gatehouse, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-320</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-320-16x9.png</image:loc>
+      <image:caption>From the plaza Canada Water Library is an inverted pyramid, narrow at the glass base and overhanging above, clad in light bronze perforated metal. The basin sits to one side. It is not a timber cone and not a glass tower. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Canada Water Library, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-320-4x5.png</image:loc>
+      <image:caption>From the plaza Canada Water Library is an inverted pyramid, narrow at the glass base and overhanging above, clad in light bronze perforated metal. The basin sits to one side. It is not a timber cone and not a glass tower. It is a clear night, about 16.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Canada Water Library, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-323</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-323-16x9.png</image:loc>
+      <image:caption>On Railway Avenue the Brunel Engine House is a low stock-brick block with a pantile roof and a square brick chimney carrying a thin metal stack. It is the pumping house for the Thames Tunnel, not a power station. It is a clear night, about 15.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Brunel Engine House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-323-4x5.png</image:loc>
+      <image:caption>On Railway Avenue the Brunel Engine House is a low stock-brick block with a pantile roof and a square brick chimney carrying a thin metal stack. It is the pumping house for the Thames Tunnel, not a power station. It is a clear night, about 15.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Brunel Engine House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-325</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-325-16x9.png</image:loc>
+      <image:caption>From Homerton High Street, Sutton House reads as a three-storey brick front with projecting wings, sash windows, and a stuccoed wing with quoins. The Tudor house is still there behind the eighteenth-century parapet, with an old chimney against the sky. It is a mainly clear night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Sutton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-325-4x5.png</image:loc>
+      <image:caption>From Homerton High Street, Sutton House reads as a three-storey brick front with projecting wings, sash windows, and a stuccoed wing with quoins. The Tudor house is still there behind the eighteenth-century parapet, with an old chimney against the sky. It is a mainly clear night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Sutton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-326</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-326-16x9.png</image:loc>
+      <image:caption>From Portland Place the Langham closes the street, a vast pale-brick hotel with French pavilion roofs, an arched stone porch, and a square belvedere at the corner. Rows of round-headed windows are lit. It is a clear night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Langham, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-326-4x5.png</image:loc>
+      <image:caption>From Portland Place the Langham closes the street, a vast pale-brick hotel with French pavilion roofs, an arched stone porch, and a square belvedere at the corner. Rows of round-headed windows are lit. It is a clear night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Langham, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-327</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-327-16x9.png</image:loc>
+      <image:caption>From Piccadilly the Bomber Command Memorial is a pale Portland-stone Doric pavilion, open to the night sky, with a bronze crew of airmen standing inside. Colonnade wings reach toward Green Park. It is a clear night, about 15.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Bomber Command Memorial, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-327-4x5.png</image:loc>
+      <image:caption>From Piccadilly the Bomber Command Memorial is a pale Portland-stone Doric pavilion, open to the night sky, with a bronze crew of airmen standing inside. Colonnade wings reach toward Green Park. It is a clear night, about 15.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Bomber Command Memorial, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-328</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-328-16x9.png</image:loc>
+      <image:caption>Across the mill water the Clock Mill is a brown-brick range with two conical kiln roofs and a yellow-brick clock tower under a wooden cupola. The timber House Mill is not in the frame. It is a mainly clear night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Clock Mill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-328-4x5.png</image:loc>
+      <image:caption>Across the mill water the Clock Mill is a brown-brick range with two conical kiln roofs and a yellow-brick clock tower under a wooden cupola. The timber House Mill is not in the frame. It is a mainly clear night, about 15.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Clock Mill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-329</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-329-16x9.png</image:loc>
+      <image:caption>From the river the Prospect of Whitby shows a hooded balcony with a turned balustrade over the Thames, three storeys of sash windows, and yellow brick at the side. The tide is dark under the lamps. It is a clear night, about 15.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Prospect of Whitby, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-329-4x5.png</image:loc>
+      <image:caption>From the river the Prospect of Whitby shows a hooded balcony with a turned balustrade over the Thames, three storeys of sash windows, and yellow brick at the side. The tide is dark under the lamps. It is a clear night, about 15.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Prospect of Whitby, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-330</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-330-16x9.png</image:loc>
+      <image:caption>In Ely Place the west end of St Etheldreda&apos;s is a ragstone gable filled by a five-light Decorated window, with blind arcades beside it and a quatrefoil above. The glass glows red and blue against the night. It is a clear night, about 15.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Etheldreda&apos;s Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-330-4x5.png</image:loc>
+      <image:caption>In Ely Place the west end of St Etheldreda&apos;s is a ragstone gable filled by a five-light Decorated window, with blind arcades beside it and a quatrefoil above. The glass glows red and blue against the night. It is a clear night, about 15.5°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Etheldreda&apos;s Church, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-331</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-331-16x9.png</image:loc>
+      <image:caption>From Margaret Street the church stands in a narrow courtyard between two banded-brick ranges, its pink and black brick chequered and zigzagged, with a tall broach spire of grey slate and cream stone bands. Pointed arches open onto the forecourt. It is an overcast night, about 14.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>All Saints, Margaret Street, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-331-4x5.png</image:loc>
+      <image:caption>From Margaret Street the church stands in a narrow courtyard between two banded-brick ranges, its pink and black brick chequered and zigzagged, with a tall broach spire of grey slate and cream stone bands. Pointed arches open onto the forecourt. It is an overcast night, about 14.8°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>All Saints, Margaret Street, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-332</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-332-16x9.png</image:loc>
+      <image:caption>From Rangers Road the hunting lodge is a three-storey timber frame of 1543, dark oak and pale plaster, with a clay-tile roof, mullioned windows, and a stair wing to the south. Epping Forest is dark behind it. It is a partly cloudy night, about 14.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Queen Elizabeth&apos;s Hunting Lodge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-332-4x5.png</image:loc>
+      <image:caption>From Rangers Road the hunting lodge is a three-storey timber frame of 1543, dark oak and pale plaster, with a clay-tile roof, mullioned windows, and a stair wing to the south. Epping Forest is dark behind it. It is a partly cloudy night, about 14.1°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Queen Elizabeth&apos;s Hunting Lodge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-333</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-333-16x9.png</image:loc>
+      <image:caption>From Chesterfield Walk the west front is a brown-brick villa with red dressings, seven bays of sash windows, a balustraded parapet, and a Portland-stone centre of Ionic columns and a pediment. Low wings end in tapered brick chimneys. It is a partly cloudy night, about 14.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ranger&apos;s House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-333-4x5.png</image:loc>
+      <image:caption>From Chesterfield Walk the west front is a brown-brick villa with red dressings, seven bays of sash windows, a balustraded parapet, and a Portland-stone centre of Ionic columns and a pediment. Low wings end in tapered brick chimneys. It is a partly cloudy night, about 14.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Ranger&apos;s House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-335</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-335-16x9.png</image:loc>
+      <image:caption>From Lower Clapton Road the west end of the Round Chapel is a curve of pale ashlar, with round-arched windows, a balustraded parapet, and octagonal towers under conical slate roofs. Steps spread from the curve. It is an overcast night, about 15.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Round Chapel, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-335-4x5.png</image:loc>
+      <image:caption>From Lower Clapton Road the west end of the Round Chapel is a curve of pale ashlar, with round-arched windows, a balustraded parapet, and octagonal towers under conical slate roofs. Steps spread from the curve. It is an overcast night, about 15.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>The Round Chapel, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-336</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-336-16x9.png</image:loc>
+      <image:caption>From the park lawn the north front of Danson House is a compact Portland-stone villa, three storeys on a rusticated base, with a pediment that holds a round window and a wide balustraded stair to the door. There is no outer dome. It is a partly cloudy night, about 13.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Danson House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-336-4x5.png</image:loc>
+      <image:caption>From the park lawn the north front of Danson House is a compact Portland-stone villa, three storeys on a rusticated base, with a pediment that holds a round window and a wide balustraded stair to the door. There is no outer dome. It is a partly cloudy night, about 13.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Danson House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-337</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-337-16x9.png</image:loc>
+      <image:caption>From the garden, Eastbury Manor House is a red-brick H-plan house of the 1570s, with gables, mullioned windows, tall octagonal chimney shafts, and one surviving octagonal stair turret. It is an overcast night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Eastbury Manor House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-337-4x5.png</image:loc>
+      <image:caption>From the garden, Eastbury Manor House is a red-brick H-plan house of the 1570s, with gables, mullioned windows, tall octagonal chimney shafts, and one surviving octagonal stair turret. It is an overcast night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Eastbury Manor House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-339</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-339-16x9.png</image:loc>
+      <image:caption>Beside the basin the accumulator tower is a slim octagon of yellow stock brick, with slit windows, a cornice, and an octagonal chimney rising from its own square base on the north side. The pumping house is gone. It is an overcast night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Limehouse Accumulator Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-339-4x5.png</image:loc>
+      <image:caption>Beside the basin the accumulator tower is a slim octagon of yellow stock brick, with slit windows, a cornice, and an octagonal chimney rising from its own square base on the north side. The pumping house is gone. It is an overcast night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Limehouse Accumulator Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-340</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-340-16x9.png</image:loc>
+      <image:caption>From Kensington Gore, Lowther Lodge is a red-brick Queen Anne house, with steep tiled roofs, tall fluted chimney stacks, pedimented gables, and leaded cross windows. A semicircular arched door sits in one wing. It is an overcast night, about 14.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lowther Lodge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-340-4x5.png</image:loc>
+      <image:caption>From Kensington Gore, Lowther Lodge is a red-brick Queen Anne house, with steep tiled roofs, tall fluted chimney stacks, pedimented gables, and leaded cross windows. A semicircular arched door sits in one wing. It is an overcast night, about 14.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Lowther Lodge, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-341</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-341-16x9.png</image:loc>
+      <image:caption>From Bruce Castle Park the south front is a red-brick manor, with a stuccoed clock tower, a glazed octagon and a cupola rising over the parapet. A short circular Tudor brick tower with battlements stands apart on the lawn. It is a partly cloudy night, about 15.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Bruce Castle, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-341-4x5.png</image:loc>
+      <image:caption>From Bruce Castle Park the south front is a red-brick manor, with a stuccoed clock tower, a glazed octagon and a cupola rising over the parapet. A short circular Tudor brick tower with battlements stands apart on the lawn. It is a partly cloudy night, about 15.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Bruce Castle, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-343</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-343-16x9.png</image:loc>
+      <image:caption>From the Broadway pavement, Rainham Hall is a three-storey brown-red brick merchant house, with red dressings, stone quoins and a panelled parapet. A carved wooden porch with Corinthian pilasters carries an open segmental pediment, and wrought-iron railings stand in front. It is a partly cloudy night, about 14.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Rainham Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-343-4x5.png</image:loc>
+      <image:caption>From the Broadway pavement, Rainham Hall is a three-storey brown-red brick merchant house, with red dressings, stone quoins and a panelled parapet. A carved wooden porch with Corinthian pilasters carries an open segmental pediment, and wrought-iron railings stand in front. It is a partly cloudy night, about 14.6°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Rainham Hall, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-344</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-344-16x9.png</image:loc>
+      <image:caption>From the garden, Boston Manor House shows a red-brick east front of three storeys, crowned by three gables with round-headed niches. A stone cornice divides the floors, the ground-floor windows are pedimented, and a balustraded stone porch marks the door. It is a partly cloudy night, about 14.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Boston Manor House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-344-4x5.png</image:loc>
+      <image:caption>From the garden, Boston Manor House shows a red-brick east front of three storeys, crowned by three gables with round-headed niches. A stone cornice divides the floors, the ground-floor windows are pedimented, and a balustraded stone porch marks the door. It is a partly cloudy night, about 14.2°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Boston Manor House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-345</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-345-16x9.png</image:loc>
+      <image:caption>From the grass, Upminster Windmill is a white octagonal smock on a low brick base, with a wooden stage, a boat-shaped cap, four sails and a six-bladed fantail. The body is weatherboarded, not a brick tower. It is a clear night, about 13.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Upminster Windmill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-345-4x5.png</image:loc>
+      <image:caption>From the grass, Upminster Windmill is a white octagonal smock on a low brick base, with a wooden stage, a boat-shaped cap, four sails and a six-bladed fantail. The body is weatherboarded, not a brick tower. It is a clear night, about 13.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Upminster Windmill, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-346</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-346-16x9.png</image:loc>
+      <image:caption>From Hampstead Grove, Fenton House is a brown-brick merchant house with red dressings, a hipped tiled roof and dormers. A Roman Doric porch marks the door, a blank panel carries an empty roundel, and a wrought-iron gate with a lantern stands in front. It is an overcast night, about 13.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Fenton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-346-4x5.png</image:loc>
+      <image:caption>From Hampstead Grove, Fenton House is a brown-brick merchant house with red dressings, a hipped tiled roof and dormers. A Roman Doric porch marks the door, a blank panel carries an empty roundel, and a wrought-iron gate with a lantern stands in front. It is an overcast night, about 13.9°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Fenton House, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-347</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-347-16x9.png</image:loc>
+      <image:caption>From Willow Road, numbers 1 to 3 read as one red-brick modernist terrace, with a concrete frame and a flat roof. A continuous window band runs the full width of the first floor, and seven separate windows sit on the floor above. It is an overcast night, about 14.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>2 Willow Road, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-347-4x5.png</image:loc>
+      <image:caption>From Willow Road, numbers 1 to 3 read as one red-brick modernist terrace, with a concrete frame and a flat roof. A continuous window band runs the full width of the first floor, and seven separate windows sit on the floor above. It is an overcast night, about 14.4°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>2 Willow Road, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-348</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-348-16x9.png</image:loc>
+      <image:caption>From Upper Thames Street, St Mary Somerset survives only as a Portland-stone tower. Circular and round-arched windows alternate up the faces, and eight pinnacles, corner urns and obelisks, crown the parapet. It is an overcast night, about 15.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Mary Somerset Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-348-4x5.png</image:loc>
+      <image:caption>From Upper Thames Street, St Mary Somerset survives only as a Portland-stone tower. Circular and round-arched windows alternate up the faces, and eight pinnacles, corner urns and obelisks, crown the parapet. It is an overcast night, about 15.0°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>St Mary Somerset Tower, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-349</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-349-16x9.png</image:loc>
+      <image:caption>From King&apos;s Boulevard, the German Gymnasium is a multi-coloured stock-brick hall, with a gable of pointed-arch windows, an oculus and a Lombard frieze. A narrow stair tower stands at one side, and a lantern runs along the roof ridge. It is an overcast night, about 14.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>German Gymnasium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-349-4x5.png</image:loc>
+      <image:caption>From King&apos;s Boulevard, the German Gymnasium is a multi-coloured stock-brick hall, with a gable of pointed-arch windows, an oculus and a Lombard frieze. A narrow stair tower stands at one side, and a lantern runs along the roof ridge. It is an overcast night, about 14.7°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>German Gymnasium, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-350</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-350-16x9.png</image:loc>
+      <image:caption>From the Thames Path, Trinity Hospital is a small stuccoed gothic almshouse, with a battlemented parapet, crow-stepped end gables and a high slate roof. A central tower carries a clock and a short spike. It is a partly cloudy night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Trinity Hospital, London</image:title>
+      <image:geo_location>London, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/London/uk-01-350-4x5.png</image:loc>
+      <image:caption>From the Thames Path, Trinity Hospital is a small stuccoed gothic almshouse, with a battlemented parapet, crow-stepped end gables and a high slate roof. A central tower carries a clock and a short spike. It is a partly cloudy night, about 15.3°C, dry, and the sun is below the horizon.</image:caption>
+      <image:title>Trinity Hospital, London</image:title>
       <image:geo_location>London, United Kingdom</image:geo_location>
     </image:image>
   </url>
