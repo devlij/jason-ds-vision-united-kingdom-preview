@@ -1873,7 +1873,7 @@
       "site": "Liberty London",
       "place": "Westminster",
       "caption": "Liberty London, London",
-      "scenario_label": "30 September 2026 \u00b7 16:38 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 11:45 Europe/London",
       "composition": "Partly cloudy afternoon \u00b7 Great Marlborough Street looking at the timber front \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of Liberty's timber facade on Great Marlborough Street in London under a partly cloudy afternoon sky",
       "description": "From Great Marlborough Street the view looks at Liberty's 1924 timber facade, close-studded oak, pale plaster, leaded windows, and a row of steep gables. The afternoon is partly cloudy and dry, about 23.1\u00b0C, and the sun is low in the west-southwest. The timber front is the subject.",
@@ -1887,7 +1887,7 @@
         "Close-studded oak, leaded casements, and a row of gables run along the street",
         "The timber frame is the subject; the Regent Street stone front is a different building and is not shown"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4\u00b0. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 11:45 Europe/London. Calculated solar azimuth is south-southeast and elevation is about 32\u00b0. The sky is partly cloudy. model is_day is 1.",
       "moods": [
         "urban",
         "historic"
