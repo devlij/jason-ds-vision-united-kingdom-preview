@@ -1912,7 +1912,7 @@
       "site": "Selfridges",
       "place": "Westminster",
       "caption": "Selfridges, London",
-      "scenario_label": "30 September 2026 \u00b7 16:38 Europe/London",
+      "scenario_label": "5 October 2026 \u00b7 12:00 Europe/London",
       "composition": "Partly cloudy afternoon \u00b7 Oxford Street looking north at the colonnade and the Queen of Time \u00b7 AI-generated artistic interpretation",
       "alt_text": "AI-generated artistic interpretation of the Selfridges Oxford Street colonnade and the Queen of Time under a partly cloudy afternoon sky",
       "description": "From the Oxford Street pavement the view looks north at the stone colonnade and the gilded Queen of Time standing over the clock at the centre of the facade. The afternoon is partly cloudy and dry, about 22.9\u00b0C, with the sun low in the west-southwest. The figure and the columns are the subject.",
@@ -1926,7 +1926,7 @@
         "The Queen of Time, a gilded figure above a clock, marks the central entrance",
         "The colonnade and the clock figure are the subject of this frame"
       ],
-      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 16:38 Europe/London. Calculated solar azimuth is west-southwest and elevation is about 17.4\u00b0. The sky is partly cloudy. model is_day is 1.",
+      "solar": "After sunrise. Model sunrise 06:59 and sunset 18:40 Europe/London. The scenario is 12:00 Europe/London. Calculated solar azimuth is south-southeast and elevation is about 33\u00b0. The sky is partly cloudy. model is_day is 1.",
       "moods": [
         "urban"
       ],
