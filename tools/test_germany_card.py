@@ -95,7 +95,7 @@ def _scene(entry_id: str, **extra) -> dict:
         "city": "London",
         "caption": entry_id,
         "scenario_label": "1 October 2026 · 21:00 Europe/London",
-        "composition": "test",
+        "composition": "Clear night",
         "description": "",
         "approval_status": "Candidate",
         "format_16x9_approval_status": "Candidate",
@@ -180,7 +180,15 @@ def test_card_controls_in_the_browser() -> None:
         file_16x9_postcard="captures/partial-postcard-16x9.png",
         file_motion_10s_4x5="captures/partial-motion-10s-4x5.mp4",
     )
-    html = _page([full, missing, partial]).replace("</body>", probe + "\n</body>")
+    day = _scene(
+        "UK-TEST-DAY",
+        composition="Clear afternoon",
+        solar="After sunrise. model is_day is 1.",
+        file_genuine_daylight_16x9="captures/day-genuine-daylight-16x9.png",
+        file_night_16x9="captures/day-night-16x9.png",
+        file_16x9_postcard="captures/day-postcard-16x9.png",
+    )
+    html = _page([full, missing, partial, day]).replace("</body>", probe + "\n</body>")
     runner = r"""
 const {JSDOM, VirtualConsole} = require('jsdom');
 const fs = require('fs');
@@ -234,6 +242,8 @@ process.stdout.write(probe.textContent);
     assert "🌙 Night" not in initial["UK-TEST-PARTIAL"]["labels"]
     assert "Genuine daylight" not in " ".join(initial["UK-TEST-PARTIAL"]["labels"])
     assert initial["UK-TEST-NONE"]["labels"] == []
+    assert initial["UK-TEST-DAY"]["labels"] == ["🌙 Night", "📩 Postcard"]
+    assert "Genuine daylight" not in " ".join(initial["UK-TEST-DAY"]["labels"])
     assert initial["UK-TEST-NONE"]["src"] == "stills/UK-TEST-NONE-16x9.png"
     assert "Scenario:" in initial["UK-TEST-NONE"]["scenario"]
     assert report["afterNight"]["src"] == "captures/all-night-16x9.png"
