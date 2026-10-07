@@ -12088,6 +12088,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch14-to-relay-postcard-builder-20261007T212520Z.json (2026-10-07T21:25:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch14/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-491",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Usher Hall",
+      "place": "Lothian Road",
+      "caption": "Usher Hall, Edinburgh",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Clear night · Lothian Road looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Usher Hall in Edinburgh, a curved sandstone Beaux-Arts concert hall with a green copper dome, floodlit, on a clear night",
+      "description": "The Usher Hall is floodlit on Lothian Road, its curved sandstone front and green copper dome glowing above the lit foyer doors. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the corner of Lothian Road and Grindlay Street, north-east of the hall, looking south-west at its curved front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Usher_Hall",
+        "https://www.usherhall.co.uk/"
+      ],
+      "anchors": [
+        "A Beaux-Arts concert hall of pale sandstone from 1914 whose main body is a broad curved drum, rounded in plan",
+        "A shallow green copper dome over the drum, with a ring of tall arched windows and carved figures around the upper walls",
+        "A rusticated ground floor with a row of glazed entrance doors, and a modern curved glass extension at one side"
+      ],
+      "solar": "After sunset. Model sunrise 07:27 and sunset 18:32 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 312°, and elevation is about -30.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "cultural",
+        "edwardian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-491-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-491-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-491-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-492",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Glasgow",
+      "folder": "Glasgow",
+      "site": "Gallery of Modern Art and Wellington statue",
+      "place": "Royal Exchange Square",
+      "caption": "Gallery of Modern Art and Wellington statue, Glasgow",
+      "scenario_label": "7 October 2026 · 22:53 Europe/London",
+      "composition": "Clear night · Queen Street looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Duke of Wellington statue in Glasgow with a traffic cone on its head, in front of the floodlit pedimented portico and lantern turret of the Gallery of Modern Art, on a clear night",
+      "description": "The Duke of Wellington sits on his horse with a traffic cone on his head, lit in front of the pedimented Corinthian portico of Glasgow's Gallery of Modern Art. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrian Royal Exchange Square / Queen Street pavement in front of the building, west of it, looking east at the portico and the statue. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Gallery_of_Modern_Art,_Glasgow",
+        "https://en.wikipedia.org/wiki/Equestrian_statue_of_the_Duke_of_Wellington,_Glasgow"
+      ],
+      "anchors": [
+        "A neoclassical pale sandstone former merchants' exchange from 1829 whose face is a deep temple-front portico of eight tall fluted Corinthian columns under a large triangular pediment (with a mosaic in the tympanum)",
+        "A tall round open lantern turret ringed with columns and capped by a small cupola, centred on the axis directly behind the pediment",
+        "A bronze equestrian statue of the Duke of Wellington on a tall stone plinth in front of the portico, with an orange traffic cone on the rider's head"
+      ],
+      "solar": "After sunset. Model sunrise 07:31 and sunset 18:36 Europe/London. The scenario is 22:53 Europe/London. Calculated solar azimuth is north-west, about 320°, and elevation is about -33.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "urban",
+        "quirky"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Glasgow/uk-01-492-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Glasgow/uk-01-492-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Glasgow/uk-01-492-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-redo-batch16-redo-to-relay-postcard-builder-20261007T222629Z.json (2026-10-07T22:26:29Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-493",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Glasgow",
+      "folder": "Glasgow",
+      "site": "People's Palace and Winter Gardens",
+      "place": "Glasgow Green",
+      "caption": "People's Palace and Winter Gardens, Glasgow",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Clear night · Glasgow Green looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the People's Palace on Glasgow Green, a red sandstone museum with a lit Victorian glasshouse behind and the ornate Doulton Fountain in front, on a clear night",
+      "description": "The People's Palace is lit on Glasgow Green, its glasshouse glowing behind and the great terracotta Doulton Fountain in front. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path on Glasgow Green west of the Doulton Fountain, looking east past the fountain at the museum front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/People%27s_Palace,_Glasgow",
+        "https://en.wikipedia.org/wiki/Doulton_Fountain"
+      ],
+      "anchors": [
+        "A three-storey red sandstone museum building from 1898 in French Renaissance style with a central domed section topped by a statue",
+        "A large curved glass-and-iron Victorian glasshouse attached behind it, shaped like an upturned boat hull",
+        "The huge ornate terracotta Doulton Fountain in front, with tiered basins and figures, topped by a statue of Queen Victoria"
+      ],
+      "solar": "After sunset. Model sunrise 07:31 and sunset 18:36 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 311°, and elevation is about -30.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "victorian",
+        "civic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Glasgow/uk-01-493-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Glasgow/uk-01-493-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Glasgow/uk-01-493-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-494",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Belfast",
+      "folder": "Belfast",
+      "site": "Belfast Castle",
+      "place": "Antrim Road, Cave Hill",
+      "caption": "Belfast Castle, Belfast",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Clear night · the garden terrace looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Belfast Castle, a pale sandstone Scottish Baronial mansion with a tall turreted tower on the slope of Cave Hill, floodlit, on a clear night",
+      "description": "Belfast Castle is floodlit gold on the slope of Cave Hill, its tall turreted tower and baronial gables bright against the dark woods. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public castle garden terrace on the south-east side, looking north-west up at the garden front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Belfast_Castle",
+        "https://www.belfastcastle.co.uk/"
+      ],
+      "anchors": [
+        "A Scottish Baronial mansion of pale honey sandstone from 1870 on the wooded slope of Cave Hill",
+        "One tall square six-storey tower with a smaller round stair turret at its corner capped by a pointed conical roof",
+        "Crow-stepped gables, corbelled corner turrets, and an ornate double staircase descending from the garden front to the lawns"
+      ],
+      "solar": "After sunset. Model sunrise 07:37 and sunset 18:44 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 309°, and elevation is about -30.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "baronial",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Belfast/uk-01-494-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Belfast/uk-01-494-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Belfast/uk-01-494-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-495",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Cardiff",
+      "folder": "Cardiff",
+      "site": "Llandaff Cathedral",
+      "place": "Llandaff Cathedral Green",
+      "caption": "Llandaff Cathedral, Cardiff",
+      "scenario_label": "7 October 2026 · 22:53 Europe/London",
+      "composition": "Clear night · the Cathedral Green steps looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Llandaff Cathedral in Cardiff, a long medieval cathedral whose west front is flanked by a pinnacled tower and a tall spire, floodlit in its hollow, on a clear night",
+      "description": "Llandaff Cathedral lies floodlit in its hollow, its pinnacled tower and tall spire standing either side of the west front. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public churchyard path directly west of the cathedral, below the Cathedral Green, looking straight east at the west front (attempt 3 new viewpoint: square-on frontal view). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Llandaff_Cathedral",
+        "https://www.llandaffcathedral.org.uk/"
+      ],
+      "anchors": [
+        "A long, low medieval cathedral of grey and cream stone sitting in a hollow below the Cathedral Green, with gravestones on the grass; long nave with no crossing tower and no transepts",
+        "A west front flanked directly by two unmatched towers flush with the gable: the square pinnacled Perpendicular Jasper Tower on the north (left) and Prichard's square tower with a tall slender stone spire on the south (right)",
+        "Between the towers a narrow gable of tall lancet windows above a round-arched doorway"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:37 Europe/London. The scenario is 22:53 Europe/London. Calculated solar azimuth is north-west, about 319°, and elevation is about -37.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cardiff/uk-01-495-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cardiff/uk-01-495-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cardiff/uk-01-495-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-redo-batch16-redo-to-relay-postcard-builder-20261007T222629Z.json (2026-10-07T22:26:29Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-496",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Cardiff",
+      "folder": "Cardiff",
+      "site": "National Museum Cardiff",
+      "place": "Cathays Park",
+      "caption": "National Museum Cardiff, Cardiff",
+      "scenario_label": "7 October 2026 · 22:53 Europe/London",
+      "composition": "Clear night · the forecourt looking straight at the front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of National Museum Cardiff, a white Portland stone building with a broad flat-topped colonnade and a dome set back behind it, floodlit, on a clear night",
+      "description": "National Museum Cardiff gleams white under floodlights, its broad colonnade and attic bright below the dome set back behind. It is a clear night, about 11°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public edge of the Gorsedd Gardens lawn / museum forecourt in Cathays Park, directly in front of the museum's entrance on its central axis, looking straight at the front (attempt 3 new viewpoint: square-on frontal elevation). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/National_Museum_Cardiff",
+        "https://museum.wales/cardiff/"
+      ],
+      "anchors": [
+        "A long, low Edwardian Baroque civic building of gleaming white Portland stone from 1927, with symmetrical wings",
+        "A broad, flat-topped central entrance colonnade of paired columns under a tall plain inscribed attic, with NO pediment",
+        "A dome set back behind the entrance on a square drum with semicircular lunette windows, sculpture groups at the drum's corners"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:36 Europe/London. The scenario is 22:53 Europe/London. Calculated solar azimuth is north-west, about 319°, and elevation is about -37.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "civic",
+        "cultural"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cardiff/uk-01-496-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cardiff/uk-01-496-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cardiff/uk-01-496-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-redo-batch16-redo-to-relay-postcard-builder-20261007T222629Z.json (2026-10-07T22:26:29Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-497",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Kingston upon Hull",
+      "folder": "Hull",
+      "site": "Hull Minster",
+      "place": "Trinity Square, Old Town",
+      "caption": "Hull Minster, Kingston upon Hull",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Partly cloudy night · Trinity Square looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hull Minster, a large Gothic church with a great west window and a tall pinnacled central tower, floodlit, on a partly cloudy night",
+      "description": "Hull Minster is floodlit pale gold over Trinity Square, its great west window and tall central tower bright against the night. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Trinity Square west of the church, looking east at the west front and central tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hull_Minster",
+        "https://hullminster.org/"
+      ],
+      "anchors": [
+        "A very large late-medieval Gothic parish church of pale stone with brick in its walls, with huge Perpendicular windows",
+        "A tall square central tower with large paired belfry windows, a pierced parapet and slender corner pinnacles, with no spire",
+        "A broad west front with a great traceried window over the door, and a paved square in front"
+      ],
+      "solar": "After sunset. Model sunrise 07:13 and sunset 18:23 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 314°, and elevation is about -33.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Hull/uk-01-497-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Hull/uk-01-497-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Hull/uk-01-497-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-498",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Salford",
+      "folder": "Salford",
+      "site": "The Lowry",
+      "place": "Pier 8, Salford Quays",
+      "caption": "The Lowry, Salford",
+      "scenario_label": "7 October 2026 · 22:53 Europe/London",
+      "composition": "Clear night · the Salford Quays walkway looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Lowry at Salford Quays, a long low arts centre of rounded steel and glass forms with a tall cylindrical lantern tower, lit purple and blue and reflected in the water, on a clear night",
+      "description": "The Lowry glows purple and blue at the tip of its pier, its lantern tower lit above the long steel and glass front and mirrored in Salford Quays. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public quayside walkway across the water basin north of The Lowry, looking south at the building over the water. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Lowry",
+        "https://thelowry.com/"
+      ],
+      "anchors": [
+        "A long, low modern arts centre from 2000 on the tip of Pier 8 at Salford Quays, made of rounded, curved volumes clad in stainless steel panels and glass (no angular shards)",
+        "A tall slender cylindrical lantern tower clad in steel and glass, glowing from within, rising above the low massing: the building's signature",
+        "A broad flat entrance canopy over a glazed foyer, with the still water of the basin in front"
+      ],
+      "solar": "After sunset. Model sunrise 07:21 and sunset 18:31 Europe/London. The scenario is 22:53 Europe/London. Calculated solar azimuth is north-west, about 321°, and elevation is about -36.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "modern",
+        "waterfront"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Salford/uk-01-498-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Salford/uk-01-498-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Salford/uk-01-498-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-redo-batch16-redo-to-relay-postcard-builder-20261007T222629Z.json (2026-10-07T22:26:29Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-499",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Lichfield",
+      "folder": "Lichfield",
+      "site": "Lichfield Cathedral",
+      "place": "Cathedral Close",
+      "caption": "Lichfield Cathedral, Lichfield",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Mainly clear night · the Cathedral Close looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Lichfield Cathedral, a red sandstone Gothic cathedral with three spires and a statue-covered west front, floodlit, on a mainly clear night",
+      "description": "Lichfield Cathedral's three spires are floodlit rose-gold, rising above the west front and its rows of carved statues. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Cathedral Close west of the cathedral, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Lichfield_Cathedral",
+        "https://www.lichfield-cathedral.org/"
+      ],
+      "anchors": [
+        "A Gothic cathedral of red sandstone, the only medieval English cathedral with three spires",
+        "Two tall slender pointed spires on matching towers at the west front and a third taller spire over the crossing behind",
+        "A west front covered in rows of carved statues in niches, with a large west window and three doorways"
+      ],
+      "solar": "After sunset. Model sunrise 07:18 and sunset 18:30 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 312°, and elevation is about -33.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Lichfield/uk-01-499-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Lichfield/uk-01-499-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Lichfield/uk-01-499-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
+    },
+    {
+      "entry_id": "UK-01-500",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Bradford",
+      "folder": "Bradford",
+      "site": "Bradford City Hall",
+      "place": "Centenary Square",
+      "caption": "Bradford City Hall, Bradford",
+      "scenario_label": "7 October 2026 · 22:22 Europe/London",
+      "composition": "Clear night · City Park looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Bradford City Hall, a Gothic sandstone town hall with a tall Italianate clock tower reflected in the Mirror Pool, floodlit, on a clear night",
+      "description": "Bradford City Hall's clock tower is floodlit gold and mirrored in the still water of City Park's pool. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Centenary Square City Park south-west of the building, looking north-east across the Mirror Pool at the hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bradford_City_Hall",
+        "https://en.wikipedia.org/wiki/City_Park,_Bradford"
+      ],
+      "anchors": [
+        "A Victorian Gothic town hall of golden sandstone from 1873 with a long front of pointed windows",
+        "A tall square Italian Gothic clock tower modelled on the Palazzo Vecchio in Florence, with an overhanging battlemented top stage",
+        "A broad shallow reflecting pool in the square in front, with lit fountain jets"
+      ],
+      "solar": "After sunset. Model sunrise 07:19 and sunset 18:28 Europe/London. The scenario is 22:22 Europe/London. Calculated solar azimuth is north-west, about 313°, and elevation is about -32.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "civic",
+        "victorian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Bradford/uk-01-500-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Bradford/uk-01-500-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Bradford/uk-01-500-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch15-to-relay-postcard-builder-20261007T214103Z.json (2026-10-07T21:41:03Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch15/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-07"
     }
   ]
 }
