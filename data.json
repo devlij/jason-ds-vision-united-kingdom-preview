@@ -14138,6 +14138,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch19-to-relay-postcard-builder-20261007T232253Z.json (2026-10-07T23:22:53Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch19/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-541",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Newcastle upon Tyne",
+      "folder": "Newcastle",
+      "site": "Castle Keep",
+      "place": "Castle Garth, Newcastle upon Tyne",
+      "caption": "Castle Keep, Newcastle upon Tyne",
+      "scenario_label": "8 October 2026 · 00:23 Europe/London",
+      "composition": "Partly cloudy night · Castle Garth looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Castle Keep in Newcastle upon Tyne, a massive square Norman stone keep with a battlemented top, floodlit, on a partly cloudy night",
+      "description": "Newcastle's Norman Castle Keep stands floodlit above the cobbles of Castle Garth. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Castle Garth, south of the keep, looking north at its south face and the forebuilding. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Newcastle_Castle",
+        "https://www.newcastlecastle.co.uk/"
+      ],
+      "anchors": [
+        "The stone keep of the 'new castle' that gave the city its name, built for Henry II in 1172-1177 of buff-grey sandstone",
+        "A massive, tall, nearly cubic Norman keep with broad flat pilaster buttresses, small round-arched windows and a flat battlemented top with square corner turrets",
+        "A lower forebuilding with an enclosed stone staircase against its east side, leading up to the entrance"
+      ],
+      "solar": "After sunset. Model sunrise 07:22 and sunset 18:24 Europe/London. The scenario is 00:23 Europe/London. Calculated solar azimuth is north, about 350°, and elevation is about -40.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "norman"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Newcastle/uk-01-541-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Newcastle/uk-01-541-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Newcastle/uk-01-541-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-542",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Hereford",
+      "folder": "Hereford",
+      "site": "Hereford Cathedral",
+      "place": "Cathedral Close, Hereford",
+      "caption": "Hereford Cathedral, Hereford",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Partly cloudy night · the Close looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Hereford Cathedral, a red sandstone cathedral with a square pinnacled central tower, floodlit, on a partly cloudy night",
+      "description": "Hereford Cathedral's red sandstone tower is floodlit above the lawns of the Close. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Cathedral Close lawn, north of the cathedral, looking south at the north side and central tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hereford_Cathedral",
+        "https://www.herefordcathedral.org/"
+      ],
+      "anchors": [
+        "A cathedral of red sandstone, home of the Mappa Mundi and the chained library",
+        "A square early-14th-century central tower with two tall belfry stages of paired pointed openings, studded all over with small ballflower ornaments, with four slender corner pinnacles and NO spire",
+        "A long nave and transepts with buttresses and pointed windows, set in the trees and lawns of the Close"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:32 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 348°, and elevation is about -43.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Hereford/uk-01-542-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Hereford/uk-01-542-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Hereford/uk-01-542-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-543",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Bury St Edmunds",
+      "folder": "Bury St Edmunds",
+      "site": "Abbey Gate",
+      "place": "Angel Hill, Bury St Edmunds, Suffolk",
+      "caption": "Abbey Gate, Bury St Edmunds",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Clear night · Angel Hill looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Abbey Gate in Bury St Edmunds, a carved medieval stone gatehouse with a pointed archway, floodlit, on a clear night",
+      "description": "The carved stone Abbey Gate is floodlit on Angel Hill in Bury St Edmunds. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Angel Hill square, west of the gate, looking east at its outer face. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bury_St_Edmunds_Abbey",
+        "https://www.english-heritage.org.uk/visit/places/bury-st-edmunds-abbey/"
+      ],
+      "anchors": [
+        "The 14th-century great gate of the Benedictine abbey of St Edmund, rebuilt after townspeople destroyed the old gate in a riot of 1327, now the entrance to the Abbey Gardens",
+        "A tall, almost square two-storey gatehouse of pale grey stone with a single tall pointed archway, richly carved with canopied niches and blind tracery panelling",
+        "Corner buttresses rising as slender turrets, and a battlemented parapet on top, NO tower and NO spire"
+      ],
+      "solar": "After sunset. Model sunrise 07:09 and sunset 18:18 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 353°, and elevation is about -43.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "medieval",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Bury St Edmunds/uk-01-543-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Bury St Edmunds/uk-01-543-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Bury St Edmunds/uk-01-543-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-544",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Sherborne",
+      "folder": "Sherborne",
+      "site": "Sherborne Abbey",
+      "place": "Abbey Close, Sherborne, Dorset",
+      "caption": "Sherborne Abbey, Sherborne",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Mainly clear night · the Abbey Close looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Sherborne Abbey, a golden stone abbey church with a square pinnacled tower and large windows, floodlit, on a mainly clear night",
+      "description": "Sherborne Abbey's golden Ham stone tower and great windows are floodlit across the Abbey Close. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Abbey Close green, south of the abbey, looking north at the south side and central tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Sherborne_Abbey",
+        "https://www.sherborneabbey.com/"
+      ],
+      "anchors": [
+        "A former Benedictine abbey church of golden-orange Ham stone, famous for its 15th-century fan vaulting",
+        "A tall, square central tower with large paired pointed belfry openings and a battlemented parapet with corner pinnacles, NO spire",
+        "Very large Perpendicular windows with panel tracery along the nave and choir, between buttresses topped by pinnacles"
+      ],
+      "solar": "After sunset. Model sunrise 07:21 and sunset 18:32 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 348°, and elevation is about -44.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Sherborne/uk-01-544-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Sherborne/uk-01-544-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Sherborne/uk-01-544-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-545",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Selby",
+      "folder": "Selby",
+      "site": "Selby Abbey",
+      "place": "Market Place, Selby, North Yorkshire",
+      "caption": "Selby Abbey, Selby",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Mainly clear night · the Market Place looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Selby Abbey, a pale stone abbey church with two square west towers and a Norman doorway, floodlit, on a mainly clear night",
+      "description": "Selby Abbey's west front and towers are floodlit above the Market Place. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Market Place / abbey forecourt, west of the abbey, looking east at the west front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Selby_Abbey",
+        "https://www.selbyabbey.org.uk/"
+      ],
+      "anchors": [
+        "An abbey church of pale cream limestone founded in 1069, one of few monastic churches in England to survive the Dissolution",
+        "A west front with a deep round-arched Norman doorway of many carved orders beneath a large pointed window",
+        "Two square west towers with battlements and corner pinnacles (upper stages completed 1935) and a similar square central tower behind, NO spires"
+      ],
+      "solar": "After sunset. Model sunrise 07:18 and sunset 18:24 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 351°, and elevation is about -41.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "norman"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Selby/uk-01-545-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Selby/uk-01-545-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Selby/uk-01-545-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-546",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Derry",
+      "folder": "Derry",
+      "site": "St Columb's Cathedral",
+      "place": "London Street, Derry",
+      "caption": "St Columb's Cathedral, Derry",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Overcast night · the churchyard looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Columb's Cathedral in Derry, a grey stone Gothic church with a square tower and a tall spire, floodlit, on an overcast night",
+      "description": "St Columb's Cathedral and its slender spire are floodlit inside Derry's city walls. It is an overcast night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public cathedral churchyard path inside the city walls, south-west of the cathedral, looking north-east at the west tower and spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Columb%27s_Cathedral",
+        "https://www.stcolumbscathedral.org/"
+      ],
+      "anchors": [
+        "A Church of Ireland cathedral completed in 1633 inside Derry's city walls, the first cathedral built in the British Isles after the Reformation",
+        "A Planter's Gothic church of grey rubble stone with sandstone dressings",
+        "A square west tower with a battlemented parapet and corner pinnacles, carrying a tall, slender stone spire"
+      ],
+      "solar": "After sunset. Model sunrise 07:45 and sunset 18:47 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 343°, and elevation is about -39.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Derry/uk-01-546-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Derry/uk-01-546-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Derry/uk-01-546-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-547",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Chepstow",
+      "folder": "Chepstow",
+      "site": "Chepstow Castle",
+      "place": "Bridge Street, Chepstow, Monmouthshire",
+      "caption": "Chepstow Castle, Chepstow",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Clear night · the east bank of the Wye looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Chepstow Castle, a long stone castle on a limestone cliff above the River Wye, floodlit, on a clear night",
+      "description": "Chepstow Castle is floodlit along its cliff above the dark River Wye. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside path on the east (Gloucestershire) bank of the River Wye, opposite the castle, looking west across the river. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Chepstow_Castle",
+        "https://cadw.gov.wales/visit/places-to-visit/chepstow-castle"
+      ],
+      "anchors": [
+        "Begun in 1067 by William FitzOsbern, one of the oldest surviving post-Roman stone fortifications in Britain",
+        "A long, narrow castle strung out along the top of a sheer limestone cliff above the tidal River Wye, its curtain walls rising straight from the rock",
+        "In its middle the Norman Great Tower, a tall rectangular hall-keep, with round and square towers along the walls"
+      ],
+      "solar": "After sunset. Model sunrise 07:22 and sunset 18:32 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 348°, and elevation is about -43.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Chepstow/uk-01-547-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Chepstow/uk-01-547-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Chepstow/uk-01-547-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-548",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Linlithgow",
+      "folder": "Linlithgow",
+      "site": "Linlithgow Palace",
+      "place": "Linlithgow Loch, West Lothian",
+      "caption": "Linlithgow Palace, Linlithgow",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Clear night · the loch shore looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Linlithgow Palace, a roofless stone royal palace beside a church with a crown spire, floodlit above the loch, on a clear night",
+      "description": "Linlithgow Palace and the crown spire of St Michael's are floodlit and mirrored in Linlithgow Loch. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public loch-side path on the north shore of Linlithgow Loch, looking south across the water at the palace and church. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Linlithgow_Palace",
+        "https://www.historicenvironment.scot/visit-a-place/places/linlithgow-palace/"
+      ],
+      "anchors": [
+        "The roofless royal palace of the Stewart kings, birthplace of James V (1512) and Mary, Queen of Scots (1542), gutted by fire in 1746",
+        "A large, square, quadrangular palace block of four storeys around a courtyard, rows of empty rectangular windows, with square corner towers rising a little higher, on a grassy knoll above the loch",
+        "Beside it to the east, St Michael's Parish Church, whose square tower carries a slender modern open crown spire of gold-coloured aluminium (1964)"
+      ],
+      "solar": "After sunset. Model sunrise 07:31 and sunset 18:31 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 348°, and elevation is about -39.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "palace",
+        "loch"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Linlithgow/uk-01-548-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Linlithgow/uk-01-548-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Linlithgow/uk-01-548-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-549",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Oxford",
+      "folder": "Oxford",
+      "site": "Tom Tower",
+      "place": "St Aldate's, Oxford",
+      "caption": "Tom Tower, Oxford",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Clear night · St Aldate's looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Tom Tower at Christ Church, Oxford, a stone gate tower with an ogee-shaped cupola, floodlit, on a clear night",
+      "description": "Wren's Tom Tower rises floodlit over the gate of Christ Church on St Aldate's. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public St Aldate's pavement, east of Christ Church, looking west at Tom Tower and the college front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tom_Tower",
+        "https://www.chch.ox.ac.uk/"
+      ],
+      "anchors": [
+        "Christopher Wren's tower of 1681-82 over the main gate of Christ Church, Oxford, housing the bell Great Tom",
+        "A Tudor gateway of honey-coloured stone between two polygonal turrets, above which rises Wren's octagonal belfry stage with tall pointed ogee-headed openings",
+        "The tower crowned by an ogee-shaped lead cupola with a small finial, the flanking turrets with matching small ogee caps, along a long battlemented college front"
+      ],
+      "solar": "After sunset. Model sunrise 07:17 and sunset 18:26 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 350°, and elevation is about -43.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "college",
+        "tower"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Oxford/uk-01-549-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Oxford/uk-01-549-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Oxford/uk-01-549-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-550",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Plymouth",
+      "folder": "Plymouth",
+      "site": "Smeaton's Tower",
+      "place": "Plymouth Hoe, Plymouth, Devon",
+      "caption": "Smeaton's Tower, Plymouth",
+      "scenario_label": "8 October 2026 · 00:24 Europe/London",
+      "composition": "Mainly clear night · the Hoe promenade looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Smeaton's Tower, a red and white striped former lighthouse on Plymouth Hoe, floodlit, on a mainly clear night",
+      "description": "Smeaton's Tower, the red and white striped lighthouse, is floodlit on Plymouth Hoe above the Sound. It is a mainly clear night, about 11°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Plymouth Hoe promenade, north of the lighthouse, looking south past it to Plymouth Sound. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Smeaton%27s_Tower",
+        "https://www.theboxplymouth.com/smeatons-tower"
+      ],
+      "anchors": [
+        "John Smeaton's 1759 Eddystone lighthouse, taken down and rebuilt on Plymouth Hoe in 1882",
+        "A curved, tapering granite tower, wider at the base, painted in broad horizontal red and white bands",
+        "An iron gallery with railings around a glazed lantern room capped by a small dome with a ball finial, on the open lawn of the Hoe above Plymouth Sound"
+      ],
+      "solar": "After sunset. Model sunrise 07:27 and sunset 18:39 Europe/London. The scenario is 00:24 Europe/London. Calculated solar azimuth is north, about 346°, and elevation is about -44.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "lighthouse"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Plymouth/uk-01-550-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Plymouth/uk-01-550-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Plymouth/uk-01-550-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
