@@ -451,6 +451,30 @@ __SOCIAL_IMAGE__
       postcard.setAttribute("data-postcard", "on");
     }
 
+    function primaryIsNightOrEvening(scene) {
+      let night = false;
+      let day = false;
+      const markToken = (value) => {
+        const text = String(value || "").trim().toLowerCase();
+        if (/^(night|evening|dusk|twilight)$/.test(text)) night = true;
+        else if (/^(day|daytime|morning|afternoon)$/.test(text)) day = true;
+      };
+      const meta = (typeof UK_META !== "undefined" && UK_META) ? UK_META[scene.entry_id] : null;
+      if (meta && meta.length > 1) markToken(meta[1]);
+      markToken(scene.daynight);
+      markToken(scene.time_of_day);
+      markToken(scene.primary_mode);
+      const prefix = String(scene.composition || "").split("·")[0];
+      if (/\b(night|evening|dusk|twilight)\b/i.test(prefix)) night = true;
+      if (/\b(morning|afternoon|daytime|daylight|day)\b/i.test(prefix)) day = true;
+      const solar = String(scene.solar || "");
+      if (/after sunset/i.test(solar) || /\bis_day is 0\b/.test(solar)) night = true;
+      if (/^daylight\b/i.test(solar) || /after sunrise/i.test(solar) || /\bis_day is 1\b/.test(solar)) day = true;
+      const names = [scene.file_16x9, scene.file_4x5, scene.file_9x16].filter((value) => typeof value === "string").join(" ");
+      if (/\b(night|evening|dusk|twilight)\b/i.test(names)) night = true;
+      return night && !day;
+    }
+
     function render() {
       const query = q.value.trim().toLowerCase();
       const reg = region.value;
@@ -501,7 +525,7 @@ __SOCIAL_IMAGE__
         const showLegacy = legacyMotion && legacyMotion !== sweep;
         const controls = [];
         if (hasNight) controls.push(`<button type="button" class="night-tab" aria-pressed="false" title="Show the night image">🌙 Night</button>`);
-        if (hasGday) controls.push(`<button type="button" class="gday-tab" aria-pressed="false" title="Toggle the genuine daylight capture">☀ Genuine daylight</button>`);
+        if (hasGday && primaryIsNightOrEvening(s)) controls.push(`<button type="button" class="gday-tab" aria-pressed="false" title="Toggle the genuine daylight capture">☀ Genuine daylight</button>`);
         if (hasPostcard) controls.push(`<button type="button" class="pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">📩 Postcard</button>`);
         if (sweep) controls.push(`<button type="button" class="motion-tab" data-motion="${esc(sweep)}" title="Play the 360° daylight motion clip">▶ 360°</button>`);
         const thumbClass = "thumb" + (initialFmt === "4x5" ? " tall" : "") + (initialFmt === "9x16" ? " tall916" : "");
