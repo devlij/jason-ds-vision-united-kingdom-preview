@@ -3345,4 +3345,304 @@
       <image:geo_location>Cambridge, United Kingdom</image:geo_location>
     </image:image>
   </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-431</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-431-16x9.png</image:loc>
+      <image:caption>The Scott Monument soars over Princes Street Gardens, its dark Gothic pinnacles floodlit tier upon tier. Beneath its arches sits the white marble statue of Sir Walter Scott. It is night with a light drizzle, about 10°C, and the sun is well below the horizon.</image:caption>
+      <image:title>Scott Monument, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-431-4x5.png</image:loc>
+      <image:caption>The Scott Monument soars over Princes Street Gardens, its dark Gothic pinnacles floodlit tier upon tier. Beneath its arches sits the white marble statue of Sir Walter Scott. It is night with a light drizzle, about 10°C, and the sun is well below the horizon.</image:caption>
+      <image:title>Scott Monument, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-432</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-432-16x9.png</image:loc>
+      <image:caption>The zigzag roof of the Riverside Museum rises and falls along the Clyde, its glass end wall glowing warm. The tall ship Glenlee is moored alongside. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Riverside Museum, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-432-4x5.png</image:loc>
+      <image:caption>The zigzag roof of the Riverside Museum rises and falls along the Clyde, its glass end wall glowing warm. The tall ship Glenlee is moored alongside. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Riverside Museum, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-433</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberdeen/uk-01-433-16x9.png</image:loc>
+      <image:caption>Marischal College&apos;s vast granite facade glows silver under its floodlights, its roofline bristling with slender pinnacles. The central gateway tower rises above Broad Street. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Marischal College, Aberdeen</image:title>
+      <image:geo_location>Aberdeen, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberdeen/uk-01-433-4x5.png</image:loc>
+      <image:caption>Marischal College&apos;s vast granite facade glows silver under its floodlights, its roofline bristling with slender pinnacles. The central gateway tower rises above Broad Street. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Marischal College, Aberdeen</image:title>
+      <image:geo_location>Aberdeen, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-434</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-434-16x9.png</image:loc>
+      <image:caption>The Peace Bridge curves across the Foyle in a gentle S, its two leaning masts and fans of cables lit against the night. Its lights shimmer on the wide river. It is a partly cloudy night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Peace Bridge, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-434-4x5.png</image:loc>
+      <image:caption>The Peace Bridge curves across the Foyle in a gentle S, its two leaning masts and fans of cables lit against the night. Its lights shimmer on the wide river. It is a partly cloudy night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Peace Bridge, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-435</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Llandudno/uk-01-435-16x9.png</image:loc>
+      <image:caption>Llandudno Pier runs out into the bay on its iron legs, its little kiosks strung with lights. The dark mass of the Great Orme rises behind. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Llandudno Pier, Llandudno</image:title>
+      <image:geo_location>Llandudno, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Llandudno/uk-01-435-4x5.png</image:loc>
+      <image:caption>Llandudno Pier runs out into the bay on its iron legs, its little kiosks strung with lights. The dark mass of the Great Orme rises behind. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Llandudno Pier, Llandudno</image:title>
+      <image:geo_location>Llandudno, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-436</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-436-16x9.png</image:loc>
+      <image:caption>The stained-glass lantern of Liverpool Metropolitan Cathedral glows blue, red and gold above its ring of sloping buttresses. Its crown of pinnacles stands out against the night. It is a mainly clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Liverpool Metropolitan Cathedral, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-436-4x5.png</image:loc>
+      <image:caption>The stained-glass lantern of Liverpool Metropolitan Cathedral glows blue, red and gold above its ring of sloping buttresses. Its crown of pinnacles stands out against the night. It is a mainly clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Liverpool Metropolitan Cathedral, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-437</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-437-16x9.png</image:loc>
+      <image:caption>The Library of Birmingham glows over Centenary Square, its broad silver box of interlocking metal rings cantilevering out above a glazed ground floor, with a gold-clad box and a second silver box stacked above. A gold rotunda crowns the top. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Library of Birmingham, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-437-4x5.png</image:loc>
+      <image:caption>The Library of Birmingham glows over Centenary Square, its broad silver box of interlocking metal rings cantilevering out above a glazed ground floor, with a gold-clad box and a second silver box stacked above. A gold rotunda crowns the top. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Library of Birmingham, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-438</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Nottingham/uk-01-438-16x9.png</image:loc>
+      <image:caption>The Council House glows in floodlit Portland stone across Old Market Square, its columned portico crowned by a tall dome. The wide square spreads out in front. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Nottingham Council House, Nottingham</image:title>
+      <image:geo_location>Nottingham, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Nottingham/uk-01-438-4x5.png</image:loc>
+      <image:caption>The Council House glows in floodlit Portland stone across Old Market Square, its columned portico crowned by a tall dome. The wide square spreads out in front. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Nottingham Council House, Nottingham</image:title>
+      <image:geo_location>Nottingham, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-439</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Lincoln/uk-01-439-16x9.png</image:loc>
+      <image:caption>Lincoln Cathedral&apos;s great screen-like west front glows in floodlit limestone, row upon row of arcading framing its deep doorways. Its towers rise behind against the night. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Lincoln Cathedral, Lincoln</image:title>
+      <image:geo_location>Lincoln, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Lincoln/uk-01-439-4x5.png</image:loc>
+      <image:caption>Lincoln Cathedral&apos;s great screen-like west front glows in floodlit limestone, row upon row of arcading framing its deep doorways. Its towers rise behind against the night. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Lincoln Cathedral, Lincoln</image:title>
+      <image:geo_location>Lincoln, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-440</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Hull/uk-01-440-16x9.png</image:loc>
+      <image:caption>The Humber Bridge stretches across the dark estuary, a line of orange lamps marking its deck beneath the sweeping cables. Its tall twin-column towers stand softly lit. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Humber Bridge, Hessle</image:title>
+      <image:geo_location>Hessle, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Hull/uk-01-440-4x5.png</image:loc>
+      <image:caption>The Humber Bridge stretches across the dark estuary, a line of orange lamps marking its deck beneath the sweeping cables. Its tall twin-column towers stand softly lit. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Humber Bridge, Hessle</image:title>
+      <image:geo_location>Hessle, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-441</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Brighton/uk-01-441-16x9.png</image:loc>
+      <image:caption>The Royal Pavilion glows pale cream under its floodlights, its onion domes and slender minarets rising above the gardens. Rows of Indian-style arches line the ground floor. It is an overcast night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Royal Pavilion, Brighton</image:title>
+      <image:geo_location>Brighton, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Brighton/uk-01-441-4x5.png</image:loc>
+      <image:caption>The Royal Pavilion glows pale cream under its floodlights, its onion domes and slender minarets rising above the gardens. Rows of Indian-style arches line the ground floor. It is an overcast night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Royal Pavilion, Brighton</image:title>
+      <image:geo_location>Brighton, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-442</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-442-16x9.png</image:loc>
+      <image:caption>St Giles&apos; Cathedral rises over the cobbled Royal Mile, its open stone crown steeple floodlit against the night. The Mercat Cross stands nearby beneath the old lamps. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Giles&apos; Cathedral, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-442-4x5.png</image:loc>
+      <image:caption>St Giles&apos; Cathedral rises over the cobbled Royal Mile, its open stone crown steeple floodlit against the night. The Mercat Cross stands nearby beneath the old lamps. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Giles&apos; Cathedral, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-443</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-443-16x9.png</image:loc>
+      <image:caption>Glasgow City Chambers fills the east side of George Square, its honey sandstone front floodlit tier upon tier. A tall central tower rises over the sculpted pediment. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Glasgow City Chambers, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-443-4x5.png</image:loc>
+      <image:caption>Glasgow City Chambers fills the east side of George Square, its honey sandstone front floodlit tier upon tier. A tall central tower rises over the sculpted pediment. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Glasgow City Chambers, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-444</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Cardiff/uk-01-444-16x9.png</image:loc>
+      <image:caption>The Pierhead Building glows deep red on the waterfront, its ornate gables and clock tower floodlit. Its lights shimmer on the still water of the bay. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Pierhead Building, Cardiff</image:title>
+      <image:geo_location>Cardiff, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Cardiff/uk-01-444-4x5.png</image:loc>
+      <image:caption>The Pierhead Building glows deep red on the waterfront, its ornate gables and clock tower floodlit. Its lights shimmer on the still water of the bay. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Pierhead Building, Cardiff</image:title>
+      <image:geo_location>Cardiff, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-445</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Stirling/uk-01-445-16x9.png</image:loc>
+      <image:caption>The National Wallace Monument stands floodlit gold on the summit of Abbey Craig, its crown spire sharp against the night sky. The dark wooded crag falls steeply to the valley below. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>National Wallace Monument, Stirling</image:title>
+      <image:geo_location>Stirling, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Stirling/uk-01-445-4x5.png</image:loc>
+      <image:caption>The National Wallace Monument stands floodlit gold on the summit of Abbey Craig, its crown spire sharp against the night sky. The dark wooded crag falls steeply to the valley below. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>National Wallace Monument, Stirling</image:title>
+      <image:geo_location>Stirling, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-446</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bath/uk-01-446-16x9.png</image:loc>
+      <image:caption>Pulteney Bridge spans the Avon on three low arches, its shop windows glowing in the honey stone. The curved weir spills white water across the river below. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Pulteney Bridge, Bath</image:title>
+      <image:geo_location>Bath, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bath/uk-01-446-4x5.png</image:loc>
+      <image:caption>Pulteney Bridge spans the Avon on three low arches, its shop windows glowing in the honey stone. The curved weir spills white water across the river below. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Pulteney Bridge, Bath</image:title>
+      <image:geo_location>Bath, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-447</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-447-16x9.png</image:loc>
+      <image:caption>The Newport Transporter Bridge stands floodlit over the Usk, its two lattice towers joined by a high steel boom. A small gondola hangs beneath it just above the water. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport Transporter Bridge, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-447-4x5.png</image:loc>
+      <image:caption>The Newport Transporter Bridge stands floodlit over the Usk, its two lattice towers joined by a high steel boom. A small gondola hangs beneath it just above the water. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport Transporter Bridge, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-448</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-448-16x9.png</image:loc>
+      <image:caption>St Anne&apos;s Cathedral presents its pale Romanesque front to Writers&apos; Square, its arched doorways softly floodlit. The slender steel Spire of Hope glows silver above the roof. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Anne&apos;s Cathedral, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-448-4x5.png</image:loc>
+      <image:caption>St Anne&apos;s Cathedral presents its pale Romanesque front to Writers&apos; Square, its arched doorways softly floodlit. The slender steel Spire of Hope glows silver above the roof. It is a partly cloudy night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Anne&apos;s Cathedral, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-449</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-449-16x9.png</image:loc>
+      <image:caption>Manchester Central Library&apos;s great stone rotunda glows pale over St Peter&apos;s Square, its tall Corinthian portico floodlit. A shallow dome caps the round drum. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Manchester Central Library, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-449-4x5.png</image:loc>
+      <image:caption>Manchester Central Library&apos;s great stone rotunda glows pale over St Peter&apos;s Square, its tall Corinthian portico floodlit. A shallow dome caps the round drum. It is a clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Manchester Central Library, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-450</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-450-16x9.png</image:loc>
+      <image:caption>The Guildhall glows warm red across Guildhall Square, its tall stained-glass windows softly lit. The clock tower rises above, its faces lit against the night. It is an overcast night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Guildhall, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-450-4x5.png</image:loc>
+      <image:caption>The Guildhall glows warm red across Guildhall Square, its tall stained-glass windows softly lit. The clock tower rises above, its faces lit against the night. It is an overcast night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Guildhall, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
