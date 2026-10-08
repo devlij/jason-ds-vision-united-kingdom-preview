@@ -15368,6 +15368,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch22-to-relay-postcard-builder-20261008T002017Z.json (2026-10-08T00:20:17Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch22/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-571",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Dundee",
+      "folder": "Dundee",
+      "site": "Caird Hall",
+      "place": "City Square, Dundee",
+      "caption": "Caird Hall, Dundee",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Mainly clear night · City Square looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Caird Hall in Dundee, a long pale sandstone building with a giant colonnade of Doric columns, floodlit over City Square, on a mainly clear night",
+      "description": "The Caird Hall's giant Doric colonnade is floodlit over City Square in Dundee. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public City Square, north-west of the hall, looking south-east at the colonnaded front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Caird_Hall",
+        "https://portal.historicenvironment.scot/designation/LB25258"
+      ],
+      "anchors": [
+        "Dundee's main concert hall, gifted by the jute baron Sir James Caird and opened in 1923; its main facade faces north-west onto City Square",
+        "A long, symmetrical, flat-roofed classical front of pale sandstone with a giant Roman Doric colonnade 13 bays long on a stepped base: fluted columns in the inner bays, square panelled piers at the end bays (Historic Environment Scotland listing LB25258)",
+        "Plainer wings with square windows either side of the colonnade, a flat corniced skyline, NO dome, NO tower, NO pediment"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:28 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 4°, and elevation is about -39.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "classical"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dundee/uk-01-571-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dundee/uk-01-571-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dundee/uk-01-571-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-572",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Old College, University of Edinburgh",
+      "place": "South Bridge, Edinburgh",
+      "caption": "Old College, University of Edinburgh, Edinburgh",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Clear night · South Bridge looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Old College at the University of Edinburgh, a grey stone neoclassical front with giant Doric columns and a dome topped by a gilded statue, floodlit, on a clear night",
+      "description": "Old College's dome and gilded Golden Boy are floodlit above South Bridge in Edinburgh. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public South Bridge pavement, east of the building, looking west at the entrance front and the dome. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Old_College,_University_of_Edinburgh",
+        "https://www.ed.ac.uk/"
+      ],
+      "anchors": [
+        "The University of Edinburgh's Old College, designed by Robert Adam in 1789 and completed by William Henry Playfair in the 1820s",
+        "A severe, symmetrical front of grey ashlar stone on South Bridge with a triumphal-arch entrance framed by giant monolithic Doric columns",
+        "Above the entrance a tall stone drum and a dome added in 1887, crowned by a gilded statue of a youth holding a torch (the 'Golden Boy')"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:29 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 4°, and elevation is about -39.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "classical"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-572-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-572-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-572-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-573",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Dugald Stewart Monument, Calton Hill",
+      "place": "Calton Hill, Edinburgh",
+      "caption": "Dugald Stewart Monument, Calton Hill, Edinburgh",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Clear night · the Calton Hill path looking west-south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Dugald Stewart Monument on Calton Hill, a small round temple of Corinthian columns, with the lit Old Town and Edinburgh Castle beyond, on a clear night",
+      "description": "The Dugald Stewart Monument stands on Calton Hill against the lit Old Town and castle. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Calton Hill path, east of the monument, looking west-south-west past it to the Old Town skyline and the castle. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Dugald_Stewart_Monument",
+        "https://www.edinburghworldheritage.org/"
+      ],
+      "anchors": [
+        "A memorial to the philosopher Dugald Stewart by William Henry Playfair, 1831, at the south-west corner of Calton Hill",
+        "A small circular temple of pale stone: a ring of slender Corinthian columns on a high square-cornered base, under a small shallow dome with a finial",
+        "Modelled on the Choragic Monument of Lysicrates in Athens; behind it at night the lit Old Town skyline and Edinburgh Castle on its rock"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:29 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 4°, and elevation is about -39.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "classical"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-573-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-573-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-573-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-574",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Conwy",
+      "folder": "Conwy",
+      "site": "Conwy Suspension Bridge",
+      "place": "Conwy Quay, Conwy",
+      "caption": "Conwy Suspension Bridge, Conwy",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Light drizzle night · the east bank of the Conwy looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Conwy Suspension Bridge, with castle-style stone towers and iron chains leading to Conwy Castle, lit up over the river, on an overcast night with drizzle",
+      "description": "Telford's suspension bridge and Conwy Castle are lit above the estuary. It is an overcast night with drizzle, about 11°C, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside on the east bank of the Conwy estuary, south of the road bridges, looking west at the suspension bridge and the castle. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Conwy_Suspension_Bridge",
+        "https://www.nationaltrust.org.uk/visit/wales/conwy-suspension-bridge"
+      ],
+      "anchors": [
+        "Thomas Telford's suspension bridge of 1826 across the River Conwy, now a footbridge cared for by the National Trust",
+        "Two pairs of stone towers built as castellated turrets to match Conwy Castle, with a pointed arch passage through each pair",
+        "A level deck hung from sweeping iron chains between the towers, leading straight into the walls of Conwy Castle on its rock"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:35 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 3°, and elevation is about -42.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "bridge",
+        "castle"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Conwy/uk-01-574-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Conwy/uk-01-574-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Conwy/uk-01-574-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-575",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Belfast",
+      "folder": "Belfast",
+      "site": "Palm House, Botanic Gardens",
+      "place": "Botanic Gardens, Belfast",
+      "caption": "Palm House, Botanic Gardens, Belfast",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Partly cloudy night · the Botanic Gardens lawn · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Palm House in Belfast's Botanic Gardens, a white cast-iron and curved glass glasshouse with a central dome, glowing at night, on a partly cloudy night",
+      "description": "The Palm House glows softly in Belfast's Botanic Gardens. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public lawn in Botanic Gardens in front of the Palm House, looking at its curved glass front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Botanic_Gardens,_Belfast",
+        "https://www.belfastcity.gov.uk/botanicgardens"
+      ],
+      "anchors": [
+        "One of the earliest curvilinear cast-iron glasshouses in the world, designed by Charles Lanyon and built by Richard Turner from 1839",
+        "A white-painted cast-iron and curved-glass glasshouse: a tall central elliptical dome flanked by two long, lower curved wings",
+        "The wings with rounded, barrel-like curved glass roofs and the central dome rising higher, on a low base, set in lawns"
+      ],
+      "solar": "After sunset. Model sunrise 07:39 and sunset 18:42 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 0°, and elevation is about -41.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "garden",
+        "victorian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Belfast/uk-01-575-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Belfast/uk-01-575-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Belfast/uk-01-575-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-576",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Hull",
+      "folder": "Hull",
+      "site": "The Deep",
+      "place": "Tower Street, Kingston upon Hull",
+      "caption": "The Deep, Hull",
+      "scenario_label": "8 October 2026 · 01:51 Europe/London",
+      "composition": "Clear night · Minerva Pier looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Deep aquarium in Hull, a single long angular wedge of dark grey cladding rising to a sharp glazed prow over the water, lit up, on a clear night",
+      "description": "The Deep's sharp prow juts out over the mouth of the River Hull, lit up at night. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside walkway on the west bank of the River Hull mouth, looking south-east across the water at the aquarium's long side and prow (attempt 2 per the verifier's fix list). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Deep_(aquarium)",
+        "https://www.thedeep.co.uk/"
+      ],
+      "anchors": [
+        "The Deep, a public aquarium designed by Terry Farrell and opened in 2002 at Sammy's Point, where the River Hull meets the Humber estuary",
+        "ONE single long angular wedge mass: low at the landward end, rising steadily along its length to ONE sharp, high prow that juts out over the water at the confluence, likened to a rock rising from the sea; no second point, no cluster of shards",
+        "Dark grey / charcoal banded cladding in horizontal strata, with the blue-green glazed nose at the tip of the prow"
+      ],
+      "solar": "After sunset. Model sunrise 07:15 and sunset 18:21 Europe/London. The scenario is 01:51 Europe/London. Calculated solar azimuth is north, about 20°, and elevation is about -40.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "modern",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Hull/uk-01-576-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Hull/uk-01-576-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Hull/uk-01-576-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-redo-to-relay-postcard-builder-20261008T005721Z.json (2026-10-08T00:57:21Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-577",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Chester",
+      "folder": "Chester",
+      "site": "Chester Cathedral",
+      "place": "Town Hall Square, Chester, Cheshire",
+      "caption": "Chester Cathedral, Chester",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Clear night · Town Hall Square looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Chester Cathedral, a red sandstone Gothic cathedral with a large west window and a square central tower, floodlit, on a clear night",
+      "description": "Chester Cathedral's red sandstone west front and tower are floodlit over Town Hall Square. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Town Hall Square / Northgate Street, west of the cathedral, looking east at the west front and the central tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Chester_Cathedral",
+        "https://chestercathedral.com/"
+      ],
+      "anchors": [
+        "The former Benedictine abbey church of St Werburgh, a cathedral since 1541, much restored by George Gilbert Scott in the 1870s",
+        "Built of deep red-pink sandstone, mostly Gothic, with a big Perpendicular west window over a west doorway flanked by small turrets",
+        "A square central tower with tall paired belfry windows and a battlemented parapet with four corner pinnacles, NO spire"
+      ],
+      "solar": "After sunset. Model sunrise 07:25 and sunset 18:31 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 4°, and elevation is about -42.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Chester/uk-01-577-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Chester/uk-01-577-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Chester/uk-01-577-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-578",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Southampton",
+      "folder": "Southampton",
+      "site": "Bargate",
+      "place": "Above Bar Street, Southampton, Hampshire",
+      "caption": "Bargate, Southampton",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Clear night · Above Bar Street looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Bargate in Southampton, a medieval stone gatehouse with a pointed arch between two round towers, floodlit, on a clear night",
+      "description": "Southampton's medieval Bargate is floodlit at the top of the high street. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Above Bar Street pedestrian area, north of the gate, looking south at the north face. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bargate",
+        "https://historicengland.org.uk/"
+      ],
+      "anchors": [
+        "The medieval main gatehouse of Southampton's town walls, begun around 1180, now standing free in the pedestrianised high street",
+        "The north face: a broad pale stone gatehouse with a single pointed archway, flanked by two big half-round drum towers",
+        "A battlemented top with a line of machicolations and small arrow-slit windows; two lead lion statues in front"
+      ],
+      "solar": "After sunset. Model sunrise 07:17 and sunset 18:28 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 7°, and elevation is about -44.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "medieval",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Southampton/uk-01-578-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Southampton/uk-01-578-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Southampton/uk-01-578-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-579",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Birmingham",
+      "folder": "Birmingham",
+      "site": "Chamberlain Clock Tower ('Old Joe')",
+      "place": "University of Birmingham, Edgbaston",
+      "caption": "Chamberlain Clock Tower ('Old Joe'), Birmingham",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Partly cloudy night · Chancellor's Court looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Chamberlain Clock Tower at the University of Birmingham, a very tall slender red-brick campanile with clock faces, floodlit, on a partly cloudy night",
+      "description": "Old Joe, the University of Birmingham's clock tower, is floodlit above Chancellor's Court. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Chancellor's Court on the University of Birmingham campus, south-east of the tower, looking north-west up at it. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Joseph_Chamberlain_Memorial_Clock_Tower",
+        "https://www.birmingham.ac.uk/"
+      ],
+      "anchors": [
+        "The Joseph Chamberlain Memorial Clock Tower, about 100 m tall, built 1900-08 at the University of Birmingham and inspired by the Torre del Mangia in Siena",
+        "A tall, slender square campanile of red brick with stone dressings and bands, rising plain for most of its height",
+        "Large clock faces near the top, an open arcaded belfry stage above them, and a short pointed roof on top"
+      ],
+      "solar": "After sunset. Model sunrise 07:20 and sunset 18:28 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 6°, and elevation is about -43.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "campus",
+        "tower"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Birmingham/uk-01-579-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Birmingham/uk-01-579-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Birmingham/uk-01-579-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-580",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Halifax",
+      "folder": "Halifax",
+      "site": "The Piece Hall",
+      "place": "Blackledge, Halifax, West Yorkshire",
+      "caption": "The Piece Hall, Halifax",
+      "scenario_label": "8 October 2026 · 01:12 Europe/London",
+      "composition": "Clear night · the courtyard looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Piece Hall in Halifax, a huge Georgian courtyard ringed by colonnaded stone galleries, lit up at night, on a clear night",
+      "description": "The colonnaded galleries of the Piece Hall are lit around its courtyard in Halifax. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Piece Hall courtyard, at the upper side, looking across the square at the colonnaded galleries. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Piece_Hall",
+        "https://www.thepiecehall.co.uk/"
+      ],
+      "anchors": [
+        "A Georgian cloth hall opened in 1779 for trading 'pieces' of woollen cloth, restored and reopened in 2017 as a public square with shops",
+        "A huge rectangular open courtyard enclosed on all four sides by tiers of colonnaded galleries of honey-coloured stone",
+        "Rusticated round arches on the ground floor and rows of plain columns on the upper galleries; on the sloping site the lower side has three storeys and the upper side two"
+      ],
+      "solar": "After sunset. Model sunrise 07:21 and sunset 18:27 Europe/London. The scenario is 01:12 Europe/London. Calculated solar azimuth is north, about 6°, and elevation is about -42.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "georgian",
+        "square"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Halifax/uk-01-580-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Halifax/uk-01-580-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Halifax/uk-01-580-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch23-to-relay-postcard-builder-20261008T004258Z.json (2026-10-08T00:42:58Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch23/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
