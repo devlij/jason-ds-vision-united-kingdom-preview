@@ -5895,4 +5895,154 @@
       <image:geo_location>Morecambe, United Kingdom</image:geo_location>
     </image:image>
   </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-601</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Perth/uk-01-601-16x9.png</image:loc>
+      <image:caption>The domed iron water tank of Perth&apos;s old Water Works is floodlit on Tay Street. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Perth Water Works, Perth</image:title>
+      <image:geo_location>Perth, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Perth/uk-01-601-4x5.png</image:loc>
+      <image:caption>The domed iron water tank of Perth&apos;s old Water Works is floodlit on Tay Street. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Perth Water Works, Perth</image:title>
+      <image:geo_location>Perth, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-602</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-602-16x9.png</image:loc>
+      <image:caption>The turquoise and gold Ross Fountain glows in Princes Street Gardens below the floodlit castle. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Ross Fountain, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-602-4x5.png</image:loc>
+      <image:caption>The turquoise and gold Ross Fountain glows in Princes Street Gardens below the floodlit castle. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Ross Fountain, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-603</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Cardiff/uk-01-603-16x9.png</image:loc>
+      <image:caption>The white colonnade of the Welsh National War Memorial is floodlit in Alexandra Gardens. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Welsh National War Memorial, Cardiff</image:title>
+      <image:geo_location>Cardiff, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Cardiff/uk-01-603-4x5.png</image:loc>
+      <image:caption>The white colonnade of the Welsh National War Memorial is floodlit in Alexandra Gardens. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Welsh National War Memorial, Cardiff</image:title>
+      <image:geo_location>Cardiff, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-604</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-604-16x9.png</image:loc>
+      <image:caption>The two figures of Hands Across the Divide reach towards each other by Craigavon Bridge. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Hands Across the Divide, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Derry/uk-01-604-4x5.png</image:loc>
+      <image:caption>The two figures of Hands Across the Divide reach towards each other by Craigavon Bridge. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Hands Across the Divide, Derry</image:title>
+      <image:geo_location>Derry, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-605</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Canterbury/uk-01-605-16x9.png</image:loc>
+      <image:caption>Canterbury&apos;s Westgate is floodlit, the road passing between its twin drum towers. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Westgate, Canterbury</image:title>
+      <image:geo_location>Canterbury, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Canterbury/uk-01-605-4x5.png</image:loc>
+      <image:caption>Canterbury&apos;s Westgate is floodlit, the road passing between its twin drum towers. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Westgate, Canterbury</image:title>
+      <image:geo_location>Canterbury, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-606</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-606-16x9.png</image:loc>
+      <image:caption>The red sandstone gatehouse of the John Rylands Library is floodlit on Deansgate. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>John Rylands Library, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-606-4x5.png</image:loc>
+      <image:caption>The red sandstone gatehouse of the John Rylands Library is floodlit on Deansgate. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>John Rylands Library, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-607</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Sheffield/uk-01-607-16x9.png</image:loc>
+      <image:caption>Sheffield Town Hall&apos;s clock tower rises floodlit above the Peace Gardens. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Sheffield Town Hall, Sheffield</image:title>
+      <image:geo_location>Sheffield, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Sheffield/uk-01-607-4x5.png</image:loc>
+      <image:caption>Sheffield Town Hall&apos;s clock tower rises floodlit above the Peace Gardens. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Sheffield Town Hall, Sheffield</image:title>
+      <image:geo_location>Sheffield, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-608</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Eastbourne/uk-01-608-16x9.png</image:loc>
+      <image:caption>Eastbourne Pier&apos;s lights and gilded domes stretch out over the sea. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Eastbourne Pier, Eastbourne</image:title>
+      <image:geo_location>Eastbourne, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Eastbourne/uk-01-608-4x5.png</image:loc>
+      <image:caption>Eastbourne Pier&apos;s lights and gilded domes stretch out over the sea. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Eastbourne Pier, Eastbourne</image:title>
+      <image:geo_location>Eastbourne, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-609</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/King's Lynn/uk-01-609-16x9.png</image:loc>
+      <image:caption>King&apos;s Lynn&apos;s Custom House is floodlit beside the Purfleet. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Custom House, King&apos;s Lynn</image:title>
+      <image:geo_location>King&apos;s Lynn, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/King's Lynn/uk-01-609-4x5.png</image:loc>
+      <image:caption>King&apos;s Lynn&apos;s Custom House is floodlit beside the Purfleet. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Custom House, King&apos;s Lynn</image:title>
+      <image:geo_location>King&apos;s Lynn, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-610</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Scarborough/uk-01-610-16x9.png</image:loc>
+      <image:caption>Scarborough&apos;s Grand Hotel stands lit on the cliff above the South Bay. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Grand Hotel, Scarborough</image:title>
+      <image:geo_location>Scarborough, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Scarborough/uk-01-610-4x5.png</image:loc>
+      <image:caption>Scarborough&apos;s Grand Hotel stands lit on the cliff above the South Bay. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Grand Hotel, Scarborough</image:title>
+      <image:geo_location>Scarborough, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
