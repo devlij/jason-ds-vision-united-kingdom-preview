@@ -6495,4 +6495,304 @@
       <image:geo_location>Manchester, United Kingdom</image:geo_location>
     </image:image>
   </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-641</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-641-16x9.png</image:loc>
+      <image:caption>The Melville Monument column is floodlit in St Andrew Square. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Melville Monument, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-641-4x5.png</image:loc>
+      <image:caption>The Melville Monument column is floodlit in St Andrew Square. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Melville Monument, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-642</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-642-16x9.png</image:loc>
+      <image:caption>Tradeston Bridge curves across the River Clyde with its deck lit. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tradeston Bridge (the Squiggly Bridge), Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-642-4x5.png</image:loc>
+      <image:caption>Tradeston Bridge curves across the River Clyde with its deck lit. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tradeston Bridge (the Squiggly Bridge), Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-643</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Dundee/uk-01-643-16x9.png</image:loc>
+      <image:caption>The lamps of the Tay Road Bridge make a long line across the Firth of Tay. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tay Road Bridge, Dundee</image:title>
+      <image:geo_location>Dundee, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Dundee/uk-01-643-4x5.png</image:loc>
+      <image:caption>The lamps of the Tay Road Bridge make a long line across the Firth of Tay. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tay Road Bridge, Dundee</image:title>
+      <image:geo_location>Dundee, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-644</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Swansea/uk-01-644-16x9.png</image:loc>
+      <image:caption>The Tower at Meridian Quay rises above the yachts in Swansea Marina. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Tower, Meridian Quay, Swansea</image:title>
+      <image:geo_location>Swansea, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Swansea/uk-01-644-4x5.png</image:loc>
+      <image:caption>The Tower at Meridian Quay rises above the yachts in Swansea Marina. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Tower, Meridian Quay, Swansea</image:title>
+      <image:geo_location>Swansea, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-645</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-645-16x9.png</image:loc>
+      <image:caption>The steel rings of the Spirit of Belfast glow in Arthur Square. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Spirit of Belfast, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-645-4x5.png</image:loc>
+      <image:caption>The steel rings of the Spirit of Belfast glow in Arthur Square. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Spirit of Belfast, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-646</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-646-16x9.png</image:loc>
+      <image:caption>The blue-lit pod of St John&apos;s Beacon shines above Liverpool city centre. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St John&apos;s Beacon, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-646-4x5.png</image:loc>
+      <image:caption>The blue-lit pod of St John&apos;s Beacon shines above Liverpool city centre. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St John&apos;s Beacon, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-647</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Stockton-on-Tees/uk-01-647-16x9.png</image:loc>
+      <image:caption>The Infinity Bridge and its reflection make a figure of eight on the River Tees. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Infinity Bridge, Stockton-on-Tees</image:title>
+      <image:geo_location>Stockton-on-Tees, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Stockton-on-Tees/uk-01-647-4x5.png</image:loc>
+      <image:caption>The Infinity Bridge and its reflection make a figure of eight on the River Tees. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Infinity Bridge, Stockton-on-Tees</image:title>
+      <image:geo_location>Stockton-on-Tees, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-648</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Gateshead/uk-01-648-16x9.png</image:loc>
+      <image:caption>The curved glass shell of The Glasshouse glows across the River Tyne. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Glasshouse International Centre for Music, Gateshead</image:title>
+      <image:geo_location>Gateshead, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Gateshead/uk-01-648-4x5.png</image:loc>
+      <image:caption>The curved glass shell of The Glasshouse glows across the River Tyne. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Glasshouse International Centre for Music, Gateshead</image:title>
+      <image:geo_location>Gateshead, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-649</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Blackpool/uk-01-649-16x9.png</image:loc>
+      <image:caption>North Pier is outlined in lights over the sea at Blackpool. It is a mainly clear night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>North Pier, Blackpool</image:title>
+      <image:geo_location>Blackpool, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Blackpool/uk-01-649-4x5.png</image:loc>
+      <image:caption>North Pier is outlined in lights over the sea at Blackpool. It is a mainly clear night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>North Pier, Blackpool</image:title>
+      <image:geo_location>Blackpool, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-650</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Southend-on-Sea/uk-01-650-16x9.png</image:loc>
+      <image:caption>The lamps of Southend Pier run far out into the Thames Estuary. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Southend Pier, Southend-on-Sea</image:title>
+      <image:geo_location>Southend-on-Sea, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Southend-on-Sea/uk-01-650-4x5.png</image:loc>
+      <image:caption>The lamps of Southend Pier run far out into the Thames Estuary. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Southend Pier, Southend-on-Sea</image:title>
+      <image:geo_location>Southend-on-Sea, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-651</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-651-16x9.png</image:loc>
+      <image:caption>The columned portico of The Dome is floodlit on George Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Dome, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-651-4x5.png</image:loc>
+      <image:caption>The columned portico of The Dome is floodlit on George Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Dome, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-652</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Oban/uk-01-652-16x9.png</image:loc>
+      <image:caption>McCaig&apos;s Tower is lit on Battery Hill above Oban harbour. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>McCaig&apos;s Tower, Oban</image:title>
+      <image:geo_location>Oban, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Oban/uk-01-652-4x5.png</image:loc>
+      <image:caption>McCaig&apos;s Tower is lit on Battery Hill above Oban harbour. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>McCaig&apos;s Tower, Oban</image:title>
+      <image:geo_location>Oban, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-653</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-653-16x9.png</image:loc>
+      <image:caption>The two leaning masts of the Newport City footbridge are lit over the River Usk. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport City footbridge, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-653-4x5.png</image:loc>
+      <image:caption>The two leaning masts of the Newport City footbridge are lit over the River Usk. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport City footbridge, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-654</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-654-16x9.png</image:loc>
+      <image:caption>The clock tower of Newport Civic Centre rises above its long stone front. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport Civic Centre, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newport/uk-01-654-4x5.png</image:loc>
+      <image:caption>The clock tower of Newport Civic Centre rises above its long stone front. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newport Civic Centre, Newport</image:title>
+      <image:geo_location>Newport, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-655</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-655-16x9.png</image:loc>
+      <image:caption>The lamps of Queen&apos;s Bridge glow over the five granite arches on the Lagan. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Queen&apos;s Bridge, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-655-4x5.png</image:loc>
+      <image:caption>The lamps of Queen&apos;s Bridge glow over the five granite arches on the Lagan. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Queen&apos;s Bridge, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-656</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Saltash/uk-01-656-16x9.png</image:loc>
+      <image:caption>The towers and lamps of the Tamar Bridge are lit over the River Tamar. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tamar Bridge, Saltash</image:title>
+      <image:geo_location>Saltash, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Saltash/uk-01-656-4x5.png</image:loc>
+      <image:caption>The towers and lamps of the Tamar Bridge are lit over the River Tamar. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Tamar Bridge, Saltash</image:title>
+      <image:geo_location>Saltash, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-657</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-657-16x9.png</image:loc>
+      <image:caption>The west tower of Manchester Cathedral is floodlit on Victoria Street. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Manchester Cathedral, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-657-4x5.png</image:loc>
+      <image:caption>The west tower of Manchester Cathedral is floodlit on Victoria Street. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Manchester Cathedral, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-658</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-658-16x9.png</image:loc>
+      <image:caption>The colonnade of Birmingham Town Hall is floodlit in Victoria Square. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Birmingham Town Hall, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-658-4x5.png</image:loc>
+      <image:caption>The colonnade of Birmingham Town Hall is floodlit in Victoria Square. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Birmingham Town Hall, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-659</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-659-16x9.png</image:loc>
+      <image:caption>The lantern crown of Newcastle Cathedral is floodlit above the city. It is a mainly clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newcastle Cathedral, Newcastle upon Tyne</image:title>
+      <image:geo_location>Newcastle upon Tyne, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-659-4x5.png</image:loc>
+      <image:caption>The lantern crown of Newcastle Cathedral is floodlit above the city. It is a mainly clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Newcastle Cathedral, Newcastle upon Tyne</image:title>
+      <image:geo_location>Newcastle upon Tyne, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-660</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Carlisle/uk-01-660-16x9.png</image:loc>
+      <image:caption>The two round towers of the Citadel are floodlit at the end of English Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Carlisle Citadel, Carlisle</image:title>
+      <image:geo_location>Carlisle, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Carlisle/uk-01-660-4x5.png</image:loc>
+      <image:caption>The two round towers of the Citadel are floodlit at the end of English Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Carlisle Citadel, Carlisle</image:title>
+      <image:geo_location>Carlisle, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
 </urlset>

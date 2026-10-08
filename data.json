@@ -18238,6 +18238,825 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch29-to-relay-postcard-builder-20261008T022446Z.json (2026-10-08T02:24:46Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch29/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-641",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Melville Monument",
+      "place": "St Andrew Square, Edinburgh",
+      "caption": "Melville Monument, Edinburgh",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · St Andrew Square garden looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Melville Monument in Edinburgh, a single very tall fluted stone column on a square pedestal topped by a small statue, floodlit in the garden of St Andrew Square, on a clear night",
+      "description": "The Melville Monument column is floodlit in St Andrew Square. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path in the St Andrew Square garden, south of the column, looking north up at the monument. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Melville_Monument",
+        "https://en.wikipedia.org/wiki/St_Andrew_Square,_Edinburgh"
+      ],
+      "anchors": [
+        "A large column in the centre of St Andrew Square, Edinburgh, built in 1821-1827 as a memorial to Henry Dundas, 1st Viscount Melville",
+        "Designed by William Burn and modelled on Trajan's Column in Rome, about 45 m tall in total",
+        "Topped by a 4.2 m statue of Dundas designed by Francis Chantrey and carved by Robert Forrest"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 45°, and elevation is about -31.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-641-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-641-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-641-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-642",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Glasgow",
+      "folder": "Glasgow",
+      "site": "Tradeston Bridge (the Squiggly Bridge)",
+      "place": "River Clyde, Glasgow",
+      "caption": "Tradeston Bridge (the Squiggly Bridge), Glasgow",
+      "scenario_label": "8 October 2026 · 03:56 Europe/London",
+      "composition": "Clear night · Broomielaw looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Tradeston Bridge in Glasgow, a level footbridge whose deck curves across the River Clyde in an S shape, with two large white triangular steel fins standing over its two river piers, on a clear night",
+      "description": "Tradeston Bridge curves across the River Clyde with its deck lit. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside walkway on the Broomielaw, north bank of the River Clyde east of the bridge, looking west along the river at the bridge's level S-curved deck and its two white fins (verifier attempt 2 per the fix list). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tradeston_Bridge",
+        "https://en.wikipedia.org/wiki/River_Clyde"
+      ],
+      "anchors": [
+        "A pedestrian bridge across the River Clyde in Glasgow, known locally as the Squiggly Bridge, opened on 14 May 2009, linking Anderston to Tradeston",
+        "Designed by Dissing+Weitling with Halcrow; a balanced cantilever whose span curves in an S shape with outward canting on both curves",
+        "Steel fins that give structural support stand above the deck, adding visual interest and reducing the bulk of the deck"
+      ],
+      "solar": "After sunset. Model sunrise 07:33 and sunset 18:34 Europe/London. The scenario is 03:56 Europe/London. Calculated solar azimuth is north-east, about 51°, and elevation is about -29.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Glasgow/uk-01-642-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Glasgow/uk-01-642-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Glasgow/uk-01-642-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-redo-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-643",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Dundee",
+      "folder": "Dundee",
+      "site": "Tay Road Bridge",
+      "place": "Firth of Tay, Dundee",
+      "caption": "Tay Road Bridge, Dundee",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · Dundee waterfront looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tay Road Bridge, a very long low concrete bridge of many short spans with a row of lamps down its middle, crossing the Firth of Tay from Dundee, on a clear night",
+      "description": "The lamps of the Tay Road Bridge make a long line across the Firth of Tay. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside walkway on the Dundee waterfront west of the bridge's north end, looking south-east along the bridge across the Firth of Tay towards Fife. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tay_Road_Bridge",
+        "https://en.wikipedia.org/wiki/Firth_of_Tay"
+      ],
+      "anchors": [
+        "Carries the A92 across the Firth of Tay from Newport-on-Tay in Fife to Dundee, just downstream of the Tay Rail Bridge; opened in 1966",
+        "About 2,250 m long, one of the longest road bridges in Europe, of 42 spans with the navigation channel closer to the Fife side",
+        "It replaced the Tay ferry, known in Dundee as 'the Fifie', which ran from Craigie Pier to Newport-on-Tay"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:28 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 45°, and elevation is about -31.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "coast"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dundee/uk-01-643-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dundee/uk-01-643-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dundee/uk-01-643-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-644",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Swansea",
+      "folder": "Swansea",
+      "site": "The Tower, Meridian Quay",
+      "place": "Maritime Quarter, Swansea",
+      "caption": "The Tower, Meridian Quay, Swansea",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · Swansea Marina looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tower at Meridian Quay in Swansea, a slim 29-storey residential tower with glass balconies and a glazed top floor, lit above moored yachts in the marina, on a clear night",
+      "description": "The Tower at Meridian Quay rises above the yachts in Swansea Marina. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public quayside walkway on the far side of Swansea Marina, looking across the moored boats at the tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Meridian_Tower",
+        "https://en.wikipedia.org/wiki/Maritime_Quarter"
+      ],
+      "anchors": [
+        "A residential tower in Swansea's Maritime Quarter, 107 m tall, the tallest building in Wales and its only skyscraper",
+        "It has 29 storeys, more than twice the previous tallest building in Swansea; it was topped out on 12 September 2008",
+        "The top three floors form a restaurant and sky bar above the marina"
+      ],
+      "solar": "After sunset. Model sunrise 07:27 and sunset 18:37 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 46°, and elevation is about -35.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "coast",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Swansea/uk-01-644-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Swansea/uk-01-644-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Swansea/uk-01-644-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-645",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Belfast",
+      "folder": "Belfast",
+      "site": "Spirit of Belfast",
+      "place": "Arthur Square, Belfast",
+      "caption": "Spirit of Belfast, Belfast",
+      "scenario_label": "8 October 2026 · 03:56 Europe/London",
+      "composition": "Partly cloudy night · Arthur Square looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Spirit of Belfast sculpture, a few broad smooth steel ring bands interlocking at different angles into a globe-like form on a low round plinth, lit in soft colours in Arthur Square, on a partly cloudy night",
+      "description": "The steel rings of the Spirit of Belfast glow in Arthur Square. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrian square at Arthur Square, looking at the sculpture on its low round plinth from the Cornmarket side (attempt 2 per the verifier's fix list). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Spirit_of_Belfast",
+        "https://en.wikipedia.org/wiki/Victoria_Square,_Belfast"
+      ],
+      "anchors": [
+        "A public art sculpture by Dan George on Arthur Square, Belfast, unveiled on 25 September 2009 near the main entrance to Victoria Square",
+        "Made of steel at a cost of 200,000 pounds and nicknamed 'the Onion Rings'",
+        "Its coloured lighting reflects the texture and lightness of linen, and its metal the strength of shipbuilding, two parts of Belfast's history"
+      ],
+      "solar": "After sunset. Model sunrise 07:38 and sunset 18:42 Europe/London. The scenario is 03:56 Europe/London. Calculated solar azimuth is north-east, about 50°, and elevation is about -31.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Belfast/uk-01-645-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Belfast/uk-01-645-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Belfast/uk-01-645-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-redo-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-646",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Liverpool",
+      "folder": "Liverpool",
+      "site": "St John's Beacon",
+      "place": "Houghton Street, Liverpool",
+      "caption": "St John's Beacon, Liverpool",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Partly cloudy night · Williamson Square looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St John's Beacon in Liverpool, a very tall slender concrete tower with a round pod at the top ringed with blue neon lights, above city-centre streets, on a partly cloudy night",
+      "description": "The blue-lit pod of St John's Beacon shines above Liverpool city centre. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrian area in Williamson Square, looking up at the tower above the rooftops. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St._John%27s_Beacon",
+        "https://en.wikipedia.org/wiki/St_Johns_Shopping_Centre"
+      ],
+      "anchors": [
+        "A Grade II listed communications and observation tower in Liverpool, also called the Radio City Tower, built in 1969 and opened by Queen Elizabeth II",
+        "138 m tall with a tapering slip-formed concrete shaft, and a 'crow's nest' at the top that once held a revolving restaurant",
+        "Blue 'UFO style' neon strip lights were added around the top in 1994"
+      ],
+      "solar": "After sunset. Model sunrise 07:25 and sunset 18:32 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 47°, and elevation is about -33.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Liverpool/uk-01-646-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Liverpool/uk-01-646-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Liverpool/uk-01-646-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-647",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Stockton-on-Tees",
+      "folder": "Stockton-on-Tees",
+      "site": "Infinity Bridge",
+      "place": "River Tees, Stockton-on-Tees",
+      "caption": "Infinity Bridge, Stockton-on-Tees",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · North bank of the Tees looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Infinity Bridge in Stockton-on-Tees, a footbridge with two lit steel arches of different sizes whose reflection in the river forms a figure of eight, on a clear night",
+      "description": "The Infinity Bridge and its reflection make a figure of eight on the River Tees. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside path on the north bank of the River Tees downstream of the bridge, looking upstream at the bridge and its reflection. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Infinity_Bridge",
+        "https://en.wikipedia.org/wiki/River_Tees"
+      ],
+      "anchors": [
+        "A public pedestrian and cycle footbridge across the River Tees in Stockton-on-Tees, between the Princess of Wales Bridge and the Tees Barrage",
+        "A dual tied-arch (bowstring) bridge: two continuous, differently sized tapering steel arches with a suspended concrete deck and one asymmetrically placed river pier",
+        "Its name comes from the infinity symbol formed by the two arches and their reflection in the river"
+      ],
+      "solar": "After sunset. Model sunrise 07:20 and sunset 18:24 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 48°, and elevation is about -32.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Stockton-on-Tees/uk-01-647-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Stockton-on-Tees/uk-01-647-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Stockton-on-Tees/uk-01-647-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-648",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Gateshead",
+      "folder": "Gateshead",
+      "site": "The Glasshouse International Centre for Music",
+      "place": "Gateshead Quays",
+      "caption": "The Glasshouse International Centre for Music, Gateshead",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · Newcastle Quayside looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Glasshouse International Centre for Music in Gateshead, a long low building under a curving shell of steel and glass in three rounded humps, lit across the River Tyne, on a clear night",
+      "description": "The curved glass shell of The Glasshouse glows across the River Tyne. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Quayside walkway on the Newcastle bank of the River Tyne, looking south across the river at the building. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Glasshouse_International_Centre_for_Music",
+        "https://en.wikipedia.org/wiki/Gateshead_Quays"
+      ],
+      "anchors": [
+        "A centre for music education and concerts on the Gateshead bank of the Tyne, opened in 2004 as Sage Gateshead and renamed The Glasshouse in September 2023",
+        "A curved glass and stainless steel shell designed by Foster + Partners with Buro Happold, Mott MacDonald and Arup",
+        "The shell encloses, without touching, three performance spaces: a 1,700-seat hall, a 450-seat hall and the Northern Rock Foundation Hall"
+      ],
+      "solar": "After sunset. Model sunrise 07:22 and sunset 18:24 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 47°, and elevation is about -31.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Gateshead/uk-01-648-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Gateshead/uk-01-648-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Gateshead/uk-01-648-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-649",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Blackpool",
+      "folder": "Blackpool",
+      "site": "North Pier",
+      "place": "Promenade, Blackpool",
+      "caption": "North Pier, Blackpool",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Mainly clear night · Blackpool Promenade looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of North Pier in Blackpool, a long Victorian pier on iron legs lined with white railings and strings of bulbs, with a theatre pavilion at its far end, on a mainly clear night",
+      "description": "North Pier is outlined in lights over the sea at Blackpool. It is a mainly clear night, about 11°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public promenade south of the pier entrance, looking north-west along the pier out to sea. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/North_Pier,_Blackpool",
+        "https://en.wikipedia.org/wiki/Blackpool_Promenade"
+      ],
+      "anchors": [
+        "The oldest of Blackpool's three piers, a Victorian pier on cast iron columns, now 500 m long after its extensions",
+        "In 1874 the pier head was extended for Richard Knill Freeman's pavilion, opened in 1877 and known as the Indian Pavilion",
+        "Its attractions include bars, a theatre, a carousel and an arcade"
+      ],
+      "solar": "After sunset. Model sunrise 07:26 and sunset 18:31 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 46°, and elevation is about -33.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Blackpool/uk-01-649-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Blackpool/uk-01-649-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Blackpool/uk-01-649-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-650",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Southend-on-Sea",
+      "folder": "Southend-on-Sea",
+      "site": "Southend Pier",
+      "place": "Western Esplanade, Southend-on-Sea",
+      "caption": "Southend Pier, Southend-on-Sea",
+      "scenario_label": "8 October 2026 · 03:29 Europe/London",
+      "composition": "Clear night · Cliff gardens looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Southend Pier, an extremely long narrow pier marked by a line of lamps running far out into the Thames Estuary from the lit seafront, on a clear night",
+      "description": "The lamps of Southend Pier run far out into the Thames Estuary. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public cliff-top gardens west of the pier, looking south-east along the pier into the Thames Estuary. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Southend_Pier",
+        "https://en.wikipedia.org/wiki/Southend-on-Sea"
+      ],
+      "anchors": [
+        "Extends 1.33 miles (2.14 km) into the Thames Estuary and is the longest pleasure pier in the world",
+        "The Southend Pier Railway, opened in the early 1890s, was the first pier railway in the country",
+        "By 1848 it was already the longest pier in Europe at 2,100 m"
+      ],
+      "solar": "After sunset. Model sunrise 07:09 and sunset 18:19 Europe/London. The scenario is 03:29 Europe/London. Calculated solar azimuth is north-east, about 51°, and elevation is about -33.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Southend-on-Sea/uk-01-650-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Southend-on-Sea/uk-01-650-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Southend-on-Sea/uk-01-650-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch30-to-relay-postcard-builder-20261008T024920Z.json (2026-10-08T02:49:20Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch30/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-651",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "The Dome",
+      "place": "George Street, Edinburgh",
+      "caption": "The Dome, Edinburgh",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · George Street looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of The Dome on George Street in Edinburgh, a pale stone former bank with a floodlit portico of six Corinthian columns and a sculpted pediment, the top of a dome behind, on a clear night",
+      "description": "The columned portico of The Dome is floodlit on George Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the north side of George Street opposite the building, looking south across the street at the portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Dome,_Edinburgh",
+        "https://en.wikipedia.org/wiki/George_Street,_Edinburgh"
+      ],
+      "anchors": [
+        "A building on George Street in Edinburgh's New Town, built in 1847 as the headquarters of the Commercial Bank of Scotland and now a bar, restaurant and nightclub",
+        "Designed by David Rhind in a Graeco-Roman style; a category A listed building",
+        "It stands on the site of James Craig's Physicians' Hall, whose frontage had a portico of four Corinthian columns, parts of which appear to be re-used"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 50°, and elevation is about -30.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-651-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-651-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-651-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-652",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Oban",
+      "folder": "Oban",
+      "site": "McCaig's Tower",
+      "place": "Battery Hill, Oban",
+      "caption": "McCaig's Tower, Oban",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · North Pier looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of McCaig's Tower in Oban, a round roofless granite ring with two tiers of pointed arches, lit on the hill above the harbour and the seafront, on a clear night",
+      "description": "McCaig's Tower is lit on Battery Hill above Oban harbour. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public North Pier on the Oban waterfront, looking east across the harbour and the town up at the tower on Battery Hill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/McCaig%27s_Tower",
+        "https://en.wikipedia.org/wiki/Oban"
+      ],
+      "anchors": [
+        "A prominent tower on Battery Hill overlooking Oban, built of Bonawe granite between 1897 and 1902 for the banker John Stuart McCaig, who was his own architect",
+        "About 200 m round, with two tiers of lancet arches, 94 in total (44 on the bottom and 50 on top), modelled on the Colosseum in Rome",
+        "Only the outer walls were completed when McCaig died in 1902; the empty shell dominates the Oban skyline and is now a public garden"
+      ],
+      "solar": "After sunset. Model sunrise 07:39 and sunset 18:38 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 47°, and elevation is about -30.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Oban/uk-01-652-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Oban/uk-01-652-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Oban/uk-01-652-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-653",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Newport",
+      "folder": "Newport",
+      "site": "Newport City footbridge",
+      "place": "River Usk, Newport",
+      "caption": "Newport City footbridge, Newport",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · West bank of the Usk looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Newport City footbridge, a long footbridge hung by cables from two tall leaning A-frame masts on one bank, lit over the River Usk, on a clear night",
+      "description": "The two leaning masts of the Newport City footbridge are lit over the River Usk. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside path on the west bank of the River Usk south of the bridge, looking north-east along the river at the bridge and its masts. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Newport_City_footbridge",
+        "https://en.wikipedia.org/wiki/River_Usk"
+      ],
+      "anchors": [
+        "A pedestrian and cycle bridge over the River Usk in Newport, linking the east bank near Rodney Parade to University Plaza on the west bank; architect Grimshaw, engineer Atkins",
+        "Two A-frame masts on a shared foundation support the bridge from the west bank; the forward mast is 80 m long and the back mast 69 m, and because of their angle the bridge stands 70 m above ground",
+        "The deck is 4.9 m wide and has a clear span of 145 m; the crane-like masts recall the site's earlier use as trading wharves"
+      ],
+      "solar": "After sunset. Model sunrise 07:24 and sunset 18:33 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -32.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Newport/uk-01-653-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Newport/uk-01-653-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Newport/uk-01-653-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-654",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Newport",
+      "folder": "Newport",
+      "site": "Newport Civic Centre",
+      "place": "Godfrey Road, Newport",
+      "caption": "Newport Civic Centre, Newport",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · Fields Road looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Newport Civic Centre, a long symmetrical Art Deco building of pale Portland stone with a tall arched central entrance and a slender clock tower, softly lit, on a clear night",
+      "description": "The clock tower of Newport Civic Centre rises above its long stone front. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Fields Road in front of the building, looking up the lawns at the central entrance and clock tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Newport_Civic_Centre",
+        "https://en.wikipedia.org/wiki/Newport,_Wales"
+      ],
+      "anchors": [
+        "The headquarters of Newport City Council, a Grade II* listed Art Deco building of Portland stone designed by Thomas Cecil Howitt; King George VI cut the first sod in 1937 and it opened in 1964",
+        "A very wide symmetrical frontage of 37 bays facing Fields Road, with a central five-bay section holding a huge full-height round-headed entrance",
+        "A clock tower rises 55 m above ground level from the front of the building"
+      ],
+      "solar": "After sunset. Model sunrise 07:24 and sunset 18:33 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -32.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Newport/uk-01-654-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Newport/uk-01-654-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Newport/uk-01-654-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-655",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Belfast",
+      "folder": "Belfast",
+      "site": "Queen's Bridge",
+      "place": "River Lagan, Belfast",
+      "caption": "Queen's Bridge, Belfast",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Partly cloudy night · West bank of the Lagan looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Queen's Bridge in Belfast, a level Victorian stone bridge of five low granite arches lined with ornate lamp standards, reflected in the River Lagan, on a partly cloudy night",
+      "description": "The lamps of Queen's Bridge glow over the five granite arches on the Lagan. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside walkway on the west bank of the Lagan south of the bridge, looking north-east at the upstream face of the bridge. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Queen%27s_Bridge,_Belfast",
+        "https://en.wikipedia.org/wiki/River_Lagan"
+      ],
+      "anchors": [
+        "A B+ listed Victorian stone arch bridge over the River Lagan in Belfast, opened in 1843 and named after Queen Victoria, who officially opened it in 1849",
+        "A five-arch stone bridge, each arch 15 m wide with a 3 m rise, dressed with Newry granite, built with a horizontal deck",
+        "Widened in 1885 from 9.1 m to 19 m with cantilevered segments on either side, when 16 ornate gas lamps (now electric) were added"
+      ],
+      "solar": "After sunset. Model sunrise 07:38 and sunset 18:42 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 48°, and elevation is about -32.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Belfast/uk-01-655-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Belfast/uk-01-655-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Belfast/uk-01-655-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-656",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Saltash",
+      "folder": "Saltash",
+      "site": "Tamar Bridge",
+      "place": "River Tamar, Saltash and Plymouth",
+      "caption": "Tamar Bridge, Saltash",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · Saltash Passage looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tamar Bridge, a road suspension bridge with two plain concrete towers and a lamp-lined deck, crossing the River Tamar towards Saltash, on a clear night",
+      "description": "The towers and lamps of the Tamar Bridge are lit over the River Tamar. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public waterfront at Saltash Passage on the Plymouth (Devon) bank, south of the bridges, looking north-west up the river at the bridge. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tamar_Bridge",
+        "https://en.wikipedia.org/wiki/Royal_Albert_Bridge"
+      ],
+      "anchors": [
+        "A suspension bridge over the River Tamar between Saltash in Cornwall and Plymouth in Devon, carrying the A38, unofficially opened in October 1961",
+        "A central span of 335 m and two side spans of 114 m, built by the Cleveland Bridge & Engineering Company; strengthened and widened with two extra parallel decks in 1999-2001",
+        "It lies immediately north of Brunel's Royal Albert Bridge railway bridge of 1859"
+      ],
+      "solar": "After sunset. Model sunrise 07:27 and sunset 18:39 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -34.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "modern"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Saltash/uk-01-656-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Saltash/uk-01-656-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Saltash/uk-01-656-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-657",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Manchester",
+      "folder": "Manchester",
+      "site": "Manchester Cathedral",
+      "place": "Victoria Street, Manchester",
+      "caption": "Manchester Cathedral, Manchester",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · Victoria Street looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Manchester Cathedral, a long Perpendicular Gothic church with pinnacled parapets and a single square battlemented west tower, floodlit, on a clear night",
+      "description": "The west tower of Manchester Cathedral is floodlit on Victoria Street. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Cathedral Gardens and Victoria Street pavement north-west of the cathedral, looking south-east at the west tower and the nave. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Manchester_Cathedral",
+        "https://en.wikipedia.org/wiki/Victoria_Street,_Manchester"
+      ],
+      "anchors": [
+        "The mother church of the Anglican Diocese of Manchester on Victoria Street, Manchester, a grade I listed building; the collegiate church became a cathedral in 1847",
+        "Rebuilt in the Perpendicular Gothic style after the collegiate foundation of 1421, with the nave and choir rebuilt with high clerestory windows at the end of the 15th century",
+        "Extensively refaced, restored and extended in the Victorian period and again after bomb damage in the Second World War"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:29 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -31.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Manchester/uk-01-657-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Manchester/uk-01-657-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Manchester/uk-01-657-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-658",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Birmingham",
+      "folder": "Birmingham",
+      "site": "Birmingham Town Hall",
+      "place": "Victoria Square, Birmingham",
+      "caption": "Birmingham Town Hall, Birmingham",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Partly cloudy night · Victoria Square looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Birmingham Town Hall, a Roman temple of pale stone with a long row of Corinthian columns on a tall podium, floodlit in Victoria Square, on a partly cloudy night",
+      "description": "The colonnade of Birmingham Town Hall is floodlit in Victoria Square. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Victoria Square, looking west at the long side of the building from the steps by the square's fountain area. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Birmingham_Town_Hall",
+        "https://en.wikipedia.org/wiki/Victoria_Square,_Birmingham"
+      ],
+      "anchors": [
+        "A concert hall in Victoria Square, Birmingham, opened in 1834 and Grade I listed, designed by Joseph Hansom and Edward Welch",
+        "The first significant work of the 19th-century revival of Roman architecture, based on the proportions of the Temple of Castor and Pollux in the Roman Forum",
+        "It stands 'perfect and aloof' on a tall rusticated podium; it was renovated in 2002-2007"
+      ],
+      "solar": "After sunset. Model sunrise 07:20 and sunset 18:28 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 53°, and elevation is about -31.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Birmingham/uk-01-658-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Birmingham/uk-01-658-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Birmingham/uk-01-658-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-659",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Newcastle upon Tyne",
+      "folder": "Newcastle upon Tyne",
+      "site": "Newcastle Cathedral",
+      "place": "St Nicholas Square, Newcastle upon Tyne",
+      "caption": "Newcastle Cathedral, Newcastle upon Tyne",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Mainly clear night · St Nicholas Street looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Newcastle Cathedral, a square Gothic tower crowned by an open lantern of four flying arches carrying a small spirelet, floodlit, on a mainly clear night",
+      "description": "The lantern crown of Newcastle Cathedral is floodlit above the city. It is a mainly clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on St Nicholas Street west of the cathedral, looking east up at the tower and its lantern spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Newcastle_Cathedral",
+        "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
+      ],
+      "anchors": [
+        "The Cathedral Church of St Nicholas, Newcastle upon Tyne, a grade I listed Church of England cathedral, completed in 1350 mostly in the Perpendicular style; cathedral since 1882",
+        "Its tower is noted for its lantern spire of 1448, for centuries a navigation mark for ships on the Tyne; the tower is 59.18 m from base to the top of the steeple",
+        "On each corner of the lantern are gilded statues, of Adam, Eve, Aaron and David"
+      ],
+      "solar": "After sunset. Model sunrise 07:22 and sunset 18:24 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -29.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-659-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-659-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-659-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-660",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Carlisle",
+      "folder": "Carlisle",
+      "site": "Carlisle Citadel",
+      "place": "English Street, Carlisle",
+      "caption": "Carlisle Citadel, Carlisle",
+      "scenario_label": "8 October 2026 · 03:47 Europe/London",
+      "composition": "Clear night · English Street looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Citadel in Carlisle, two massive round sandstone towers with battlements facing each other across the end of English Street, floodlit, on a clear night",
+      "description": "The two round towers of the Citadel are floodlit at the end of English Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrian area of English Street north of the Citadel, looking south at the two towers either side of the street. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Carlisle_Citadel",
+        "https://en.wikipedia.org/wiki/Carlisle"
+      ],
+      "anchors": [
+        "A group of buildings on English Street, Carlisle, on the site of a fortress commissioned by Henry VIII to replace the medieval Botcher's Gate, designed by Stefan von Haschenperg and completed in 1541",
+        "It comprises two towers, both Grade I listed: the Nisi Prius Courthouse and the former Crown Court",
+        "The towers were converted to courts to designs by Thomas Telford and Sir Robert Smirke, the eastern in 1812 and the western rebuilt in 1822"
+      ],
+      "solar": "After sunset. Model sunrise 07:27 and sunset 18:30 Europe/London. The scenario is 03:47 Europe/London. Calculated solar azimuth is north-east, about 51°, and elevation is about -30.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Carlisle/uk-01-660-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Carlisle/uk-01-660-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Carlisle/uk-01-660-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
