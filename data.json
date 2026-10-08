@@ -21106,6 +21106,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch36-to-relay-postcard-builder-20261008T044300Z.json (2026-10-08T04:43:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch36/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-711",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Greyfriars Bobby statue",
+      "place": "Corner of George IV Bridge and Candlemaker Row, Edinburgh",
+      "caption": "Greyfriars Bobby statue, Edinburgh",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · George IV Bridge looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Greyfriars Bobby statue in Edinburgh, a small bronze Skye terrier sitting on a round granite fountain pedestal at the head of Candlemaker Row, lit by a street lamp, on a clear night",
+      "description": "The little bronze statue of Greyfriars Bobby sits on its fountain pedestal at the head of Candlemaker Row. It is a clear night, about 5°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on George IV Bridge just north of the statue, looking south-west at the little bronze dog on its fountain pedestal at the head of Candlemaker Row. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Greyfriars_Bobby",
+        "https://en.wikipedia.org/wiki/Greyfriars_Kirkyard"
+      ],
+      "anchors": [
+        "Greyfriars Bobby was a Skye or Dandie Dinmont terrier said to have guarded his owner's grave in Greyfriars Kirkyard for 14 years until his death in 1872",
+        "Baroness Burdett-Coutts had a drinking fountain topped with Bobby's statue, by the sculptor William Brodie, erected at the junction of George IV Bridge and Candlemaker Row, opposite the kirkyard entrance",
+        "The statue is a Category A listed structure and a well-known Edinburgh landmark"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 78°, and elevation is about -15.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-711-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-711-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-711-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-712",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Glasgow",
+      "folder": "Glasgow",
+      "site": "Tron Steeple",
+      "place": "Trongate, Glasgow",
+      "caption": "Tron Steeple, Glasgow",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Trongate looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Tron Steeple on the Trongate in Glasgow, a tall sandstone tower with an arch over the pavement, a clock and a slender stone spire, floodlit in front of the Tron Theatre, on a clear night",
+      "description": "The sandstone Tron Steeple and its slender spire are floodlit over the Trongate. It is a clear night, about 5°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the south side of the Trongate, looking north-east at the steeple standing over the pavement in front of the Tron Theatre. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Tron_Theatre",
+        "https://en.wikipedia.org/wiki/Trongate"
+      ],
+      "anchors": [
+        "The Tron Theatre occupies the former Tron Kirk (St Mary's) on the Trongate in Glasgow's Merchant City",
+        "The Tron steeple, the surviving part of the 1590s church, stands on the street frontage in front of the later 18th-century church building",
+        "The steeple has a clock stage and a tall stone spire, and a pend arch through its base carries the pavement under it"
+      ],
+      "solar": "After sunset. Model sunrise 07:33 and sunset 18:34 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 77°, and elevation is about -15.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Glasgow/uk-01-712-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Glasgow/uk-01-712-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Glasgow/uk-01-712-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-713",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Machynlleth",
+      "folder": "Machynlleth",
+      "site": "Machynlleth Clock Tower",
+      "place": "Junction of Maengwyn Street and Pentrerhedyn Street, Machynlleth",
+      "caption": "Machynlleth Clock Tower, Machynlleth",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Maengwyn Street looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Victorian clock tower of Machynlleth, a tall slender Gothic stone tower with clock faces and a pointed spire standing in the middle of the main street junction, floodlit, on a clear night",
+      "description": "Machynlleth's tall Victorian clock tower is floodlit in the middle of the town's main crossroads. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Maengwyn Street east of the junction, looking west along the wide main street at the clock tower standing in the middle of the crossroads. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Machynlleth",
+        "https://en.wikipedia.org/wiki/Montgomeryshire"
+      ],
+      "anchors": [
+        "The clock tower stands at Machynlleth's main road intersection on the site of the old town hall and has become the symbol of the town",
+        "Paid for by the townspeople to celebrate the coming of age of Viscount Castlereagh, son of the Marquess of Londonderry; the foundation stone was laid in the 1870s",
+        "Designed by Henry Kennedy of Bangor, it is 23.7 metres tall and Grade II listed"
+      ],
+      "solar": "After sunset. Model sunrise 07:28 and sunset 18:36 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 78°, and elevation is about -16.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "town"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Machynlleth/uk-01-713-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Machynlleth/uk-01-713-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Machynlleth/uk-01-713-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-714",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Bangor",
+      "folder": "Bangor County Down",
+      "site": "McKee Clock",
+      "place": "McKee Clock Arena, foot of High Street, Bangor, County Down",
+      "caption": "McKee Clock, Bangor",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Overcast night · McKee Clock Arena looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the McKee Clock in Bangor, County Down, a slender square sandstone clock tower with a clock face on each side and a small lantern on top, floodlit in the seafront gardens by the marina, on an overcast night",
+      "description": "The sandstone McKee Clock is floodlit in the seafront gardens by Bangor marina. It is an overcast night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public paved arena in the marina's sunken gardens south of the clock, looking north at the clock tower with the marina beyond. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/McKee_Clock",
+        "https://en.wikipedia.org/wiki/Bangor,_County_Down"
+      ],
+      "anchors": [
+        "The McKee Clock is a clock tower at the foot of High Street in Bangor's marina sunken gardens, in an area known as the McKee Clock Arena",
+        "Named for its benefactor James McKee, a local rates collector, it was designed by the town surveyor Mr Bell and built in 1915 by John McNeilly of stone quarried at Ballycullen near Newtownards",
+        "A Luftwaffe bomb landed on its top during the Second World War with little damage; it is a popular meeting place in the town"
+      ],
+      "solar": "After sunset. Model sunrise 07:38 and sunset 18:41 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 76°, and elevation is about -17.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "town",
+        "coast"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Bangor County Down/uk-01-714-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Bangor County Down/uk-01-714-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Bangor County Down/uk-01-714-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-715",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Oxford",
+      "folder": "Oxford",
+      "site": "Carfax Tower",
+      "place": "Carfax, Queen Street and Cornmarket Street corner, Oxford",
+      "caption": "Carfax Tower, Oxford",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Carfax crossroads looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Carfax Tower in Oxford, a plain square medieval limestone tower with a battlemented top and a decorative clock dial with two small figures, floodlit at the central crossroads, on a clear night",
+      "description": "Carfax Tower is floodlit on the corner of Oxford's central crossroads. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement at the Carfax crossroads south-east of the tower, looking north-west at the tower on the corner of Queen Street and Cornmarket Street. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Carfax_Tower",
+        "https://en.wikipedia.org/wiki/Oxford"
+      ],
+      "anchors": [
+        "Carfax Tower, also called St Martin's Tower, stands on the north-west corner of Carfax, the crossroads considered the centre of Oxford",
+        "It is all that remains of the 12th-century City Church of St Martin, whose main body was demolished in 1896 to make room for traffic",
+        "The tower is 74 feet (23 m) tall; no building in central Oxford may be built higher; its clock dial and surroundings by Sir T. G. Jackson date from 1898"
+      ],
+      "solar": "After sunset. Model sunrise 07:17 and sunset 18:26 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 80°, and elevation is about -15.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Oxford/uk-01-715-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Oxford/uk-01-715-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Oxford/uk-01-715-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-716",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Newcastle upon Tyne",
+      "folder": "Newcastle upon Tyne",
+      "site": "Swing Bridge",
+      "place": "Swing Bridge over the River Tyne, Newcastle Quayside",
+      "caption": "Swing Bridge, Newcastle upon Tyne",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Mainly clear night · Quayside looking east-south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Swing Bridge over the River Tyne in Newcastle, a long low red and white iron bridge with a small white control cabin raised over the middle of the deck, lit and reflected in the river, on a mainly clear night",
+      "description": "The red and white Swing Bridge is lit over the Tyne between Newcastle and Gateshead. It is a mainly clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Quayside path on the Newcastle bank just upstream of the bridge, below the High Level Bridge, looking east-south-east downstream at the swing span with the Tyne Bridge beyond. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Swing_Bridge,_River_Tyne",
+        "https://en.wikipedia.org/wiki/River_Tyne"
+      ],
+      "anchors": [
+        "The Swing Bridge crosses the River Tyne between Newcastle and Gateshead, between the Tyne Bridge and the High Level Bridge, on the site of the Roman Pons Aelius",
+        "Designed and paid for by William Armstrong, it opened in 1876 and was then the largest swing bridge ever built; it is Grade II* listed",
+        "Its 281 ft (86 m) cantilevered span turns on a central axis through 360 degrees, still driven by Armstrong's original hydraulic machinery"
+      ],
+      "solar": "After sunset. Model sunrise 07:22 and sunset 18:24 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 79°, and elevation is about -14.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "bridge"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-716-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-716-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Newcastle upon Tyne/uk-01-716-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-717",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "York",
+      "folder": "York",
+      "site": "Bootham Bar",
+      "place": "Bootham and High Petergate, York",
+      "caption": "Bootham Bar, York",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Bootham looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Bootham Bar in York, a medieval stone gatehouse with a single arch over the road, corner turrets and a battlemented top, floodlit with the towers of York Minster beyond, on a clear night",
+      "description": "The medieval gatehouse of Bootham Bar is floodlit, with York Minster glowing beyond. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Bootham north-west of the bar, looking south-east through the gateway towards High Petergate and the Minster. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bootham_Bar",
+        "https://en.wikipedia.org/wiki/York_city_walls"
+      ],
+      "anchors": [
+        "Bootham Bar is one of the main medieval gateways in the York city walls, on the site of the north-west gate of the Roman fortress",
+        "It stands at the end of High Petergate where the road Bootham leaves the walled city, with York Minster close behind it",
+        "Its stone gatehouse has a single arch over the road, a battlemented top with small corner turrets, and the city walls running off on both sides"
+      ],
+      "solar": "After sunset. Model sunrise 07:18 and sunset 18:23 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 80°, and elevation is about -14.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/York/uk-01-717-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/York/uk-01-717-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/York/uk-01-717-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-718",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Cambridge",
+      "folder": "Cambridge",
+      "site": "Round Church",
+      "place": "Corner of Bridge Street and Round Church Street, Cambridge",
+      "caption": "Round Church, Cambridge",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Bridge Street looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Round Church in Cambridge, a small Norman church with a round stone nave, a round upper storey and a conical spire, floodlit on the corner of Bridge Street, on a clear night",
+      "description": "The round Norman nave and conical spire of the Round Church are floodlit on Bridge Street. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Bridge Street south-west of the church, looking north-east at the round nave and its Norman doorway. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Round_Church,_Cambridge",
+        "https://en.wikipedia.org/wiki/Cambridge"
+      ],
+      "anchors": [
+        "The Church of the Holy Sepulchre, known as the Round Church, stands on the corner of Round Church Street and Bridge Street and is Grade I listed",
+        "Built around 1130, its round shape was inspired by the rotunda of the Church of the Holy Sepulchre in Jerusalem; it is one of four medieval round churches still in use in England",
+        "It has a round nave with an ambulatory, an upper storey surmounted by a conical spire, and a later chancel and north aisle"
+      ],
+      "solar": "After sunset. Model sunrise 07:12 and sunset 18:20 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 81°, and elevation is about -14.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cambridge/uk-01-718-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cambridge/uk-01-718-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cambridge/uk-01-718-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-719",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Cambridge",
+      "folder": "Cambridge",
+      "site": "Mathematical Bridge",
+      "place": "River Cam at Queens' College, Cambridge",
+      "caption": "Mathematical Bridge, Cambridge",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Silver Street bridge looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Mathematical Bridge at Queens' College, Cambridge, a wooden footbridge built of straight timbers in a lattice forming a gentle arch over the River Cam, lit by college lamps, on a clear night",
+      "description": "The wooden Mathematical Bridge arches over the River Cam at Queens' College. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Silver Street road bridge just downstream, looking north-east along the river at the wooden footbridge and the Queens' College buildings. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Mathematical_Bridge",
+        "https://en.wikipedia.org/wiki/Queens'_College,_Cambridge"
+      ],
+      "anchors": [
+        "The Mathematical Bridge is a wooden footbridge across the River Cam connecting two parts of Queens' College, Cambridge",
+        "Designed by William Etheridge and built by James Essex in 1749, it has been rebuilt twice, in 1866 and 1905, to the same design",
+        "Its arch is made entirely of straight timbers arranged in tangent lines, giving the appearance of a curved arch"
+      ],
+      "solar": "After sunset. Model sunrise 07:12 and sunset 18:20 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 81°, and elevation is about -14.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cambridge/uk-01-719-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cambridge/uk-01-719-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cambridge/uk-01-719-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-720",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Margate",
+      "folder": "Margate",
+      "site": "Turner Contemporary",
+      "place": "Rendezvous, Margate seafront",
+      "caption": "Turner Contemporary, Margate",
+      "scenario_label": "8 October 2026 · 05:45 Europe/London",
+      "composition": "Clear night · Harbour Arm looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Turner Contemporary in Margate, a row of plain white frosted-glass blocks with single-sloped roofs on the seafront, glowing softly and reflected in the harbour, on a clear night",
+      "description": "The white glass blocks of Turner Contemporary glow on the Margate seafront. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Harbour Arm path east of the gallery, looking south-west across the harbour at the gallery on the seafront. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Turner_Contemporary",
+        "https://en.wikipedia.org/wiki/Margate"
+      ],
+      "anchors": [
+        "Turner Contemporary is an art gallery on the seafront at Margate in Kent, on the site of the boarding house where J. M. W. Turner stayed",
+        "Designed by David Chipperfield Architects, it opened in April 2011",
+        "Chipperfield's design has slanted units connected into a single building, clad in translucent white glass panels"
+      ],
+      "solar": "After sunset. Model sunrise 07:06 and sunset 18:16 Europe/London. The scenario is 05:45 Europe/London. Calculated solar azimuth is east, about 83°, and elevation is about -13.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Margate/uk-01-720-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Margate/uk-01-720-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Margate/uk-01-720-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch37-to-relay-postcard-builder-20261008T051113Z.json (2026-10-08T05:11:13Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch37/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
