@@ -14548,6 +14548,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch20-to-relay-postcard-builder-20261007T234401Z.json (2026-10-07T23:44:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch20/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-551",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Dunblane",
+      "folder": "Dunblane",
+      "site": "Dunblane Cathedral",
+      "place": "Cathedral Square, Dunblane, Stirlingshire",
+      "caption": "Dunblane Cathedral, Dunblane",
+      "scenario_label": "8 October 2026 · 00:37 Europe/London",
+      "composition": "Clear night · the churchyard looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Dunblane Cathedral, a Gothic stone church with three tall lancet windows in its west gable and a square tower on its south side, floodlit, on a clear night",
+      "description": "Dunblane Cathedral's west gable and old south tower are floodlit above the churchyard. It is a clear night, about 5°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public cathedral churchyard, south-west of the cathedral, looking north-east at the west gable and the south tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Dunblane_Cathedral",
+        "https://www.dunblanecathedral.org.uk/"
+      ],
+      "anchors": [
+        "A 13th-century Gothic cathedral of grey-brown stone above the Allan Water, its nave re-roofed in 1889-93",
+        "A west gable with three tall, narrow pointed lancet windows side by side and a small pointed-oval window high in the gable above them",
+        "A square, plain tower standing against the SOUTH side of the nave, not on the centre line; its lower stages are 11th-century and its two upper storeys of about 1500 are visibly different in stone colour, with a parapet on top"
+      ],
+      "solar": "After sunset. Model sunrise 07:32 and sunset 18:32 Europe/London. The scenario is 00:37 Europe/London. Calculated solar azimuth is north, about 352°, and elevation is about -39.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dunblane/uk-01-551-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dunblane/uk-01-551-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dunblane/uk-01-551-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-552",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Falkirk",
+      "folder": "Falkirk",
+      "site": "The Falkirk Wheel",
+      "place": "Lime Road, Tamfourhill, Falkirk",
+      "caption": "The Falkirk Wheel, Falkirk",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Clear night · the lower basin looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Falkirk Wheel, a giant rotating steel boat lift with curved arms and an aqueduct on pillars, lit up, on a clear night",
+      "description": "The Falkirk Wheel is lit up over its basin, its curved arms reaching up to the aqueduct. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path beside the lower basin, north of the wheel, looking south at the wheel and the aqueduct behind it. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+        "https://www.scottishcanals.co.uk/falkirk-wheel"
+      ],
+      "anchors": [
+        "The world's only rotating boat lift, opened in 2002, linking the Forth and Clyde Canal with the Union Canal 24 m higher",
+        "Two opposing curved steel arms, each shaped like a double-headed Celtic axe, turning on a central axle, with two water-filled gondolas carrying boats between them",
+        "At the top, an aqueduct carried on tall concrete pillars with large round ring openings runs back from the wheel into the hillside towards a tunnel"
+      ],
+      "solar": "After sunset. Model sunrise 07:32 and sunset 18:32 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 352°, and elevation is about -39.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "engineering",
+        "canal"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Falkirk/uk-01-552-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Falkirk/uk-01-552-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Falkirk/uk-01-552-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-553",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "St Andrews",
+      "folder": "St Andrews",
+      "site": "St Salvator's Chapel",
+      "place": "North Street, St Andrews, Fife",
+      "caption": "St Salvator's Chapel, St Andrews",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Mainly clear night · North Street looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Salvator's Chapel tower in St Andrews, a square stone tower with a slender spire beside a Gothic chapel, floodlit, on a mainly clear night",
+      "description": "St Salvator's tower and spire rise floodlit over North Street in St Andrews. It is a mainly clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public North Street pavement, west of the chapel tower, looking east along the street at the tower and chapel front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Salvator%27s_College,_St_Andrews",
+        "https://www.st-andrews.ac.uk/"
+      ],
+      "anchors": [
+        "The chapel of St Salvator's College, University of St Andrews, founded by Bishop James Kennedy in 1450",
+        "A tall, plain, square 15th-century stone tower standing right on the North Street frontage, with a clock face and a gateway arch into the quadrangle at its base",
+        "The tower topped by a slender, tall, octagonal stone spire of the 1550s, with the long buttressed Gothic chapel stretching east from it along the street"
+      ],
+      "solar": "After sunset. Model sunrise 07:28 and sunset 18:27 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 354°, and elevation is about -39.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "college",
+        "tower"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/St Andrews/uk-01-553-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/St Andrews/uk-01-553-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/St Andrews/uk-01-553-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-554",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Beaumaris",
+      "folder": "Beaumaris",
+      "site": "Beaumaris Castle",
+      "place": "Castle Street, Beaumaris, Anglesey",
+      "caption": "Beaumaris Castle, Beaumaris",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Overcast night · the green looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Beaumaris Castle, a low symmetrical stone castle with round towers behind a water-filled moat, floodlit, on an overcast night",
+      "description": "Beaumaris Castle's low concentric walls are floodlit and mirrored in its moat. It is an overcast night, about 12°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public green outside the moat, south of the castle, looking north across the moat at the outer walls and the inner ward. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Beaumaris_Castle",
+        "https://cadw.gov.wales/visit/places-to-visit/beaumaris-castle"
+      ],
+      "anchors": [
+        "Edward I's last Welsh castle, begun in 1295 by James of St George and never finished, called Britain's most perfect example of symmetrical concentric planning",
+        "A low outer curtain wall with many small round towers rising from a broad water-filled moat, and behind it a higher, symmetrical inner ward with massive round towers",
+        "Because it was never completed, the towers are squat and stunted, all roofless with plain battlements, NO tall keep, NO conical roofs, NO spires"
+      ],
+      "solar": "After sunset. Model sunrise 07:30 and sunset 18:36 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 352°, and elevation is about -42.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "moat"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Beaumaris/uk-01-554-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Beaumaris/uk-01-554-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Beaumaris/uk-01-554-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-555",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Pontypridd",
+      "folder": "Pontypridd",
+      "site": "Old Bridge",
+      "place": "Bridge Street, Pontypridd, Rhondda Cynon Taf",
+      "caption": "Old Bridge, Pontypridd",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Clear night · the River Taff bank · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Old Bridge in Pontypridd, a very high single stone arch over the River Taff with three round holes at each end, lit up, on a clear night",
+      "description": "William Edwards's high, thin Old Bridge arches over the River Taff in Pontypridd. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside path beside the River Taff, looking along the river at the side of the arch. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Old_Bridge,_Pontypridd",
+        "https://cadw.gov.wales/"
+      ],
+      "anchors": [
+        "A single-span stone bridge over the River Taff built by William Edwards in 1756, once the longest single-span bridge in Britain",
+        "One very high, wide, thin segmental arch of grey Pennant sandstone, the roadway climbing steeply over its crown",
+        "In each haunch three round holes of decreasing size pierce the masonry to lighten it"
+      ],
+      "solar": "After sunset. Model sunrise 07:25 and sunset 18:35 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 352°, and elevation is about -44.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "bridge",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Pontypridd/uk-01-555-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Pontypridd/uk-01-555-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Pontypridd/uk-01-555-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-556",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Armagh",
+      "folder": "Armagh",
+      "site": "St Patrick's Cathedral (Church of Ireland)",
+      "place": "Cathedral Close, Armagh",
+      "caption": "St Patrick's Cathedral (Church of Ireland), Armagh",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Clear night · below the west front looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of St Patrick's Church of Ireland Cathedral in Armagh, a stone Gothic cathedral with a low square central tower, floodlit, on a clear night",
+      "description": "St Patrick's Church of Ireland Cathedral is floodlit on its hilltop in Armagh. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path on the hill west of the cathedral, looking east at the west front and the central tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/St_Patrick%27s_Cathedral,_Armagh_(Church_of_Ireland)",
+        "https://www.stpatricks-cathedral.org/"
+      ],
+      "anchors": [
+        "The Church of Ireland cathedral on the hilltop site of St Patrick's 5th-century church, seat of the Archbishop of Armagh",
+        "A medieval cathedral of modest size, much restored in the 1830s, in plain Gothic style of grey-buff stone",
+        "A low, broad, square central tower with a battlemented parapet and NO spire, over a cruciform church with a battlemented west front"
+      ],
+      "solar": "After sunset. Model sunrise 07:41 and sunset 18:45 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 349°, and elevation is about -41.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "sacred",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Armagh/uk-01-556-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Armagh/uk-01-556-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Armagh/uk-01-556-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-557",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Arundel",
+      "folder": "Arundel",
+      "site": "Arundel Castle",
+      "place": "Mill Road, Arundel, West Sussex",
+      "caption": "Arundel Castle, Arundel",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Clear night · Mill Road looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Arundel Castle, a long grey stone castle with many battlemented towers on a wooded hill, floodlit, on a clear night",
+      "description": "Arundel Castle's battlemented towers are floodlit above the trees of Mill Road. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Mill Road / riverside, south-east of the castle, looking north-west up at the castle above the trees. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Arundel_Castle",
+        "https://www.arundelcastle.org/"
+      ],
+      "anchors": [
+        "A castle founded in 1067 by Roger de Montgomery, seat of the Dukes of Norfolk, largely rebuilt in Gothic Revival style in the 19th century",
+        "Long ranges of grey stone with many square battlemented towers and turrets and tall mullioned windows, set high on a wooded hill above the River Arun",
+        "A round Norman shell keep on its mound rising behind the ranges"
+      ],
+      "solar": "After sunset. Model sunrise 07:13 and sunset 18:24 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 356°, and elevation is about -44.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Arundel/uk-01-557-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Arundel/uk-01-557-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Arundel/uk-01-557-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-558",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Dover",
+      "folder": "Dover",
+      "site": "Dover Castle",
+      "place": "Castle Hill, Dover, Kent",
+      "caption": "Dover Castle, Dover",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Mainly clear night · the seafront looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Dover Castle, a large stone castle with a square keep and curtain walls on a hill above the town, floodlit, on a mainly clear night",
+      "description": "Dover Castle and its Great Tower are floodlit on the hill above the town. It is a mainly clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public seafront promenade of Dover, south-west of the castle, looking north-east up at the castle on its hill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Dover_Castle",
+        "https://www.english-heritage.org.uk/visit/places/dover-castle/"
+      ],
+      "anchors": [
+        "A castle founded in the 11th century on the hill above the White Cliffs, called the 'Key to England'",
+        "At its heart the Great Tower built for Henry II in the 1180s: a massive square stone keep with square corner turrets rising above a flat battlemented top",
+        "Long curtain walls with many towers ringing the hilltop, and on the hill beside it the Saxon church of St Mary in Castro beside a Roman lighthouse"
+      ],
+      "solar": "After sunset. Model sunrise 07:06 and sunset 18:17 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 359°, and elevation is about -44.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "coast"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dover/uk-01-558-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dover/uk-01-558-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dover/uk-01-558-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-559",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Alnwick",
+      "folder": "Alnwick",
+      "site": "Alnwick Castle",
+      "place": "Lion Bridge, Alnwick, Northumberland",
+      "caption": "Alnwick Castle, Alnwick",
+      "scenario_label": "8 October 2026 · 00:39 Europe/London",
+      "composition": "Partly cloudy night · the River Aln looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Alnwick Castle, a large sandstone castle with clustered battlemented towers above a river, floodlit, on a partly cloudy night",
+      "description": "Alnwick Castle's clustered towers are floodlit above the River Aln. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside by the Lion Bridge over the River Aln, further back, north-east of the castle, looking south-west across the river and meadows at the whole castle (attempt 3 new distant viewpoint, owner two-fail rule). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Alnwick_Castle",
+        "https://www.alnwickcastle.com/"
+      ],
+      "anchors": [
+        "The seat of the Dukes of Northumberland, a Norman castle remodelled by Anthony Salvin in the 1850s, standing above the River Aln",
+        "A large castle of buff-grey sandstone whose central keep is a cluster of tightly packed round and polygonal towers with battlements, the tall square Prudhoe Tower among them",
+        "Curtain walls with towers on a long grassy slope above the riverside meadow, small carved stone figures standing along the battlements"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:24 Europe/London. The scenario is 00:39 Europe/London. Calculated solar azimuth is north, about 355°, and elevation is about -40.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Alnwick/uk-01-559-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Alnwick/uk-01-559-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Alnwick/uk-01-559-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-560",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Ludlow",
+      "folder": "Ludlow",
+      "site": "Ludlow Castle",
+      "place": "Dinham, Ludlow, Shropshire",
+      "caption": "Ludlow Castle, Ludlow",
+      "scenario_label": "8 October 2026 · 00:40 Europe/London",
+      "composition": "Clear night · across the Teme looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Ludlow Castle, roofless stone castle ruins on a rocky wooded bluff above the River Teme, floodlit, on a clear night",
+      "description": "Ludlow Castle's ruins are floodlit on their rocky bluff above the River Teme. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Whitcliffe Common / Dinham Bridge area across the River Teme, south-west of the castle, looking north-east at the castle on its rock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Ludlow_Castle",
+        "https://www.ludlowcastle.com/"
+      ],
+      "anchors": [
+        "A ruined Norman castle begun about 1075, later seat of the Council of the Marches, standing on a rocky promontory above the River Teme",
+        "Roofless curtain walls and towers of grey and reddish stone rising directly from the rock and trees above the river",
+        "The tall, square Norman great tower (keep) with a flat broken top, and roofless Tudor ranges with empty windows; the tall square tower of St Laurence's church rises behind"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:32 Europe/London. The scenario is 00:40 Europe/London. Calculated solar azimuth is north, about 354°, and elevation is about -43.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Ludlow/uk-01-560-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Ludlow/uk-01-560-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Ludlow/uk-01-560-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch21-to-relay-postcard-builder-20261007T235315Z.json (2026-10-07T23:53:15Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch21/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
