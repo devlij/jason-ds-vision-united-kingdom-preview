@@ -16188,6 +16188,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 3): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch24-redo-to-relay-postcard-builder-20261008T011301Z.json (2026-10-08T01:13:01Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch24-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-591",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Glasgow",
+      "folder": "Glasgow",
+      "site": "Templeton on the Green",
+      "place": "Templeton Street, Glasgow Green, Glasgow",
+      "caption": "Templeton on the Green, Glasgow",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Clear night · Glasgow Green looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Templeton on the Green in Glasgow, a Venetian Gothic former carpet factory with a richly patterned coloured brick front, floodlit, on a clear night",
+      "description": "The patterned brick front of Templeton on the Green glows across Glasgow Green. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Glasgow Green, west of the building, looking east at the main polychrome front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Templeton_On_The_Green",
+        "https://portal.historicenvironment.scot/"
+      ],
+      "anchors": [
+        "The former Templeton carpet factory facing Glasgow Green, designed by William Leiper and completed in 1892; Category A listed",
+        "Leiper modelled its front on the Doge's Palace in Venice: a richly patterned facade of red, cream, blue and green glazed brick and terracotta in diaper and lozenge patterns",
+        "Pointed and round arched windows in tiers, an ornate crenellated parapet with slender corner pinnacles, and a female statue on top commemorating a fire in 1900"
+      ],
+      "solar": "After sunset. Model sunrise 07:33 and sunset 18:34 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north, about 18°, and elevation is about -38.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "venetian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Glasgow/uk-01-591-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Glasgow/uk-01-591-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Glasgow/uk-01-591-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-592",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "New College",
+      "place": "Mound Place, Edinburgh",
+      "caption": "New College, Edinburgh",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Clear night · The Mound looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of New College in Edinburgh, a Tudor Gothic sandstone building with twin pinnacled towers on The Mound, floodlit, on a clear night",
+      "description": "New College's twin pinnacled towers are floodlit at the top of The Mound in Edinburgh. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on The Mound beside the Scottish National Gallery, north of the building, looking south up at the twin towers. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/New_College,_Edinburgh",
+        "https://portal.historicenvironment.scot/"
+      ],
+      "anchors": [
+        "New College on The Mound, Edinburgh, the University of Edinburgh's School of Divinity, designed by William Henry Playfair in a Tudor Gothic style and built 1845-1850",
+        "A symmetrical pale sandstone front facing north down The Mound, with two tall square towers crowned by slender octagonal corner pinnacles, flanking a gabled central gateway into the quadrangle",
+        "Behind it stands the Assembly Hall of the Church of Scotland; from The Mound the tall spire of the Tolbooth Kirk (The Hub) rises between and behind the twin towers"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north, about 19°, and elevation is about -38.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-592-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-592-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-592-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-593",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Dumfries",
+      "folder": "Dumfries",
+      "site": "Midsteeple",
+      "place": "High Street, Dumfries",
+      "caption": "Midsteeple, Dumfries",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Clear night · High Street looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Midsteeple in Dumfries, a red sandstone tolbooth with a tall clock tower and spire in the middle of the High Street, floodlit, on a clear night",
+      "description": "The red sandstone Midsteeple is floodlit in the middle of Dumfries High Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrianised High Street, south of the building, looking north at the steeple and forestair. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Midsteeple",
+        "https://portal.historicenvironment.scot/"
+      ],
+      "anchors": [
+        "The Midsteeple in the middle of Dumfries High Street, built in 1707 by the mason Tobias Bachop as the town's tolbooth, council house and prison; Category A listed",
+        "A tall square tower of red sandstone with clock faces, rising in stages to a balustraded parapet and a slender spire with a weathervane",
+        "At its foot a stone forestair (external staircase) to the old council chamber, and a carved table of distances on the front"
+      ],
+      "solar": "After sunset. Model sunrise 07:30 and sunset 18:32 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north, about 19°, and elevation is about -39.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "town",
+        "tolbooth"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dumfries/uk-01-593-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dumfries/uk-01-593-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dumfries/uk-01-593-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-594",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Derry",
+      "folder": "Derry",
+      "site": "Shipquay Gate",
+      "place": "Guildhall Square, Derry",
+      "caption": "Shipquay Gate, Derry",
+      "scenario_label": "8 October 2026 · 02:17 Europe/London",
+      "composition": "Mainly clear night · Guildhall Square looking south-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Shipquay Gate in Derry's city walls, a dressed-stone classical gate with a broad round arch and a steep street climbing beyond, lit at night, on a mainly clear night",
+      "description": "Shipquay Gate's broad classical arch opens through Derry's city walls onto the steep climb of Shipquay Street. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Guildhall Square, north-east of the gate, looking south-west through the arch and up Shipquay Street (attempt 2 per the verifier's fix list). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Walls_of_Derry",
+        "https://commons.wikimedia.org/wiki/Category:Shipquay_Gate"
+      ],
+      "anchors": [
+        "Shipquay Gate, one of the gates in the Walls of Derry, the complete 17th-century walled circuit built 1613-1619; the gate was rebuilt in its present form in 1805",
+        "A dressed-stone classical gate front: a broad round-headed arch filling most of the gate's height, framed by dressed ashlar piers, with carved roundels in the spandrels, a cornice and a parapet with iron railings on top; the rubble wall continues either side",
+        "Through the arch the steep Shipquay Street climbs up towards the Diamond in the centre of the walled city"
+      ],
+      "solar": "After sunset. Model sunrise 07:45 and sunset 18:47 Europe/London. The scenario is 02:17 Europe/London. Calculated solar azimuth is north, about 20°, and elevation is about -39.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "walls",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Derry/uk-01-594-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Derry/uk-01-594-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Derry/uk-01-594-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-redo-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-595",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Durham",
+      "folder": "Durham",
+      "site": "Durham Castle",
+      "place": "Framwellgate Bridge, River Wear, Durham",
+      "caption": "Durham Castle, Durham",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Mainly clear night · Framwellgate Bridge looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Durham Castle on its wooded hill above the River Wear, with the octagonal keep and the cathedral tower beyond, floodlit, on a mainly clear night",
+      "description": "Durham Castle is floodlit on its hill above the River Wear, with the cathedral tower beyond. It is a mainly clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Framwellgate Bridge, north-west of the castle, looking south-east over the River Wear to the castle on its hill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Durham_Castle",
+        "https://www.dur.ac.uk/durham.castle/"
+      ],
+      "anchors": [
+        "Durham Castle, a Norman castle begun in 1072, for centuries the residence of the Bishops of Durham and since 1837 home to University College; part of the Durham Castle and Cathedral World Heritage Site",
+        "High on its rock above the wooded banks of the River Wear: the battlemented octagonal keep on its mound and the long west range with the Great Hall's tall windows and buttresses",
+        "Durham Cathedral's great square central tower rises beyond the castle to the south"
+      ],
+      "solar": "After sunset. Model sunrise 07:21 and sunset 18:24 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north, about 21°, and elevation is about -39.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "river"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Durham/uk-01-595-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Durham/uk-01-595-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Durham/uk-01-595-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-596",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Lincoln",
+      "folder": "Lincoln",
+      "site": "The Stonebow and Guildhall",
+      "place": "High Street, Lincoln",
+      "caption": "The Stonebow and Guildhall, Lincoln",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Clear night · High Street looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Stonebow in Lincoln, a late medieval stone gateway with a broad arch across the High Street and battlements, floodlit, on a clear night",
+      "description": "Lincoln's Stonebow gateway is floodlit across the High Street. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public High Street, south of the gateway, looking north through the arch towards the hill. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Stonebow",
+        "https://historicengland.org.uk/listing/the-list/"
+      ],
+      "anchors": [
+        "The Stonebow, a late medieval stone gateway built across Lincoln's High Street on the site of the Roman south gate; the city's Guildhall occupies its upper floor; Grade I listed",
+        "A broad central archway over the street with smaller pedestrian archways either side, battlemented parapets and octagonal turrets",
+        "Carved statues of the Virgin Mary and the Angel Gabriel stand in niches on the south front, and a small bell turret on the roof holds the Mote Bell"
+      ],
+      "solar": "After sunset. Model sunrise 07:15 and sunset 18:22 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north-east, about 23°, and elevation is about -40.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "medieval",
+        "gateway"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Lincoln/uk-01-596-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Lincoln/uk-01-596-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Lincoln/uk-01-596-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-597",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Cambridge",
+      "folder": "Cambridge",
+      "site": "Senate House",
+      "place": "King's Parade, Cambridge",
+      "caption": "Senate House, Cambridge",
+      "scenario_label": "8 October 2026 · 01:59 Europe/London",
+      "composition": "Clear night · King's Parade looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Senate House in Cambridge, a long classical Portland stone building with Corinthian columns and a pediment behind railings and a lawn, floodlit, on a clear night",
+      "description": "The Senate House's Portland stone front is floodlit behind its lawn on King's Parade. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public King's Parade, south-east of the building, looking north-west across the railings and lawn to the south front. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Senate_House_(University_of_Cambridge)",
+        "https://www.cam.ac.uk/"
+      ],
+      "anchors": [
+        "The Senate House of the University of Cambridge on King's Parade, designed by James Gibbs and built 1722-1730 of Portland stone; used for degree ceremonies; Grade I listed",
+        "A long two-storey classical front with giant Corinthian pilasters, and in the centre engaged Corinthian columns carrying a triangular pediment",
+        "Round-headed upper windows under alternating triangular and segmental pediments, and a balustraded parapet with urns; the building stands behind iron railings on a lawn"
+      ],
+      "solar": "After sunset. Model sunrise 07:12 and sunset 18:20 Europe/London. The scenario is 01:59 Europe/London. Calculated solar azimuth is north-east, about 24°, and elevation is about -41.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "campus",
+        "classical"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cambridge/uk-01-597-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cambridge/uk-01-597-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cambridge/uk-01-597-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-598",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Liverpool",
+      "folder": "Liverpool",
+      "site": "Port of Liverpool Building",
+      "place": "Pier Head, Liverpool",
+      "caption": "Port of Liverpool Building, Liverpool",
+      "scenario_label": "8 October 2026 · 02:00 Europe/London",
+      "composition": "Partly cloudy night · the Pier Head looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Port of Liverpool Building, an Edwardian Baroque stone building with a great central dome and four domed corner towers, floodlit, on a partly cloudy night",
+      "description": "The Port of Liverpool Building's great dome is floodlit at the Pier Head. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Pier Head waterfront, south-west of the building, looking north-east at the dome and corner turrets. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Port_of_Liverpool_Building",
+        "https://historicengland.org.uk/listing/the-list/"
+      ],
+      "anchors": [
+        "The Port of Liverpool Building at the Pier Head, built 1904-1907 as the offices of the Mersey Docks and Harbour Board; one of the 'Three Graces'; Grade II* listed",
+        "An Edwardian Baroque building of white Portland stone, square in plan, with rows of windows over a rusticated base",
+        "A huge central dome rising from a drum, and four corner towers each topped by a smaller domed cupola"
+      ],
+      "solar": "After sunset. Model sunrise 07:25 and sunset 18:32 Europe/London. The scenario is 02:00 Europe/London. Calculated solar azimuth is north, about 20°, and elevation is about -40.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "waterfront",
+        "edwardian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Liverpool/uk-01-598-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Liverpool/uk-01-598-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Liverpool/uk-01-598-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-599",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Nottingham",
+      "folder": "Nottingham",
+      "site": "Nottingham Castle",
+      "place": "Castle Road, Nottingham",
+      "caption": "Nottingham Castle, Nottingham",
+      "scenario_label": "8 October 2026 · 02:00 Europe/London",
+      "composition": "Clear night · Castle Road looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Nottingham Castle, a pale stone Italianate mansion standing on a sheer sandstone cliff, floodlit, on a clear night",
+      "description": "Nottingham Castle's ducal mansion is floodlit high on Castle Rock. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Castle Road below Castle Rock, south-east of the mansion, looking up north-west at the cliff and the ducal mansion. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Nottingham_Castle",
+        "https://www.nottinghamcastle.org.uk/"
+      ],
+      "anchors": [
+        "Nottingham Castle, a ducal mansion built in the 1670s for the 1st Duke of Newcastle on the site of a Norman royal fortress; burnt by rioters in 1831 and restored in the 1870s as a museum and art gallery",
+        "The rectangular Italianate mansion of pale stone, with rows of tall windows and a balustraded parapet, stands on Castle Rock",
+        "Castle Rock is a natural sandstone promontory with cliffs about 40 m high to the south and west, riddled with caves"
+      ],
+      "solar": "After sunset. Model sunrise 07:18 and sunset 18:25 Europe/London. The scenario is 02:00 Europe/London. Calculated solar azimuth is north-east, about 23°, and elevation is about -40.9°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "castle",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Nottingham/uk-01-599-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Nottingham/uk-01-599-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Nottingham/uk-01-599-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-600",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Morecambe",
+      "folder": "Morecambe",
+      "site": "The Midland Hotel",
+      "place": "Marine Road West, Morecambe",
+      "caption": "The Midland Hotel, Morecambe",
+      "scenario_label": "8 October 2026 · 02:00 Europe/London",
+      "composition": "Clear night · Marine Road West looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Midland Hotel in Morecambe, a curving white Art Deco hotel with a round entrance tower, lit at night, on a clear night",
+      "description": "The curving white Midland Hotel glows on the seafront at Morecambe. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Marine Road West pavement, east of the hotel, looking west at the curved entrance front and round tower. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Midland_Hotel,_Morecambe",
+        "https://historicengland.org.uk/listing/the-list/"
+      ],
+      "anchors": [
+        "The Midland Hotel on Morecambe's seafront, built by the London, Midland and Scottish Railway in 1933 to designs by Oliver Hill, with sculpture by Eric Gill; Grade II* listed",
+        "A three-storey curving white Streamline Moderne building with long horizontal bands of windows, following the line of the promenade",
+        "A central circular tower containing the entrance and a spiral staircase, decorated at the top with two Art Deco seahorses, and a circular cafe at the north end"
+      ],
+      "solar": "After sunset. Model sunrise 07:26 and sunset 18:30 Europe/London. The scenario is 02:00 Europe/London. Calculated solar azimuth is north, about 20°, and elevation is about -40.2°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "seaside",
+        "art-deco"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Morecambe/uk-01-600-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Morecambe/uk-01-600-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Morecambe/uk-01-600-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
