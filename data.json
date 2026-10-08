@@ -19057,6 +19057,415 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch31-to-relay-postcard-builder-20261008T031214Z.json (2026-10-08T03:12:14Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch31/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-661",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Royal Scottish Academy",
+      "place": "The Mound, Edinburgh",
+      "caption": "Royal Scottish Academy, Edinburgh",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Princes Street looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Scottish Academy at the foot of The Mound in Edinburgh, a Greek Doric temple of pale sandstone with a portico of eight fluted columns and a statue of Queen Victoria on the pediment, floodlit, on a clear night",
+      "description": "The Doric portico of the Royal Scottish Academy is floodlit at the foot of The Mound. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the north side of Princes Street at the foot of The Mound, looking south at the north portico. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Royal_Scottish_Academy_Building",
+        "https://en.wikipedia.org/wiki/The_Mound"
+      ],
+      "anchors": [
+        "Built by William Henry Playfair in 1822-6 at the junction of The Mound and Princes Street; a Category A listed neo-classical building modelled on a Greek Doric temple",
+        "Surrounded by a colonnade of fluted Doric columns on a stylobate, with a Doric entablature; the north and south elevations are fronted by prostyle octastyle porticoes with large pediments",
+        "The north portico on the Princes Street side is topped by a large statue of Queen Victoria styled as Britannia by Sir John Steell; each of the four corners is topped by a pair of carved stone sphinxes"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 54°, and elevation is about -28.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-661-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-661-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-661-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-662",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Scottish National Portrait Gallery",
+      "place": "Queen Street, Edinburgh",
+      "caption": "Scottish National Portrait Gallery, Edinburgh",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Queen Street looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Scottish National Portrait Gallery on Queen Street in Edinburgh, a red sandstone Gothic Revival palace with pointed windows and octagonal corner towers topped by pinnacles, softly lit, on a clear night",
+      "description": "The red sandstone front of the Scottish National Portrait Gallery is lit on Queen Street. It is a clear night, about 6°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the south side of Queen Street opposite the gallery, looking north across the street at the facade. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Scottish_National_Portrait_Gallery",
+        "https://en.wikipedia.org/wiki/Queen_Street,_Edinburgh"
+      ],
+      "anchors": [
+        "Since 1889 housed in a red sandstone Gothic revival building at the east end of Queen Street, designed by Robert Rowand Anderson and built between 1885 and 1890",
+        "A symmetrical building with a large Main Hall at the centre of the facade that formed a shared entrance to the gallery and the antiquaries' museum; built of red sandstone from Corsehill Quarry",
+        "A distinctive feature is its four octagonal corner towers topped with crocketed Gothic pinnacles, which replaced a planned pair of large Franco-Scottish tourelles"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 54°, and elevation is about -28.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-662-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-662-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-662-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-663",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Aberdeen",
+      "folder": "Aberdeen",
+      "site": "His Majesty's Theatre",
+      "place": "Rosemount Viaduct, Aberdeen",
+      "caption": "His Majesty's Theatre, Aberdeen",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Mainly clear night · Union Terrace looking north-west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of His Majesty's Theatre in Aberdeen, an Edwardian granite theatre with a sculpture on its front and a green copper dome on the corner tower, lit above Union Terrace Gardens, on a mainly clear night",
+      "description": "The granite front and copper dome of His Majesty's Theatre are lit on Rosemount Viaduct. It is a mainly clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Union Terrace by Union Terrace Gardens, looking north-west at the theatre front on Rosemount Viaduct. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/His_Majesty%27s_Theatre,_Aberdeen",
+        "https://en.wikipedia.org/wiki/Union_Terrace_Gardens"
+      ],
+      "anchors": [
+        "The largest theatre in north-east Scotland, on Rosemount Viaduct opposite Union Terrace Gardens, designed by Frank Matcham and opened on 3 December 1906",
+        "The original building has four storeys, faced in Kemnay granite ashlar on the main front, with a copper domed tower at its eastern end and a statue of Tragedy and Comedy at the top of the main facade",
+        "A later extension, also in Kemnay granite with a pre-patinated copper roof to match the dome, adds a large glass facade facing Rosemount Viaduct"
+      ],
+      "solar": "After sunset. Model sunrise 07:26 and sunset 18:24 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 54°, and elevation is about -27.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Aberdeen/uk-01-663-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Aberdeen/uk-01-663-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Aberdeen/uk-01-663-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-664",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Broughty Ferry",
+      "folder": "Dundee",
+      "site": "Broughty Castle",
+      "place": "Castle Green, Broughty Ferry, Dundee",
+      "caption": "Broughty Castle, Broughty Ferry",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Broughty Ferry beach looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Broughty Castle at Broughty Ferry, a tall plain stone tower house inside low battery walls on a rocky point at the edge of the River Tay, floodlit, on a clear night",
+      "description": "Broughty Castle is floodlit on its point at the mouth of the Tay. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public beach and esplanade east of the castle at Castle Green, looking west along the shore at the castle on its rocky point. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Broughty_Castle",
+        "https://en.wikipedia.org/wiki/Broughty_Ferry"
+      ],
+      "anchors": [
+        "A castle on the banks of the River Tay in Broughty Ferry, Dundee, completed around 1495; a scheduled monument",
+        "The main tower house at the centre, with four floors, was built by Andrew, 2nd Lord Gray, who was granted the castle in 1490",
+        "Acquired by the War Office in 1855 to defend the harbour; the walls of the main courtyard were rebuilt and new wings and courtyards added to the tower"
+      ],
+      "solar": "After sunset. Model sunrise 07:28 and sunset 18:28 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 54°, and elevation is about -27.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Dundee/uk-01-664-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Dundee/uk-01-664-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Dundee/uk-01-664-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-665",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Bangor",
+      "folder": "Bangor",
+      "site": "Bangor Cathedral",
+      "place": "Glanrafon, Bangor, Gwynedd",
+      "caption": "Bangor Cathedral, Bangor",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Overcast night · Churchyard path looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Bangor Cathedral in Gwynedd, a long low grey stone Gothic church with a modest battlemented west tower and no spire, floodlit in its churchyard, on an overcast night",
+      "description": "The low west tower of Bangor Cathedral is floodlit in the churchyard. It is an overcast night, about 11°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path in the cathedral grounds to the west of the cathedral, looking east at the west tower and the nave. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bangor_Cathedral",
+        "https://en.wikipedia.org/wiki/Bangor,_Gwynedd"
+      ],
+      "anchors": [
+        "The cathedral church of Bangor, Gwynedd, dedicated to its founder Saint Deiniol; the site has been a place of Christian worship since the sixth century, low-lying and inconspicuous",
+        "A Latin inscription over the tower doorway records that Bishop Thomas Skevington built the (west) tower in 1532",
+        "George Gilbert Scott's design called for a high central tower and spire, never completed because of signs of subsidence, so the central tower was left as a low structure"
+      ],
+      "solar": "After sunset. Model sunrise 07:30 and sunset 18:36 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 54°, and elevation is about -30.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Bangor/uk-01-665-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Bangor/uk-01-665-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Bangor/uk-01-665-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-666",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Belfast",
+      "folder": "Belfast",
+      "site": "Albert Bridge",
+      "place": "River Lagan, Belfast",
+      "caption": "Albert Bridge, Belfast",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Partly cloudy night · Lagan towpath looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Albert Bridge in Belfast, a level Victorian road bridge of three flat cast-iron arches lined with ornate lamp posts, reflected in the River Lagan, on a partly cloudy night",
+      "description": "The lamps of the Albert Bridge glow over its three cast-iron arches on the Lagan. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public riverside path on the west bank of the Lagan south of the bridge, looking north along the river at the bridge. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Albert_Bridge,_Belfast",
+        "https://en.wikipedia.org/wiki/River_Lagan"
+      ],
+      "anchors": [
+        "A road bridge whose three flat arches span the River Lagan in Belfast, completed in 1890 by Belfast city surveyor J C Bretland",
+        "It replaced a privately owned five-span masonry bridge of 1831, two of whose arches collapsed in 1886; named after Prince Albert Victor, who laid a foundation stone in 1889",
+        "All of the cast iron, including the decorative lampposts, was made in Derby by Andrew Handyside & Co."
+      ],
+      "solar": "After sunset. Model sunrise 07:38 and sunset 18:42 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 52°, and elevation is about -30.3°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Belfast/uk-01-666-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Belfast/uk-01-666-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Belfast/uk-01-666-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-667",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Worthing",
+      "folder": "Worthing",
+      "site": "Worthing Pier",
+      "place": "Marine Parade, Worthing",
+      "caption": "Worthing Pier, Worthing",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Marine Parade looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Worthing Pier, a long low pier on iron legs with white streamlined Art Deco pavilions at the land end, the middle and the sea end, lit over the sea, on a clear night",
+      "description": "The Art Deco pavilions of Worthing Pier are lit over the sea. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public promenade on Marine Parade west of the pier head, looking south-east at the Pavilion Theatre and along the pier. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Worthing_Pier",
+        "https://en.wikipedia.org/wiki/Worthing"
+      ],
+      "anchors": [
+        "A pleasure pier in Worthing designed by Sir Robert Rawlinson and opened on 12 April 1862, still open to the public",
+        "In September 1933 the pier and all but the northern pavilion were destroyed by fire; the Pavilion Theatre is at the land end, a 1935 amusement arcade at the middle",
+        "The Southern Pavilion at the sea end is home to a restaurant after extensive renovation in 2021"
+      ],
+      "solar": "After sunset. Model sunrise 07:12 and sunset 18:24 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 59°, and elevation is about -29.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "coast",
+        "city"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Worthing/uk-01-667-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Worthing/uk-01-667-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Worthing/uk-01-667-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-668",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Leicester",
+      "folder": "Leicester",
+      "site": "Leicester Cathedral",
+      "place": "St Martins, Leicester",
+      "caption": "Leicester Cathedral, Leicester",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Cathedral Gardens looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Leicester Cathedral, a grey stone church with a square tower carrying a very tall slender spire, floodlit, on a clear night",
+      "description": "The tower and spire of Leicester Cathedral are floodlit above the gardens. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public cathedral gardens to the south of the cathedral, looking north at the tower and spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Leicester_Cathedral",
+        "https://en.wikipedia.org/wiki/Leicester"
+      ],
+      "anchors": [
+        "The Cathedral Church of Saint Martin, one of Leicester's surviving medieval churches, made a cathedral in 1927; Richard III was reburied here in 2015",
+        "The extant building is predominantly Victorian, including the tower (1862) and the 220-foot spire (1867) by Raphael Brandon in the Early English style",
+        "The tower and spire are loosely based on the Church of St Mary the Virgin, Ketton, in Rutland; they were restored in 2004-5"
+      ],
+      "solar": "After sunset. Model sunrise 07:17 and sunset 18:25 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 58°, and elevation is about -29.1°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Leicester/uk-01-668-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Leicester/uk-01-668-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Leicester/uk-01-668-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-669",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Wakefield",
+      "folder": "Wakefield",
+      "site": "Wakefield Cathedral",
+      "place": "Kirkgate, Wakefield",
+      "caption": "Wakefield Cathedral, Wakefield",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Clear night · Cathedral precinct looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Wakefield Cathedral, a Perpendicular Gothic church with a square battlemented west tower and a very tall crocketed spire, floodlit, on a clear night",
+      "description": "The west tower and spire of Wakefield Cathedral are floodlit above the precinct. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pedestrian precinct to the west of the cathedral, looking east at the west tower and spire. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Wakefield_Cathedral",
+        "https://en.wikipedia.org/wiki/Wakefield"
+      ],
+      "anchors": [
+        "The Cathedral Church of All Saints in Wakefield, on a hill on Kirkgate; a Grade I listed building of Anglo-Saxon origin",
+        "Its 247-foot (75 m) spire is the tallest in Yorkshire and the tallest structure in the City of Wakefield",
+        "The four-stage west tower has angle buttresses and a very tall crocketed spire behind an embattled parapet with crocketed corner pinnacles; the church was largely rebuilt in the Perpendicular style in the 15th century"
+      ],
+      "solar": "After sunset. Model sunrise 07:20 and sunset 18:25 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 57°, and elevation is about -28.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Wakefield/uk-01-669-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Wakefield/uk-01-669-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Wakefield/uk-01-669-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-670",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Chester",
+      "folder": "Chester",
+      "site": "Chester Town Hall",
+      "place": "Northgate Street, Chester",
+      "caption": "Chester Town Hall, Chester",
+      "scenario_label": "8 October 2026 · 04:03 Europe/London",
+      "composition": "Mainly clear night · Town Hall Square looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Chester Town Hall, a long Victorian Gothic building of banded pink and buff sandstone with a central tower ending in gables and a short spire, floodlit, on a mainly clear night",
+      "description": "The banded stone front and tower of Chester Town Hall are floodlit on Town Hall Square. It is a mainly clear night, about 11°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Town Hall Square on Northgate Street, looking west at the front of the town hall. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Chester_Town_Hall",
+        "https://en.wikipedia.org/wiki/Chester"
+      ],
+      "anchors": [
+        "A Victorian Gothic Revival town hall on Northgate Street, Chester, by William Henry Lynn of Belfast, winner of the design competition; opened on 15 October 1869 by the Prince of Wales",
+        "The hall is built in banded pink and buff sandstone with a grey-green slate roof",
+        "Above the central two bays is a tower which terminates with gables and a short diagonal spire rising to 160 feet (49 m); a three-faced clock was installed in 1979, with no face on the west side"
+      ],
+      "solar": "After sunset. Model sunrise 07:25 and sunset 18:31 Europe/London. The scenario is 04:03 Europe/London. Calculated solar azimuth is north-east, about 56°, and elevation is about -29.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "historic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Chester/uk-01-670-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Chester/uk-01-670-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Chester/uk-01-670-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch32-to-relay-postcard-builder-20261008T031648Z.json (2026-10-08T03:16:48Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch32/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
