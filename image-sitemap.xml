@@ -5595,4 +5595,154 @@
       <image:geo_location>Halifax, United Kingdom</image:geo_location>
     </image:image>
   </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-581</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberdeen/uk-01-581-16x9.png</image:loc>
+      <image:caption>Aberdeen&apos;s granite Town House and its spired clock tower are floodlit on Castle Street. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Aberdeen Town House, Aberdeen</image:title>
+      <image:geo_location>Aberdeen, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberdeen/uk-01-581-4x5.png</image:loc>
+      <image:caption>Aberdeen&apos;s granite Town House and its spired clock tower are floodlit on Castle Street. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Aberdeen Town House, Aberdeen</image:title>
+      <image:geo_location>Aberdeen, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-582</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-582-16x9.png</image:loc>
+      <image:caption>The Mitchell Library&apos;s copper dome and statue are floodlit above North Street in Glasgow. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Mitchell Library, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-582-4x5.png</image:loc>
+      <image:caption>The Mitchell Library&apos;s copper dome and statue are floodlit above North Street in Glasgow. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>The Mitchell Library, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-583</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-583-16x9.png</image:loc>
+      <image:caption>The Old Royal High School&apos;s Doric portico and colonnades are floodlit on Calton Hill. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Old Royal High School, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-583-4x5.png</image:loc>
+      <image:caption>The Old Royal High School&apos;s Doric portico and colonnades are floodlit on Calton Hill. It is a clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Old Royal High School, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-584</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-584-16x9.png</image:loc>
+      <image:caption>St George&apos;s Market&apos;s red-brick arches glow on May Street in Belfast. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St George&apos;s Market, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-584-4x5.png</image:loc>
+      <image:caption>St George&apos;s Market&apos;s red-brick arches glow on May Street in Belfast. It is a partly cloudy night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St George&apos;s Market, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-585</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bangor/uk-01-585-16x9.png</image:loc>
+      <image:caption>Garth Pier&apos;s lamps stretch out across the Menai Strait from Bangor. It is an overcast night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Garth Pier, Bangor</image:title>
+      <image:geo_location>Bangor, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bangor/uk-01-585-4x5.png</image:loc>
+      <image:caption>Garth Pier&apos;s lamps stretch out across the Menai Strait from Bangor. It is an overcast night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Garth Pier, Bangor</image:title>
+      <image:geo_location>Bangor, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-586</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-586-16x9.png</image:loc>
+      <image:caption>The disc-covered curves of the Selfridges Building glitter at the Bullring in Birmingham. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Selfridges Building, Bullring, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-586-4x5.png</image:loc>
+      <image:caption>The disc-covered curves of the Selfridges Building glitter at the Bullring in Birmingham. It is a clear night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Selfridges Building, Bullring, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-587</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-587-16x9.png</image:loc>
+      <image:caption>Liverpool Town Hall&apos;s columned front and clock dome are floodlit at the head of Castle Street. It is a mainly clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Liverpool Town Hall, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Liverpool/uk-01-587-4x5.png</image:loc>
+      <image:caption>Liverpool Town Hall&apos;s columned front and clock dome are floodlit at the head of Castle Street. It is a mainly clear night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Liverpool Town Hall, Liverpool</image:title>
+      <image:geo_location>Liverpool, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-588</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bristol/uk-01-588-16x9.png</image:loc>
+      <image:caption>The Wills Memorial Building&apos;s tower is floodlit at the top of Park Street in Bristol. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Wills Memorial Building, Bristol</image:title>
+      <image:geo_location>Bristol, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Bristol/uk-01-588-4x5.png</image:loc>
+      <image:caption>The Wills Memorial Building&apos;s tower is floodlit at the top of Park Street in Bristol. It is a clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Wills Memorial Building, Bristol</image:title>
+      <image:geo_location>Bristol, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-589</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/York/uk-01-589-16x9.png</image:loc>
+      <image:caption>Micklegate Bar is floodlit in York&apos;s medieval city walls. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Micklegate Bar, York</image:title>
+      <image:geo_location>York, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/York/uk-01-589-4x5.png</image:loc>
+      <image:caption>Micklegate Bar is floodlit in York&apos;s medieval city walls. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Micklegate Bar, York</image:title>
+      <image:geo_location>York, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-590</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Leeds/uk-01-590-16x9.png</image:loc>
+      <image:caption>Leeds Civic Hall&apos;s twin owl-topped spires are floodlit over Millennium Square. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Leeds Civic Hall, Leeds</image:title>
+      <image:geo_location>Leeds, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Leeds/uk-01-590-4x5.png</image:loc>
+      <image:caption>Leeds Civic Hall&apos;s twin owl-topped spires are floodlit over Millennium Square. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Leeds Civic Hall, Leeds</image:title>
+      <image:geo_location>Leeds, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
