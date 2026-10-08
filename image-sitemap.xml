@@ -6345,4 +6345,154 @@
       <image:geo_location>Middlesbrough, United Kingdom</image:geo_location>
     </image:image>
   </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-631</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-631-16x9.png</image:loc>
+      <image:caption>Glasgow Tower and the Science Mall are lit across the River Clyde. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Glasgow Tower, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Glasgow/uk-01-631-4x5.png</image:loc>
+      <image:caption>Glasgow Tower and the Science Mall are lit across the River Clyde. It is a clear night, about 6°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Glasgow Tower, Glasgow</image:title>
+      <image:geo_location>Glasgow, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-632</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-632-16x9.png</image:loc>
+      <image:caption>The white tent roof of Dynamic Earth glows below Salisbury Crags. It is a mainly clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Dynamic Earth, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Edinburgh/uk-01-632-4x5.png</image:loc>
+      <image:caption>The white tent roof of Dynamic Earth glows below Salisbury Crags. It is a mainly clear night, about 7°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Dynamic Earth, Edinburgh</image:title>
+      <image:geo_location>Edinburgh, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-633</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberystwyth/uk-01-633-16x9.png</image:loc>
+      <image:caption>The Royal Pier and its pavilion are lit on the Aberystwyth seafront. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Royal Pier, Aberystwyth</image:title>
+      <image:geo_location>Aberystwyth, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Aberystwyth/uk-01-633-4x5.png</image:loc>
+      <image:caption>The Royal Pier and its pavilion are lit on the Aberystwyth seafront. It is a partly cloudy night, about 12°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Royal Pier, Aberystwyth</image:title>
+      <image:geo_location>Aberystwyth, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-634</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Swansea/uk-01-634-16x9.png</image:loc>
+      <image:caption>Mumbles Pier and its lifeboat station are lit on Swansea Bay. It is a mainly clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Mumbles Pier, Mumbles</image:title>
+      <image:geo_location>Mumbles, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Swansea/uk-01-634-4x5.png</image:loc>
+      <image:caption>Mumbles Pier and its lifeboat station are lit on Swansea Bay. It is a mainly clear night, about 10°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Mumbles Pier, Mumbles</image:title>
+      <image:geo_location>Mumbles, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-635</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-635-16x9.png</image:loc>
+      <image:caption>The Obel Tower rises above the River Lagan beside the Lagan Weir. It is an overcast night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Obel Tower, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Belfast/uk-01-635-4x5.png</image:loc>
+      <image:caption>The Obel Tower rises above the River Lagan beside the Lagan Weir. It is an overcast night, about 9°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Obel Tower, Belfast</image:title>
+      <image:geo_location>Belfast, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-636</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Lancaster/uk-01-636-16x9.png</image:loc>
+      <image:caption>Lancaster Priory and its west tower are floodlit on Castle Hill. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Lancaster Priory, Lancaster</image:title>
+      <image:geo_location>Lancaster, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Lancaster/uk-01-636-4x5.png</image:loc>
+      <image:caption>Lancaster Priory and its west tower are floodlit on Castle Hill. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Lancaster Priory, Lancaster</image:title>
+      <image:geo_location>Lancaster, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-637</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-637-16x9.png</image:loc>
+      <image:caption>The Baroque tower and dome of St Philip&apos;s Cathedral are floodlit above Colmore Row. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Philip&apos;s Cathedral, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Birmingham/uk-01-637-4x5.png</image:loc>
+      <image:caption>The Baroque tower and dome of St Philip&apos;s Cathedral are floodlit above Colmore Row. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>St Philip&apos;s Cathedral, Birmingham</image:title>
+      <image:geo_location>Birmingham, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-638</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Sunderland/uk-01-638-16x9.png</image:loc>
+      <image:caption>The white A-frame pylon of the Northern Spire Bridge is lit over the River Wear. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Northern Spire Bridge, Sunderland</image:title>
+      <image:geo_location>Sunderland, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Sunderland/uk-01-638-4x5.png</image:loc>
+      <image:caption>The white A-frame pylon of the Northern Spire Bridge is lit over the River Wear. It is a mainly clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Northern Spire Bridge, Sunderland</image:title>
+      <image:geo_location>Sunderland, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-639</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Weston-super-Mare/uk-01-639-16x9.png</image:loc>
+      <image:caption>The Grand Pier and its pavilion are lit over the sands at Weston-super-Mare. It is a clear night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Grand Pier, Weston-super-Mare</image:title>
+      <image:geo_location>Weston-super-Mare, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Weston-super-Mare/uk-01-639-4x5.png</image:loc>
+      <image:caption>The Grand Pier and its pavilion are lit over the sands at Weston-super-Mare. It is a clear night, about 11°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Grand Pier, Weston-super-Mare</image:title>
+      <image:geo_location>Weston-super-Mare, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://uk.jdvision.org/#UK-01-640</loc>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-640-16x9.png</image:loc>
+      <image:caption>Beetham Tower rises above Deansgate with its floors lit. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Beetham Tower, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://uk.jdvision.org/assets/pretext/united-kingdom/Manchester/uk-01-640-4x5.png</image:loc>
+      <image:caption>Beetham Tower rises above Deansgate with its floors lit. It is a clear night, about 8°C and dry, and the sun is well below the horizon.</image:caption>
+      <image:title>Beetham Tower, Manchester</image:title>
+      <image:geo_location>Manchester, United Kingdom</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
