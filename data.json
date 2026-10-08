@@ -16598,6 +16598,416 @@
       "license_anchor": "#license",
       "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch25-to-relay-postcard-builder-20261008T011200Z.json (2026-10-08T01:12:00Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch25/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
       "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-601",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Perth",
+      "folder": "Perth",
+      "site": "Perth Water Works",
+      "place": "Tay Street and Marshall Place, Perth",
+      "caption": "Perth Water Works, Perth",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · Tay Street looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Perth's former Water Works, a round classical rotunda carrying a domed cast-iron water tank beside a chimney shaped like a column with an urn, floodlit, on a clear night",
+      "description": "The domed iron water tank of Perth's old Water Works is floodlit on Tay Street. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on Tay Street, north of the building, looking south at the rotunda and the chimney column. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/The_Fergusson_Gallery",
+        "https://portal.historicenvironment.scot/"
+      ],
+      "anchors": [
+        "Perth's former Water Works of 1832 at the corner of Tay Street and Marshall Place, designed by Adam Anderson; Category A listed and long home of The Fergusson Gallery",
+        "A round classical rotunda carrying a large cast-iron water tank, crowned by a shallow dome; the inscription Aquam Igne Et Aqua Haurio over the door",
+        "Beside it the former engine house with a tall chimney in the form of a Doric column capped by an urn"
+      ],
+      "solar": "After sunset. Model sunrise 07:31 and sunset 18:30 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 23°, and elevation is about -37.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "industrial"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Perth/uk-01-601-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Perth/uk-01-601-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Perth/uk-01-601-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-602",
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "city": "Edinburgh",
+      "folder": "Edinburgh",
+      "site": "Ross Fountain",
+      "place": "West Princes Street Gardens, Edinburgh",
+      "caption": "Ross Fountain, Edinburgh",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · West Princes Street Gardens looking south · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Ross Fountain in Edinburgh, an ornate turquoise and gold cast-iron fountain with female figures, below the floodlit Edinburgh Castle, on a clear night",
+      "description": "The turquoise and gold Ross Fountain glows in Princes Street Gardens below the floodlit castle. It is a clear night, about 7°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path in West Princes Street Gardens, north of the fountain, looking south over it to the Castle Rock. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Ross_Fountain",
+        "https://www.edinburgh.gov.uk/"
+      ],
+      "anchors": [
+        "The Ross Fountain in West Princes Street Gardens, cast at Antoine Durenne's foundry in France, shown at the 1862 exhibition and installed in Edinburgh in 1872; restored in 2018",
+        "A tall ornate cast-iron fountain painted turquoise, brown and gold, in tiers of basins with reclining and seated female figures round the base and a crowned female figure on top",
+        "It stands in the gardens directly below the Castle Rock, with Edinburgh Castle on the crag above it"
+      ],
+      "solar": "After sunset. Model sunrise 07:29 and sunset 18:30 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 24°, and elevation is about -37.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "fountain"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Edinburgh/uk-01-602-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Edinburgh/uk-01-602-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Edinburgh/uk-01-602-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-603",
+      "country": "United Kingdom",
+      "region": "Wales",
+      "city": "Cardiff",
+      "folder": "Cardiff",
+      "site": "Welsh National War Memorial",
+      "place": "Alexandra Gardens, Cathays Park, Cardiff",
+      "caption": "Welsh National War Memorial, Cardiff",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · Alexandra Gardens looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Welsh National War Memorial in Cardiff, a circular colonnade of white stone columns round bronze figures of a soldier, sailor and airman, floodlit, on a clear night",
+      "description": "The white colonnade of the Welsh National War Memorial is floodlit in Alexandra Gardens. It is a clear night, about 10°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public path in Alexandra Gardens, south of the memorial, looking north at the colonnade and the central group. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Welsh_National_War_Memorial",
+        "https://cadw.gov.wales/"
+      ],
+      "anchors": [
+        "The Welsh National War Memorial in Alexandra Gardens, Cathays Park, designed by Sir Ninian Comper and unveiled in 1928, with sculpture by Henry Alfred Pegram",
+        "A circular colonnade of white Portland stone columns carrying a frieze, round a sunken court, with inscriptions in Welsh outside and English inside",
+        "At the centre of the court a stone pylon with three bronze figures round its base, a soldier, a sailor and an airman holding wreaths aloft, and a winged figure on top"
+      ],
+      "solar": "After sunset. Model sunrise 07:24 and sunset 18:34 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 25°, and elevation is about -41.8°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "civic",
+        "memorial"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Cardiff/uk-01-603-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Cardiff/uk-01-603-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Cardiff/uk-01-603-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-604",
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "city": "Derry",
+      "folder": "Derry",
+      "site": "Hands Across the Divide",
+      "place": "Carlisle Square, west end of Craigavon Bridge, Derry",
+      "caption": "Hands Across the Divide, Derry",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · Carlisle Square looking north-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Hands Across the Divide sculpture in Derry, two bronze men on separate plinths reaching towards each other, lit at night, on a clear night",
+      "description": "The two figures of Hands Across the Divide reach towards each other by Craigavon Bridge. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement at Carlisle Square, south-west of the sculpture, looking north-east with Craigavon Bridge behind. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Hands_Across_the_Divide",
+        "https://www.visitderry.com/"
+      ],
+      "anchors": [
+        "Hands Across the Divide by the local sculptor Maurice Harron, erected in 1992 at the western end of Craigavon Bridge in Derry",
+        "Two bronze male figures on separate tall stone plinths, leaning towards each other and reaching out with their hands, which do not quite touch",
+        "A symbol of reconciliation between the two sides of the community during the Troubles, at a roundabout by the River Foyle"
+      ],
+      "solar": "After sunset. Model sunrise 07:45 and sunset 18:47 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north, about 19°, and elevation is about -39.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "sculpture"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Derry/uk-01-604-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Derry/uk-01-604-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Derry/uk-01-604-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-605",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Canterbury",
+      "folder": "Canterbury",
+      "site": "Westgate",
+      "place": "St Dunstan's Street and St Peter's Street, Canterbury",
+      "caption": "Westgate, Canterbury",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · St Dunstan's Street looking east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Westgate in Canterbury, a medieval stone gatehouse with two round drum towers and a road passing through the arch, floodlit, on a clear night",
+      "description": "Canterbury's Westgate is floodlit, the road passing between its twin drum towers. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on St Dunstan's Street, west of the gate, looking east at the drum towers with the road passing between them. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Westgate,_Canterbury",
+        "https://historicengland.org.uk/"
+      ],
+      "anchors": [
+        "The Westgate, Canterbury's medieval west gate built of Kentish ragstone around 1379-1380 under Archbishop Simon Sudbury; about 18 m high, the largest surviving city gate in England; Grade I listed",
+        "Two massive round drum towers with battered plinths, gunloops, machicolations and battlements, joined by a battlemented central block over a vaulted gateway arch",
+        "The road still passes through the arch between the towers; the River Stour runs just in front of the gate"
+      ],
+      "solar": "After sunset. Model sunrise 07:07 and sunset 18:18 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 31°, and elevation is about -40.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "historic",
+        "gate"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Canterbury/uk-01-605-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Canterbury/uk-01-605-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Canterbury/uk-01-605-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-606",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Manchester",
+      "folder": "Manchester",
+      "site": "John Rylands Library",
+      "place": "Deansgate, Manchester",
+      "caption": "John Rylands Library, Manchester",
+      "scenario_label": "8 October 2026 · 02:38 Europe/London",
+      "composition": "Clear night · Deansgate looking west · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the John Rylands Library on Deansgate in Manchester, a castle-like red sandstone Gothic gatehouse front with one deep carved portal and two square towers with crown-like lanterns, floodlit, on a clear night",
+      "description": "The red sandstone gatehouse of the John Rylands Library is floodlit on Deansgate. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public pavement on the east side of Deansgate, opposite the library, looking west at the entrance front (attempt 2 per the verifier's fix list). A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library",
+        "https://commons.wikimedia.org/wiki/Category:John_Rylands_Library"
+      ],
+      "anchors": [
+        "The John Rylands Library on Deansgate, a late-Victorian neo-Gothic library by Basil Champneys, opened in 1900; Grade I listed, part of the University of Manchester",
+        "The Deansgate front is a tall, castle-like gatehouse of dark red sandstone: a single deep, richly carved two-centred arched portal (doorways divided by a trumeau) in a low entrance block with an embattled parapet of open-work arcading, oriel-like windows above",
+        "Two massive square towers set twelve feet back behind the entrance block, topped by crown-like octagonal open-work lanterns rather than spires; Art Nouveau bronze railings and lamp standards in front, on a narrow street"
+      ],
+      "solar": "After sunset. Model sunrise 07:23 and sunset 18:29 Europe/London. The scenario is 02:38 Europe/London. Calculated solar azimuth is north-east, about 33°, and elevation is about -38.0°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "gothic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Manchester/uk-01-606-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Manchester/uk-01-606-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Manchester/uk-01-606-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 2): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-redo-to-relay-postcard-builder-20261008T014411Z.json (2026-10-08T01:44:11Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26-redo/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-607",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Sheffield",
+      "folder": "Sheffield",
+      "site": "Sheffield Town Hall",
+      "place": "Pinstone Street and the Peace Gardens, Sheffield",
+      "caption": "Sheffield Town Hall, Sheffield",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Mainly clear night · Peace Gardens looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Sheffield Town Hall, a pale stone Victorian civic building with a tall clock tower topped by a statue of Vulcan, floodlit, on a mainly clear night",
+      "description": "Sheffield Town Hall's clock tower rises floodlit above the Peace Gardens. It is a mainly clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Peace Gardens, south of the building, looking north at the clock tower corner. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Sheffield_Town_Hall",
+        "https://historicengland.org.uk/"
+      ],
+      "anchors": [
+        "Sheffield Town Hall on Pinstone Street, designed by Edward William Mountford in the Renaissance Revival style and built 1890-1897; Grade I listed; opened by Queen Victoria",
+        "Built of pale Stoke stone, with carved friezes depicting the industries of Sheffield",
+        "A 64-metre clock tower surmounted by a statue of Vulcan; the Peace Gardens with their fountains lie in front"
+      ],
+      "solar": "After sunset. Model sunrise 07:19 and sunset 18:26 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 27°, and elevation is about -39.6°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "city",
+        "civic"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Sheffield/uk-01-607-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Sheffield/uk-01-607-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Sheffield/uk-01-607-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-608",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Eastbourne",
+      "folder": "Eastbourne",
+      "site": "Eastbourne Pier",
+      "place": "Grand Parade, Eastbourne",
+      "caption": "Eastbourne Pier, Eastbourne",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · Grand Parade looking south-east · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Eastbourne Pier, a Victorian iron pier with small gilded domed kiosks and strings of lights stretching out to sea at night, on a clear night",
+      "description": "Eastbourne Pier's lights and gilded domes stretch out over the sea. It is a clear night, about 9°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public seafront promenade on Grand Parade, north-west of the pier, looking south-east along it. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Eastbourne_Pier",
+        "https://historicengland.org.uk/"
+      ],
+      "anchors": [
+        "Eastbourne Pier, a Victorian pleasure pier of about 300 m opened in 1870 at the junction of Grand and Marine Parades; Grade II* listed",
+        "An iron pier on stilts, its deck lined with small kiosks crowned by gilded domes, rebuilt in the middle after the 2014 fire",
+        "A large domed pavilion building at the seaward end and strings of lights along the deck at night"
+      ],
+      "solar": "After sunset. Model sunrise 07:10 and sunset 18:21 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 30°, and elevation is about -41.4°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "seaside",
+        "pier"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Eastbourne/uk-01-608-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Eastbourne/uk-01-608-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Eastbourne/uk-01-608-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-609",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "King's Lynn",
+      "folder": "King's Lynn",
+      "site": "Custom House",
+      "place": "Purfleet Quay, King's Lynn",
+      "caption": "Custom House, King's Lynn",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Clear night · Purfleet Quay looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Custom House in King's Lynn, a small 17th-century classical stone building with a tall lantern turret, floodlit and reflected in the water, on a clear night",
+      "description": "King's Lynn's Custom House is floodlit beside the Purfleet. It is a clear night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public quayside south of the Purfleet, looking north across the water at the Custom House. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://historicengland.org.uk/",
+        "https://www.visitwestnorfolk.com/"
+      ],
+      "anchors": [
+        "The Custom House on Purfleet Quay in King's Lynn, built in 1683 to a design by Henry Bell as a merchants' exchange; Grade I listed",
+        "A small two-storey classical building of pale stone with pilasters and tall windows, a statue of Charles II in a niche over the entrance",
+        "A hipped roof with a balustrade, crowned by a tall octagonal lantern turret with a small spire"
+      ],
+      "solar": "After sunset. Model sunrise 07:11 and sunset 18:19 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 29°, and elevation is about -39.7°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "town",
+        "quay"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/King's Lynn/uk-01-609-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/King's Lynn/uk-01-609-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/King's Lynn/uk-01-609-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
+    },
+    {
+      "entry_id": "UK-01-610",
+      "country": "United Kingdom",
+      "region": "England",
+      "city": "Scarborough",
+      "folder": "Scarborough",
+      "site": "The Grand Hotel",
+      "place": "St Nicholas Cliff above the South Bay, Scarborough",
+      "caption": "The Grand Hotel, Scarborough",
+      "scenario_label": "8 October 2026 · 02:14 Europe/London",
+      "composition": "Partly cloudy night · Spa Bridge looking north · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Grand Hotel in Scarborough, an enormous Victorian yellow brick hotel with domed corner towers on the cliff above the bay, lit at night, on a partly cloudy night",
+      "description": "Scarborough's Grand Hotel stands lit on the cliff above the South Bay. It is a partly cloudy night, about 8°C and dry, and the sun is well below the horizon.",
+      "viewpoint": "Public Spa Bridge, south of the hotel, looking north along the cliff to the hotel above the South Bay. A surveyed tripod mark was not pinned.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Grand_Hotel,_Scarborough",
+        "https://historicengland.org.uk/"
+      ],
+      "anchors": [
+        "The Grand Hotel above Scarborough's South Bay, designed by Cuthbert Brodrick and opened in 1867, then the largest hotel and brick structure in Europe; Grade II* listed",
+        "Yellow (tawny) brick with red brick around the windows, built on a V plan to a theme of time: four towers for the seasons, 12 floors for the months, 52 chimneys for the weeks",
+        "Four corner towers crowned by tall domed roofs, and a domed structure between the two towers on the narrow end"
+      ],
+      "solar": "After sunset. Model sunrise 07:16 and sunset 18:20 Europe/London. The scenario is 02:14 Europe/London. Calculated solar azimuth is north-east, about 28°, and elevation is about -38.5°. The disk is below the horizon. model is_day is 0.",
+      "moods": [
+        "seaside",
+        "victorian"
+      ],
+      "approval_status": "Approved",
+      "format_16x9_approval_status": "Approved",
+      "format_4x5_approval_status": "Approved",
+      "format_9x16_approval_status": "Approved",
+      "file_16x9": "assets/pretext/united-kingdom/Scarborough/uk-01-610-16x9.png",
+      "file_4x5": "assets/pretext/united-kingdom/Scarborough/uk-01-610-4x5.png",
+      "file_9x16": "assets/pretext/united-kingdom/Scarborough/uk-01-610-9x16.png",
+      "motion": null,
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "approval_basis": "Jason (owner) standing permission 2026-10-07 18:04 ET, UK only (\"Yes, and from now on push and approve each UK batch as soon as the verifier fully passes it\"), after real-place-verifier PASS (builder attempt 1): devlij/jason-d-vision-relay main results/rpv-verdict-uk-build-batch26-to-relay-postcard-builder-20261008T012710Z.json (2026-10-08T01:27:10Z). WO-2026-10-07-uk-build (relay-postcard-builder), source drop drops/2026-10-07-uk-build-batch26/. Approved for all three formats (16:9, 4:5, 9:16). This is not a Cosmo review.",
+      "approved_at": "2026-10-08"
     }
   ]
 }
